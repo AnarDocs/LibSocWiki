@@ -4,9 +4,9 @@ permalink: /On_Authority_(Book)/
 ---
 
 **On Authority** is a short
-[essay](List_of_Libertarian_Socialist_Books "wikilink") by [Friedrich
-Engels](Friedrich_Engels "wikilink") written in 1872 that criticises
-[libertarian socialist potitics](Libertarian_Socialism "wikilink") on
+[essay](List_of_Libertarian_Socialist_Books.md "wikilink") by [Friedrich
+Engels](Friedrich_Engels.md "wikilink") written in 1872 that criticises
+[libertarian socialist potitics](Libertarian_Socialism.md "wikilink") on
 the ground that it is unrealistic and the abolition of authority in
 modern industry would destroy it.
 
@@ -33,12 +33,12 @@ On examining the economic, industrial and agricultural conditions which
 form the basis of present-day bourgeois society, we find that they tend
 more and more to replace isolated action by combined action of
 individuals. Modern industry, with its big
-[factories](Factory "wikilink") and mills, where hundreds of workers
+[factories](Factory.md "wikilink") and mills, where hundreds of workers
 supervise complicated machines driven by steam, has superseded the small
 workshops of the separate producers; the carriages and wagons of the
 highways have become substituted by railway trains, just as the small
 schooners and sailing feluccas have been by steam-boats. Even
-[agriculture](agriculture "wikilink") falls increasingly under the
+[agriculture](agriculture.md "wikilink") falls increasingly under the
 dominion of the machine and of steam, which slowly but relentlessly put
 in the place of the small proprietors big capitalists, who with the aid
 of hired workers cultivate vast stretches of land.
@@ -48,7 +48,7 @@ each other, displaces independent action by individuals. But whoever
 mentions combined action speaks of organisation; now, is it possible to
 have organisation without authority?
 
-Supposing a [social revolution](Revolution "wikilink") dethroned the
+Supposing a [social revolution](Revolution.md "wikilink") dethroned the
 capitalists, who now exercise their authority over the production and
 circulation of wealth. Supposing, to adopt entirely the point of view of
 the anti-authoritarians, that the land and the instruments of labour had
@@ -124,7 +124,7 @@ authority. Hence it is absurd to speak of the principle of authority as
 being absolutely evil, and of the principle of autonomy as being
 absolutely good. Authority and autonomy are relative things whose
 spheres vary with the various phases of the development of society. If
-the [autonomists](Autonomism "wikilink") confined themselves to saying
+the [autonomists](Autonomism.md "wikilink") confined themselves to saying
 that the social organisation of the future would restrict authority
 solely to the limits within which the conditions of production render it
 inevitable, we could understand each other; but they are blind to all
@@ -147,7 +147,7 @@ population imposes its will upon the other part by means of rifles,
 bayonets and cannon — authoritarian means, if such there be at all; and
 if the victorious party does not want to have fought in vain, it must
 maintain this rule by means of the terror which its arms inspire in the
-reactionists. Would the [Paris Commune](Paris_Commune "wikilink") have
+reactionists. Would the [Paris Commune](Paris_Commune.md "wikilink") have
 lasted a single day if it had not made use of this authority of the
 armed people against the bourgeois? Should we not, on the contrary,
 reproach it for not having used it freely enough?
@@ -165,8 +165,8 @@ reaction.
   at marxists.org
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink")
+Socialism](Category:Authoritarian_Socialism.md "wikilink")
 [Category:Authoritarian Socialist
-Books](Category:Authoritarian_Socialist_Books "wikilink")
+Books](Category:Authoritarian_Socialist_Books.md "wikilink")

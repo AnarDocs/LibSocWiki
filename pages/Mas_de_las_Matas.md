@@ -4,9 +4,9 @@ permalink: /Mas_de_las_Matas/
 ---
 
 **Mas de las Matas** is a small town in Aragon,
-[Spain](Spain "wikilink") which was a part of [Revolutionary
-Spain](Revolutionary_Spain "wikilink") during the [Spanish Civil
-War](Spanish_Civil_War "wikilink").
+[Spain](Spain.md "wikilink") which was a part of [Revolutionary
+Spain](Revolutionary_Spain.md "wikilink") during the [Spanish Civil
+War](Spanish_Civil_War.md "wikilink").
 
 ## Revolution
 

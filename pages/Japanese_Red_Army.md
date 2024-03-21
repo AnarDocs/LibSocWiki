@@ -4,16 +4,16 @@ permalink: /Japanese_Red_Army/
 ---
 
 The **Japanese Red Army** (**JRA**) were a
-[Marxist-Leninist](Marxist-Leninism "wikilink") terrorist group founded
-in 1971 that aimed to overthrow the [Japanese](Japan "wikilink")
-government and start a [world revolution](World_Revolution "wikilink").
-They performed actions in Japan, [South Korea](South_Korea "wikilink"),
-[North Korea](North_Korea "wikilink"), [Israel](Israel "wikilink"),
-[Netherlands](Netherlands "wikilink"), [Libya](Libya "wikilink"),
-[Singapore](Singapore "wikilink"), [Malaysia](Malaysia "wikilink"),
-[Turkey](Turkey "wikilink"), [India](India "wikilink"),
-[Bangladesh](Bangladesh "wikilink"), [Italy](Italy "wikilink") and the
-[USA](United_States_of_America "wikilink").
+[Marxist-Leninist](Marxist-Leninism.md "wikilink") terrorist group founded
+in 1971 that aimed to overthrow the [Japanese](Japan.md "wikilink")
+government and start a [world revolution](World_Revolution.md "wikilink").
+They performed actions in Japan, [South Korea](South_Korea.md "wikilink"),
+[North Korea](North_Korea.md "wikilink"), [Israel](Israel.md "wikilink"),
+[Netherlands](Netherlands.md "wikilink"), [Libya](Libya.md "wikilink"),
+[Singapore](Singapore.md "wikilink"), [Malaysia](Malaysia.md "wikilink"),
+[Turkey](Turkey.md "wikilink"), [India](India.md "wikilink"),
+[Bangladesh](Bangladesh.md "wikilink"), [Italy](Italy.md "wikilink") and the
+[USA](United_States_of_America.md "wikilink").
 
 ## History
 
@@ -31,9 +31,9 @@ They performed actions in Japan, [South Korea](South_Korea "wikilink"),
 <!-- -->
 
 - May 1972: [3 JRA members kill 26 people at Lod
-  Airport](Lod_Airport_Massacre "wikilink"), Israel with guns and
+  Airport](Lod_Airport_Massacre.md "wikilink"), Israel with guns and
   grenades. 1 committed sucide, 1 was shot by friendly fire from the JRA
-  and the survivor - [Kōzō Okamoto](Kōzō_Okamoto "wikilink") - spent the
+  and the survivor - [Kōzō Okamoto](Kōzō_Okamoto.md "wikilink") - spent the
   next 12 years in an Israeli jail.
 
 <!-- -->
@@ -44,7 +44,7 @@ They performed actions in Japan, [South Korea](South_Korea "wikilink"),
   and the hijackers blew up the aircraft.
 - January 1974: 2 JRA members and 2 PLFP members armed with submachine
   guns [infiltrated an oil refinery in Singapore and blew it
-  up](Laju_Attack "wikilink"), later hijacking a ferry and taking the
+  up](Laju_Attack.md "wikilink"), later hijacking a ferry and taking the
   five crewmembers hostage. They exchanged the hostages for safe passage
   to Kuwait and later South Yemen.
 - September 1974: the French Embassy in The Hague, Netherlands was
@@ -84,7 +84,7 @@ ransom.<sup>\[22\]</sup>
   States embassies in Rome, Italy.<sup>\[11\]</sup>
 - April 1988: Red Army members bombed the US military recreational (USO)
   club in Naples, Italy, killing five.<sup>\[11\]</sup>
-- April 1988: 1 JRA member ([Yū Kikumura](Yū_Kikumura "wikilink"))
+- April 1988: 1 JRA member ([Yū Kikumura](Yū_Kikumura.md "wikilink"))
 - In the same month, JRA operative Yū Kikumura was arrested with
   explosives on the New Jersey Turnpike highway, apparently to coincide
   with the USO bombing. He was convicted
@@ -94,11 +94,11 @@ release in April 2007. Upon his return to Japan he was immediately
 arrested on suspicion of using fraudulent travel documents.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Communism](Category:Communism "wikilink")
-[Category:Terrorism](Category:Terrorism "wikilink")
-[Category:Japan](Category:Japan "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Communism](Category:Communism.md "wikilink")
+[Category:Terrorism](Category:Terrorism.md "wikilink")
+[Category:Japan](Category:Japan.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

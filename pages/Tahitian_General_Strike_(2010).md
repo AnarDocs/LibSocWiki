@@ -4,10 +4,10 @@ permalink: /Tahitian_General_Strike_(2010)/
 ---
 
 The **Tahitian General Strike of 2010** was a [general
-strike](List_of_General_Strikes "wikilink") in Tahiti ([French
-Polynesia](French_Polynesia "wikilink"), a
-[colony](French_Empire "wikilink") of [France](France "wikilink")) in
-[2010](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink") calling
+strike](List_of_General_Strikes.md "wikilink") in Tahiti ([French
+Polynesia](French_Polynesia.md "wikilink"), a
+[colony](French_Empire.md "wikilink") of [France](France.md "wikilink")) in
+[2010](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink") calling
 for massive economic reform.
 
 ## Background

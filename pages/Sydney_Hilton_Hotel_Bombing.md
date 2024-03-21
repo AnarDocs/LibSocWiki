@@ -4,16 +4,16 @@ permalink: /Sydney_Hilton_Hotel_Bombing/
 ---
 
 *Not to be confused with the [Sydney Opera House
-Work-In](Sydney_Opera_House_Work-In "wikilink")*
+Work-In](Sydney_Opera_House_Work-In.md "wikilink")*
 
 The **Sydney Hilton Hotel bombing** occurred in 1978 when a bomb
 exploded in a bin outside the Hilton Hotel in Sydney, New South Wales,
-[Australia](Australia "wikilink"). At the time the hotel was the site of
+[Australia](Australia.md "wikilink"). At the time the hotel was the site of
 the first Commonwealth Heads of Government Regional Meeting (CHOGRM), a
 regional offshoot of the biennial meetings of the heads of government
 from across the Commonwealth of Nations (a group of 53 states formerly
 part of the British Empire). Many have alleged the bombing was done by
-the [ASIO](ASIO "wikilink").
+the [ASIO](ASIO.md "wikilink").
 
 ## Evidence of a Conspiracy
 
@@ -67,7 +67,7 @@ the [ASIO](ASIO "wikilink").
 
 ## See Also
 
-- [Juanita Nielsen](Juanita_Nielsen "wikilink") - a missing woman from
+- [Juanita Nielsen](Juanita_Nielsen.md "wikilink") - a missing woman from
   the 1970s who's murder is likely linked to a police cover-up in
   Sydney.
 
@@ -79,10 +79,10 @@ name](https://en.wikipedia.org/wiki/Sydney_Hilton_Hotel_bombing)
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Terrorism](Category:Terrorism "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:1978](Category:1978 "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Terrorism](Category:Terrorism.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:1978](Category:1978.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

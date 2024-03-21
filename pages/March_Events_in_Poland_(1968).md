@@ -5,14 +5,14 @@ permalink: /March_Events_in_Poland_(1968)/
 
 The **March Events in Poland** (or **March 1968**, **Students' March**
 or **Polish 1968 political crisis**) were a a series of student protests
-in [Socialist Poland](Socialist_Poland "wikilink") in
-[1968](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink")
+in [Socialist Poland](Socialist_Poland.md "wikilink") in
+[1968](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink")
 as people demanded a socialist democracy, [workers'
-control](Workers'_Self-Management "wikilink") and an end to the
-governments [anti-semitic](Anti-Semitism "wikilink") policies. It was
+control](Workers'_Self-Management.md "wikilink") and an end to the
+governments [anti-semitic](Anti-Semitism.md "wikilink") policies. It was
 part of the many [global revolts and episodes of unrest in the world at
-the time](Revolutions_of_1967_-_1975 "wikilink") that also hit
-[USSR](USSR "wikilink")-aligned countries.
+the time](Revolutions_of_1967_-_1975.md "wikilink") that also hit
+[USSR](USSR.md "wikilink")-aligned countries.
 
 ## Background
 
@@ -38,14 +38,14 @@ to eliminate opposition.
 ### Warsaw Protests
 
 Following the cancellation of an old play (the government claimed was
-too religious and [Russophobic](Russophobia "wikilink")) a petition was
+too religious and [Russophobic](Russophobia.md "wikilink")) a petition was
 submitted to parliament by a student protesters. Soon, the Polish
 Writers' Union condemned the ban and other restrictions of freedom of
 speech, as well as the governments anti-semitism. After the removal of
 dissidents from the university of warsaw, a protest at the university
 was attacked by police. But soon, universities across the country had
 protests. The protesters were socialists (often
-[Marxist-Leninist](Marxist-Leninism "wikilink")) but called for
+[Marxist-Leninist](Marxist-Leninism.md "wikilink")) but called for
 democratisation of the country.
 
 ### Across the Country
@@ -61,16 +61,16 @@ mainly composed of young factory workers and high school students.
 
 The media heavily slandered the protesters and often claimed them to be
 Jewish or agents of imperialism. Thousands of protesters were arrested
-and leaders were targeted (although [May Day](May_Day "wikilink")
+and leaders were targeted (although [May Day](May_Day.md "wikilink")
 parades were disrupted) 15,000 Jews left the country and sadly the
 government apologised in 1988.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Poland](Category:Poland "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:1968](Category:1968 "wikilink")
-[Category:1960s](Category:1960s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Revolutions of
-1967 - 1975](Category:Revolutions_of_1967_-_1975 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Poland](Category:Poland.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:1968](Category:1968.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Revolutions of
+1967 - 1975](Category:Revolutions_of_1967_-_1975.md "wikilink")

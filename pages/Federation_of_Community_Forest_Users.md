@@ -4,10 +4,10 @@ permalink: /Federation_of_Community_Forest_Users/
 ---
 
 The **Federation of Community Forest Users** is an organization in
-[Nepal](Nepal "wikilink") that [protects and regenerates
-forests](Environmentalism "wikilink") and aids impoverish communities in
-a [democratic](Democracy "wikilink") way. It was founded in
-[1988](Timeline_of_Libertarian_Socialism_in_Southern_Asia "wikilink")
+[Nepal](Nepal.md "wikilink") that [protects and regenerates
+forests](Environmentalism.md "wikilink") and aids impoverish communities in
+a [democratic](Democracy.md "wikilink") way. It was founded in
+[1988](Timeline_of_Libertarian_Socialism_in_Southern_Asia.md "wikilink")
 and has 8,500,000 members.[^1]
 
 ## Organization
@@ -61,30 +61,30 @@ commented:
 ## See Also
 
 - [Joint Forestry
-  Management](Joint_Forestry_Management_(India) "wikilink")
+  Management](Joint_Forestry_Management_(India).md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Southern
-Asia](Category:Southern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Nepal](Category:Nepal "wikilink")
-[Category:1988](Category:1988 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Deforestation](Category:Deforestation "wikilink")
-[Category:Social Movements](Category:Social_Movements "wikilink")
-[Category:Federations](Category:Federations "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Southern
+Asia](Category:Southern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Nepal](Category:Nepal.md "wikilink")
+[Category:1988](Category:1988.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Deforestation](Category:Deforestation.md "wikilink")
+[Category:Social Movements](Category:Social_Movements.md "wikilink")
+[Category:Federations](Category:Federations.md "wikilink")
 
 [^1]: <https://fecofun.org.np/index.php>
 
 [^2]:
 
-[^3]: [Trupti Parkeh Mehta](Trupti_Parkeh_Mehta "wikilink") (2002) -
+[^3]: [Trupti Parkeh Mehta](Trupti_Parkeh_Mehta.md "wikilink") (2002) -
     [Community Forestry in India and
     Nepal](https://www.perc.org/2002/06/01/community-forestry-in-india-and-nepal/)
 

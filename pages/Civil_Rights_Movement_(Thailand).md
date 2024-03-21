@@ -4,12 +4,12 @@ permalink: /Civil_Rights_Movement_(Thailand)/
 ---
 
 The **Civil Rights Movement in Thailand** was a small [civil rights
-movement](Civil_Rights_Movements "wikilink") which occurred in
-[Thailand](Thailand "wikilink") from
-[1975](Revolutions_of_1967_-_1975 "wikilink") to
-[1976](Timeline_of_Libertarian_Socialism_in_Southeast_Asia "wikilink")
-as the countries [Muslim](Islam "wikilink") minority demanded equality
-with the [Buddhist](Buddhism "wikilink") majority.
+movement](Civil_Rights_Movements.md "wikilink") which occurred in
+[Thailand](Thailand.md "wikilink") from
+[1975](Revolutions_of_1967_-_1975.md "wikilink") to
+[1976](Timeline_of_Libertarian_Socialism_in_Southeast_Asia.md "wikilink")
+as the countries [Muslim](Islam.md "wikilink") minority demanded equality
+with the [Buddhist](Buddhism.md "wikilink") majority.
 
 ## Background
 
@@ -59,16 +59,16 @@ protesters.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Thai Muslims
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Thai Muslims
 campaign for civil rights,
 1975](https://nvdatabase.swarthmore.edu/content/thai-muslims-campaign-civil-rights-1975)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Thailand](Category:Thailand "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1976](Category:1976 "wikilink")
-[Category:1975](Category:1975 "wikilink") [Category:Revolutions of
-1967 - 1975](Category:Revolutions_of_1967_-_1975 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Thailand](Category:Thailand.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1976](Category:1976.md "wikilink")
+[Category:1975](Category:1975.md "wikilink") [Category:Revolutions of
+1967 - 1975](Category:Revolutions_of_1967_-_1975.md "wikilink")
 [Category:Civil Rights
-Movement](Category:Civil_Rights_Movement "wikilink")
+Movement](Category:Civil_Rights_Movement.md "wikilink")

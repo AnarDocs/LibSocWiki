@@ -4,12 +4,12 @@ permalink: /Trinidad_and_Tobago_Water_Riots_(1903)/
 ---
 
 The **Trinidad and Tobago Water Riots** was a [nationwide
-uprising](List_of_Libertarian_Socialist_Revolutions "wikilink") and
-[class war](Class_Struggle "wikilink") over [water](water "wikilink")
-use in Port of Spain in the then [British](British_Empire "wikilink")
+uprising](List_of_Libertarian_Socialist_Revolutions.md "wikilink") and
+[class war](Class_Struggle.md "wikilink") over [water](water.md "wikilink")
+use in Port of Spain in the then [British](British_Empire.md "wikilink")
 colony of [Trinidad and
-Tobago](Republic_of_Trinidad_and_Tobago "wikilink") in
-[1903](Timeline_of_Libertarian_Socialism_in_the_Caribbean "wikilink").
+Tobago](Republic_of_Trinidad_and_Tobago.md "wikilink") in
+[1903](Timeline_of_Libertarian_Socialism_in_the_Caribbean.md "wikilink").
 
 ## Background
 
@@ -18,9 +18,9 @@ the construction of elaborate fountains and gardens. Engineers in the
 1880s observed the over-consumption and recommended expanding the
 plumbing network and installing water meters, but this was ignored by
 the central government. The concept that water was a [common
-resource](Commons "wikilink") to be shared by all and not a [capitalist
-commodity](Capitalism "wikilink") became popular among the [lower
-classes](Lower_Classes "wikilink"), and efforts to restrict public
+resource](Commons.md "wikilink") to be shared by all and not a [capitalist
+commodity](Capitalism.md "wikilink") became popular among the [lower
+classes](Lower_Classes.md "wikilink"), and efforts to restrict public
 participation in debate led to a riot.[^1]
 
 ## Events
@@ -35,22 +35,22 @@ parliament, it was burned down to the ground.
 ## Results
 
 The riot led to the reinstatement of a [local democratic
-council](Democratic_Assembly "wikilink") to manage water affairs.[^2]
+council](Democratic_Assembly.md "wikilink") to manage water affairs.[^2]
 
 ## References
 
 <references />
 
-[Category:1903](Category:1903 "wikilink")
-[Category:1900s](Category:1900s "wikilink") [Category:Trinidad and
-Tobago](Category:Trinidad_and_Tobago "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink") [Category:Water
-Uprisings](Category:Water_Uprisings "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
+[Category:1903](Category:1903.md "wikilink")
+[Category:1900s](Category:1900s.md "wikilink") [Category:Trinidad and
+Tobago](Category:Trinidad_and_Tobago.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink") [Category:Water
+Uprisings](Category:Water_Uprisings.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 
 [^1]: <https://blog.nationalarchives.gov.uk/blog/the-trinidad-water-riots-of-1903/>
 

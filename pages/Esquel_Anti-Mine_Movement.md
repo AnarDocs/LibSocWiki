@@ -4,9 +4,9 @@ permalink: /Esquel_Anti-Mine_Movement/
 ---
 
 The **Esquel Anti-Mine Movement** was an
-[environmentalist](Environmentalism "wikilink") movement active in
-[Argentina](Argentina "wikilink") from [2002 to
-2006](Timeline_of_Libertarian_Socialism_in_South_America "wikilink").
+[environmentalist](Environmentalism.md "wikilink") movement active in
+[Argentina](Argentina.md "wikilink") from [2002 to
+2006](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink").
 
 ## Background
 
@@ -20,7 +20,7 @@ water supply and to nearby forests with endangered trees.[^1]
 ## Events
 
 The movement started with the formation of a [popular
-assembly](Democratic_Assembly "wikilink") to coordinate the action,
+assembly](Democratic_Assembly.md "wikilink") to coordinate the action,
 composed of 3,000 people (in a town of 31,000). The assembly coordinated
 protests and invading town council meetings on several occasions. Courts
 ruled in the assemblies favour, and a referendum held in the town showed
@@ -37,19 +37,19 @@ Courts eventually blocked Meridian from construction the gold mine.[^3]
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Mining](Category:Mining "wikilink")
-[Category:Argentina](Category:Argentina "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Mining](Category:Mining.md "wikilink")
+[Category:Argentina](Category:Argentina.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2002](Category:2002 "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2002](Category:2002.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 
 [^1]: [Global Nonviolent Action
-    Database](Global_Nonviolent_Action_Database "wikilink"): [Esquel
+    Database](Global_Nonviolent_Action_Database.md "wikilink"): [Esquel
     community opposes to gold mining, Argentina,
     2002-2006](https://nvdatabase.swarthmore.edu/content/esquel-community-opposes-gold-mining-argentina-2002-2006)
 

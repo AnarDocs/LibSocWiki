@@ -5,25 +5,25 @@ permalink: /US_Invasion_of_Panama/
 
 The **United States Invasion of Panama**, codenamed **Operation Just
 Cause**, lasted over a month between [mid-December 1989 and late January
-1990](Timeline_of_US_Hegemony "wikilink"). It was done to depose
-[Panamanian](Panama "wikilink") dictator Manuel Noriega, a former
-[CIA](CIA "wikilink") associated drug trafficker who had recently turned
+1990](Timeline_of_US_Hegemony.md "wikilink"). It was done to depose
+[Panamanian](Panama.md "wikilink") dictator Manuel Noriega, a former
+[CIA](CIA.md "wikilink") associated drug trafficker who had recently turned
 against the US.
 
 ## Background
 
 The US had incorporated Panama into its hegemony in 1903, when it backed
 a lot of rebels (some even argued it engineered an entire rebellion)
-against [Colombia](Colombia "wikilink") in order to create the Panama
+against [Colombia](Colombia.md "wikilink") in order to create the Panama
 Canal. The US began to maintain numerous military bases and stationed
 soldiers in the country. The US assisted then-General Noriega in his
 drug trafficking in exchange for his assistance to the [Contras in
-Nicaragua](Contra_War_(Nicaragua) "wikilink"). Since 1986, the US began
+Nicaragua](Contra_War_(Nicaragua).md "wikilink"). Since 1986, the US began
 to pressure Panama's government into arresting then-president Noriega,
 and he cut off relations to the USA and began to receive military aid
-from [Cuba](Cuba "wikilink"),
-[Nicaragua](Socialist_Nicaragua "wikilink") and
-[Libya](Socialist_Libya "wikilink"). The US attempted a coup in 1988,
+from [Cuba](Cuba.md "wikilink"),
+[Nicaragua](Socialist_Nicaragua.md "wikilink") and
+[Libya](Socialist_Libya.md "wikilink"). The US attempted a coup in 1988,
 and when that failed, the US began to prepare to invade. After Noriega
 ignored an election that would have made him los power, the US attempted
 another coup. US presidents denied knowledge of drug trafficking to the

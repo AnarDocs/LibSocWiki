@@ -4,15 +4,15 @@ permalink: /Make_Rojava_Green_Again/
 ---
 
 *Not to be confused with the [book of the same
-name](Make_Rojava_Green_Again_(Book) "wikilink")*
+name](Make_Rojava_Green_Again_(Book).md "wikilink")*
 
 **Make Rojava Green Again** is an [environmentalist
-program](Environmentalism "wikilink") that has been carried out in
-[Rojava](Rojava "wikilink") since
-[2016](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink"). It
+program](Environmentalism.md "wikilink") that has been carried out in
+[Rojava](Rojava.md "wikilink") since
+[2016](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink"). It
 has been involved in protecting and restoring damaged ecosystems in
 Rojava and working to raise awareness in other countries, notably
-[Germany](Germany "wikilink").
+[Germany](Germany.md "wikilink").
 
 ## Background
 
@@ -56,14 +56,14 @@ ecological form of energy production.[^3]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Syria](Category:Syria "wikilink")
-[Category:Rojava](Category:Rojava "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Syria](Category:Syria.md "wikilink")
+[Category:Rojava](Category:Rojava.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 [Category:Democratic
-Confederalism](Category:Democratic_Confederalism "wikilink")
+Confederalism](Category:Democratic_Confederalism.md "wikilink")
 
 [^1]: <https://makerojavagreenagain.org/portfolio/community-garden-and-planting-project-in-the-city/>
 

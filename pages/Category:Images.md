@@ -5,4 +5,4 @@ permalink: /Category:Images/
 
 **Images** on .
 
-[Category:Browse](Category:Browse "wikilink")
+[Category:Browse](Category:Browse.md "wikilink")

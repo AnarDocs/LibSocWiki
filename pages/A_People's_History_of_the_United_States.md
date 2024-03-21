@@ -5,8 +5,8 @@ permalink: /A_People's_History_of_the_United_States/
 
 **A People's History of the United States** is a book published in 1980
 (with another edition in 2003) by historian [Howard
-Zinn](Howard_Zinn "wikilink") which covers a history of the [United
-States of America](United_States_of_America "wikilink") from the
+Zinn](Howard_Zinn.md "wikilink") which covers a history of the [United
+States of America](United_States_of_America.md "wikilink") from the
 perspective of the oppressed underclass. As opposed to the perspective
 of economic, military and political elites that dominate most histories
 of the US.
@@ -16,7 +16,7 @@ of the US.
 ### Chapter 1: Columbus, the Indians, and Human Progress
 
 The encounter between Christopher Columbus and the indigenous
-[Arawak](Arawak "wikilink") within what is the Bahamas was driven by the
+[Arawak](Arawak.md "wikilink") within what is the Bahamas was driven by the
 newly developing nation-states in Europe's desire for money and power as
 part of a growing colonial project that was taking hold in parts of Asia
 and Africa. Despite the Arawak showering the Spanish and Italian
@@ -77,7 +77,7 @@ China, Rome and Greece (in terms of size, population and technology)
 despite less time and resources. Huge cities spread out across North
 America, and civilizations had advanced cultures, philosophies and
 political systems (notably the
-[Haudenosaunee](Haudenosaunee_Confederacy "wikilink")). In contrasts to
+[Haudenosaunee](Haudenosaunee_Confederacy.md "wikilink")). In contrasts to
 Europe's authoritarian, patriarchal and capitalist nature, much of
 indigenous North America was libertarian and decentralized, had gender
 equality and communism.
@@ -90,7 +90,7 @@ equality and communism.
   States](http://historyisaweapon.com/zinnapeopleshistory.html) at
   historyisaweapon.com
 
-[Category:Books](Category:Books "wikilink") [Category:Howard
-Zinn](Category:Howard_Zinn "wikilink") [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Howard
+Zinn](Category:Howard_Zinn.md "wikilink") [Category:Libertarian Socialist
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink")

@@ -5,8 +5,8 @@ permalink: /Getting_Free:_A_Sketch_of_an_Association_of_Democratic,_Autonomous_N
 
 **Getting Free: A Sketch of an Association of Democratic, Autonomous
 Neighborhoods and How to Create It** is a 2004 book by [James
-Herod](James_Herod "wikilink") which outlines a brief strategy guide for
-[anarchists](Anarchism "wikilink") in the context of middle-class, first
+Herod](James_Herod.md "wikilink") which outlines a brief strategy guide for
+[anarchists](Anarchism.md "wikilink") in the context of middle-class, first
 world countries.
 
 ## Summary
@@ -83,5 +83,5 @@ are:
 - Do Not Play the Lottery
 - Reject and Campaign Vigorously against Representative Government
 
-[Category:Books](Category:Books "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

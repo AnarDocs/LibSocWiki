@@ -4,13 +4,13 @@ permalink: /Polynesian_Panther_Party/
 ---
 
 The **Polynesian Panther Party** was a revolutionary movement founded by
-[New Zealand](New_Zealand "wikilink") born Polynesians on the [16th of
-June 1971](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").The
+[New Zealand](New_Zealand.md "wikilink") born Polynesians on the [16th of
+June 1971](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").The
 party was explicitly influenced (as were many other groups and
-[protests](Revolutions_of_1967_-_1975 "wikilink")) by the US [Black
-Panther Party](Black_Panther_Party "wikilink"), particularly [Huey
-Newton’s](Huey_Newton "wikilink") policy of black unity. They located
-the causes of [Māori](Māori "wikilink") and Pacific Island oppression
+[protests](Revolutions_of_1967_-_1975.md "wikilink")) by the US [Black
+Panther Party](Black_Panther_Party.md "wikilink"), particularly [Huey
+Newton’s](Huey_Newton.md "wikilink") policy of black unity. They located
+the causes of [Māori](Māori.md "wikilink") and Pacific Island oppression
 within the exploitative social relations of capitalism. Consequently,
 the Polynesian Panthers promoted a strategy of liberation based on the
 complete overthrow of the capitalist system and the social relations
@@ -25,8 +25,8 @@ June 1971 by six young Pacific Islander men: Fred Schmidt, Nooroa
 Teavae, Paul Dapp, Vaughan Sanft, Eddie Williams and Will 'Ilolahia. At
 the time many Pacific Island youth were supporters of Māori political
 initiatives such as the [Bastion Point
-occupation](Bastion_Point_Occupation "wikilink") and [Waitangi Day
-protests](Waitangi_Day_Protests "wikilink"), and gained skills in
+occupation](Bastion_Point_Occupation.md "wikilink") and [Waitangi Day
+protests](Waitangi_Day_Protests.md "wikilink"), and gained skills in
 political lobbying and processes which they used to raise the profile of
 Pacific people in New Zealand. Because of the working-class background
 of its members the movement concerned itself with issues relating to
@@ -84,13 +84,13 @@ end of the organisation.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Polynesian
+[Wikipedia](Wikipedia.md "wikilink") - [Polynesian
 Panthers](https://en.wikipedia.org/wiki/Polynesian_Panthers)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:New
-Zealand](Category:New_Zealand "wikilink") [Category:Panther
-Movements](Category:Panther_Movements "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:New
+Zealand](Category:New_Zealand.md "wikilink") [Category:Panther
+Movements](Category:Panther_Movements.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")

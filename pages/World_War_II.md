@@ -8,50 +8,50 @@ as the **Second World War** was the largest war in history, fought
 between 1939 and 1945 and killing between 50 and 85 million people. The
 war was fought between two factions, the 'Allies' and the 'Axis'. The
 was notably changed the balance of power among
-[states](State_(Polity) "wikilink"), with the geopolitical power of
+[states](State_(Polity).md "wikilink"), with the geopolitical power of
 western europe rapidly falling and the emergence of two new
-[superpowers](Superpower_(Geopolitics) "wikilink"), allowing for a new
+[superpowers](Superpower_(Geopolitics).md "wikilink"), allowing for a new
 anti-colonial movement to spread across the world, with the
-[anti-fascist](Anti-Fascism "wikilink") movement in Europe securing the
-construction of [social democracy](Social_Democracy "wikilink").
+[anti-fascist](Anti-Fascism.md "wikilink") movement in Europe securing the
+construction of [social democracy](Social_Democracy.md "wikilink").
 
 ## History of the War
 
 ### Background
 
 The seeds of World War II were sown by the impact of [World War
-I](World_War_I "wikilink") and the [Great
-Depression](Great_Depression "wikilink") which led to many countries to
+I](World_War_I.md "wikilink") and the [Great
+Depression](Great_Depression.md "wikilink") which led to many countries to
 slide into authoritarianism and political extreme. The [Russian Empire
-collapsed](February_Revolution_(Russia) "wikilink") and became the USSR,
-the [Weimar Republic](Weimar_Republic "wikilink") was seized by
-[Hitler](Adolf_Hitler "wikilink") and turned into [Nazi
-Germany](Nazi_Germany "wikilink") and
-[Mussolini](Benito_Mussolini "wikilink") led the March on Rome and
+collapsed](February_Revolution_(Russia).md "wikilink") and became the USSR,
+the [Weimar Republic](Weimar_Republic.md "wikilink") was seized by
+[Hitler](Adolf_Hitler.md "wikilink") and turned into [Nazi
+Germany](Nazi_Germany.md "wikilink") and
+[Mussolini](Benito_Mussolini.md "wikilink") led the March on Rome and
 created a fascist state in Italy. Several other [fascist and leftist
-uprisings](Revolutions_of_1927_-_1936 "wikilink") across Europe (notably
-in [Austria](February_Uprising_(Austria) "wikilink"), Spain, Portugal
+uprisings](Revolutions_of_1927_-_1936.md "wikilink") across Europe (notably
+in [Austria](February_Uprising_(Austria).md "wikilink"), Spain, Portugal
 and Hungary) led to the creation of several mutually-hostile and
 militaristic governments.
 
 The Great Depression and several other events in
-[Japan](Japanese_Empire "wikilink") led to the decline of the power of
+[Japan](Japanese_Empire.md "wikilink") led to the decline of the power of
 the democratic wings of government and concentration of power in the
 military. Becoming increasingly cut off from global trade as a result of
 higher tariffs and drying up international credit, Japan formed an
 alliance with Nazi Germany and Fascist Italy as they began to conquer
 surrounding territories for more resources. Japan invaded Manchuria in
 1931 (notably destroying the [Shinmin
-Zone](Shinmin_Autonomous_Zone "wikilink")) in order to secure more
+Zone](Shinmin_Autonomous_Zone.md "wikilink")) in order to secure more
 natural resources. Italy invaded Ethiopia and Nazi Germany annexed
 Austria and invaded Czechoslovakia.
 
 All states exercised a desire for self-sufficiency, with the Japanese
 planning to create a greater sphere of influence and puppet states in
 Asia and the Pacific Region, Italy desired to rebuild the [Roman
-Empire](Roman_Empire "wikilink") and reconquer much of Southern Europe
+Empire](Roman_Empire.md "wikilink") and reconquer much of Southern Europe
 and Northern Africa and Germany desired to create an entirely [New World
-Order](New_Order_(Nazism) "wikilink").
+Order](New_Order_(Nazism).md "wikilink").
 
 ### 1937
 
@@ -116,7 +116,7 @@ Germany loses control of France and Poland and is squeezed between two
 massive military powers, some of the most intense fighting of the war
 occurs until Soviet soldiers are in sight of Berlin, leading to many
 senior Nazi scientists and officers escaping (often to South America,
-[the USA](Operation_Paperclip "wikilink") or USSR) and
+[the USA](Operation_Paperclip.md "wikilink") or USSR) and
 
 ## Effects
 
@@ -125,12 +125,12 @@ power, economics, political philosophy and technology.
 
 #### Decolonisation
 
-*Main Article: [Decolonisation](Decolonisation "wikilink")*
+*Main Article: [Decolonisation](Decolonisation.md "wikilink")*
 
 World War II crippled the British, French and Dutch Empires by
 destroying the 'home'/core regions of power and inspiring a [new wave of
 anti-colonial revolts and
-movements](Timeline_of_Anti-Colonialism "wikilink") (Notably in India,
+movements](Timeline_of_Anti-Colonialism.md "wikilink") (Notably in India,
 Indonesia, Vietnam and Africa) Many in the colonies were inspired by the
 democratic and anti-fascist ideals of the allies and were angered that
 it was not extended to them.
@@ -151,30 +151,30 @@ massive boost in technology and the availability of consumer goods.
 
 ### During World War II
 
-- 1944: [Auschwitz Uprising](Auschwitz#Resistance "wikilink")
+- 1944: [Auschwitz Uprising](Auschwitz#Resistance.md "wikilink")
 
 ### Triggered Directly by World War II
 
 - 1945: [Workplace Takeovers in
-  Japan](Workers'_Control_in_Japan "wikilink")
-- 1945: [Saigon Uprising](Saigon_Commune "wikilink")
-  ([Vietnam](Vietnam "wikilink"))
+  Japan](Workers'_Control_in_Japan.md "wikilink")
+- 1945: [Saigon Uprising](Saigon_Commune.md "wikilink")
+  ([Vietnam](Vietnam.md "wikilink"))
 - 1945: [Indonesian National
-  Revolution](Indonesian_National_Revolution "wikilink")
-- 1946: [McMinn County War](McMinn_County_War_(1946) "wikilink") (USA)
+  Revolution](Indonesian_National_Revolution.md "wikilink")
+- 1946: [McMinn County War](McMinn_County_War_(1946).md "wikilink") (USA)
 - 1946: Royal Indian Navy Mutiny
 - 1949: Chinese Revolution
 
-[Category:World War II](Category:World_War_II "wikilink")
-[Category:Wars](Category:Wars "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1939](Category:1939 "wikilink")
-[Category:1930s](Category:1930s "wikilink")
-[Category:1940s](Category:1940s "wikilink")
-[Category:1940](Category:1940 "wikilink")
-[Category:1941](Category:1941 "wikilink")
-[Category:1942](Category:1942 "wikilink")
-[Category:1943](Category:1943 "wikilink")
-[Category:1944](Category:1944 "wikilink")
-[Category:1945](Category:1945 "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+[Category:World War II](Category:World_War_II.md "wikilink")
+[Category:Wars](Category:Wars.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1939](Category:1939.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink")
+[Category:1940](Category:1940.md "wikilink")
+[Category:1941](Category:1941.md "wikilink")
+[Category:1942](Category:1942.md "wikilink")
+[Category:1943](Category:1943.md "wikilink")
+[Category:1944](Category:1944.md "wikilink")
+[Category:1945](Category:1945.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

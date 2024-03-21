@@ -4,20 +4,20 @@ permalink: /The_Bolsheviks_and_Workers'_Control/
 ---
 
 The **Bolsheviks and Workers Control** is a 1970 pamphlet by [Chris
-Pallis](Chris_Pallis "wikilink") (written with his penname Maurice
+Pallis](Chris_Pallis.md "wikilink") (written with his penname Maurice
 Brinton). It offers a timeline of instance that the
-[Bolsheviks](Bolsheviks "wikilink") repressed movements for workers
-control across [Russia](Russia "wikilink") during the [Russian Civil
-War](Russian_Civil_War "wikilink").
+[Bolsheviks](Bolsheviks.md "wikilink") repressed movements for workers
+control across [Russia](Russia.md "wikilink") during the [Russian Civil
+War](Russian_Civil_War.md "wikilink").
 
 ## Summary
 
 ### 1917
 
 - February: [February
-  Revolution](February_Revolution_(Russia) "wikilink"), reappearance of
+  Revolution](February_Revolution_(Russia).md "wikilink"), reappearance of
   Soviets and creation of the [Russian
-  Republic](Russian_Republic_(1917) "wikilink").
+  Republic](Russian_Republic_(1917).md "wikilink").
 - March: Workers' councils spring up in every major Russian city and
   industrial centre, their first major achievement is the introduction
   of the 8 hour workday.
@@ -47,8 +47,8 @@ War](Russian_Civil_War "wikilink").
   over 100,000 workers had been closed down by their bosses over
   shortages and to stop the workers' councils.
 - October: Workers' councils conferences begin leading towards an
-  [anarcho-syndicalist](Anarcho-Syndicalism "wikilink") position.
-- November: [October Revolution](October_Revolution_(Russia) "wikilink")
+  [anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") position.
+- November: [October Revolution](October_Revolution_(Russia).md "wikilink")
   (Russia used a different calendar to the current most commonly used
   ones) and Lenin advocates for "introduction of workers' control of the
   production, warehousing, purchase and sale of all products and raw
@@ -71,5 +71,5 @@ War](Russian_Civil_War "wikilink").
 ### 1921
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Books](Category:Books "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Books](Category:Books.md "wikilink")

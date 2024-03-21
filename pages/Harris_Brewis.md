@@ -4,10 +4,10 @@ permalink: /Harris_Brewis/
 ---
 
 **Harris 'Harry' Brewis** or **hbomberguy** is a
-[YouTuber](YouTube "wikilink") and considered one of the 'big 3'
-[BreadTubers](BreadTube "wikilink"), alongside [Natalie
-Wynn](ContraPoints "wikilink") and [Abigale
-Thorn](Oliver_Thorn "wikilink").
+[YouTuber](YouTube.md "wikilink") and considered one of the 'big 3'
+[BreadTubers](BreadTube.md "wikilink"), alongside [Natalie
+Wynn](ContraPoints.md "wikilink") and [Abigale
+Thorn](Oliver_Thorn.md "wikilink").
 
 ## Videos
 
@@ -128,14 +128,14 @@ phone](https://www.youtube.com/watch?v=B5q8H8xEXOQ)
 2017: [Sherlock Is Garbage, And Here's
 Why](https://www.youtube.com/watch?v=LkoGBOs5ecM)
 
-[Category:YouTubers](Category:YouTubers "wikilink")
-[Category:BreadTubers](Category:BreadTubers "wikilink")
+[Category:YouTubers](Category:YouTubers.md "wikilink")
+[Category:BreadTubers](Category:BreadTubers.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:UK](Category:UK "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
-[Category:Anti-Fascists](Category:Anti-Fascists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:UK](Category:UK.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
+[Category:Anti-Fascists](Category:Anti-Fascists.md "wikilink")

@@ -4,16 +4,16 @@ permalink: /Danish_General_Strike_(1998)/
 ---
 
 The **Danish General Strike of 1998** was a [general
-strike](List_of_General_Strikes "wikilink") in
-[Denmark](Denmark "wikilink") in
-[1998](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink")
+strike](List_of_General_Strikes.md "wikilink") in
+[Denmark](Denmark.md "wikilink") in
+[1998](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink")
 led by public sector unions in response to a booming economy where
 workers rights lagged behind.
 
 ## Background
 
 The 1990s were a time of economic boom for Denmark, which also had some
-of the highest levels of [union membership](Trade_Union "wikilink") in
+of the highest levels of [union membership](Trade_Union.md "wikilink") in
 the world. However, workers rights lagged behind and many workers were
 angry, union negotiations failed and a strike was called, with several
 basic demands, including:
@@ -32,7 +32,7 @@ construction, airports, the food industry, media outlets and private
 transportation comapnies ground to a halt, and many shops, bars and
 petrol stations had to close as employees joined the walkout. Many
 schools were also forced to shut due to a lack of cleaners. Effects of
-the strike even managed to cross over to [Sweden](Sweden "wikilink")
+the strike even managed to cross over to [Sweden](Sweden.md "wikilink")
 where airport workers refused to load planes heading for Denmark.
 Employer scaremongering instantly went into action, and many newspapers
 (those that were still running) began to print stories warning readers
@@ -46,7 +46,7 @@ running ambulances) could be obtained with written permission from the
 General Workers Union. Not wishing to undermine the fuel workers
 involved in the strike, requests for fuel that didn't constitute
 emergencies were turned down, including requests from the
-[police](police "wikilink").
+[police](police.md "wikilink").
 
 A shop stewards meeting aimed at extending and coordinating the strike
 was held in Odense on the 29th, and the possibility of participation
@@ -67,7 +67,7 @@ longer than 10 days. Growing increasingly desperate for a solution after
 rejecting an offer of government mediation on the second day of the
 strike, some employers began to threaten a lock-out.
 
-[May Day](May_Day "wikilink") marked the fifth day of the strike, and a
+[May Day](May_Day.md "wikilink") marked the fifth day of the strike, and a
 gigantic demonstration took place in Copenhagen. Exceeding all
 expectations, up to half a million workers and supporters took to the
 streets and marched through the city. Far from the optimistic feeling
@@ -114,12 +114,12 @@ The strike is seen as a classic example of trade union leaders betraying
 the working class.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Events](Category:Events "wikilink") [Category:General
-Strikes](Category:General_Strikes "wikilink")
-[Category:Denmark](Category:Denmark "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:1998](Category:1998 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:General
+Strikes](Category:General_Strikes.md "wikilink")
+[Category:Denmark](Category:Denmark.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:1998](Category:1998.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

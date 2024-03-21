@@ -4,7 +4,7 @@ permalink: /Queerphobia/
 ---
 
 **Queerphobia** refers to prejudice, negative feelings and/or
-discrimination against [Queer](Queer "wikilink") people.
+discrimination against [Queer](Queer.md "wikilink") people.
 
 ## Types of Queerphobia
 
@@ -12,17 +12,17 @@ discrimination against [Queer](Queer "wikilink") people.
 other groups of queer people, such as a transgender transmedicalist or a
 homosexual who is acephobic.*
 
-- [Acephobia](Acephobia "wikilink")
-- [Biphobia](Biphobia "wikilink")
-- [Enbyphobia](Enbyphobia "wikilink")
-- [Homophobia](Homophobia "wikilink")
-- [Lesbophobia](Lesbophobia "wikilink")
-- [Transmedicalism](Transmedicalism "wikilink")
-- [Transmisogyny](Transmisogyny "wikilink")
-- [Transphobia](Transphobia "wikilink")
+- [Acephobia](Acephobia.md "wikilink")
+- [Biphobia](Biphobia.md "wikilink")
+- [Enbyphobia](Enbyphobia.md "wikilink")
+- [Homophobia](Homophobia.md "wikilink")
+- [Lesbophobia](Lesbophobia.md "wikilink")
+- [Transmedicalism](Transmedicalism.md "wikilink")
+- [Transmisogyny](Transmisogyny.md "wikilink")
+- [Transphobia](Transphobia.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Queerphobia](Category:Queerphobia "wikilink")
-[Category:Bigotries](Category:Bigotries "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Queerphobia](Category:Queerphobia.md "wikilink")
+[Category:Bigotries](Category:Bigotries.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

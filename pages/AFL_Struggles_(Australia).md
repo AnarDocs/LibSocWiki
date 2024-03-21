@@ -4,7 +4,7 @@ permalink: /AFL_Struggles_(Australia)/
 ---
 
 **Aussie Rules Football** (called 'footy') is one of the most popular
-sports in [Australia](Australia "wikilink") and has had a long history
+sports in [Australia](Australia.md "wikilink") and has had a long history
 of trade unionists, environmentalist, LGBT and anti-racist activism
 associated with it.
 
@@ -19,7 +19,7 @@ associated with it.
   father from the change rooms prior to the match. The inner club
   wrangling saw Carlton win the following week's match by 20 goals.
 - 1914: Army recruiment officers trying to get people to fight in [World
-  War I](World_War_I "wikilink") are frequently heckled and sometimes
+  War I](World_War_I.md "wikilink") are frequently heckled and sometimes
   attacked during footy games.
 - 1928: Police are banned from playing AFL games with the Port Melbourne
   Club after a police shoots a striker during a strike in Port
@@ -33,7 +33,7 @@ associated with it.
   greater injury compensation
 - 1998: Numerous AFL players publicly condemn logging in Western
   Australia and stand for
-  [environmentalism](environmentalism "wikilink") despite media slander.
+  [environmentalism](environmentalism.md "wikilink") despite media slander.
 - 2012: Numerous AFL players publicly condemn homophobia in Australian
   and AFL culture.
 - 2013: Aboriginal AFL player Adam Goodes is attacked and booed at
@@ -47,8 +47,8 @@ football](https://libcom.org/history/1883-today-the-radical-history-of-aussie-ru
 libcom.org
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Sports](Category:Sports "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Sports](Category:Sports.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")

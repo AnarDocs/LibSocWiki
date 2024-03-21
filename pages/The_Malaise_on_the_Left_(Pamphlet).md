@@ -4,21 +4,21 @@ permalink: /The_Malaise_on_the_Left_(Pamphlet)/
 ---
 
 **The Malaise on the Left** is a 1974 pamphlet written by [Chris
-Pallis](Chris_Pallis "wikilink") and published by
-[Solidarity](Solidarity_(UK) "wikilink"). It criticises the left for its
+Pallis](Chris_Pallis.md "wikilink") and published by
+[Solidarity](Solidarity_(UK).md "wikilink"). It criticises the left for its
 moderation and emphasis on gradualism, and failure to recognise the
-power of [recuperation](recuperation "wikilink").
+power of [recuperation](recuperation.md "wikilink").
 
 ## Transcript
 
 Forget for a moment the scare campaigns of the recent elections: Scanlon
 and Jones presented by the yellow press as proselytizers of red
 revolution, Mr. Wilson in the garb of a latter-day
-[Kerensky](Alexander_Kerensky "wikilink") opening the gates to
+[Kerensky](Alexander_Kerensky.md "wikilink") opening the gates to
 Bolshevism or worse, bank clerks freezing (*à la portugaise*) the funds
 of fleeting fascists, the great fear of the bourgeoisie about a "mafia
 of fanatical socialists" in control of the commanding heights ... of the
-National Executive of the [Labour Party](Labour_Party_(UK) "wikilink")!
+National Executive of the [Labour Party](Labour_Party_(UK).md "wikilink")!
 
 The reality is less lurid - and less encouraging. What we see around us
 is a confident and aggressive movement, increasingly aware of the fact
@@ -80,7 +80,7 @@ may differ as to tempo and as to tactics. They may argue about what they
 consider to be (for others) the acceptable or unacceptable costs. But
 their fundamental objective is the same - and is moreover in keeping
 with the deepest requirements of Capital itself. *Pace* the ghosts of
-Hayek and of Schumpeter, *pace* [Enoch Powell](Enoch_Powell "wikilink")
+Hayek and of Schumpeter, *pace* [Enoch Powell](Enoch_Powell.md "wikilink")
 and Keith Joseph, the division of society into rulers and ruled will not
 be abolished by the abolition of the "free market" or, for that matter,
 by anything that Messrs. Wilson or Gollan (or the "theoreticians" of any
@@ -133,8 +133,8 @@ omniscience of its Central Committee the left communist counter-poised
 the knowledge and power of an enlightened and autonomous working class.
 They posited the institutional form this power would take: the Workers'
 Councils. This was no genial blueprint for a new society sucked out of
-the thumb of a Gorter or a [Pannekoek](Anton_Pannekoek "wikilink"). From
-the [Paris Commune](Paris_Commune "wikilink") to the Russian Revolution
+the thumb of a Gorter or a [Pannekoek](Anton_Pannekoek.md "wikilink"). From
+the [Paris Commune](Paris_Commune.md "wikilink") to the Russian Revolution
 of 1917 the "council" form of organization had been the living
 historical product of the class struggle itself. The warnings of these
 earlier revolutionaries have been fully justified.
@@ -175,10 +175,10 @@ Recuperation here is taking place amid incredible confusion.
 
 For a long time the advocacy of genuine workers' control (or, as we
 prefer to call it, [workers' self
-management](Workers'_Self-Management "wikilink")) remained confined to
+management](Workers'_Self-Management.md "wikilink")) remained confined to
 small groups of revolutionaries swimming against the great bureaucratic
 tide. Following the [French events of May
-1968](May_1968_Events_(France) "wikilink") the demand took on a new
+1968](May_1968_Events_(France).md "wikilink") the demand took on a new
 reality and a new coherence. People began to see self-management as the
 dominant theme (and Workers' Councils as the institutional form) of a
 new society in which bureaucracy would be eliminated, and in which
@@ -225,8 +225,8 @@ power to parliamentary institutions. Between 1930 and 1945 the vast
 majority of the British and German people identified with their
 respective rulers and mobilized themselves (or allowed themselves to be
 mobilized) in the defence of interests that were not their own. Israeli
-self-managed [kibbutzim](kibbutzim "wikilink") are vehicles for the
-dissemination of [Zionist](Zionism "wikilink") ideology and for
+self-managed [kibbutzim](kibbutzim.md "wikilink") are vehicles for the
+dissemination of [Zionist](Zionism.md "wikilink") ideology and for
 implementing (anti-Arab) discrimination, i.e. anti-socialist policies.
 In Northern Ireland, amid an "unparalleled explosion of
 self-management", the self-activity of a civilian population recently
@@ -257,7 +257,7 @@ working class itself" erases the pathetic figure of the Marx of 1872,
 cooking the last congress of the International (the only one he attended
 in person), inventing non-existing delegations, shifting the venues of
 future meetings to harass the supporters of the equally authoritarian
-[Bakunin](Mikhail_Bakunin "wikilink").
+[Bakunin](Mikhail_Bakunin.md "wikilink").
 
 But are even these proto-Marxist prescriptions adequate? Is the
 "abolition of frontiers" any kind of guarantee as to the type of regime
@@ -286,12 +286,12 @@ styles, whether in food preferences or in musical tastes, whether in
 sexual mores or in philosophical attitudes, readily becomes a commodity
 to be frenetically exploited in the interests of Capital itself. (The
 important book, *[The Failure of the Sexual
-Revolution](The_Failure_of_the_Sexual_Revolution "wikilink")* by [George
-Frankl](George_Frankl "wikilink"), deals with this theme.)
+Revolution](The_Failure_of_the_Sexual_Revolution.md "wikilink")* by [George
+Frankl](George_Frankl.md "wikilink"), deals with this theme.)
 
 ### The limits of recuperation
 
-In *[The Irrational in Politics](The_Irrational_in_Politics "wikilink")*
+In *[The Irrational in Politics](The_Irrational_in_Politics.md "wikilink")*
 we wrote that exploiting society would not be able to tolerate "the mass
 development of critical, demystified, self-reliant, sexually
 emancipated, autonomous, non-alienated persons, conscious of what they
@@ -348,9 +348,9 @@ prescription for remaining a revolutionary.
 
 - [The Malaise on the
   Left](https://www.marxists.org/archive/brinton/1974/11/malaise.htm) at
-  [marxists.org](marxists.org "wikilink")
+  [marxists.org](marxists.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Chris
-Pallis](Category:Chris_Pallis "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Chris
+Pallis](Category:Chris_Pallis.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink")

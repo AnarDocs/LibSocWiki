@@ -7,10 +7,10 @@ There are many **templates** in use in ; these are only a subset,
 representing some of the most important and commonly used ones. If you
 feel that a template belongs on this page, do not hesitate to add it.
 
-- [:Category:Templates](:Category:Templates "wikilink") should cover all
+- [:Category:Templates](:Category:Templates.md "wikilink") should cover all
   templates in the wiki.
 - The Template namespace (found from
-  [Special:AllPages](Special:AllPages "wikilink")) always has all
+  [Special:AllPages](Special:AllPages.md "wikilink")) always has all
   templates in the wiki, sorted alphanumerically.
 
 ## What are templates?
@@ -31,7 +31,7 @@ page, where you can see what it looks like and how it is used.
 3.  the template's talk page.
 
 For more information on templates, see
-[Help:Templates](Help:Templates "wikilink").
+[Help:Templates](Help:Templates.md "wikilink").
 
 ## Article management templates
 
@@ -39,7 +39,7 @@ For more information on templates, see
 
 - Add this to an article to nominate it for deletion. It will add the
   article to [:Category:Candidates for
-  deletion](:Category:Candidates_for_deletion "wikilink").
+  deletion](:Category:Candidates_for_deletion.md "wikilink").
 
 ### Disambiguation articles
 
@@ -58,10 +58,10 @@ The Prince (human)
 
 - Using marks an article as a disambiguation page by adding a banner to
   the article and categorizing it under
-  [:Category:Disambiguations](:Category:Disambiguations "wikilink"). Add
+  [:Category:Disambiguations](:Category:Disambiguations.md "wikilink"). Add
   links to the various articles under the banner.
 - For more information, see
-  [Help:Disambiguation](Help:Disambiguation "wikilink").
+  [Help:Disambiguation](Help:Disambiguation.md "wikilink").
 
 ## General wiki templates
 
@@ -73,9 +73,9 @@ The Prince (human)
 
 ## Where you may find more templates
 
-- [Templates Wiki](w:c:templates "wikilink")
+- [Templates Wiki](w:c:templates.md "wikilink")
 - Wikipedia; may be copied with the proper acknowledgment, but some need
   tweaking to work properly on Wikia, so use a Wikia version if
   possible.
 
-[Templates](Category:Templates "wikilink")
+[Templates](Category:Templates.md "wikilink")

@@ -4,16 +4,16 @@ permalink: /Sunagawa_Struggle_(Japan)/
 ---
 
 The **Sunagawa Struggle** was an effort by farmers, leftists and
-students in [Japan](Japan "wikilink") to stop the construction of a [US
-military base](Timeline_of_US_Imperialism "wikilink") in western Tokyo
+students in [Japan](Japan.md "wikilink") to stop the construction of a [US
+military base](Timeline_of_US_Imperialism.md "wikilink") in western Tokyo
 in [1955 and
-1957](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+1957](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 
 The Tachikawa Air Force Base (AFB) was a US airfield in western Tokyo.
 The US military and the Japanese government planned to use this airfield
-for transporting [nuclear weapons](Nuclear_Weapons "wikilink"). In order
+for transporting [nuclear weapons](Nuclear_Weapons.md "wikilink"). In order
 to accommodate for the larger aircraft needed to transport these
 weapons, the Tachikawa AFB needed to expand and lengthen the runway for
 longer landing and takeoff distances. However, that meant that the
@@ -27,7 +27,7 @@ priests in Sunagawa, the small village adjacent to the Tachikawa AFB,
 began a campaign of nonviolent interjection and occupation of their own
 farmland in order to physically prevent officials from surveying and
 taking their land. Protests began in October 1956. On the 12th of
-October, [police](police "wikilink") beat villagers and demonstrators
+October, [police](police.md "wikilink") beat villagers and demonstrators
 with clubs, injuring 260 people. The next day, four thousand people
 including Diet (Japanese Parliament) members from the Socialist party,
 the Councilor of the Communist Party, and First Secretary Sanzo Nosaka
@@ -67,26 +67,26 @@ were indicted on criminal trespassing charges.
 After the Sunagawa riots, the US military canceled the construction
 program in 1957, officially announcing its decision to not build
 Tachikawa AFB in 1968. The campaign inspired the [Sanrizuka
-Struggle](Sanrizuka_Struggle "wikilink") against civilian Narita Airport
+Struggle](Sanrizuka_Struggle.md "wikilink") against civilian Narita Airport
 in 1966.
 
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Sunagawa
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Sunagawa
 farmers prevent expansion of Tachikawa Air Force Base,
 1956-57](https://nvdatabase.swarthmore.edu/content/sunagawa-farmers-prevent-expansion-tachikawa-air-force-base-1956-57)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Japan](Category:Japan "wikilink")
-[Category:1955](Category:1955 "wikilink")
-[Category:1956](Category:1956 "wikilink")
-[Category:1957](Category:1957 "wikilink")
-[Category:1950s](Category:1950s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Anti-Imperialism](Category:Anti-Imperialism "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink") [Category:Land
-Defense](Category:Land_Defense "wikilink")
-[Category:Anti-Militarism](Category:Anti-Militarism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Japan](Category:Japan.md "wikilink")
+[Category:1955](Category:1955.md "wikilink")
+[Category:1956](Category:1956.md "wikilink")
+[Category:1957](Category:1957.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Anti-Imperialism](Category:Anti-Imperialism.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink") [Category:Land
+Defense](Category:Land_Defense.md "wikilink")
+[Category:Anti-Militarism](Category:Anti-Militarism.md "wikilink")

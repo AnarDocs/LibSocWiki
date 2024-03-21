@@ -4,15 +4,15 @@ permalink: /C.1_(An_Anarchist_FAQ)/
 ---
 
 **C.1 What is wrong with economics?** is the first chapter of [Section
-C](Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist_FAQ) "wikilink")
-of [An Anarchist FAQ](An_Anarchist_FAQ "wikilink").
+C](Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist_FAQ).md "wikilink")
+of [An Anarchist FAQ](An_Anarchist_FAQ.md "wikilink").
 
 ## Chapters
 
 [C.1.1 Is economics really value
-free?](C.1.1_(An_Anarchist_FAQ) "wikilink")
+free?](C.1.1_(An_Anarchist_FAQ).md "wikilink")
 
-[C.1.2 Is economics a science?](C.1.2_(An_Anarchist_FAQ) "wikilink")
+[C.1.2 Is economics a science?](C.1.2_(An_Anarchist_FAQ).md "wikilink")
 
 C.1.3 Can you have an economics based on individualism?
 
@@ -26,17 +26,17 @@ C.1.6 Is it possible to a non-equilibrium based capitalist economics?
 
 In a nutshell, a lot. While economists like to portray their discipline
 as “scientific” and “value free”, the reality is very different. It is,
-in fact, very far from a [science](science "wikilink") and hardly “value
+in fact, very far from a [science](science.md "wikilink") and hardly “value
 free.” Instead it is, to a large degree, deeply ideological and its
 conclusions almost always (by a strange co-incidence) what the wealthy,
-[landlords](Landlord "wikilink"), [bosses](Boss "wikilink") and managers
+[landlords](Landlord.md "wikilink"), [bosses](Boss.md "wikilink") and managers
 of capital want to hear. The words of
-[Kropotkin](Peter_Kropotkin "wikilink") still ring true today:
+[Kropotkin](Peter_Kropotkin.md "wikilink") still ring true today:
 “Political Economy has always confined itself to stating facts occurring
 in society, and justifying them in the interest of the dominant class
 ... Having found \[something\] profitable to capitalists, it has set it
 up as a principle.” [\[The Conquest of
-Bread]([The_Conquest_of_Bread "wikilink"), p. 181\]
+Bread]([The_Conquest_of_Bread.md "wikilink"), p. 181\]
 
 This is at its best, of course. At its worse economics does not even
 bother with the facts and simply makes the most appropriate assumptions
@@ -56,8 +56,8 @@ For example, Steve Keen lists many of the flaws of mainstream
 (neoclassical) economics in his excellent book Debunking Economics,
 noting that (for example) it is based on a“dynamically irrelevant and
 factually incorrect instantaneous static snap-shot” of the real
-[capitalist](Capitalism "wikilink") economy. \[Debunking Economics, p.
-197\] The late [Joan Robinson](Joan_Robinson "wikilink") argued
+[capitalist](Capitalism.md "wikilink") economy. \[Debunking Economics, p.
+197\] The late [Joan Robinson](Joan_Robinson.md "wikilink") argued
 forcefully that the neoclassical economist “sets up a ‘model’ on
 arbitrarily constructed assumptions, and then applies ‘results’ from it
 to current affairs, without even trying to pretend that the assumptions
@@ -106,7 +106,7 @@ we ignore those assumptions which are obviously nonsense, the remaining
 ones are hardly much better. Here we have a collection of apparently
 valid positions which, in fact, rarely have any basis in reality.
 
-As we discuss in [section C.1.2](C.1.2_(An_Anarchist_FAQ) "wikilink"),
+As we discuss in [section C.1.2](C.1.2_(An_Anarchist_FAQ).md "wikilink"),
 an essential one, without which neoclassical economics simply
 disintegrates, has very little basis in the real world (in fact, it was
 invented simply to ensure the theory worked as desired). Similarly,
@@ -129,8 +129,8 @@ times, basic logic): “Nothing in these abstract economic models actually
 works in the real world. It doesn’t matter how many footnotes they put
 in, or how many ways they tinker around the edges. The whole enterprise
 is totally rotten at the core: it has no relation to reality.” [\[Noam
-Chomsky]([Noam_Chomsky "wikilink"), [Understanding
-Power](Understanding_Power_(Book) "wikilink"), pp. 254–5\]
+Chomsky]([Noam_Chomsky.md "wikilink"), [Understanding
+Power](Understanding_Power_(Book).md "wikilink"), pp. 254–5\]
 
 As we will indicate, while its theoretical underpinnings are claimed to
 be universal, they are specific to capitalism and, ironically, they fail
@@ -156,13 +156,13 @@ Asian economic miracle. As these economies grew spectacularly during the
 1970s and 1980s, the experts universally applauded them as examples of
 the power of free markets. In 1995, for example, the right-wing Heritage
 Foundation’s [index of economic
-freedom](Index_of_Economic_Freedom "wikilink") had four Asian countries
+freedom](Index_of_Economic_Freedom.md "wikilink") had four Asian countries
 in its top seven countries. [The
-Economist](The_Economist_(Magazine) "wikilink") explained at the start
-of 1990s that [Taiwan](Taiwan "wikilink") and [South
-Korea](South_Korea "wikilink") had among the least price-distorting
-regimes in the world. Both the [Word Bank](Word_Bank "wikilink") and
-[IMF](International_Monetary_Fund "wikilink") agreed, downplaying the
+Economist](The_Economist_(Magazine).md "wikilink") explained at the start
+of 1990s that [Taiwan](Taiwan.md "wikilink") and [South
+Korea](South_Korea.md "wikilink") had among the least price-distorting
+regimes in the world. Both the [Word Bank](Word_Bank.md "wikilink") and
+[IMF](International_Monetary_Fund.md "wikilink") agreed, downplaying the
 presence of industrial policy in the region. This was unsurprising.
 After all,their ideology said that free markets would produce high
 growth and stability and so, logically,the presence of both in East Asia
@@ -173,7 +173,7 @@ the free market, reality not withstanding. The markets agreed, putting
 billions into Asian equity markets while foreign banks loaned similar
 vast amounts. In 1997, however, all this changed when all the Asian
 countries previously qualified as “free” [saw their economies
-collapse](East_Asian_Economic_Crisis_(1997) "wikilink"). Overnight the
+collapse](East_Asian_Economic_Crisis_(1997).md "wikilink"). Overnight the
 same experts who had praised these economies as paradigms of the free
 market found the cause of the problem — extensive state intervention.
 The free market paradise had become transformed into a state regulated
@@ -189,21 +189,21 @@ well documented. So while East Asia “had not only grown faster and done
 better at reducing poverty than any other region of the world ... it had
 also been more stable, "these countries" had been successful not only in
 spite of the fact that they had not followed most of the dictates of the
-[Washington Consensus](Washington_Consensus "wikilink") \[i.e.
-[neo-liberalism](Neoliberalism "wikilink")\], but because they had not.
+[Washington Consensus](Washington_Consensus.md "wikilink") \[i.e.
+[neo-liberalism](Neoliberalism.md "wikilink")\], but because they had not.
 ”The government had played“ important roles ... far from the minimalist
 \[ones\] beloved” of neo-liberalism. During the 1990s, things had
 changed as the IMF had urged a“excessively rapid financial and capital
 market liberalisation ”for these countries as sound economic policies.
 This “was probably the single most important cause of the \[1997\]
 crisis ”which saw these economies suffer meltdown,“the greatest economic
-crisis since the [Great Depression](Great_Depression "wikilink")” (a
+crisis since the [Great Depression](Great_Depression.md "wikilink")” (a
 meltdown worsenedby IMF aid and its underlying dogmas). Even worse for
 the believers in market fundamentalism,those nations (like
-[Malaysia](Malaysia "wikilink")) that refused IMF suggestions and used
+[Malaysia](Malaysia.md "wikilink")) that refused IMF suggestions and used
 state intervention has a “shorter and shallower” downturn than those who
 did not. \[Joseph Stiglitz, [Globalisation and its
-Discontents](Globalisation_and_its_Discontents_(Book) "wikilink"), p.
+Discontents](Globalisation_and_its_Discontents_(Book).md "wikilink"), p.
 89, p. 90, p. 91 and p. 93\]
 
 Even worse, the obvious conclusion from these events is more than just
@@ -239,27 +239,27 @@ economists which favour the requirements of the wealthy would gain
 dominance as these meet the (effective) demand. By a strange
 co-incidence, this is precisely what has happened. This did and does not
 stop economists complaining that dissidents and radicalswere and are
-biased. As [Edward Herman](Edward_S._Herman "wikilink") points out:
+biased. As [Edward Herman](Edward_S._Herman.md "wikilink") points out:
 “Back in 1849, the British economist Nassau Senior chided those
-defending [trade unions](Trade_Union "wikilink") and [minimum wage
-regulations](Minimum_Wage "wikilink") for expounding an ‘economics of
+defending [trade unions](Trade_Union.md "wikilink") and [minimum wage
+regulations](Minimum_Wage.md "wikilink") for expounding an ‘economics of
 the poor.’ The idea that he and his establishment confreres were putting
 forth an ‘economics of the rich’ never occurred to him; he thought of
 himself as a scientist and spokesperson of true principles. This
 self-deception pervaded mainstream economics up to the time of the
 Keynesian Revolution of the 1930s. [Keynesian
-economics](Keynesian_School_of_Economics "wikilink"), though quickly
+economics](Keynesian_School_of_Economics.md "wikilink"), though quickly
 tamed into an instrument of service to the capitalist state, was
 disturbing in its stress on the inherent instability of capitalism, the
-tendency toward chronic [unemployment](unemployment "wikilink"), and the
+tendency toward chronic [unemployment](unemployment.md "wikilink"), and the
 need for substantial government intervention to maintain viability. With
 the resurgent capitalism of the past 50 years, Keynesian ideas, and
 their implicit call for intervention, have been under incessant attack,
 and, in the intellectual counterrevolution led by the [Chicago
-School](Chicago_School_of_Economics "wikilink"), the traditional
+School](Chicago_School_of_Economics.md "wikilink"), the traditional
 laissez-faire (’let-the-fur-fly’) economics of the rich has been
 re-established as the core of mainstream economics.” [The Economics of
-the Rich]([The_Economics_of_the_Rich_(Article) "wikilink")\]
+the Rich]([The_Economics_of_the_Rich_(Article).md "wikilink")\]
 
 Herman goes on to ask “\[w\]hy do the economists serve the rich?” and
 argues that “\[f\]or one thing,the leading economists are among the
@@ -300,7 +300,7 @@ they generate. Then there are the assumptions used and questions raised.
 
 As Herman argues, this has hardly been a neutral process: “the theorists
 explicating these systems, such as [Carl
-Menger](Carl_Menger "wikilink"), Leon Walras, and Alfred Marshall, were
+Menger](Carl_Menger.md "wikilink"), Leon Walras, and Alfred Marshall, were
 knowingly assuming away formulations that raised disturbing questions
 (income distribution, class and market power, instability, and
 unemployment) and creating theoretical models compatible with their own
@@ -318,7 +318,7 @@ meant that the wealthy have always taken a keen interest that the
 for a “science” which reflects the interests of the few, not the many.
 Is it really just a co-incidence that the lessons of economics are just
 what the bosses and the wealthy would like to hear? As non-neoclassical
-economist [John Kenneth Galbraith](John_Kenneth_Galbraith "wikilink")
+economist [John Kenneth Galbraith](John_Kenneth_Galbraith.md "wikilink")
 noted in 1972: “Economic instruction in the United States is about a
 hundred years old. In its first half century economists were subject to
 censorship by outsiders. Businessmen and their political and ideological
@@ -340,15 +340,15 @@ resistance and so forth are counter-productive and that the best thing
 worker can do is simply wait patiently for wealth to trickle down?This
 co-incidence has been a feature of the “science” from the start.
 
-The [French Second Empire](French_Empire "wikilink") in the 1850s and
+The [French Second Empire](French_Empire.md "wikilink") in the 1850s and
 60s saw “numerous private individuals and organisation, municipalities,
 and the central government encouraged and founded institutions to
 instruct workers in economic principles.” The aim was to “impress upon
 \[workers\] the salutary lessons of economics.” Significantly, the
 “weightiest motive” for so doing “was fear that the influence of
-socialist ideas upon the [working class](Working_Class "wikilink")
+socialist ideas upon the [working class](Working_Class.md "wikilink")
 threatened the social order.” [The revolution of
-1848](Revolutions_of_1848 "wikilink")“ convinced many of the upper
+1848](Revolutions_of_1848.md "wikilink")“ convinced many of the upper
 classes that the must prove to workers that attacks upon the economic
 order were both unjustified and futile. ”An-other reason was the
 recognition of the right to strike in 1864 and so workers “had to be
@@ -359,7 +359,7 @@ certain course to initiate workers into the complexities of economic
 science, but to define principles useful for ‘our conduct in the social
 order.’” The interest in such classes was related to the level of
 “worker discontent and agitation.” The impact was less than desired:
-“The future [Communard](Paris_Commune "wikilink") Lefrancais referred
+“The future [Communard](Paris_Commune.md "wikilink") Lefrancais referred
 mockingly to the economists ... and the ‘banality’ and ‘platitudes’ of
 the doctrine they taught. A newspaper account of the reception given to
 the economist Joseph Garnier states that Garnier was greeted with shouts
@@ -390,7 +390,7 @@ economics they support. As with most experts, there are two obvious
 questions with which any analysis of economics should begin: “Who is
 funding it?” and “Who benefits from it?” However, there are other
 factors as well, namely the hierarchical organisation of the
-[university](university "wikilink") system. The heads of economics
+[university](university.md "wikilink") system. The heads of economics
 departments have the power to ensure the continuation of their
 ideological position due to the position as hirer and promoter of staff.
 As economics “has mixed its ideology into the subject so well that the
@@ -462,11 +462,11 @@ economic foundations of modern society.” \[Keen,Op. Cit., p. 126\]
 This argument is based on the notion that wages equal the marginal
 productivity of labour. This is supposed to mean that as the output of
 workers increase, their wages rise. However, as we note in [section
-C.1.5](C.1.5_(An_Anarchist_FAQ) "wikilink"), this law of economics has
+C.1.5](C.1.5_(An_Anarchist_FAQ).md "wikilink"), this law of economics has
 been violated for the last thirty-odd years in the US. Has this resulted
 in a change in the theory? Of course not. Not that the theory is
 actually correct. As we discuss in [section
-C.2.5](C.2.5_(An_Anarchist_FAQ) "wikilink"), marginal productivity
+C.2.5](C.2.5_(An_Anarchist_FAQ).md "wikilink"), marginal productivity
 theory has been exposed as nonsense (and acknowledged as flawed by
 leading neo-classical economists) since the early 1960s. However, its
 utility in defending inequality is such that its continued use does not
@@ -484,7 +484,7 @@ different times, we would expect a diversity of economics beliefs within
 the “science” which rise and fall depending on the needs and relative
 strengths of different sections of capital. While, overall, the
 “science” will support basic things (such as profits,
-[interest](Interest_(Finance) "wikilink") and [rent](rent "wikilink")
+[interest](Interest_(Finance).md "wikilink") and [rent](rent.md "wikilink")
 are not the result of exploitation) but the actual policy
 recommendations will vary. This is not to say that certain individuals
 or schools will not have their own particular dogmas or that individuals
@@ -516,7 +516,7 @@ movement ... then a socialist movement developed. And at that point, the
 elites ... recognised that the game had to be called off, else they
 really would be in trouble ... it wasn’t until recent years that
 laissez-faire ideology was revived again —and again, it was a weapon of
-[class warfare](Class_Struggle "wikilink") ... And it doesn’t have any
+[class warfare](Class_Struggle.md "wikilink") ... And it doesn’t have any
 more validity than it had in the early nineteenth century — in fact it
 has evenless. At least in the early nineteenth century ... \[the\]
 assumptions hadsome relation to reality. Today those assumptions have
@@ -529,7 +529,7 @@ about due to its utility to the dominant sections of the ruling class
 rather than it winning any intellectual battles (it was decisively
 refuted by leading Keynesians like Nicholas Kaldor who saw their
 predicted fears become true when it was applied — see [section
-C.8](C.8_(An_Anarchist_FAQ) "wikilink")). Hopefully by analysing the
+C.8](C.8_(An_Anarchist_FAQ).md "wikilink")). Hopefully by analysing the
 myths of capitalist economics we will aid those fighting for abetter
 world by giving them the means of counteracting those who claim the
 mantle of “science” to foster the “economics of the rich” onto society.
@@ -572,7 +572,7 @@ its act together if it is to be taken seriously. Whether it could retain
 its position as defender of capitalism if this happens is a moot point
 as many of the theorems developed were done so explicitly as part of
 this role (particularly to defend non-labour income — see section
-[C.2](C.2_(An_Anarchist_FAQ) "wikilink")). That economics can become
+[C.2](C.2_(An_Anarchist_FAQ).md "wikilink")). That economics can become
 much broader and more relevant is always a possibility, but to do so
 would mean to take into account an unpleasant reality marked by class,
 hierarchy and inequality rather than logic deductions derived from
@@ -598,5 +598,5 @@ doubtful it will ever become a real science simply because it if did it
 would hardly be used to defend that system.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:An
-Anarchist FAQ](Category:An_Anarchist_FAQ "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:An
+Anarchist FAQ](Category:An_Anarchist_FAQ.md "wikilink")

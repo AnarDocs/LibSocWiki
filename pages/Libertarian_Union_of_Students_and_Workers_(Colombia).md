@@ -4,8 +4,8 @@ permalink: /Libertarian_Union_of_Students_and_Workers_(Colombia)/
 ---
 
 The **Libertarian Union of Students and Workers** (**ULET**) is an
-[anarcho-syndicalist](Anarcho-Syndicalism "wikilink") organisation in
-[Colombia](Colombia "wikilink").
+[anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") organisation in
+[Colombia](Colombia.md "wikilink").
 
 ## Contact
 
@@ -17,13 +17,13 @@ group [here](https://www.facebook.com/groups/ULETsindical/), twitter
 [here](https://vimeo.com/uletsindical) and can be emailed at
 contacto@uletsindical.org, all are in Spanish.
 
-[Category:Characters](Category:Characters "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
+[Category:Characters](Category:Characters.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")
 [Category:Libertarian Socialist
-Organizations](Category:Libertarian_Socialist_Organizations "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
+Organizations](Category:Libertarian_Socialist_Organizations.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
 [Category:Anarcho-Syndicalist
-Groups](Category:Anarcho-Syndicalist_Groups "wikilink")
-[Category:Colombia](Category:Colombia "wikilink") [Category:South
-America](Category:South_America "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Groups](Category:Anarcho-Syndicalist_Groups.md "wikilink")
+[Category:Colombia](Category:Colombia.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

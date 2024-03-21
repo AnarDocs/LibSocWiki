@@ -3,17 +3,17 @@ title: Direct Action (Canada)
 permalink: /Direct_Action_(Canada)/
 ---
 
-*Not to be confused with [Action Directe](Action_Directe "wikilink") in
+*Not to be confused with [Action Directe](Action_Directe.md "wikilink") in
 France or the [concept of Direct
-Action](Direct_Action_(Concept) "wikilink")*
+Action](Direct_Action_(Concept).md "wikilink")*
 
 **Direct Action** was a group of [insurrectionary
-anarchists](Insurrectionary_Anarchism "wikilink") committed to
-[anti-imperialism](Anti-Imperialism "wikilink"),
-[feminism](feminism "wikilink") and
-[environmentalism](environmentalism "wikilink") who took out three
-bombings against corporations in [Canada](Canada "wikilink") in
-[1982](Timeline_of_Libertarian_Socialism_in_North_America "wikilink")
+anarchists](Insurrectionary_Anarchism.md "wikilink") committed to
+[anti-imperialism](Anti-Imperialism.md "wikilink"),
+[feminism](feminism.md "wikilink") and
+[environmentalism](environmentalism.md "wikilink") who took out three
+bombings against corporations in [Canada](Canada.md "wikilink") in
+[1982](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink")
 before their arrest in January 1983.
 
 ## Members
@@ -30,7 +30,7 @@ before their arrest in January 1983.
 
 The first actions associated with the group included vandalizing the
 headquarters of Amax, a mining company which had been granted a [special
-exemption from environmental laws](Regulatory_Capture "wikilink"), and
+exemption from environmental laws](Regulatory_Capture.md "wikilink"), and
 offices of the British Columbia Ministry of Environment.
 
 After these actions, the group dispersed. Belmas and Hannah retreated to
@@ -44,7 +44,7 @@ through various forms of fraud and theft.
 
 On the 30th of May 1982, Hansen, Taylor, and Stewart traveled to
 Vancouver Island and set off a large bomb at the [Dunsmuir BC Hydro
-substation](Electricity "wikilink") causing \$5 million in damages. Four
+substation](Electricity.md "wikilink") causing \$5 million in damages. Four
 transformers were damaged beyond repair, but no one was injured. The
 hydroelectric project had been criticized by some as environmentally
 unsound and contributing to the destruction of wilderness on the Island.
@@ -77,7 +77,7 @@ to production, and the offices above and around the storage area.
 The bombers fled Toronto for Vancouver and ceased their activities as
 they moved underground together. On the 22nd of November, 1982, they
 re-emerged as part of a larger group under the name "[Wimmin's Fire
-Brigade](Wimmin's_Fire_Brigade "wikilink")". They subsequently
+Brigade](Wimmin's_Fire_Brigade.md "wikilink")". They subsequently
 firebombed three franchises of Red Hot Video, a chain of video
 pornography stores which had attracted the attention of feminist
 activists and was accused of selling snuff films. The majority of the
@@ -98,19 +98,19 @@ the judge. All are now out of prison.
 ## References
 
 [Squamish Five](https://en.wikipedia.org/wiki/Squamish_Five) at
-[Wikipedia](Wikipedia "wikilink")
+[Wikipedia](Wikipedia.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Canada](Category:Canada "wikilink")
-[Category:1982](Category:1982 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Feminism](Category:Feminism "wikilink")
-[Category:Anti-Imperialism](Category:Anti-Imperialism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink")
+[Category:1982](Category:1982.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink")
+[Category:Anti-Imperialism](Category:Anti-Imperialism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 [Category:Insurrectionary
-Anarchism](Category:Insurrectionary_Anarchism "wikilink")
+Anarchism](Category:Insurrectionary_Anarchism.md "wikilink")
 [Category:Propaganda of the
-Deed](Category:Propaganda_of_the_Deed "wikilink")
+Deed](Category:Propaganda_of_the_Deed.md "wikilink")

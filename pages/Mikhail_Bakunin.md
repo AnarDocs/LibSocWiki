@@ -5,14 +5,14 @@ permalink: /Mikhail_Bakunin/
 
 **Mikhail Alexandrovich Bakunin** (30th of May 1814 - 1st of July 1876)
 was one of the most influential figures in the history and development
-of [anarchism](anarchism "wikilink"), so much so that he is sometimes
+of [anarchism](anarchism.md "wikilink"), so much so that he is sometimes
 referred to as the 'father of anarchism'. He is credited with linking
-the anarchist movement to [feminism](feminism "wikilink"),
-[atheism](atheism "wikilink"), [revolution](revolution "wikilink"),
+the anarchist movement to [feminism](feminism.md "wikilink"),
+[atheism](atheism.md "wikilink"), [revolution](revolution.md "wikilink"),
 developing the concept of
-[anarcho-collectivism](Anarcho-Collectivism "wikilink") and being one of
+[anarcho-collectivism](Anarcho-Collectivism.md "wikilink") and being one of
 the first critics of the very concept of
-[markets](Market_Economy "wikilink"). However, he was known to be openly
+[markets](Market_Economy.md "wikilink"). However, he was known to be openly
 racist and anti-semitic, with critics accusing him of being a violent
 terrorist.
 
@@ -112,7 +112,7 @@ Kwiatkowska, the daughter of a Polish merchant. He had been teaching her
 French. He got a job with the Amur Development Agency from his second
 cousin, the liberal governor in Eastern Siberia. Mikhail proposed the
 construction of a United States of Siberia, modeled of the [United
-States of America](United_States_of_America "wikilink"). Mikahil quit
+States of America](United_States_of_America.md "wikilink"). Mikahil quit
 his job and recieved a pension from the state, and his second cousin was
 forced to resigned over his views and fear of a Siberian revolution. He
 was replaced by the new and more liberal governor Korsakov, who gave him
@@ -137,7 +137,7 @@ the Alliance of Revolutionary Socialists.
 
 By 1866, his secret society grew to have members in most of Europe's
 countries, and began to oppose the very existence of the
-[state](State_(Polity) "wikilink"). He met Giuseppe Fanelli and later
+[state](State_(Polity).md "wikilink"). He met Giuseppe Fanelli and later
 sponsored him to travel to Barcelona to share his libertarian visions
 and recruit revolutionists to the International Workingmen's
 Association. He began to advocated for the libertarian socialism of
@@ -303,7 +303,7 @@ grow; not the purely formal liberty conceded, measured out and regulated
 by the State, an eternal lie which in reality represents nothing more
 than the privilege of some founded on the slavery of the rest; not the
 individualistic, egoistic, shabby, and fictitious liberty extolled by
-the School of [J.-J. Rousseau](Jean-Jacques_Rosseau "wikilink") and
+the School of [J.-J. Rousseau](Jean-Jacques_Rosseau.md "wikilink") and
 other schools of bourgeois liberalism, which considers the would-be
 rights of all men, represented by the State which limits the rights of
 each — an idea that leads inevitably to the reduction of the rights of
@@ -424,21 +424,21 @@ own."[^23]
 
 <references />
 
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarcho-Collectivists](Category:Anarcho-Collectivists "wikilink")
-[Category:Atheism](Category:Atheism "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarcho-Collectivists](Category:Anarcho-Collectivists.md "wikilink")
+[Category:Atheism](Category:Atheism.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Russia](Category:Russia "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
 
 [^1]: Mikhail Bakunin (1842) The Reaction in Germany
     [www.marxists.org/reference/archive/bakunin/works/1842/reaction-germany.htm](https://www.marxists.org/reference/archive/bakunin/works/1842/reaction-germany.htm) -
@@ -464,11 +464,11 @@ Asia](Category:Northern_Asia "wikilink")
     <https://www.marxists.org/reference/archive/bakunin/works/1872/karl-marx.htm>
 
 [^9]: Mikhail Bakunin (1873) [Statism and
-    Anarchy](Statism_and_Anarchy "wikilink") -
+    Anarchy](Statism_and_Anarchy.md "wikilink") -
     <https://libcom.org/library/statism-anarchy-mikhail-bakunin>
 
-[^10]: [Daniel Guérin](Daniel_Guérin "wikilink") (1970) [Anarchism: From
-    Theory to Practice](Anarchism:_From_Theory_to_Practice "wikilink")
+[^10]: [Daniel Guérin](Daniel_Guérin.md "wikilink") (1970) [Anarchism: From
+    Theory to Practice](Anarchism:_From_Theory_to_Practice.md "wikilink")
 
 [^11]:
 

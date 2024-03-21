@@ -5,7 +5,7 @@ permalink: /The_end_of_the_year_festival_days_(GIY2100)/
 
 **The end of the year festival days** is the second chapter of the book
 [Glimpses into the Year
-2100](Glimpses_into_the_Year_2100_(Book) "wikilink") by Ilan Shalif.
+2100](Glimpses_into_the_Year_2100_(Book).md "wikilink") by Ilan Shalif.
 
 ## The end of the year festival days
 

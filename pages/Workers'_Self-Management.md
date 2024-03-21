@@ -8,11 +8,11 @@ management**, **autogestión,** **workers' control**, **industrial
 democracy**and**democratic management**) refers to the democratic and
 horizontal management of a workplace. In some variants, all the
 worker-members manage the enterprise directly through
-[assemblies](Democratic_Assembly "wikilink"); in other forms, workers
+[assemblies](Democratic_Assembly.md "wikilink"); in other forms, workers
 exercise management functions indirectly through the election of
 specialist managers. It is a key component of [libertarian
-socialist](Libertarian_Socialism "wikilink") philosophy, particularly
-[syndicalism](syndicalism "wikilink").
+socialist](Libertarian_Socialism.md "wikilink") philosophy, particularly
+[syndicalism](syndicalism.md "wikilink").
 
 ## Data
 
@@ -72,22 +72,22 @@ socialist](Libertarian_Socialism "wikilink") philosophy, particularly
   5.  Perception of a more positive society, more supportive personal
       networks and more trust in the government.[^15]
 - During the [Sydney Opera House
-  Work-In](Sydney_Opera_House_Work-In "wikilink"), productivity improved
+  Work-In](Sydney_Opera_House_Work-In.md "wikilink"), productivity improved
   by 27% during construction work as workers' self-management was
   experimented with, due to 'a reduction in absenteeism, abolition of
   demarcation among work roles, and, in general, more efficient
   organization of production by the workers themselves.'[^16]
-- During the [Nymboida Mine Work-In](Nymboida_Mine_Work-In "wikilink")
+- During the [Nymboida Mine Work-In](Nymboida_Mine_Work-In.md "wikilink")
   production was six hundred to seven hundred tons of saleable coal a
   week, compared with about five hundred during hierarchical
   management.[^17]
-- During the [Harco Work-In](Harco_Work-In "wikilink"), production
+- During the [Harco Work-In](Harco_Work-In.md "wikilink"), production
   increased by 27%.[^18]
 - From 1968 to 1972, experiments with self-management in General
   Electric's aerospace factories saw increased output and machine
   utilisation, and a reduction on manufacturing losses.[^19]
 - From 1992 to 2017, the [Marland Mold
-  Factory](Marland_Mold_Factory "wikilink") became self-managed and
+  Factory](Marland_Mold_Factory.md "wikilink") became self-managed and
   productivity improved by 26%.[^20]
 - In 2001, FaSinPat in Argentina saw productivity improvements by
   50%.[^21]
@@ -95,8 +95,8 @@ socialist](Libertarian_Socialism "wikilink") philosophy, particularly
 ## Famous Examples by Country
 
 *Main Articles: [Historical Examples of Workplace
-Takeovers](Historical_Examples_of_Workplace_Takeovers "wikilink") and
-[List of Worker Cooperatives](List_of_Worker_Cooperatives "wikilink")*
+Takeovers](Historical_Examples_of_Workplace_Takeovers.md "wikilink") and
+[List of Worker Cooperatives](List_of_Worker_Cooperatives.md "wikilink")*
 
 (Note: this refers to examples of workers taking over a capitalist
 workplace and instituting workers' self-management. Not examples of
@@ -116,14 +116,14 @@ project to fall, leading to numerous strikes by workers in protest.
 Following a military coup in 1965, workers' control efforts were
 sabotaged by the government which began to centralize the economy in the
 hands of the state, denying workers control.[^22] Following the [Black
-Spring in 2001](Black_Spring_(Algeria) "wikilink"), degrees of workers'
+Spring in 2001](Black_Spring_(Algeria).md "wikilink"), degrees of workers'
 control have been practiced in the area of Kabylie, notably
-[Barbacha](Barbacha "wikilink").[^23]
+[Barbacha](Barbacha.md "wikilink").[^23]
 
 ### Argentina
 
 In 1973, with the end of the self-proclaimed [Argentine
-Revolution](Argentine_Revolution_(1973) "wikilink"), there was a wave of
+Revolution](Argentine_Revolution_(1973).md "wikilink"), there was a wave of
 strikes and workplace occupations that rocked the country as the first
 elections were held, mainly in state-owned industry. 500 occupations of
 workplaces were taken out overall, with 350 occurring between the 11th
@@ -131,48 +131,48 @@ and 15th of June, mostly of media outlets, health centres and public
 transport and government administration. These occupations were
 predominantly done in support of Peronism, and failed to achieve any
 long lasting results on the eve of the Dirty War. During the
-[Argentinazo](Argentinazo "wikilink") in 2001 and in the following
+[Argentinazo](Argentinazo.md "wikilink") in 2001 and in the following
 years, around 200 workplaces were taken over by their workers.
 
 ### Australia
 
-[Aboriginal Australia](Aboriginal_Australia "wikilink") arguably
+[Aboriginal Australia](Aboriginal_Australia.md "wikilink") arguably
 practiced degrees of self-management before contact with Europeans for
-thousands of years around [farming](Agriculture "wikilink"),
+thousands of years around [farming](Agriculture.md "wikilink"),
 construction of villages, irrigation, dams and fish traps.[^24] In
 Northern Queensland from 1908 to 1920, the
-[IWW](Industrial_Workers_of_the_World "wikilink") and the Australasian
+[IWW](Industrial_Workers_of_the_World.md "wikilink") and the Australasian
 Meat Industry Employees Union organized a degree of self-management
 among meat industry workers.[^25] From 1971 to 1990, Australia saw a
 massive wave of workers' control corresponding with strikes all over the
 country. Including:
 
-- 1971: [Harco Work-In](Harco_Work-In "wikilink")
+- 1971: [Harco Work-In](Harco_Work-In.md "wikilink")
 - 1972: [Clutha Development Mine
-  Work-In](Clutha_Development_Mine_Work-In "wikilink")
+  Work-In](Clutha_Development_Mine_Work-In.md "wikilink")
 - 1972: [Sydney Opera House
-  Work-In](Sydney_Opera_House_Work-In "wikilink")
+  Work-In](Sydney_Opera_House_Work-In.md "wikilink")
 - 1972: [Whyalla Glove Factory
-  Work-In](Whyalla_Glove_Factory_Work-In "wikilink")
-- 1974: [Wyong Plaza Work-In](Wyong_Plaza_Work-In "wikilink")
-- 1975: [Nymboida Mine Work-In](Nymboida_Mine_Work-In "wikilink")
-- 1975: [Coal Cliff Work-In](Coal_Cliff_Work-In "wikilink")
+  Work-In](Whyalla_Glove_Factory_Work-In.md "wikilink")
+- 1974: [Wyong Plaza Work-In](Wyong_Plaza_Work-In.md "wikilink")
+- 1975: [Nymboida Mine Work-In](Nymboida_Mine_Work-In.md "wikilink")
+- 1975: [Coal Cliff Work-In](Coal_Cliff_Work-In.md "wikilink")
 - 1978: [Sanyo Television Factory
-  Work-In](Sanyo_Television_Factory_Work-In "wikilink")
-- 1979: [Union Carbide Work-In](Union_Carbide_Work-In "wikilink")
+  Work-In](Sanyo_Television_Factory_Work-In.md "wikilink")
+- 1979: [Union Carbide Work-In](Union_Carbide_Work-In.md "wikilink")
 - 1980: [Department of Social Security
-  Work-In](Department_of_Social_Security_Work-In "wikilink")
+  Work-In](Department_of_Social_Security_Work-In.md "wikilink")
 - 1990: [Melbourne Tramworkers'
-  Strike](Melbourne_Tramworkers'_Strike_(1990) "wikilink")
+  Strike](Melbourne_Tramworkers'_Strike_(1990).md "wikilink")
 
 ### Bolivia
 
-Self-managed firms are promoted by [FEJUVE](FEJUVE "wikilink") and
-[SEMAPA](SEMAPA "wikilink") is partially self-managed.[^26]
+Self-managed firms are promoted by [FEJUVE](FEJUVE.md "wikilink") and
+[SEMAPA](SEMAPA.md "wikilink") is partially self-managed.[^26]
 
 ### Bosnia and Herzegovina
 
-In 2015, workers took over the [Dita](Dita_(Factory) "wikilink")
+In 2015, workers took over the [Dita](Dita_(Factory).md "wikilink")
 detergent factory in Tulsa that was on the verge of bankruptcy, running
 it as a co-operative.[^27]
 
@@ -180,49 +180,49 @@ it as a co-operative.[^27]
 
 Around bankrupted 70 enterprises have been taken over by about 12,000
 workers since 1990 as part of the [recovered factories
-movement](Recovered_Factories_Movement "wikilink"), mainly in the
+movement](Recovered_Factories_Movement.md "wikilink"), mainly in the
 industries of metallurgy, textiles, shoemaking, glasswork, ceramics and
 mining. This has been concentrated in the South and Southeast of
-[Brazil](Brazil "wikilink").[^28]
+[Brazil](Brazil.md "wikilink").[^28]
 
 ### Canada
 
 In 1981, workers led a province-wide [takeover and occupation of BC
-Telephones'](BC_Telephone_Work-In "wikilink") phone exchanges for five
+Telephones'](BC_Telephone_Work-In.md "wikilink") phone exchanges for five
 days in protest of layoffs, privatisation of a public good and the
 increased deskilling of work.[^29]
 
 ### Chile
 
 Throughout the 1960s and early 1970s, many
-[Chilean](Republic_of_Chile "wikilink") workers experimented with
-self-management within [agricultural](Agriculture "wikilink"),
-[manufacturing](Factory "wikilink") and
-[transportation](transportation "wikilink") industries. Following a wave
-of strikes for [land reform](Land_Reform "wikilink"), higher
-[wages](Wage_Labour "wikilink") and an expanded [welfare
-state](Welfare_State "wikilink"). Throughout the presidency of [Salvador
-Allende](Salvador_Allende "wikilink"), 35 enterprises experimented with
+[Chilean](Republic_of_Chile.md "wikilink") workers experimented with
+self-management within [agricultural](Agriculture.md "wikilink"),
+[manufacturing](Factory.md "wikilink") and
+[transportation](transportation.md "wikilink") industries. Following a wave
+of strikes for [land reform](Land_Reform.md "wikilink"), higher
+[wages](Wage_Labour.md "wikilink") and an expanded [welfare
+state](Welfare_State.md "wikilink"). Throughout the presidency of [Salvador
+Allende](Salvador_Allende.md "wikilink"), 35 enterprises experimented with
 self-management.[^30][^31]
 
 ### China
 
 Self-managed was practiced in the [Guangzhou
-Commune](Guangzhou_Commune "wikilink") in the 1920s and the [Shinmin
-Autonomous Zone](Shinmin_Autonomous_Zone "wikilink") from [1929 to
-1931](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+Commune](Guangzhou_Commune.md "wikilink") in the 1920s and the [Shinmin
+Autonomous Zone](Shinmin_Autonomous_Zone.md "wikilink") from [1929 to
+1931](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ### Czechoslovakia
 
 Workers' control occurred during the [Prague
-Spring](Prague_Spring "wikilink"), by January 1969 there were councils
+Spring](Prague_Spring.md "wikilink"), by January 1969 there were councils
 in about 120 enterprises, representing more than 800,000 people, or
 about one-sixth of the country’s workers. They were banned in May 1970
 and subsequently declined.[^32]
 
 ### France
 
-The [Paris Commune](Paris_Commune "wikilink") saw the first applications
+The [Paris Commune](Paris_Commune.md "wikilink") saw the first applications
 of workers' self-management to an industrial economy, with 43
 enterprises being given to their workers in 1871.[^33]
 
@@ -241,20 +241,20 @@ throughout the 1980s and 1990s.[^34]
 ### Indonesia
 
 During the [Indonesian National
-Revolution](Indonesian_National_Revolution "wikilink"), railway,
+Revolution](Indonesian_National_Revolution.md "wikilink"), railway,
 plantation and factory workers across Java implemented workers' control
 from 1945 to 1946, until it was crushed by the new Indonesian
 Nationalist Government.[^35] In 2007, over a thousand workers in Jakarta
 inspired by workers' control in Argentina and Venezuela [took over a
-textile factory](PT_Istana "wikilink") in response to wage cuts,
+textile factory](PT_Istana.md "wikilink") in response to wage cuts,
 repression of a recently organized union and efforts to fire and
 intimidate union organizers.[^36]
 
 ### Mexico
 
 Self-management has been practiced among farmers in the [Zapatista
-Communities](Rebel_Zapatista_Autonomous_Municipalities "wikilink") since
-1994. Since 2011, [Cherán](Cherán "wikilink") has built 3 new
+Communities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink") since
+1994. Since 2011, [Cherán](Cherán.md "wikilink") has built 3 new
 self-managing enterprises, a greenhouse, a sawmill and a concrete
 factory.[^37]
 
@@ -263,10 +263,10 @@ factory.[^37]
 Workers' control had been practiced in Poland during the Revolution of
 1905 as workers protested a lack of political freedoms and poor working
 conditions. Workers' control also occurred in around 100 industries in
-the aftermath of [World War I](World_War_I "wikilink") with around
+the aftermath of [World War I](World_War_I.md "wikilink") with around
 500,000 participants. Notably in the short-lived [Republic of
-Tarnobrzeg](Republic_of_Tarnobrzeg "wikilink").[^38] As [World War
-II](World_War_II "wikilink") was ending, workers took over abandoned and
+Tarnobrzeg](Republic_of_Tarnobrzeg.md "wikilink").[^38] As [World War
+II](World_War_II.md "wikilink") was ending, workers took over abandoned and
 damaged factories and began running them between 1944 and 1947. In the
 aftermath of the 1956 Poznan Protests, workers' control was partially
 applied in 3,300 workplaces, but the top-down nature made people lose
@@ -280,14 +280,14 @@ varying degrees of workers' representation; with some acting as organs
 of worker control and management (or at least supervising the managers),
 while others acted as rudimentary forms of trade unions, participating
 in collective bargaining agreements. However after the [October
-Revolution](October_Revolution_(Russia) "wikilink"), the factory
+Revolution](October_Revolution_(Russia).md "wikilink"), the factory
 committees became under the control of the trade unions, while following
 a continuing trend of centralization within the soviets.
 
 The USSR experimented with workers' control with the [Kuzbass Autonomous
-Industrial Colony](Kuzbass_Autonomous_Industrial_Colony "wikilink")
+Industrial Colony](Kuzbass_Autonomous_Industrial_Colony.md "wikilink")
 thanks to the influence from
-[IWW](Industrial_Workers_of_the_World "wikilink") from 1922 to 1926
+[IWW](Industrial_Workers_of_the_World.md "wikilink") from 1922 to 1926
 before being destroyed by the government. During May 1988, Under
 Gorbachev - along with his reforms of perestroika and glasnost - the
 Supreme Soviet implemented the Law on Cooperatives. This legislation
@@ -299,21 +299,21 @@ enterprises, while imposing high taxes and employment restrictions
 
 From 2003 to 2004 in the city of Zrenjanin, workers battled a private
 security force after they had taken control of
-[Jugoremedija](Jugoremedija "wikilink"), a pharmaceutical factory. They
+[Jugoremedija](Jugoremedija.md "wikilink"), a pharmaceutical factory. They
 were given ownership and control of the factory in 2006.[^39]
 
 ### Spain
 
-During the [Spanish Revolution](Revolutionary_Spain "wikilink") in 1936
+During the [Spanish Revolution](Revolutionary_Spain.md "wikilink") in 1936
 and 1937, 1700 workplaces were taken under workers' control. All
-industry in [Marinaleda](Marinaleda "wikilink") has been under workers'
+industry in [Marinaleda](Marinaleda.md "wikilink") has been under workers'
 self-management since 1990s. The town has seen full employment and the
 lowest house prices in Spain.[^40]
 
 ### Sri Lanka
 
 Under self-management, workers were able to efficiently run the [largest
-bus service](Sri_Lanka_Transport_Board "wikilink") in the world with
+bus service](Sri_Lanka_Transport_Board.md "wikilink") in the world with
 7,000 buses from 1958 to 1978. The ending of self-management in the
 industry has led to an increase in accidents, late buses and
 overcrowding.[^41]
@@ -321,22 +321,22 @@ overcrowding.[^41]
 ### Syria
 
 Workers' control has been practiced in several cities and towns during
-the [Syrian Civil War](Syrian_Civil_War "wikilink") since 2012 as they
+the [Syrian Civil War](Syrian_Civil_War.md "wikilink") since 2012 as they
 maintain agriculture, run hospitals and maintain basic social services
 in the lack of a state.[^42][^43] Workers' control is also practiced in
-[Rojava](Rojava "wikilink"), with around a third of all industry being
+[Rojava](Rojava.md "wikilink"), with around a third of all industry being
 placed under workers' control as of 2015.[^44]
 
 ### Turkey
 
-In 2013, the [Kazova textile factory](Free_Kazova "wikilink") in
+In 2013, the [Kazova textile factory](Free_Kazova.md "wikilink") in
 Istanbul was occupied by its workers, and in 2014 it was converted into
 a worker co-operative.[^45]
 
 ### Ukraine
 
 Workers' Control was practiced in Ukraine from 1918 to 1921 within the
-[Free Territory of Ukraine](Free_Territory_of_Ukraine "wikilink") in
+[Free Territory of Ukraine](Free_Territory_of_Ukraine.md "wikilink") in
 farms, factories, railways and schools.
 
 ### United Kingdom
@@ -346,36 +346,36 @@ with self-management.[^46]
 
 ### United States
 
-In 1919, the [Seattle Uprising](Seattle_Uprising "wikilink") saw
+In 1919, the [Seattle Uprising](Seattle_Uprising.md "wikilink") saw
 workers' control in milk deliveries, cafeterias, firefighting and
 laundry.[^47]
 
 From 1968 to 1972, General Electric experimented with self-management at
 their plant at Lynn River Works in Massachusetts as part of their [Pilot
-Program](Pilot_Program_(General_Electric) "wikilink"). The results led
+Program](Pilot_Program_(General_Electric).md "wikilink"). The results led
 to immediate increases in output and machine utilisation, and a
 reduction on manufacturing losses. The program was terminated after it
 threatened the traditional authority of management and led to too much
 self-reliance, self-respect and self-discipline among workers.[^48]'
 
-In 1976, [Gore Associates](Gore_Associates "wikilink") introduces a high
+In 1976, [Gore Associates](Gore_Associates.md "wikilink") introduces a high
 degree of self-management in their factories, which the company credits
 with its ability to make innovations in technology and maintain high
 productivity.
 
-Following the [Great Recession](Great_Recession "wikilink"), the
+Following the [Great Recession](Great_Recession.md "wikilink"), the
 [Republic Windows and Doors
-Factory](New_Republic_Windows_and_Doors "wikilink") was occupied and run
+Factory](New_Republic_Windows_and_Doors.md "wikilink") was occupied and run
 as a co-operative in 2008.[^49] The [Evergreen
-Cooperatives](Evergreen_Cooperatives "wikilink"), [Cooperative
-Jackson](Cooperative_Jackson "wikilink") and [United States Federation
+Cooperatives](Evergreen_Cooperatives.md "wikilink"), [Cooperative
+Jackson](Cooperative_Jackson.md "wikilink") and [United States Federation
 of Worker
-Cooperatives](United_States_Federation_of_Worker_Cooperatives "wikilink")
+Cooperatives](United_States_Federation_of_Worker_Cooperatives.md "wikilink")
 are the three largest groups advocating for workers' self-management.
 
 ### Venezuela
 
-Following the [Bolivarian Revolution](Bolivarian_Revolution "wikilink"),
+Following the [Bolivarian Revolution](Bolivarian_Revolution.md "wikilink"),
 there have been two waves of expropriations linked to workers'
 self-management. The first occurred between 2003 and 2005, the second
 from 2009 to 2010, both occurred with limited support from the state and
@@ -385,7 +385,7 @@ worker organizing and corruption led to a strong feeling of apathy and
 growth of a bureaucracy. But in spite of this development, several
 successful cooperatives have developed from this process, drawing
 inspiration from figures like [Anton
-Pannekoek](Anton_Pannekoek "wikilink") and historical episodes of
+Pannekoek](Anton_Pannekoek.md "wikilink") and historical episodes of
 workers' control in Argentina and Yugoslavia.[^50]
 
 ### Yugoslavia
@@ -393,33 +393,33 @@ workers' control in Argentina and Yugoslavia.[^50]
 In Yugoslavia, there was a limited degree of workers' control of
 industry which was encoded into law in 1950. This occurred due to the
 Tito-Stalin Split and inspiration from the [Paris
-Commune](Paris_Commune "wikilink"). However, the poorly designed,
+Commune](Paris_Commune.md "wikilink"). However, the poorly designed,
 top-down nature of the workers' councils led to corruption, cynicism and
 inefficiencies until they were destroyed in the [Yugoslav
-Wars](Yugoslav_Wars "wikilink").[^51]
+Wars](Yugoslav_Wars.md "wikilink").[^51]
 
 ## See Also
 
-- [Anarcho-Syndicalism](Anarcho-Syndicalism "wikilink")
+- [Anarcho-Syndicalism](Anarcho-Syndicalism.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Concepts](Category:Concepts "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Syndicalism](Category:Syndicalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Syndicalism](Category:Syndicalism.md "wikilink")
 
 [^1]: <https://www.uk.coop/sites/default/files/uploads/attachments/worker_co-op_report.pdf>
 
 [^2]: <https://journals.sagepub.com/doi/abs/10.1177/0143831X06069019>
 
 [^3]: ~ [The Democracy
-    Collaborative](The_Democracy_Collaborative "wikilink") (2014) -
+    Collaborative](The_Democracy_Collaborative.md "wikilink") (2014) -
     *[Worker Cooperatives: Pathways to
     Scale](https://democracycollaborative.org/content/worker-cooperatives-pathways-scale)*
 
@@ -446,14 +446,14 @@ Self-Management](Category:Workers'_Self-Management "wikilink")
     cooperatives: A critique of the alignment
     thesis](https://www.researchgate.net/publication/335405081_Happiness_theory_and_worker_cooperatives_A_critique_of_the_alignment_thesis)
 
-[^9]: [www.co-oplaw.org/special-topics/worker-cooperatives-performance-and-success-factors/](www.co-oplaw.org/special-topics/worker-cooperatives-performance-and-success-factors/ "wikilink")
+[^9]: [www.co-oplaw.org/special-topics/worker-cooperatives-performance-and-success-factors/](www.co-oplaw.org/special-topics/worker-cooperatives-performance-and-success-factors/.md "wikilink")
 
 [^10]: ~ Gabriel Burdín (2014) - *[Are Worker-Managed Firms More Likely
     to Fail Than Conventional Enterprises? Evidence from
     Uruguay](https://journals.sagepub.com/doi/abs/10.1177/001979391406700108)*
 
 [^11]: ~ [International Labour
-    Organization](International_Labour_Organization "wikilink") (2005)
+    Organization](International_Labour_Organization.md "wikilink") (2005)
     *[Resilience of the Cooperative Business Model in Times of
     Crisis](https://www.ilo.org/wcmsp5/groups/public/---ed_emp/---emp_ent/documents/publication/wcms_108416.pdf)*
 
@@ -476,76 +476,76 @@ Self-Management](Category:Workers'_Self-Management "wikilink")
 [^15]: ~ Dr. David Erdal (2012) - [Employee Ownership Is Good for Your
     Health](http://www.oeockent.org/download/cooperatives/journal-of-cooperative-thought-and-practice-vol1-no1.pdf.pdf)
 
-[^16]: [Immanuel Ness](Immanuel_Ness "wikilink") (2014) New Forms of
+[^16]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2014) New Forms of
     Worker Organization: The Syndicalist and Autonomist Restoration of
     Class Struggle Unionism, page 187
 
-[^17]: [Immanuel Ness](Immanuel_Ness "wikilink") (2014) New Forms of
+[^17]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2014) New Forms of
     Worker Organization: The Syndicalist and Autonomist Restoration of
     Class Struggle Unionism, Chapter 10: Doing without the boss
 
 [^18]: ~ Drew Cottle and Angela Keys - [Worker Control Harco
     Style](http://workers.labor.net.au/features/200402/c_historicalfeature_harco.html)
 
-[^19]: ~ [David Noble](David_F._Noble "wikilink") (1984) - [*Forces of
+[^19]: ~ [David Noble](David_F._Noble.md "wikilink") (1984) - [*Forces of
     Production: A Social History of Industrial
-    Automation*](Forces_of_Production:_A_Social_History_of_Industrial_Automation "wikilink"),
+    Automation*](Forces_of_Production:_A_Social_History_of_Industrial_Automation.md "wikilink"),
     pages 292 - 321
 
 [^20]: ~ Center for Learning in Action - [The Case of Marland
     Mold](https://learning-in-action.williams.edu/breaking-the-mold/the-case-of-marland-mold/)
 
-[^21]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) - [Anarchy
-    Works](Anarchy_Works "wikilink")
+[^21]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) - [Anarchy
+    Works](Anarchy_Works.md "wikilink")
 
-[^22]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) [Ours to Master
+[^22]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) [Ours to Master
     and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink")
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink")
 
 [^23]: <https://crimethinc.com/2017/11/02/other-rojavas-echoes-of-the-free-commune-of-barbacha-an-autonomous-uprising-in-north-africa-2012-2014>
 
-[^24]: [Bruce Pascoe](Bruce_Pascoe "wikilink") (2018) [Dark
-    Emu](Dark_Emu "wikilink")
+[^24]: [Bruce Pascoe](Bruce_Pascoe.md "wikilink") (2018) [Dark
+    Emu](Dark_Emu.md "wikilink")
 
 [^25]: <https://sa.amieu.asn.au/about-us/history/>
 
-[^26]: ~ Tom Lewis and [Oscar Olivera](Oscar_Olivera "wikilink")
+[^26]: ~ Tom Lewis and [Oscar Olivera](Oscar_Olivera.md "wikilink")
     (2004) - [*¡Cochabamba! Water War in
-    Bolivia*](¡Cochabamba!_Water_War_in_Bolivia "wikilink"), pages 87 -
+    Bolivia*](¡Cochabamba!_Water_War_in_Bolivia.md "wikilink"), pages 87 -
     96
 
 [^27]: <http://www.workerscontrol.net/geographical/solemnly-tuzla-dita-started-producing-powder-detergent-arix-tenzo>
 
-[^28]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) [Ours to Master
+[^28]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) [Ours to Master
     and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink"),
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink"),
     pages 400 - 419
 
-[^29]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) - [Ours to
+[^29]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) - [Ours to
     Master and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink") -
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink") -
     Recipe for Anarchy! British Columbia’s Telephone Workers’ Occupation
     of 1981
 
-[^30]: [Wikipedia](Wikipedia "wikilink") (Spanish) -
+[^30]: [Wikipedia](Wikipedia.md "wikilink") (Spanish) -
     <https://es.wikipedia.org/wiki/Cord%C3%B3n_industrial>
 
-[^31]: [Wikipedia](Wikipedia "wikilink") (German) -
+[^31]: [Wikipedia](Wikipedia.md "wikilink") (German) -
     <https://de.wikipedia.org/wiki/Poder_Popular_(Chile)>
 
 [^32]: <http://www.workerscontrol.net/authors/forgotten-workers%E2%80%99-control-movement-prague-spring>
 
 [^33]: <https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq-02-17#toc45>
 
-[^34]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) [Ours to Master
+[^34]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) [Ours to Master
     and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink") -
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink") -
     Chapter 19: Workers’ Control in India’s Communist-Ruled State: Labor
     Struggles and Trade Unions in West Bengal
 
-[^35]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) - [Ours to
+[^35]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) - [Ours to
     Master and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink"),
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink"),
     page 210
 
 [^36]: <http://www.workerscontrol.net/authors/indonesia-pt-istana-factory-occupied-and-producing-under-workers%E2%80%99-control>
@@ -555,15 +555,15 @@ Self-Management](Category:Workers'_Self-Management "wikilink")
 [^38]: (Source is in Polish) -
     <https://zapytaj.onet.pl/encyklopedia/69429,,,,rady_delegatow_robotniczych_w_polsce,haslo.html>
 
-[^39]: [Andrej Grubacic](Andrej_Grubacic "wikilink") (2010) [Don't
+[^39]: [Andrej Grubacic](Andrej_Grubacic.md "wikilink") (2010) [Don't
     Mourn: Balkanize! Essays After
-    Yugoslavia](Don't_Mourn:_Balkanize!_Essays_After_Yugoslavia "wikilink"),
+    Yugoslavia](Don't_Mourn:_Balkanize!_Essays_After_Yugoslavia.md "wikilink"),
     pages 185-188
 
-[^40]: [Wikipedia](Wikipedia "wikilink") -
+[^40]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Marinaleda#Local_economy>
 
-[^41]: [Wikipedia](Wikipedia "wikilink") -
+[^41]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/History_of_Sri_Lanka_Transport_Board#Self-management>
 
 [^42]: <https://countervortex.org/node/15014>
@@ -571,37 +571,37 @@ Self-Management](Category:Workers'_Self-Management "wikilink")
 [^43]: <https://countervortex.org/node/15005>
 
 [^44]: [A Small Key Can Open A Large
-    Door](A_Small_Key_Can_Open_A_Large_Door "wikilink") (2015), page 37
+    Door](A_Small_Key_Can_Open_A_Large_Door.md "wikilink") (2015), page 37
 
 [^45]: <http://www.workerscontrol.net/geographical/we-want-build-workshop-our-communion-and-solidarity>
 
-[^46]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) [Ours to Master
+[^46]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) [Ours to Master
     and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink") -
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink") -
     Chapter 15: Workers’ Control and the Politics of Factory Occupation:
     Britain, 1970s
 
-[^47]: [Howard Zinn](Howard_Zinn "wikilink") (2003) [A People's History
+[^47]: [Howard Zinn](Howard_Zinn.md "wikilink") (2003) [A People's History
     of the United
-    States](A_People's_History_of_the_United_States "wikilink"), page
+    States](A_People's_History_of_the_United_States.md "wikilink"), page
     373
 
-[^48]: [David Noble](David_Noble "wikilink") (1984) - [Forces of
-    Production](Forces_of_Production "wikilink"), Chapter 11: Who's
+[^48]: [David Noble](David_Noble.md "wikilink") (1984) - [Forces of
+    Production](Forces_of_Production.md "wikilink"), Chapter 11: Who's
     Running the Show?
 
-[^49]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) - [Ours to
+[^49]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) - [Ours to
     Master and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink") -
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink") -
     Chapter 16: Workers’ Direct Action and Factory Control in the United
     States
 
-[^50]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) - [Ours to
+[^50]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) - [Ours to
     Master and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink") -
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink") -
     Chapter 21: Workers’ Control under Venezuela’s Bolivarian Revolution
 
-[^51]: [Immanuel Ness](Immanuel_Ness "wikilink") (2010) [Ours to Master
+[^51]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2010) [Ours to Master
     and to Own: Workers' Control from the Commune to the
-    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present "wikilink") -
+    Present](Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_Present.md "wikilink") -
     Yugoslavia: Workers’ Self-Management as State Paradigm

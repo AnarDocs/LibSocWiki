@@ -4,8 +4,8 @@ permalink: /Darwin_Rebellion_(1918)/
 ---
 
 The **Darwin Rebellion** was a period of massive unrest in Darwin,
-[Australia](Australia "wikilink") in
-[1918](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").
+[Australia](Australia.md "wikilink") in
+[1918](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").
 
 ## Background
 
@@ -20,7 +20,7 @@ the premier, Dr Gilruth.[^1]
 On the afternoon of the 17th of December 1918, workers' across the city
 went on strike and 1,000 of them (Darwin had 1,339 people) walked to
 government house, demanding "no taxation without representation"
-(echoing the [American Revolution](American_Revolution "wikilink"))
+(echoing the [American Revolution](American_Revolution.md "wikilink"))
 behind a car carrying an effigy of Gilruth tied to a stake and calling
 for his resignation and greater democratic rights in the Northern
 Territory.
@@ -48,28 +48,28 @@ Territory.
 ## See Also
 
 - [Australian General
-  Strike](Australian_General_Strike_(1917) "wikilink")
-- [Eureka Rebellion](Eureka_Rebellion "wikilink")
-- [Revolutions of 1916 - 1923](Revolutions_of_1916_-_1923 "wikilink")
+  Strike](Australian_General_Strike_(1917).md "wikilink")
+- [Eureka Rebellion](Eureka_Rebellion.md "wikilink")
+- [Revolutions of 1916 - 1923](Revolutions_of_1916_-_1923.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1918](Category:1918 "wikilink")
-[Category:1910s](Category:1910s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink") [Category:Worker
-Uprisings](Category:Worker_Uprisings "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1918](Category:1918.md "wikilink")
+[Category:1910s](Category:1910s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink") [Category:Worker
+Uprisings](Category:Worker_Uprisings.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
 
 [^1]: [What was the Darwin
     rebellion?](https://www.abc.net.au/news/2017-12-12/curious-darwin-what-was-the-darwin-rebellion/9200424) -
     ABC
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Darwin_rebellion#Rebellion>

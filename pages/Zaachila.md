@@ -4,24 +4,24 @@ permalink: /Zaachila/
 ---
 
 **Villa de** **Zaachila** is a small town in [Oaxaca,
-Mexico](Mexico "wikilink") which has [been
-run](List_of_Libertarian_Socialist_Societies "wikilink") via [popular
-assemblies](Democratic_Assembly "wikilink") since
-[2006](Timeline_of_Libertarian_Socialism_in_Central_America "wikilink").
+Mexico](Mexico.md "wikilink") which has [been
+run](List_of_Libertarian_Socialist_Societies.md "wikilink") via [popular
+assemblies](Democratic_Assembly.md "wikilink") since
+[2006](Timeline_of_Libertarian_Socialism_in_Central_America.md "wikilink").
 However, the existing government still remains, making it an example of
-[dual power](Dual_Power "wikilink").
+[dual power](Dual_Power.md "wikilink").
 
 ## Background
 
-[Environmentalist groups](Environmentalism "wikilink") in the town had
+[Environmentalist groups](Environmentalism.md "wikilink") in the town had
 been struggling against the construction of a Coca Cola factory which
-would've destroyed much of the towns [water supply](Water "wikilink")
+would've destroyed much of the towns [water supply](Water.md "wikilink")
 for years. This formed a strong network of activists and sense of
 community among town citizens.
 
 ## Revolution
 
-During the [Oaxaca Revolution](Oaxaca_Revolution "wikilink"), many
+During the [Oaxaca Revolution](Oaxaca_Revolution.md "wikilink"), many
 residents met at the towns church (called by ringing bells) and
 discussed the news of police brutality and what their town should do.
 They eventually agreed to take over the town hall, kicking out the mayor
@@ -59,26 +59,26 @@ and also established a community radio station.
 
 ## See Also
 
-- [Oaxaca Revolution](Oaxaca_Revolution "wikilink")
-- [CIPO-RFM](CIPO-RFM "wikilink")
-- [Cherán](Cherán "wikilink")
+- [Oaxaca Revolution](Oaxaca_Revolution.md "wikilink")
+- [CIPO-RFM](CIPO-RFM.md "wikilink")
+- [Cherán](Cherán.md "wikilink")
 - [Rebel Zapatista Autonomous
-  Municipalities](Rebel_Zapatista_Autonomous_Municipalities "wikilink")
+  Municipalities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink")
 
 ## References
 
-- [Diana Denham](Diana_Denham "wikilink") (2008) [Teaching Rebellion:
+- [Diana Denham](Diana_Denham.md "wikilink") (2008) [Teaching Rebellion:
   Stories from the Grassroots Mobilization in
-  Oaxaca](Teaching_Rebellion:_Stories_from_the_Grassroots_Mobilization_in_Oaxaca "wikilink")
+  Oaxaca](Teaching_Rebellion:_Stories_from_the_Grassroots_Mobilization_in_Oaxaca.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Current Libertarian Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
-[Category:Mexico](Category:Mexico "wikilink") [Category:Central
-America](Category:Central_America "wikilink") [Category:North
-America](Category:North_America "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Mexico](Category:Mexico.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")

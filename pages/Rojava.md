@@ -5,20 +5,20 @@ permalink: /Rojava/
 
 The **Autonomous Administration of North and East Syria (NES)** or
 commonly known as **Rojava**(sometimes called **Kurdistan** by western
-[media](Mass_Media "wikilink")) is an ongoing effort since
-[2012](Timeline_of_Libertarian_Socialism "wikilink") to create a
-[libertarian socialist](Libertarian_Socialism "wikilink")
-[society](List_of_Libertarian_Socialist_Societies "wikilink") in the
-north of [Syria](Syrian_Arab_Republic "wikilink") according to the
+[media](Mass_Media.md "wikilink")) is an ongoing effort since
+[2012](Timeline_of_Libertarian_Socialism.md "wikilink") to create a
+[libertarian socialist](Libertarian_Socialism.md "wikilink")
+[society](List_of_Libertarian_Socialist_Societies.md "wikilink") in the
+north of [Syria](Syrian_Arab_Republic.md "wikilink") according to the
 principles of [Democratic
-Confederalism](Democratic_Confederalism "wikilink"). This began with the
-[Rojava Revolution](Rojava_Revolution "wikilink"), Rojava is currently
+Confederalism](Democratic_Confederalism.md "wikilink"). This began with the
+[Rojava Revolution](Rojava_Revolution.md "wikilink"), Rojava is currently
 battling an apocalyptic war with Turkey.
 
 ## Decision-Making
 
 Decisions are made by community assemblies and a unique four-level model
-of a [confederation](Confederations "wikilink"). These are divided into
+of a [confederation](Confederations.md "wikilink"). These are divided into
 four main levels of decision-making.
 
 - **Commune:** Between 30 and 400 households gather in local assemblies
@@ -55,9 +55,9 @@ However, the report also noted some deficiencies in due process.
 ## Economy
 
 As of 2015, around 75% of land within the NES is owned in
-[common](Commons "wikilink") and 33% of industry is run according to the
+[common](Commons.md "wikilink") and 33% of industry is run according to the
 principles of [workers'
-self-management](Workers'_Self-Management "wikilink").[^2] The economy
+self-management](Workers'_Self-Management.md "wikilink").[^2] The economy
 is divided into three major sectors:
 
 1.  The Social Economy, composed of worker cooperatives.
@@ -75,17 +75,17 @@ park has been opened which is home to at least 800 workplaces.[^4]
 
 ## Public Services
 
-Following the [Rojava Revolution](Rojava_Revolution "wikilink"),
+Following the [Rojava Revolution](Rojava_Revolution.md "wikilink"),
 hundreds of schools for people of all ages have been established. Many
 such schools focus on teaching the languages spoken by ethnic minorities
 (previously punishable by torture) and uncovering much of the wisdom
 hidden within the history of Western Asia. The schools borrow elements
-from [democratic schooling](Democratic_Education "wikilink"), being
-compared to [John Dewey's](John_Dewey "wikilink") vision of an ideal
-education.[^5] In 2014, the first [university](university "wikilink")
+from [democratic schooling](Democratic_Education.md "wikilink"), being
+compared to [John Dewey's](John_Dewey.md "wikilink") vision of an ideal
+education.[^5] In 2014, the first [university](university.md "wikilink")
 (Mesopotamian Social Sciences Academy) was opened in Qamişlo in the
 Cizîrê Canton. It offered students classes, a library,
-[internet](internet "wikilink") access, sports facilities and a
+[internet](internet.md "wikilink") access, sports facilities and a
 dormitory.[^6]
 
 Councils and communes have also pooled together to provide citizens with
@@ -96,10 +96,10 @@ internet access[^8] and cultural festivals.[^9]
 
 ![](RojavaEcology.JPG "RojavaEcology.JPG") In 2018, many local
 communities agreed to the campaign titled '[Make Rojava Green
-Again](Make_Rojava_Green_Again "wikilink")' which aims to restore the
+Again](Make_Rojava_Green_Again.md "wikilink")' which aims to restore the
 region to its natural ecological health. Measures taken include the
 construction of areas for solar and wind
-[electricity](electricity "wikilink") generation. The construction of
+[electricity](electricity.md "wikilink") generation. The construction of
 urban and rooftop agriculture within cities. The creation of large
 wildlife reserves and reforestation campaigns. Water and material
 recycling, compost in agriculture as well as safe and clean waste
@@ -190,29 +190,29 @@ according to the principles of freedom of the press.[^12]
 
 ## See Also
 
-- [Criticism of Rojava](Criticism_of_Rojava "wikilink")
+- [Criticism of Rojava](Criticism_of_Rojava.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
-[Category:Syria](Category:Syria "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Communalism](Category:Communalism "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
+[Category:Syria](Category:Syria.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Communalism](Category:Communalism.md "wikilink")
 [Category:Democratic
-Confederalism](Category:Democratic_Confederalism "wikilink")
+Confederalism](Category:Democratic_Confederalism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
-[Category:Western Asia](Category:Western_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Current Libertarian
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
+[Category:Western Asia](Category:Western_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Current Libertarian
 Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
-[Category:2012](Category:2012 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
 [^1]: Ercan Ayboga (2013) Revolution in Rojava
 
@@ -223,7 +223,7 @@ Century](Category:21st_Century "wikilink")
 
 [^4]: <https://mesopotamia.coop/the-economy-of-rojava/>
 
-[^5]: [Janet Biehl](Janet_Biehl "wikilink") (2015) Revolutionary
+[^5]: [Janet Biehl](Janet_Biehl.md "wikilink") (2015) Revolutionary
     Education in Rojava -
     <http://new-compass.net/articles/revolutionary-education-rojava>
 

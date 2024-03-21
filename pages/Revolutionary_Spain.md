@@ -4,15 +4,15 @@ permalink: /Revolutionary_Spain/
 ---
 
 **Revolutionary Spain** refers to a period when of the [Spanish Civil
-War](Spanish_Civil_War "wikilink") where much of the eastern half of
-[Spain](Spain "wikilink") began experimenting with [libertarian
-socialist](Libertarian_Socialism "wikilink") ideas with around 8,000,000
+War](Spanish_Civil_War.md "wikilink") where much of the eastern half of
+[Spain](Spain.md "wikilink") began experimenting with [libertarian
+socialist](Libertarian_Socialism.md "wikilink") ideas with around 8,000,000
 people from [1936 to
-1939](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink").
+1939](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink").
 Making it the [largest experiment in libertarian socialist
-politics](List_of_Libertarian_Socialist_Societies "wikilink") in the
+politics](List_of_Libertarian_Socialist_Societies.md "wikilink") in the
 last 100 years, being most strongly influenced by
-[anarcho-syndicalism](Anarcho-Syndicalism "wikilink"). The extent,
+[anarcho-syndicalism](Anarcho-Syndicalism.md "wikilink"). The extent,
 effectiveness, sustainability, economics, implications and lessons of
 the revolution have been heavily studied and debated since the 1930s.
 
@@ -35,13 +35,13 @@ installations anywhere.[^1]
 ## Environmental Protection
 
 Upon forming agricultural cooperatives and communes,
-[peasants](peasants "wikilink") used methods that were similar to
-[permaculture](permaculture "wikilink"), using multiple plants to
+[peasants](peasants.md "wikilink") used methods that were similar to
+[permaculture](permaculture.md "wikilink"), using multiple plants to
 increase yields and improve soil health, such as putting shade-tolerant
 plants under orange trees.[^2] Various metal
-[factories](Factory "wikilink") were shut down after doctors discovered
+[factories](Factory.md "wikilink") were shut down after doctors discovered
 links between factory pollution and tuberculosis.[^3] [Daniel
-Guérin](Daniel_Guérin "wikilink") describes environmental protections
+Guérin](Daniel_Guérin.md "wikilink") describes environmental protections
 further:
 
 > After the Revolution the land was brought together into rational
@@ -61,55 +61,55 @@ further:
 
 ## List of Cities and Towns
 
-- [Albalate de Cinca](Albalate_de_Cinca "wikilink")
-- [Alcaniz](Alcaniz "wikilink")
-- [Alcoriza](Alcoriza "wikilink")
-- [Azuara](Azuara "wikilink")
-- [Barbastro](Barbastro "wikilink")
-- [Barcelona](Barcelona_(Revolutionary_Spain) "wikilink")
-- [Beceite](Beceite "wikilink")
-- [Binefar](Binefar "wikilink")
-- [Calaceite](Calaceite "wikilink")
-- [Calanda](Calanda "wikilink")
-- [Granen](Granen "wikilink")
-- [Mas de las Matas](Mas_de_las_Matas "wikilink")
-- [Mazaleon](Mazaleon "wikilink")
-- [Muniesa](Muniesa "wikilink")
-- [Monzon](Monzon "wikilink")
-- [Oliete](Oliete "wikilink")
-- [Valderrobres](Valderrobres "wikilink")
+- [Albalate de Cinca](Albalate_de_Cinca.md "wikilink")
+- [Alcaniz](Alcaniz.md "wikilink")
+- [Alcoriza](Alcoriza.md "wikilink")
+- [Azuara](Azuara.md "wikilink")
+- [Barbastro](Barbastro.md "wikilink")
+- [Barcelona](Barcelona_(Revolutionary_Spain).md "wikilink")
+- [Beceite](Beceite.md "wikilink")
+- [Binefar](Binefar.md "wikilink")
+- [Calaceite](Calaceite.md "wikilink")
+- [Calanda](Calanda.md "wikilink")
+- [Granen](Granen.md "wikilink")
+- [Mas de las Matas](Mas_de_las_Matas.md "wikilink")
+- [Mazaleon](Mazaleon.md "wikilink")
+- [Muniesa](Muniesa.md "wikilink")
+- [Monzon](Monzon.md "wikilink")
+- [Oliete](Oliete.md "wikilink")
+- [Valderrobres](Valderrobres.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink") [Category:Spanish
-Civil War](Category:Spanish_Civil_War "wikilink")
-[Category:Spain](Category:Spain "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:1930s](Category:1930s "wikilink")
-[Category:1936](Category:1936 "wikilink")
-[Category:1937](Category:1937 "wikilink")
-[Category:1938](Category:1938 "wikilink")
-[Category:1939](Category:1939 "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink") [Category:Spanish
+Civil War](Category:Spanish_Civil_War.md "wikilink")
+[Category:Spain](Category:Spain.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink")
+[Category:1936](Category:1936.md "wikilink")
+[Category:1937](Category:1937.md "wikilink")
+[Category:1938](Category:1938.md "wikilink")
+[Category:1939](Category:1939.md "wikilink") [Category:Libertarian
 Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Past Libertarian Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
 
 [^1]: Sam Dolgoff (1974) - The Anarchist Collectives
 
-[^2]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) - [Anarchy
-    Works](Anarchy_Works "wikilink"), page 105
+[^2]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) - [Anarchy
+    Works](Anarchy_Works.md "wikilink"), page 105
 
-[^3]: [Iain McKay](Iain_McKay "wikilink") (2009) [Objectivity and
+[^3]: [Iain McKay](Iain_McKay.md "wikilink") (2009) [Objectivity and
     Right-Libertarian
-    Scholarship](Objectivity_and_Right-Libertarian_Scholarship "wikilink")
+    Scholarship](Objectivity_and_Right-Libertarian_Scholarship.md "wikilink")
 
-[^4]: [Daniel Guérin](Daniel_Guérin "wikilink") (1970) [Anarchism: From
-    Theory to Practice](Anarchism:_From_Theory_to_Practice "wikilink")
+[^4]: [Daniel Guérin](Daniel_Guérin.md "wikilink") (1970) [Anarchism: From
+    Theory to Practice](Anarchism:_From_Theory_to_Practice.md "wikilink")

@@ -3,13 +3,13 @@ title: Red Guard Party (USA)
 permalink: /Red_Guard_Party_(USA)/
 ---
 
-**The Red Guard Party** was a [Maoist](Maoism "wikilink") and
-[anti-racist](Anti-Racism "wikilink") group consisting of Chinese
+**The Red Guard Party** was a [Maoist](Maoism.md "wikilink") and
+[anti-racist](Anti-Racism.md "wikilink") group consisting of Chinese
 Americans formed in San Francisco,
-[USA](United_States_of_America "wikilink") in February
-[1969](Revolutions_of_1967_-_1975 "wikilink"), naming the group after
-the [Red Guards](Red_Guards_(China) "wikilink") of [Chinese Cultural
-Revolution](Cultural_Revolution_(China) "wikilink").
+[USA](United_States_of_America.md "wikilink") in February
+[1969](Revolutions_of_1967_-_1975.md "wikilink"), naming the group after
+the [Red Guards](Red_Guards_(China).md "wikilink") of [Chinese Cultural
+Revolution](Cultural_Revolution_(China).md "wikilink").
 
 ## Background
 
@@ -20,7 +20,7 @@ Chinese people - throughout its history.
 
 The Red Guard formation resulted from several societal and economic
 pressures combined in the late 1960s. During that time, the [Black
-Panther Party](Black_Panther_Party "wikilink") had already gained
+Panther Party](Black_Panther_Party.md "wikilink") had already gained
 significant media and community attention for their militaristic actions
 and struggles for self-determination and third world solidarity, and for
 the opposing governmental oppression. San Francisco's Chinatown was
@@ -38,7 +38,7 @@ to discuss openly revolutionary ideas and their disdain for the
 government that had contributed to their social injustice. Alex Hing,
 though not a founding member, provided leadership to the Red Guards.
 Under the [Students for a Democratic
-Society](Students_for_a_Democratic_Society "wikilink"), Hing learned
+Society](Students_for_a_Democratic_Society.md "wikilink"), Hing learned
 many leadership skills which he utilized in helping form the Red Guard.
 While advocating for Ethnic Studies at local community college, he read
 works promoted by the Black Panther Party including the Red Book and

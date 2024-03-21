@@ -4,12 +4,12 @@ permalink: /Cucuteni-Trypillia_Civilization/
 ---
 
 The **Cucuteni-Trypillia Civilization** was an ancient civilization that
-practiced [anarcho-communist](Anarcho-Communism "wikilink") economics,
-[gender equality](Gender_Equality "wikilink"),
-[sustainability](sustainability "wikilink") and a general form of
+practiced [anarcho-communist](Anarcho-Communism.md "wikilink") economics,
+[gender equality](Gender_Equality.md "wikilink"),
+[sustainability](sustainability.md "wikilink") and a general form of
 [libertarian
-socialism](List_of_Libertarian_Socialist_Societies "wikilink") between
-[5200BCE and 3500BCE](Timeline_of_Libertarian_Socialism "wikilink").
+socialism](List_of_Libertarian_Socialist_Societies.md "wikilink") between
+[5200BCE and 3500BCE](Timeline_of_Libertarian_Socialism.md "wikilink").
 
 ## Collapse
 
@@ -30,23 +30,23 @@ Cucuteni-Trypillians.
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Moldova](Category:Moldova "wikilink")
-[Category:Ukraine](Category:Ukraine "wikilink")
-[Category:Romania](Category:Romania "wikilink") [Category:Past
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Moldova](Category:Moldova.md "wikilink")
+[Category:Ukraine](Category:Ukraine.md "wikilink")
+[Category:Romania](Category:Romania.md "wikilink") [Category:Past
 Libertarian Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
-[Category:Before Common Era](Category:Before_Common_Era "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Before Common Era](Category:Before_Common_Era.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Decline_and_end_of_the_Cucuteni%E2%80%93Trypillia_culture#Ecological_collapse>

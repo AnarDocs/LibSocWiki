@@ -4,14 +4,14 @@ permalink: /Workers'_Initiative_(Poland)/
 ---
 
 The **Workers' Initiative**(**IP**)is an
-[anarcho-syndicalist](Anarcho-Syndicalism "wikilink") [trade
-union](Trade_Union "wikilink") based in [Poland](Poland "wikilink").
+[anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") [trade
+union](Trade_Union.md "wikilink") based in [Poland](Poland.md "wikilink").
 Founded in
-[2001](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink"),
-it has helped support [striking workers](Strike "wikilink") in
+[2001](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink"),
+it has helped support [striking workers](Strike.md "wikilink") in
 healthcare, supermarkets and factories and worked with
-[anti-fascists](Anti-Fascism "wikilink") in Poland and
-[Germany](Germany "wikilink").
+[anti-fascists](Anti-Fascism.md "wikilink") in Poland and
+[Germany](Germany.md "wikilink").
 
 ## Timeline
 
@@ -23,21 +23,21 @@ healthcare, supermarkets and factories and worked with
   protest of soccer matches
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Poland](Category:Poland "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:2001](Category:2001 "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:Germany](Category:Germany "wikilink")
-[Category:Anti-Fascism](Category:Anti-Fascism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Poland](Category:Poland.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:2001](Category:2001.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:Germany](Category:Germany.md "wikilink")
+[Category:Anti-Fascism](Category:Anti-Fascism.md "wikilink")
 [Category:Anarcho-Syndicalist
-Groups](Category:Anarcho-Syndicalist_Groups "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
+Groups](Category:Anarcho-Syndicalist_Groups.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")
 [Category:Libertarian Socialist
-Organizations](Category:Libertarian_Socialist_Organizations "wikilink")
+Organizations](Category:Libertarian_Socialist_Organizations.md "wikilink")

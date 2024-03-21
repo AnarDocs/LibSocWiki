@@ -5,7 +5,7 @@ permalink: /Peruvian_Rainforest_Defense_(2008)/
 
 The **Peruvian Rainforest Defense** was an effort by indigenous people,
 trade unions and environmentalists in Peru to stop the deforestation of
-rainforest and enclosure of [common land](Commons "wikilink").
+rainforest and enclosure of [common land](Commons.md "wikilink").
 
 In April 2006, the United States and Peru signed a Free Trade Agreement
 (FTA), which they planned to implement on 1 February 2009. The United
@@ -150,13 +150,13 @@ Agreement, officially known as the US-Peru Trade Promotion Agreement, is
 still in effect along with many of the legislative decrees required for
 its implementation as of March 2013.
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:South America](Category:South_America "wikilink")
-[Category:2008](Category:2008 "wikilink")
-[Category:2009](Category:2009 "wikilink")
-[Category:2000s](Category:2000s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:Peru](Category:Peru "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:South America](Category:South_America.md "wikilink")
+[Category:2008](Category:2008.md "wikilink")
+[Category:2009](Category:2009.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:Peru](Category:Peru.md "wikilink")

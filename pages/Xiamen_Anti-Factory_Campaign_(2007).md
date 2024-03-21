@@ -4,10 +4,10 @@ permalink: /Xiamen_Anti-Factory_Campaign_(2007)/
 ---
 
 The **Xiamen Anti-Factory Campaign of 2007** was a grassroots
-[environmental campaign](Timeline_of_Environmentalism "wikilink") to
+[environmental campaign](Timeline_of_Environmentalism.md "wikilink") to
 stop the construction of a chemical factory Xiamen, Fujian,
-[China](China "wikilink") in
-[2007](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+[China](China.md "wikilink") in
+[2007](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 It was announced in November 2006 that a chemical plant producing
 paraxylene (PX) and teraphalic acid would be built in the Haicang
@@ -103,11 +103,11 @@ voted for the plant to be moved from Xiamen.
 In 2008 the plant was moved inland.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:2007](Category:2007 "wikilink")
-[Category:2000s](Category:2000s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:2007](Category:2007.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")

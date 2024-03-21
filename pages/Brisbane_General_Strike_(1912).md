@@ -4,9 +4,9 @@ permalink: /Brisbane_General_Strike_(1912)/
 ---
 
 The **Brisbane General Strike of 1912** was a [general
-strike](List_of_General_Strikes "wikilink") in the city of Brisbane,
-[Australia](Australia "wikilink") in [early
-1912](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").
+strike](List_of_General_Strikes.md "wikilink") in the city of Brisbane,
+[Australia](Australia.md "wikilink") in [early
+1912](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").
 
 The Brisbane tramways, located in Queensland, Australia, were owned by
 General Electric Company, a private British company. Joseph Stillman

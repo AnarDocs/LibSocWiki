@@ -5,10 +5,10 @@ permalink: /Science/
 
 **Science** is a way of gaining and organizing knowledge about reality
 via repeated, testable explanations and predictions about reality.
-Science has largely replaced [religion](Organized_Religion "wikilink")
+Science has largely replaced [religion](Organized_Religion.md "wikilink")
 as the most common method of gaining knowledge about the outside world,
 which has been correlated with a massive gains in
-[technology](technology "wikilink").
+[technology](technology.md "wikilink").
 
 ## Types of Science
 
@@ -768,6 +768,6 @@ scales of energy levels of atoms and subatomic particles.
 - Zythology – study of beer
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Science](Category:Science "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Science](Category:Science.md "wikilink")

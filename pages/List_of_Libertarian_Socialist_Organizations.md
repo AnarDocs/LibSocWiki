@@ -5,7 +5,7 @@ permalink: /List_of_Libertarian_Socialist_Organizations/
 
 A list of organizations and social movements which aim to agitate,
 educate and organize the general public around the principles of
-[libertarian socialism](Libertarian_Socialism "wikilink").
+[libertarian socialism](Libertarian_Socialism.md "wikilink").
 
 ## Active Organizations
 
@@ -13,13 +13,13 @@ educate and organize the general public around the principles of
 - Absolutely anti-Le Pen group (France)
 - Anarchist-Communist Federation of Argentina
 - [Anarcho-Syndicalist
-  Federation](Anarcho-Syndicalist_Federation_(Australia) "wikilink")
+  Federation](Anarcho-Syndicalist_Federation_(Australia).md "wikilink")
   (Australia)
 - Anarchists Against the Wall (Israel)
 - Anarchist Federation (Britain and Ireland)
 - Anarchist Federation (France)
 - Anarchist Pogo Party of Germany
-- [Animal Liberation Front](Animal_Liberation_Front "wikilink")
+- [Animal Liberation Front](Animal_Liberation_Front.md "wikilink")
 - Anti-authoritarian Current (Greece)
 - Argentine Libertarian Federation
 - Autonomedia (USA)
@@ -27,15 +27,15 @@ educate and organize the general public around the principles of
 - Beehive Design Collective (USA)
 - Black Laundry (Israel)
 - [Central Organisation of the Workers of
-  Sweden](Central_Organisation_of_the_Workers_of_Sweden "wikilink")
+  Sweden](Central_Organisation_of_the_Workers_of_Sweden.md "wikilink")
 - [Commission of Anarchist
-  Relations](Commission_of_Anarchist_Relations "wikilink") (Venezuela)
+  Relations](Commission_of_Anarchist_Relations.md "wikilink") (Venezuela)
 - Confederation of Revolutionary Anarcho-Syndicalists (Russia)
 - Conspiracy of Fire Nuclei (Greece)
 - Cream City Collective (USA)
-- [CrimethInc](CrimethInc "wikilink") (USA)
-- [Earth First!](Earth_First! "wikilink")
-- [Earth Liberation Front](Earth_Liberation_Front "wikilink")
+- [CrimethInc](CrimethInc.md "wikilink") (USA)
+- [Earth First!](Earth_First!.md "wikilink")
+- [Earth Liberation Front](Earth_Liberation_Front.md "wikilink")
 - Federation of Anarchist Communists (Italy)
 - Freedom Shop (New Zealand)
 - Free Workers' Union (Germany)
@@ -44,7 +44,7 @@ educate and organize the general public around the principles of
 - Iberian Anarchist Federation (Spain)
 - Iberian Federation of Libertarian Youth (Spain)
 - [Industrial Workers of the
-  World](Industrial_Workers_of_the_World "wikilink")
+  World](Industrial_Workers_of_the_World.md "wikilink")
 - Informal Anarchist Federation (Italy)
 - Institute for Anarchist Studies (USA)
 - International of Anarchist Federations
@@ -55,15 +55,15 @@ educate and organize the general public around the principles of
 - Joaquin Penina Libertarian Column (Argentina)
 - Jura Books (Australia)
 - Libertarian Alternative (France)
-- [LibSoc.net](LibSoc.net "wikilink") (UK)
+- [LibSoc.net](LibSoc.net.md "wikilink") (UK)
 - Melbourne Anarchist Club (Australia)
 - Mujeres Creando (Bolivia)
 - Mutiny Collective (Australia)
 - National Confederation of Labour (France)
 - [National Confederation of
-  Labour](National_Confederation_of_Labour_(Spain) "wikilink") (Spain)
+  Labour](National_Confederation_of_Labour_(Spain).md "wikilink") (Spain)
 - [Popular Indigenous Council of Oaxaca "Ricardo Flores
-  Magón"](CIPO-RFM "wikilink") (Mexico)
+  Magón"](CIPO-RFM.md "wikilink") (Mexico)
 - Portland Anarchist Road Care (USA)
 - Redneck Revolt (USA)
 - Red Emma's (USA)
@@ -88,11 +88,11 @@ educate and organize the general public around the principles of
 
 ## Defunct
 
-- [Arditi Del Popolo](Arditi_Del_Popolo "wikilink") (Italy)
+- [Arditi Del Popolo](Arditi_Del_Popolo.md "wikilink") (Italy)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Lists](Category:Lists "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Lists](Category:Lists.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")

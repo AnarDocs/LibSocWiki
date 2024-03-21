@@ -4,8 +4,8 @@ permalink: /Luisa_Capetillo/
 ---
 
 **Luisa Capetillo** (1879 - 1922) was a [Christian
-Anarchist](Christian_Anarchism "wikilink"), labor organizer,
-[feminist](Feminism "wikilink") and [free love](Free_Love "wikilink")
+Anarchist](Christian_Anarchism.md "wikilink"), labor organizer,
+[feminist](Feminism.md "wikilink") and [free love](Free_Love.md "wikilink")
 advocate.
 
 ## Life
@@ -13,7 +13,7 @@ advocate.
 ### Early Life
 
 She was born in Arecibo, Puerto Rico. To a Basque and Corsican immigrant
-family, she was home-schooled by her [liberal](Liberalism "wikilink")
+family, she was home-schooled by her [liberal](Liberalism.md "wikilink")
 parents before having children at 19 (1898) and working in a cigar
 factory.
 
@@ -21,8 +21,8 @@ factory.
 
 She was exposed to trade unions in the cigar factory, and was strongly
 influenced by feminist and romanticist philosophy taught by her parents.
-Reading [Tolstoy](Leo_Tolstoy "wikilink") and
-[Malatesta](Errico_Malatesta "wikilink") also had a strong influence on
+Reading [Tolstoy](Leo_Tolstoy.md "wikilink") and
+[Malatesta](Errico_Malatesta.md "wikilink") also had a strong influence on
 her.
 
 ### Political Activities
@@ -48,26 +48,26 @@ ancient material or intellectual slave."[^2]
 
 <references />
 
-[Category:Anarchists](Category:Anarchists "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
 [Category:Christian
-Anarchists](Category:Christian_Anarchists "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink") [Category:Christian
-Anarchism](Category:Christian_Anarchism "wikilink")
-[Category:Feminism](Category:Feminism "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
+Anarchists](Category:Christian_Anarchists.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink") [Category:Christian
+Anarchism](Category:Christian_Anarchism.md "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Puerto
-Rico](Category:Puerto_Rico "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:Free
-Love](Category:Free_Love "wikilink") [Category:Latin
-America](Category:Latin_America "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Puerto
+Rico](Category:Puerto_Rico.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:Free
+Love](Category:Free_Love.md "wikilink") [Category:Latin
+America](Category:Latin_America.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Luisa_Capetillo>
 
 [^2]:

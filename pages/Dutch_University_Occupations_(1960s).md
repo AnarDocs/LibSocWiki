@@ -5,16 +5,16 @@ permalink: /Dutch_University_Occupations_(1960s)/
 
 The Dutch University Occupations of the 1960s were a series of student
 strikes and university occupations aiming to democratise the university
-system in the [Netherlands](Netherlands "wikilink") in favour of workers
+system in the [Netherlands](Netherlands.md "wikilink") in favour of workers
 and students.
 
 ## Background
 
 Inspired by similar movements in
-[France](May_1968_Events_in_France "wikilink") and Germany, a new
+[France](May_1968_Events_in_France.md "wikilink") and Germany, a new
 student movement began aiming for the restructuring of the university
 system around democratic lines. Traditionally, Dutch universities were
-public and managed by the [state](State_(Polity) "wikilink"). A Board of
+public and managed by the [state](State_(Polity).md "wikilink"). A Board of
 Curators (College van Curatoren) was responsible for upholding laws and
 regulations implemented by the government over universities, maintaining
 the quality of the teaching programmes, academic buildings, and

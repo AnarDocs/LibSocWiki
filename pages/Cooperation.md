@@ -3,8 +3,8 @@ title: Cooperation
 permalink: /Cooperation/
 ---
 
-*Not to be confused with [cooperatives](Cooperative "wikilink") or
-[co-optation](co-optation "wikilink")*
+*Not to be confused with [cooperatives](Cooperative.md "wikilink") or
+[co-optation](co-optation.md "wikilink")*
 
 **Cooperation** or **Mutual Aid** is the process of groups of organisms
 working or acting together for common, mutual, or some underlying
@@ -21,5 +21,5 @@ block of humanity, but all life and reality itself.
 - Organisms form food chains and ecosystems.
 - People form families, communities, cities, economies and cultures.
 
-[Category:Concepts](Category:Concepts "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

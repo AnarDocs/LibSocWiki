@@ -3,9 +3,9 @@ title: Comoros
 permalink: /Comoros/
 ---
 
-The **Union of the Comoros** is a [liberal](Liberalism "wikilink"),
-[colonial](Colonialism "wikilink"), [capitalist](Capitalism "wikilink")
-[state](List_of_States "wikilink") located in the Indian Ocean off the
+The **Union of the Comoros** is a [liberal](Liberalism.md "wikilink"),
+[colonial](Colonialism.md "wikilink"), [capitalist](Capitalism.md "wikilink")
+[state](List_of_States.md "wikilink") located in the Indian Ocean off the
 East Coast of Africa.
 
 ## History
@@ -32,18 +32,18 @@ Development of the Comoros is divided into phases. The earliest reliably
 recorded phase is the Dembeni phase (ninth to tenth centuries), during
 which each island maintained a single, central village. From the
 eleventh to the fifteenth centuries, trade with the island of
-[Madagascar](Madagascar "wikilink") and merchants from the Middle East
+[Madagascar](Madagascar.md "wikilink") and merchants from the Middle East
 flourished, smaller villages emerged, and existing towns expanded. Many
 Comorians can trace their genealogies to ancestors from
-[Yemen](Yemen "wikilink"), mainly Hadhramaut, and
-[Oman](Oman "wikilink").
+[Yemen](Yemen.md "wikilink"), mainly Hadhramaut, and
+[Oman](Oman.md "wikilink").
 
 ### Middle Ages
 
-According to legend, in 632, upon hearing of [Islam](Islam "wikilink"),
+According to legend, in 632, upon hearing of [Islam](Islam.md "wikilink"),
 islanders are said to have dispatched an emissary, Mtswa-Mwindza, to
-Mecca ([Saudi Arabia](Saudi_Arabia "wikilink")) - but by the time he
-arrived there, the [Prophet Muhammad](Muhammad "wikilink") had died.
+Mecca ([Saudi Arabia](Saudi_Arabia.md "wikilink")) - but by the time he
+arrived there, the [Prophet Muhammad](Muhammad.md "wikilink") had died.
 Nonetheless, after a stay in Mecca, he returned to Ngazidja and led the
 gradual conversion of his islanders to Islam.
 
@@ -57,16 +57,16 @@ coast, both small and large mosques were constructed. Despite its
 distance from the coast, the Comoros is situated along the Swahili Coast
 in East Africa. It was a major hub of trade and an important location in
 a network of trading towns that included Kilwa, in present-day
-[Tanzania](Tanzania "wikilink"), Sofala (an outlet for
-[Zimbabwean](Zimbabwe "wikilink") gold), in
-[Mozambique](Mozambique "wikilink"), and Mombasa in
-[Kenya](Kenya "wikilink").
+[Tanzania](Tanzania.md "wikilink"), Sofala (an outlet for
+[Zimbabwean](Zimbabwe.md "wikilink") gold), in
+[Mozambique](Mozambique.md "wikilink"), and Mombasa in
+[Kenya](Kenya.md "wikilink").
 
 After the arrival of [the
-Portuguese](Timeline_of_Portuguese_Imperialism "wikilink") in the early
+Portuguese](Timeline_of_Portuguese_Imperialism.md "wikilink") in the early
 15th century and subsequent collapse of the East African sultanates, the
 powerful Omani Sultan Saif bin Sultan began to defeat the
-[Dutch](Timeline_of_Dutch_Imperialism "wikilink") and the Portuguese.
+[Dutch](Timeline_of_Dutch_Imperialism.md "wikilink") and the Portuguese.
 His successor Said bin Sultan increased Omani Arab influence in the
 region, moving his administration to nearby Zanzibar, which came under
 Omani rule. Nevertheless, the Comoros remained independent, and although
@@ -75,7 +75,7 @@ island, Ngazidja, was divided into a number of autonomous kingdoms
 (*ntsi*). By the time Europeans showed interest in the Comoros, the
 islanders were well placed to take advantage of their needs, initially
 supplying ships of the route to India and, later,
-[slaves](Slavery "wikilink") to the plantation islands in the
+[slaves](Slavery.md "wikilink") to the plantation islands in the
 Mascarenes.
 
 ### Colonisation
@@ -84,11 +84,11 @@ Portuguese explorers first visited the archipelago in 1503. The islands
 provided provisions to the Portuguese fort at Mozambique throughout the
 16th century. In 1793, Malagasy warriors from Madagascar first started
 raiding the islands for slaves. [France first established colonial rule
-in the Comoros in 1841](Timeline_of_French_Imperialism "wikilink"). It
+in the Comoros in 1841](Timeline_of_French_Imperialism.md "wikilink"). It
 was estimated in 1865 that as much as 40% of the population consisted of
 slaves. The islands served as a way station for merchants sailing to
-Asia and [India](India "wikilink") until the opening of the [Suez
-Canal](Suez_Canal "wikilink") significantly reduced traffic passing
+Asia and [India](India.md "wikilink") until the opening of the [Suez
+Canal](Suez_Canal.md "wikilink") significantly reduced traffic passing
 through the Mozambique Channel. The native commodities exported by the
 Comoros were coconuts, cattle and tortoiseshell. French settlers,
 French-owned companies, and wealthy Arab merchants established a
@@ -110,7 +110,7 @@ of French rule. In 1912 the colony and the protectorates were abolished
 and the islands became a province of the colony of Madagascar.
 
 Agreement was reached with France in 1973 for the Comoros to be
-[decolonised](Decolonisation "wikilink") in 1978. The deputies of
+[decolonised](Decolonisation.md "wikilink") in 1978. The deputies of
 Mayotte abstained. Referendums were held on all four of the islands.
 Three voted for independence by large margins, while Mayotte voted
 against, and remains under French administration. On the 6th of July
@@ -128,12 +128,12 @@ member Prince Said Mohamed Jaffar. Months later, in January 1976, Jaffar
 was ousted in favour of his Minister of Defense Ali Soilih. Soilih
 instituted a number of socialist and isolationist policies that soon
 strained relations with France. On the 13th of May, 1978, [Bob
-Denard](Bob_Denard "wikilink"), a supporter of
-[Francafrique](Francafrique "wikilink"), overthrew the government with
+Denard](Bob_Denard.md "wikilink"), a supporter of
+[Francafrique](Francafrique.md "wikilink"), overthrew the government with
 the support of France, Rhodesia and South Africa. The new President
 Abdallah reversed the secular measures taken by Soilih and became
 increasingly authoritarian and Islamic. Fearing a possible coup in
-[1989](Revolutions_of_1989_-_1992 "wikilink"), he ordered the
+[1989](Revolutions_of_1989_-_1992.md "wikilink"), he ordered the
 Presidential Guard (led by Bob Denard) to disarm the military, shortly
 afterwards, Abdallah was allegedly shot dead in his office by a
 disgruntled military officer, though later sources claim an antitank
@@ -149,7 +149,7 @@ rejected their request, leading to bloody confrontations between federal
 troops and rebels.
 
 The Comoros became a [representative democracy in
-2010](Timeline_of_Representative_Democracy "wikilink").
+2010](Timeline_of_Representative_Democracy.md "wikilink").
 
 ## Major Social Struggles
 
@@ -157,9 +157,9 @@ The Comoros became a [representative democracy in
 - 2018: Comoros Revolt
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:States](Category:States "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink") [Category:Colonial
-States](Category:Colonial_States "wikilink") [Category:Eastern
-Africa](Category:Eastern_Africa "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:States](Category:States.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink") [Category:Colonial
+States](Category:Colonial_States.md "wikilink") [Category:Eastern
+Africa](Category:Eastern_Africa.md "wikilink")

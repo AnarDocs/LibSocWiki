@@ -8,7 +8,7 @@ political perspectives which emphasise the importance, benefits,
 inevitability and normalcy of hierarchy. Right-wing politics often
 emphasises the importance of concepts like loyalty, respect for
 authority, purity, family, tradition, hard work and a natural order. In
-addition, strong belief in [capitalism](capitalism "wikilink") and
+addition, strong belief in [capitalism](capitalism.md "wikilink") and
 opposition to modern social justice movements is seen as a right-wing
 belief, despite frequent conflicts with the anti-capitalist right.
 
@@ -27,17 +27,17 @@ concept of:
 - *Sanctity* or *purity*: abhorrence for disgusting things, foods,
   actions; opposite of *degradation*
 
-In contrast to the [political left](Left-Wing_Politics "wikilink"), who
+In contrast to the [political left](Left-Wing_Politics.md "wikilink"), who
 only embrace the concepts of *care* and *fairness*, and value the
 concepts much more highly.
 
 ## Right-Wing Ideas
 
-- [Fascism](Fascism "wikilink")
-- [Conservatism](Conservatism "wikilink")
-- [Right-Libertarianism](Right-Libertarianism "wikilink")
-- [Anarcho-Capitalism](Anarcho-Capitalism "wikilink")
+- [Fascism](Fascism.md "wikilink")
+- [Conservatism](Conservatism.md "wikilink")
+- [Right-Libertarianism](Right-Libertarianism.md "wikilink")
+- [Anarcho-Capitalism](Anarcho-Capitalism.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

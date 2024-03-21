@@ -4,24 +4,24 @@ permalink: /Alcatraz_Occupation/
 ---
 
 The **Occupation of Alcatraz** was a 19-month long protest
-[occupation](occupation "wikilink")
-([1969](Timeline_of_Indigenism "wikilink") -
-[1971](Revolutions_of_1967_-_1975 "wikilink")) when 89 indigenous
+[occupation](occupation.md "wikilink")
+([1969](Timeline_of_Indigenism.md "wikilink") -
+[1971](Revolutions_of_1967_-_1975.md "wikilink")) when 89 indigenous
 Americans and their supporters occupied Alcatraz Island in San
-Francisco, [USA](United_States_of_America "wikilink"). This group lived
+Francisco, [USA](United_States_of_America.md "wikilink"). This group lived
 on the island together until the protest was forcibly ended by the U.S.
 government.
 
 ## Background
 
-Since the [creation](American_Revolution "wikilink") of the
-[USA](United_States_of_America "wikilink"), its government had acted in
+Since the [creation](American_Revolution.md "wikilink") of the
+[USA](United_States_of_America.md "wikilink"), its government had acted in
 an extremely oppressive manner towards the indigenous population.
 Violating treaties made, subjecting them to brutal racism and stealing
 their lands.
 
 In the 1960s, the success of the [civil rights
-movement](Civil_Rights_Movement_(USA) "wikilink") kicked off a global
+movement](Civil_Rights_Movement_(USA).md "wikilink") kicked off a global
 wave of unrest as women, workers, ethnic minorities, environmentalists,
 indigenous people and the LGBT community demanded greater rights and
 power. In the USA, the indigenous movement became fairly big.
@@ -51,9 +51,9 @@ called. "The Indians have landed!"
 Indigenous and non-indigenous people supported the occupation, supplies
 were delivered secretly by canoes which avoided coast guard patrols.
 Additionally, the [International Longshore and Warehouse
-Union](International_Longshore_and_Warehouse_Union "wikilink") supported
+Union](International_Longshore_and_Warehouse_Union.md "wikilink") supported
 the occupation, threatening [to shut down California's major
-ports](Political_Strike "wikilink") if the protesters were evicted.
+ports](Political_Strike.md "wikilink") if the protesters were evicted.
 Protesters also set up a radio station called "Radio Free Alcatraz"
 which made 39 30-minute broadcasts of which some can be listened to
 here. The host, Isani Sioux John Trudell (considered by the FBI to be
@@ -87,16 +87,16 @@ people were banned from staying on the island overnight. Electricity and
 telephones to the island was cut by the government, destroying Radio
 Free Alcatraz and the occupations reputation began to worsen. Internal
 divisions among protesters also began to heighten tensions, including
-accusations of [co-optation](co-optation "wikilink") by celebrity
+accusations of [co-optation](co-optation.md "wikilink") by celebrity
 supporters. Faced with internal divisions, lack of fresh water and
 electricity, decreasing public support, people began leaving the
 occupation until just 15 people remained who were removed by a large
-[police](police "wikilink") raid on the 11th of June, 1971.
+[police](police.md "wikilink") raid on the 11th of June, 1971.
 
 ## Results
 
 Along with the [Wounded Knee
-Occupation](Wounded_Knee_Occupation "wikilink"), this became one of the
+Occupation](Wounded_Knee_Occupation.md "wikilink"), this became one of the
 most notable actions of the indigenous movement in the USA and the
 protests of the late 1960s and early 1970s. In 1975, the Indian
 Self-Determination and Education Assistance Act of 1975 was passed by
@@ -109,19 +109,19 @@ following years.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Occupation of
+[Wikipedia](Wikipedia.md "wikilink") - [Occupation of
 Alcatraz](https://en.wikipedia.org/wiki/Occupation_of_Alcatraz)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:1969](Category:1969 "wikilink")
-[Category:1970](Category:1970 "wikilink")
-[Category:1971](Category:1971 "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1960s](Category:1960s "wikilink") [Category:Revolutions of
-1967 - 1975](Category:Revolutions_of_1967_-_1975 "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Events](Category:Events "wikilink")
-[Category:Occupations](Category:Occupations "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:1969](Category:1969.md "wikilink")
+[Category:1970](Category:1970.md "wikilink")
+[Category:1971](Category:1971.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink") [Category:Revolutions of
+1967 - 1975](Category:Revolutions_of_1967_-_1975.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Events](Category:Events.md "wikilink")
+[Category:Occupations](Category:Occupations.md "wikilink")

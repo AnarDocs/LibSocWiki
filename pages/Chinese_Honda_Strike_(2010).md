@@ -4,18 +4,18 @@ permalink: /Chinese_Honda_Strike_(2010)/
 ---
 
 The **Chinese Honda Strike of 2010** refers to [three
-strikes](List_of_Strikes "wikilink") in [China](China "wikilink") that
+strikes](List_of_Strikes.md "wikilink") in [China](China.md "wikilink") that
 happened in [May and June of
-2010by](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink")
+2010by](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink")
 car factory workers. It was part of a [broader global wave of
-unrest](Revolutions_of_2008_-_2014 "wikilink"), but [especially in
-China](Chinese_Protest_Wave_(2007_-_2014) "wikilink").
+unrest](Revolutions_of_2008_-_2014.md "wikilink"), but [especially in
+China](Chinese_Protest_Wave_(2007_-_2014).md "wikilink").
 
 ## Background
 
 In 2009, China became the world's fastest growing automobile market. One
 corporation that contributed to the market's remarkable growth was Honda
-Motor Corporation. Honda, a [Japanese](Japan "wikilink") corporation
+Motor Corporation. Honda, a [Japanese](Japan.md "wikilink") corporation
 that first entered China in 1999, had four car plants in China. In 2010,
 sweeping labor unrest spread throughout China and workers at Honda's
 four car plants seized the opportunity to seek out higher pay and better
@@ -78,16 +78,16 @@ continue protesting.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Chinese
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Chinese
 autoworkers strike to demand higher wages from Honda,
 2010](https://nvdatabase.swarthmore.edu/content/chinese-autoworkers-strike-demand-higher-wages-honda-2010)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:2010](Category:2010 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:2010](Category:2010.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")

@@ -11,24 +11,24 @@ documenting resistance to authoritarianism and capitalism from all over
 the world.
 
 If you're new to libertarian socialism, start
-[here](Introduction_to_Libertarian_Socialism "wikilink").
+[here](Introduction_to_Libertarian_Socialism.md "wikilink").
 
 ## Main Pages
 
-- [Libertarian Socialism](Libertarian_Socialism "wikilink")
+- [Libertarian Socialism](Libertarian_Socialism.md "wikilink")
 - [Timeline of Libertarian
-  Socialism](Timeline_of_Libertarian_Socialism "wikilink")
+  Socialism](Timeline_of_Libertarian_Socialism.md "wikilink")
 - [List of Libertarian Socialist
-  Societies](List_of_Libertarian_Socialist_Societies "wikilink")
+  Societies](List_of_Libertarian_Socialist_Societies.md "wikilink")
 - [List of Libertarian Socialist
-  Revolutions](List_of_Libertarian_Socialist_Revolutions "wikilink")
+  Revolutions](List_of_Libertarian_Socialist_Revolutions.md "wikilink")
 - [List of Libertarian Socialist
-  Organizations](List_of_Libertarian_Socialist_Organizations "wikilink")
+  Organizations](List_of_Libertarian_Socialist_Organizations.md "wikilink")
 - [List of Libertarian Socialist
-  Media](List_of_Libertarian_Socialist_Media "wikilink")
+  Media](List_of_Libertarian_Socialist_Media.md "wikilink")
 - [List of Libertarian
-  Socialists](List_of_Libertarian_Socialists "wikilink")
-- [List of Lists](List_of_Lists "wikilink")
+  Socialists](List_of_Libertarian_Socialists.md "wikilink")
+- [List of Lists](List_of_Lists.md "wikilink")
 
 ## Latest Edits
 
@@ -48,7 +48,7 @@ below!
 
 <mainpage-endcolumn />
 
-[Category:Browse](Category:Browse "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+[Category:Browse](Category:Browse.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

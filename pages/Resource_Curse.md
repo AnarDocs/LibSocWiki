@@ -30,5 +30,5 @@ debate about the reasons for, and exceptions to, these adverse outcomes
 
 Oil and gas account for about 40% of GDP and 80% of exports in the
 country yet compared to the rest of the Caribbean it quite stable,
-having never suffered a dictatorship (unlike [Cuba](Cuba "wikilink"),
+having never suffered a dictatorship (unlike [Cuba](Cuba.md "wikilink"),
 Haiti, Dominican Republic and Grenada)

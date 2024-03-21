@@ -4,12 +4,12 @@ permalink: /C.1.2_(An_Anarchist_FAQ)/
 ---
 
 **C.1.2 Is economics a science?** is the third chapter of [Section
-C](Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist_FAQ) "wikilink")
-of [An Anarchist FAQ](An_Anarchist_FAQ "wikilink").
+C](Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist_FAQ).md "wikilink")
+of [An Anarchist FAQ](An_Anarchist_FAQ.md "wikilink").
 
 ## Transcript
 
-In a word, no. If by “[scientific](Science "wikilink")” it is meant in
+In a word, no. If by “[scientific](Science.md "wikilink")” it is meant in
 the usual sense of being based on empirical observation and on
 developing an analysis that was consistent with and made sense of the
 data, then most forms of economics are not a science. Rather than base
@@ -26,10 +26,10 @@ evaluations of existing products and, unsurprisingly, economics is
 indelibly marked by “the dominance of a theoretical vision that treats
 the inner workings of the production process as a ‘black box.’” This
 means that the “neoclassical theory of the ‘capitalist’ economy makes no
-qualitative distinction between the [corporate](Corporation "wikilink")
+qualitative distinction between the [corporate](Corporation.md "wikilink")
 enterprise that employs tens of thousands of people and the small family
 undertaking that does no employ any [wage
-labour](Wage_Labour "wikilink") at all. As far as theory is concerned,
+labour](Wage_Labour.md "wikilink") at all. As far as theory is concerned,
 it is technology and market forces, not structures of social power, that
 govern the activities of corporate capitalists and petty proprietors
 alike.” \[William Lazonick, Competitive Advantage on the Shop Floor, p.
@@ -51,12 +51,12 @@ These are logically necessary for the neo-classical theory to work.
 Non-economists would, of course, think that these assumptions are
 generalisations based on empirical evidence. However, they are not. Take
 the U-shaped average cost curve. This was simply invented by [A. C.
-Pigou](Arthur_Cecil_Pigou "wikilink"), “a loyal disciple of \[leading
+Pigou](Arthur_Cecil_Pigou.md "wikilink"), “a loyal disciple of \[leading
 neo-classical Alfred\] Marshall and quite innocent of any knowledge of
 industry. He therefore constructed a U-shaped average cost curve for a
-firm, showing [economies of scale](Economy_of_Scale "wikilink") up to a
+firm, showing [economies of scale](Economy_of_Scale.md "wikilink") up to a
 certain size and rising costs beyond it.” [\[Joan
-Robinson]([Joan_Robinson "wikilink"), Collected Economic Papers, vol. 5,
+Robinson]([Joan_Robinson.md "wikilink"), Collected Economic Papers, vol. 5,
 p. 11\] The invention was driven by need of the theory, not the facts.
 With increasing returns to scale, then large firms would have cost
 advantages against small ones and would drive them out of business in
@@ -87,7 +87,7 @@ decades after the theory was proposed it showed that in most cases the
 opposite is the case: that there were constant or even falling costs in
 production. Just as the theories of marginality and diminishing marginal
 returns taking over economics, the real world was showing how wrong it
-was with the rise of [corporations](Corporation "wikilink") across the
+was with the rise of [corporations](Corporation.md "wikilink") across the
 world. So the reason why the market become dominated by a few firms
 should be obvious enough: actual corporate price is utterly different
 from the economic theory.
@@ -100,7 +100,7 @@ rose, their marginal costs were always well below their average costs,
 and substantially smaller than ‘marginal revenue’, and the concept of a
 ‘demand curve’ (and therefore its derivative ‘marginal revenue’) was
 simply irrelevant. Unsurprisingly, real firms set their
-[prices](Price "wikilink") prior to sales, based on a mark-up on costs
+[prices](Price.md "wikilink") prior to sales, based on a mark-up on costs
 at a target rate of output.
 
 In other words, they did not passively react to the market. These prices

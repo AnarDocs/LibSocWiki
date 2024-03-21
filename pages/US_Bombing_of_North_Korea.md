@@ -4,9 +4,9 @@ permalink: /US_Bombing_of_North_Korea/
 ---
 
 The **US Bombing of North Korea** refers to the extensive bombing
-campaign against [North Korea](North_Korea "wikilink") from [1950 to
-1953](Timeline_of_US_Hegemony "wikilink") during the [Korean
-War](Korean_War "wikilink") and its catastrophic consequences for the
+campaign against [North Korea](North_Korea.md "wikilink") from [1950 to
+1953](Timeline_of_US_Hegemony.md "wikilink") during the [Korean
+War](Korean_War.md "wikilink") and its catastrophic consequences for the
 people of North Korea.
 
 ## The Bombings
@@ -54,9 +54,9 @@ constituted a "supply center."
   Dean, reported that the majority of North Korean cities and villages
   he saw were either rubble or snow-covered wasteland.
 - In May 1951, an international fact-finding team from [East
-  Germany](East_Germany "wikilink"), [West
-  Germany](West_Germany "wikilink"), [China](China "wikilink") and the
-  [Netherlands](Netherlands "wikilink") stated, "The members, in the
+  Germany](East_Germany.md "wikilink"), [West
+  Germany](West_Germany.md "wikilink"), [China](China.md "wikilink") and the
+  [Netherlands](Netherlands.md "wikilink") stated, "The members, in the
   whole course of their journey, did not see one town that had not been
   destroyed, and there were very few undamaged villages."
 - In June 1951, General O'Donnell, commander of the Far Eastern Air

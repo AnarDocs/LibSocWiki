@@ -16,7 +16,7 @@ called an electrician or sparky.
 
 ### Hydro
 
-*See Also: [Anti-Dam Movements](Anti-Dam_Movements "wikilink")*
+*See Also: [Anti-Dam Movements](Anti-Dam_Movements.md "wikilink")*
 
 Hydroelectric power, or water power in general, involves taking
 advantage of water that has been raised due to evaporation by the sun,
@@ -118,7 +118,7 @@ countries produce a lot more. The heaviest user is Denmark at 39% in
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Physics](Category:Physics "wikilink")
-[Category:Science](Category:Science "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Physics](Category:Physics.md "wikilink")
+[Category:Science](Category:Science.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

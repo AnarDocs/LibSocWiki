@@ -4,7 +4,7 @@ permalink: /Joe_Hill/
 ---
 
 **Joel Emmanuel Hägglund** (1879 - 1915) was an
-[IWW](Industrial_Workers_of_the_World "wikilink") organizer and
+[IWW](Industrial_Workers_of_the_World.md "wikilink") organizer and
 songwriter. He was executed by the US state in controversial
 circumstances, with many arguing it was politically motivated.
 
@@ -13,9 +13,9 @@ circumstances, with many arguing it was politically motivated.
 ### Family
 
 Joe Hill was born to a family of 9 (only 6 survived past the age of 5)
-in Gävle, Gästrikland, [Sweden](Sweden "wikilink"). His father, Olof,
+in Gävle, Gästrikland, [Sweden](Sweden.md "wikilink"). His father, Olof,
 worked as a train conductor on the [Gefle Dala
-Railway](Rail_Transport "wikilink") and his family was deeply religious
+Railway](Rail_Transport.md "wikilink") and his family was deeply religious
 and interested in music.
 
 ### Childhood
@@ -23,11 +23,11 @@ and interested in music.
 As a child, Joe Hill learned how to play banjo, guitar, piano and the
 harmonica. He began writing songs about his family members, but this was
 cut short after his fathers death from a [heart
-attack](Health "wikilink") following a [surgery](Healthcare "wikilink").
+attack](Health.md "wikilink") following a [surgery](Healthcare.md "wikilink").
 Pushing his family into dire poverty, forcing Joe to work at a local
 rope store and a construction worker, interacting with
-[coal](Fossil_Fuels "wikilink") and the [steam
-engine](Steam_Engine "wikilink").
+[coal](Fossil_Fuels.md "wikilink") and the [steam
+engine](Steam_Engine.md "wikilink").
 
 He contracted tuberculosis that affected his skin and bones, and
 underwent several x-rays and skin treatments in Stockholm, scarring his
@@ -38,10 +38,10 @@ neck and face.
 His late teenager and early adulthood was spent gambling, his mothers
 death meant that he and his siblings sold their house and went their
 desperate ways. With Joe heading to New York City,
-[USA](United_States_of_America "wikilink"), living in the cities
+[USA](United_States_of_America.md "wikilink"), living in the cities
 immigrant slums and working as a cleaner. He later traveled across the
-country being [unemployed](Unemployment "wikilink") and underemployed as
-a [farmer](Agriculture "wikilink"), construction worker, dockworker and
+country being [unemployed](Unemployment.md "wikilink") and underemployed as
+a [farmer](Agriculture.md "wikilink"), construction worker, dockworker and
 lumberjack. He also witnessed the 1906 San Francisco Earthquake (which
 killed 3,000 people).
 
@@ -50,7 +50,7 @@ killed 3,000 people).
 Witnessing poverty and inequality, as well as the mistreating of
 immigrant workers gave Joe a cynical view of America, and he joined the
 [Industrial Workers of the
-World](Industrial_Workers_of_the_World "wikilink") in 1910 while working
+World](Industrial_Workers_of_the_World.md "wikilink") in 1910 while working
 at the port of San Pedro, California. He changed his named from Joel
 Hägglund to Joseph Hillström for unknown reasons. It is speculated that
 this was done to avoid union blacklists or to avoid police from his
@@ -59,7 +59,7 @@ criminal activities.
 ### Political Activities
 
 He began to organize strikes and wrote songs from the IWW, and during
-the [Mexican Revolution](Mexican_Revolution "wikilink") he traveled to
+the [Mexican Revolution](Mexican_Revolution.md "wikilink") he traveled to
 Tijuana and attempted to get US soldiers to volunteer with Mexican
 Revolutionaries. He was eventually violently beaten in San Diego after
 
@@ -490,16 +490,16 @@ which he wrote the night before his execution.
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:IWW](Category:IWW "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:USA](Category:USA "wikilink")
-[Category:Sweden](Category:Sweden "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Musicians](Category:Musicians "wikilink")
-[Category:Scandanavia](Category:Scandanavia "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:IWW](Category:IWW.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:USA](Category:USA.md "wikilink")
+[Category:Sweden](Category:Sweden.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:Musicians](Category:Musicians.md "wikilink")
+[Category:Scandanavia](Category:Scandanavia.md "wikilink")

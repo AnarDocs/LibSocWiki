@@ -4,22 +4,22 @@ permalink: /Resistance_to_Pinochet/
 ---
 
 **Resistance to Pinochet** refers to various methods taken out by
-leftist [guerillas](Guerilla_Warfare "wikilink") in
-[Chile](Chile "wikilink") under the[Pinochet
-Dictatorship](Pinochet_Dictatorship "wikilink").
+leftist [guerillas](Guerilla_Warfare.md "wikilink") in
+[Chile](Chile.md "wikilink") under the[Pinochet
+Dictatorship](Pinochet_Dictatorship.md "wikilink").
 
 ## Groups
 
 - [Revolutionary Left
-  Movement](Revolutionary_Left_Movement_(Chile) "wikilink") (MIR) -
+  Movement](Revolutionary_Left_Movement_(Chile).md "wikilink") (MIR) -
   Marxist-Leninist guerilla group that evolved out of student activism
   and trade unions in 1967.
-- [Lautaro Youth Movement](Lautaro_Youth_Movement_(Chile) "wikilink")
+- [Lautaro Youth Movement](Lautaro_Youth_Movement_(Chile).md "wikilink")
   (MJL) - Marxist-Leninist-Maoist guerilla group that was formed by
   former members of the MAPU political party, a small democratic
   socialist political party inspired by Liberation Theology in 1982.
 - [Manuel Rodriguez Patriotic
-  Front](Manuel_Rodriguez_Patriotic_Front_(Chile) "wikilink") (FPMR) -
+  Front](Manuel_Rodriguez_Patriotic_Front_(Chile).md "wikilink") (FPMR) -
   Marxist-Leninist guerilla group that formed as the paramilitary wing
   of the Communist Party of Chile in 1983.
 
@@ -261,18 +261,18 @@ Sergeo Olivares and Martin Urtubia, who came to Canada in
 
 \[<https://en.wikipedia.org/wiki/Armed_resistance_in_Chile_(1973–1990>)
 Armed Resistance in Chile (1973-1990)\] at
-[Wikipedia](Wikipedia "wikilink")
+[Wikipedia](Wikipedia.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Chile](Category:Chile "wikilink")
-[Category:1973](Category:1973 "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1980s](Category:1980s "wikilink")
-[Category:1988](Category:1988 "wikilink")
-[Category:1980](Category:1980 "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:South
-America](Category:South_America "wikilink") [Category:Guerilla
-Warfare](Category:Guerilla_Warfare "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink") [Category:Resistance
-Movements](Category:Resistance_Movements "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Chile](Category:Chile.md "wikilink")
+[Category:1973](Category:1973.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink")
+[Category:1988](Category:1988.md "wikilink")
+[Category:1980](Category:1980.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink") [Category:Guerilla
+Warfare](Category:Guerilla_Warfare.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink") [Category:Resistance
+Movements](Category:Resistance_Movements.md "wikilink")

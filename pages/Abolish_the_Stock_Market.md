@@ -4,7 +4,7 @@ permalink: /Abolish_the_Stock_Market/
 ---
 
 **Abolish the Stock Market: A Brief Diagnosis of the Depression** is a
-2009 article by [James Herod](James_Herod "wikilink") that discusses the
+2009 article by [James Herod](James_Herod.md "wikilink") that discusses the
 Great Recession and a call to abolish the stock market.
 
 ## Transcript
@@ -13,7 +13,7 @@ Great Recession and a call to abolish the stock market.
 
 It is obscene and insane that a few ten thousand very rich persons
 (multi-millionaires and billionaires) can, by placing bets (gambling) in
-the world’s [stock exchanges](Stock_Market "wikilink") (casinos),
+the world’s [stock exchanges](Stock_Market.md "wikilink") (casinos),
 artificially jack up, within months, the price of rice, wheat, corn, and
 other food staples, thus forcing a billion or more people to the very
 edge of starvation. Obviously, such an abominable situation should not
@@ -21,15 +21,15 @@ exist.
 
 So you’d think there would be a great clamor to abolish the stock
 market. But then, you’d think that there would be a clamor to abolish
-the [CIA](CIA "wikilink") also, which is an absolute evil, and the
+the [CIA](CIA.md "wikilink") also, which is an absolute evil, and the
 Pentagon, an equally absolute evil, as well as Hollywood. But as big and
 bad as these outfits are they are nothing compared to the biggest
-abomination of them all – [capitalism](capitalism "wikilink"), including
-its [nation-state system](State_(Polity) "wikilink"). (While we’re in
-the abolishing mode, let’s abolish [money](money "wikilink"), which
+abomination of them all – [capitalism](capitalism.md "wikilink"), including
+its [nation-state system](State_(Polity).md "wikilink"). (While we’re in
+the abolishing mode, let’s abolish [money](money.md "wikilink"), which
 would get rid of all these evil institutions in one fell swoop.)
 
-The [current financial meltdown](Great_Recession "wikilink") we’re in is
+The [current financial meltdown](Great_Recession.md "wikilink") we’re in is
 just an artifact of capitalism, and it certainly can’t be explained
 without taking this system into account, although plenty of people are
 trying to do just that. The most popular explanation says that those
@@ -40,7 +40,7 @@ crisis from the writings of our radical social philosophers and
 historians who have studied the matter, scholars such as John Bellamy
 Foster and Fred Magdoff, most importantly, but also Immanuel
 Wallerstein, Michael Hudson, Michel Chossudovsky, Doug Henwood, and
-[Silvia Federici](Silvia_Federici "wikilink") / George Caffentzis, among
+[Silvia Federici](Silvia_Federici.md "wikilink") / George Caffentzis, among
 many others.
 
 To begin with, we are in the early stages of a major depression. This is
@@ -119,16 +119,16 @@ In recent years, in the United States, the financial wing of the
 capitalist ruling class, which is now predominant, has further
 compounded the madness by getting rid of all government regulations over
 its activities. It has gotten the situation back to pre-[World War
-I](World_War_I "wikilink") days when the Robber Barons had a completely
+I](World_War_I.md "wikilink") days when the Robber Barons had a completely
 free hand to do any damned thing they wanted to, the result being the
-[Great Depression of 1929](Great_Depression "wikilink"). So the
+[Great Depression of 1929](Great_Depression.md "wikilink"). So the
 Roosevelt wing of the ruling class stepped in, back then, to save
 capitalism from itself with the watered-down USAmerican version of the
 welfare state – the New Deal. This is not likely to happen again,
 because there is no massive socialist movement to exert pressure from
 below, nor is the ruling class as divided. Capitalists have never been
 in such complete control of everything as they now are in the [United
-States](United_States_of_America "wikilink"). They face no serious
+States](United_States_of_America.md "wikilink"). They face no serious
 opposition.
 
 What is the likely outcome of all this? We can see from the government’s
@@ -236,6 +236,6 @@ Hutchinson, Frances (and others), <em>The Politics of Money</em>
 McNally, David, <em>Against the Market</em>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Articles](Category:Articles "wikilink") [Category:James
-Herod](Category:James_Herod "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Articles](Category:Articles.md "wikilink") [Category:James
+Herod](Category:James_Herod.md "wikilink")

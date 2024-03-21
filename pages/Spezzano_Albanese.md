@@ -4,9 +4,9 @@ permalink: /Spezzano_Albanese/
 ---
 
 **Spezzano Albanese**is a [small
-town](List_of_Libertarian_Socialist_Societies "wikilink") which has
-practiced [anarchism](anarchism "wikilink") since
-[1992](Timeline_of_Libertarian_Socialism "wikilink").
+town](List_of_Libertarian_Socialist_Societies.md "wikilink") which has
+practiced [anarchism](anarchism.md "wikilink") since
+[1992](Timeline_of_Libertarian_Socialism.md "wikilink").
 
 ## History
 
@@ -14,11 +14,11 @@ practiced [anarchism](anarchism "wikilink") since
 
 Spezzano Albanese' adventures with anarchism began with community
 organizing efforts in the 1970s spurred on by the death of Franco in
-[Spain](Spain "wikilink") and reconstruction of the [Spanish
-CNT](National_Confederation_of_Labour_(Spain) "wikilink"). The
+[Spain](Spain.md "wikilink") and reconstruction of the [Spanish
+CNT](National_Confederation_of_Labour_(Spain).md "wikilink"). The
 Autonomous Movement and the [Piazza Fontana
-Massacre](Piazza_Fontana_Massacre "wikilink"), the beginning of the
-[Years of Lead](Years_of_Lead "wikilink").
+Massacre](Piazza_Fontana_Massacre.md "wikilink"), the beginning of the
+[Years of Lead](Years_of_Lead.md "wikilink").
 
 Two textile factories in the town were threatened with closure, and so
 several unemployed people, students and workers.
@@ -423,18 +423,18 @@ not exist. And without it we can't see what will come out of it.
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink") [Category:Community
-Organizing](Category:Community_Organizing "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Italy](Category:Italy "wikilink")
-[Category:1992](Category:1992 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink") [Category:Community
+Organizing](Category:Community_Organizing.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:Italy](Category:Italy.md "wikilink")
+[Category:1992](Category:1992.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

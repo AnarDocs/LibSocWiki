@@ -3,11 +3,11 @@ title: Canada
 permalink: /Canada/
 ---
 
-**Canada**is a [liberal](Liberalism "wikilink"),
-[colonial](Colonialism "wikilink"), [capitalist](Capitalism "wikilink")
-[state](State_(Polity) "wikilink") that occupies the northernmost
+**Canada**is a [liberal](Liberalism.md "wikilink"),
+[colonial](Colonialism.md "wikilink"), [capitalist](Capitalism.md "wikilink")
+[state](State_(Polity).md "wikilink") that occupies the northernmost
 sections of North America, bordering the
-[USA](United_States_of_America "wikilink") and Greenland.
+[USA](United_States_of_America.md "wikilink") and Greenland.
 
 ## Positives and Negatives
 
@@ -16,10 +16,10 @@ sections of North America, bordering the
 - Canada has a well functioning welfare state with universal healthcare,
   education and social support for the poor.
 - Canada has created one of the the most effective systems of
-  [multiculturalism](multiculturalism "wikilink") in the world.
+  [multiculturalism](multiculturalism.md "wikilink") in the world.
 - Canada is the only state in the world that has
-  [legalised](Drug_Liberalisation#Canada "wikilink")
-  [marijuana](marijuana "wikilink") for possession, consumption,
+  [legalised](Drug_Liberalisation#Canada.md "wikilink")
+  [marijuana](marijuana.md "wikilink") for possession, consumption,
   cultivation and distribution.
 - Canada has stayed out of the Vietnam War and Iraq War.
 - Canada ranks highly in terms of gender equality, social
@@ -32,10 +32,10 @@ sections of North America, bordering the
   engaged in invasions, suppression of rebellions, legal discrimination
   and massive disparities in health and wealth.
 - Canada's government has been an enthusiastic participant in
-  [British](Timeline_of_British_Imperialism "wikilink") and later [US
-  Imperialism](Timeline_of_US_Imperialism "wikilink"), sending soldiers
-  to Sudan, South Africa, China, [World War I](World_War_I "wikilink"),
-  Russia, [World War II](World_War_II "wikilink"), Korea, Iraq (1990),
+  [British](Timeline_of_British_Imperialism.md "wikilink") and later [US
+  Imperialism](Timeline_of_US_Imperialism.md "wikilink"), sending soldiers
+  to Sudan, South Africa, China, [World War I](World_War_I.md "wikilink"),
+  Russia, [World War II](World_War_II.md "wikilink"), Korea, Iraq (1990),
   Somalia, Yugoslavia, Afghanistan and Libya.[^1]
 - Canada has engaged in massive exploitation of oil reserves which
   produces a huge amount of pollution.
@@ -51,7 +51,7 @@ sections of North America, bordering the
 - 1899: Miners Strike
 - 1918: Easter Riots
 - 1918: [Canadian Strike
-  Wave](Canadian_Strike_Wave_(1918_-_1919) "wikilink")
+  Wave](Canadian_Strike_Wave_(1918_-_1919).md "wikilink")
 - 1918: Vancouver General Strike
 - 1919: Winnipeg General Strike
 - 1919: Calgary General Strike
@@ -71,16 +71,16 @@ sections of North America, bordering the
 - 1969: Amitchitka Island Anti-Nuclear Campaign
 - 1970: Abortion Caravan
 - 1971: James Bay Cree Hydroelectric Conflict
-- 1972: [Quebec General Strike](Quebec_General_Strike_(1972) "wikilink")
+- 1972: [Quebec General Strike](Quebec_General_Strike_(1972).md "wikilink")
 - 1976: Canadian General Strike
 - 1978: Sudbury Strike
 - 1979: Winnipeg Overpass Campaign
-- 1981: [BC Telephone Work-In](BC_Telephone_Work-In "wikilink")
+- 1981: [BC Telephone Work-In](BC_Telephone_Work-In.md "wikilink")
 - 1981: Restigouche raid
-- 1982: [Direct Action](Direct_Action_(Canada) "wikilink") bombings
+- 1982: [Direct Action](Direct_Action_(Canada).md "wikilink") bombings
 - 1983: Manitoba Feminism
 - 1984: Anti-Apartheid Protests
-- 1990: [Oka Uprising](Oka_Uprising "wikilink")
+- 1990: [Oka Uprising](Oka_Uprising.md "wikilink")
 - 1990: Safe Injection Campaign
 - 1991: Lubicon Creek Campaign
 - 1993: Toronto Anti-Racism
@@ -95,7 +95,7 @@ sections of North America, bordering the
 - 2005: Port of Montréal Blockade/Quebec Student Protests
 - 2006: Grand River Dispute
 - 2006: [Canadian Strike
-  Wave](Canadian_Strike_Wave_(2006_-_2012) "wikilink")
+  Wave](Canadian_Strike_Wave_(2006_-_2012).md "wikilink")
 - 2006: Toronto Transit Commission strike
 - 2007: Uranium Mining Stopped
 - 2007: Toronto Auto Strike
@@ -121,12 +121,12 @@ sections of North America, bordering the
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:States](Category:States "wikilink") [Category:Colonial
-States](Category:Colonial_States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink")
-[Category:Canada](Category:Canada "wikilink") [Category:North
-America](Category:North_America "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Colonial
+States](Category:Colonial_States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") - [List of wars involving
+[^1]: [Wikipedia](Wikipedia.md "wikilink") - [List of wars involving
     Canada](https://en.wikipedia.org/wiki/List_of_wars_involving_Canada)

@@ -4,12 +4,12 @@ permalink: /As_We_Don't_See_It_(Pamphlet)/
 ---
 
 **As We Don't See It** is a 1972 pamphlet written by [Chris
-Pallis](Chris_Pallis "wikilink") and published in
-[Solidarity](Solidarity_(UK) "wikilink"). It builds upon his previous
-1967 pamphlet, [As We See It](As_We_See_It_(Pamphlet) "wikilink") and
+Pallis](Chris_Pallis.md "wikilink") and published in
+[Solidarity](Solidarity_(UK).md "wikilink"). It builds upon his previous
+1967 pamphlet, [As We See It](As_We_See_It_(Pamphlet).md "wikilink") and
 responds to many of the confusions about his pamphlet, and doubles down
 on a harsh criticism of [authoritarian
-socialism](Authoritarian_Socialism "wikilink").
+socialism](Authoritarian_Socialism.md "wikilink").
 
 ## Transcript
 
@@ -27,7 +27,7 @@ having thought the text was self-explanatory. Radicals repeatedly told
 us that they agreed with every word of the statement ... and in the next
 breath asked us why we were not doing faction work in the Labour Party,
 or living in communes, or campaigning for the trade union "lefts", or
-eulogizing the [Black Panthers](Black_Panther_Party "wikilink") or
+eulogizing the [Black Panthers](Black_Panther_Party.md "wikilink") or
 Karume's anti-imperialist regime in Zanzibar, or participating in the
 anti-Common-Market agitation. Some even asked why we were not advocating
 the launching of a "real revolutionary, Leninist party".
@@ -41,7 +41,7 @@ that were not dealt with in the original text.
 
 1\. "Throughout the world" means exactly what it says. It does not mean
 everywhere except Social-Democratic Sweden, Castro's Cuba, Tito's
-Yugoslavia, Israel's [kibbutzim](kibbutzim "wikilink") or Sékou Touré's
+Yugoslavia, Israel's [kibbutzim](kibbutzim.md "wikilink") or Sékou Touré's
 Guinea. "Throughout the world" includes pre-Stalinist, Stalinist and
 post-Stalinist Russia, Ben Bella's and Boumedienne's Algeria and the
 People's Republics of Uzbekistan and North Vietnam. Everywhere also
@@ -49,7 +49,7 @@ includes Albania (and China).
 
 Our comments about contemporary society apply to all these countries
 just as much as to the USA or to Britain (under either
-[Labour](Labour_Party_(UK) "wikilink") or Conservative governments).
+[Labour](Labour_Party_(UK).md "wikilink") or Conservative governments).
 When we talk of privileged minorities who "control the means of
 production" and who "use the whole machinery of the state" to maintain
 themselves in power we are making a universal critique to which, at the
@@ -480,10 +480,10 @@ ourselves as if we had.
 
 - [As We Don't See
   It](https://www.marxists.org/archive/brinton/1972/as-we-dont-see-it.htm)
-  at [marxists.org](marxists.org "wikilink")
+  at [marxists.org](marxists.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink") [Category:Chris
-Pallis](Category:Chris_Pallis "wikilink") [Category:Solidarity
-(UK)](Category:Solidarity_(UK) "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink") [Category:Chris
+Pallis](Category:Chris_Pallis.md "wikilink") [Category:Solidarity
+(UK)](Category:Solidarity_(UK).md "wikilink")

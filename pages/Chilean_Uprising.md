@@ -4,22 +4,22 @@ permalink: /Chilean_Uprising/
 ---
 
 The **Chilean Uprising** is an ongoing uprising against the government
-of [Chile](Chile "wikilink") that began in [October
-2019](Timeline_of_Libertarian_Socialism_in_South_America "wikilink"), it
+of [Chile](Chile.md "wikilink") that began in [October
+2019](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink"), it
 is considered a part of the [Latin American
-Spring](Latin_American_Spring "wikilink"). Triggered by anger at
-[neoliberalism](neoliberalism "wikilink"), privatisation,
-[inequality](Economic_Inequality "wikilink") and high cost of living. It
+Spring](Latin_American_Spring.md "wikilink"). Triggered by anger at
+[neoliberalism](neoliberalism.md "wikilink"), privatisation,
+[inequality](Economic_Inequality.md "wikilink") and high cost of living. It
 has been considered the worst case of civil unrest in Chile since the
 fall of Pinochet.
 
 ## Background
 
 Following the fall of the [Pinochet
-Dictatorship](Pinochet_Dictatorship "wikilink"), Chile has enjoyed a
+Dictatorship](Pinochet_Dictatorship.md "wikilink"), Chile has enjoyed a
 stable period of [liberal
-democracy](Representative_Democracy "wikilink") (with the exception of
-the [Mapuche Uprising](Mapuche_Uprising_(1997) "wikilink")). However,
+democracy](Representative_Democracy.md "wikilink") (with the exception of
+the [Mapuche Uprising](Mapuche_Uprising_(1997).md "wikilink")). However,
 the neoliberal economic policies of the government and leftist culture
 leftover from the Allende years and resistance movements has created an
 angry working class. After an increase in the cost of the Santiago
@@ -47,7 +47,7 @@ January 2020, university exams were canceled and students blocked access
 to test sites and burnt exam papers. Information about the unrest is
 constantly changing, and dozens of people have died and been sexually
 abused by police. The uprising is currently on hold due to the
-[Coronavirus Pandemic](Coronavirus_Pandemic "wikilink").
+[Coronavirus Pandemic](Coronavirus_Pandemic.md "wikilink").
 
 ## Results
 
@@ -56,17 +56,17 @@ Chilean constitution.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [2019-20 Chilean
+[Wikipedia](Wikipedia.md "wikilink") - [2019-20 Chilean
 protests](https://en.wikipedia.org/wiki/2019%E2%80%9320_Chilean_protests)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Chile](Category:Chile "wikilink")
-[Category:2019](Category:2019 "wikilink")
-[Category:2020](Category:2020 "wikilink")
-[Category:2020s](Category:2020s "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink") [Category:Student
-Uprisings](Category:Student_Uprisings "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Chile](Category:Chile.md "wikilink")
+[Category:2019](Category:2019.md "wikilink")
+[Category:2020](Category:2020.md "wikilink")
+[Category:2020s](Category:2020s.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink") [Category:Student
+Uprisings](Category:Student_Uprisings.md "wikilink")

@@ -7,7 +7,7 @@ permalink: /Slavery/
 forced to do unpaid labour for another.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Slavery](Category:Slavery "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Economics](Category:Economics "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Slavery](Category:Slavery.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Economics](Category:Economics.md "wikilink")

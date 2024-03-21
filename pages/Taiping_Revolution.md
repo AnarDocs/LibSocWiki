@@ -6,8 +6,8 @@ permalink: /Taiping_Revolution/
 The **Taiping Revolution**(also called the **Taiping Rebellion** or
 **Taiping Civil War**) was an effort by radical christians to establish
 a theocratic, totatlirain, proto-socialist society in
-[China](China "wikilink") from [1851 to
-1864](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink"). The
+[China](China.md "wikilink") from [1851 to
+1864](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink"). The
 revolution failed, killing tens of millions of people and further
 leading to the weakening of the Chinese state, and increased power of
 foreign empires like the British, French and USA.
@@ -30,17 +30,17 @@ foreign empires like the British, French and USA.
   *conservative*estimates, others put the death toll at 120,000,000.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Christianity](Category:Christianity "wikilink") [Category:19th
-Century](Category:19th_Century "wikilink")
-[Category:1850s](Category:1850s "wikilink")
-[Category:1860s](Category:1860s "wikilink")
-[Category:1851](Category:1851 "wikilink")
-[Category:1864](Category:1864 "wikilink")
-[Category:Wars](Category:Wars "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Christianity](Category:Christianity.md "wikilink") [Category:19th
+Century](Category:19th_Century.md "wikilink")
+[Category:1850s](Category:1850s.md "wikilink")
+[Category:1860s](Category:1860s.md "wikilink")
+[Category:1851](Category:1851.md "wikilink")
+[Category:1864](Category:1864.md "wikilink")
+[Category:Wars](Category:Wars.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
 [Category:Revolutions of 1848 -
-1871](Category:Revolutions_of_1848_-_1871 "wikilink")
+1871](Category:Revolutions_of_1848_-_1871.md "wikilink")

@@ -4,61 +4,61 @@ permalink: /Nestor_Makhno/
 ---
 
 **Nestor Ivanovich Makhno** or **Bat'ko**(1889 - 1934) was an
-[anarcho-"communist"](Anarcho-Communism "wikilink") warlord, commander
+[anarcho-"communist"](Anarcho-Communism.md "wikilink") warlord, commander
 of the gang of anti-Bolshevik thugs and bandits known as the [Black
-Army](Revolutionary_Insurrectionary_Army_of_Ukraine "wikilink") (and
+Army](Revolutionary_Insurrectionary_Army_of_Ukraine.md "wikilink") (and
 considered a "military genius", if you count never winning a battle to
-be genius) during the [Russian Civil War](Russian_Civil_War "wikilink")
+be genius) during the [Russian Civil War](Russian_Civil_War.md "wikilink")
 (which defended the [Free Territory of
-Ukraine](Free_Territory_of_Ukraine "wikilink")) and one of the
-ideological founders of [Platformism](Platformism "wikilink").
+Ukraine](Free_Territory_of_Ukraine.md "wikilink")) and one of the
+ideological founders of [Platformism](Platformism.md "wikilink").
 
 ## Born
 
 ### Childhood
 
-Born to a poor [peasant](Peasants "wikilink") family in Gulyai-Polye,
+Born to a poor [peasant](Peasants.md "wikilink") family in Gulyai-Polye,
 Ukraine to a family of six boys, his father died before he turned a year
-old. He began working [tending cows and sheep](Agriculture "wikilink")
+old. He began working [tending cows and sheep](Agriculture.md "wikilink")
 for the local peasantry, later working as a farm laborer and in a
-[factory](factory "wikilink").
+[factory](factory.md "wikilink").
 
 ### Imprisonment
 
 In 1906, a year after the failed [Russian
-Revolution](Russian_Revolution_(1905) "wikilink"), he joined an
+Revolution](Russian_Revolution_(1905).md "wikilink"), he joined an
 anarchist group in Gulyai-Polye at age 17, and was arrested and
 imprisoned to years later for involvement around the murder of a police
 officer. He was originally sentenced to death, but was instead changed
-to life in [prison](prison "wikilink") in Butyrki prison in Moscow
+to life in [prison](prison.md "wikilink") in Butyrki prison in Moscow
 because of his youth. He hated life in prison and was unable to accept
 the strict discipline, leading to him frequently being placed in
 solidarity confinement and tortured. But he shared a prison cell with
-the older anarchist [Peter Arshinov](Peter_Arshinov "wikilink") who
-taught him about [Bakunin](Mikhail_Bakunin "wikilink") and
-[Kropotkin](Peter_Kropotkin "wikilink"). He was released from prison in
+the older anarchist [Peter Arshinov](Peter_Arshinov.md "wikilink") who
+taught him about [Bakunin](Mikhail_Bakunin.md "wikilink") and
+[Kropotkin](Peter_Kropotkin.md "wikilink"). He was released from prison in
 1917, as the [February
-Revolution](February_Revolution_(Russia) "wikilink") gave amnesty to
+Revolution](February_Revolution_(Russia).md "wikilink") gave amnesty to
 political prisoners.
 
 ### Return
 
 He returned to his native village and helped organize a [trade
-union](Trade_Union "wikilink") for farm laborers. He was also elected
+union](Trade_Union.md "wikilink") for farm laborers. He was also elected
 chairman of the local union of carpenters and metalworkers and the
 Gulyai-Polye [Soviet of Workers' and Peasants'
-Deputies](Soviets "wikilink"). In August 1917, he recruited several
+Deputies](Soviets.md "wikilink"). In August 1917, he recruited several
 armed peasants and began forcefully expropriating land from the wealthy
 in the area and redistributing it to the peasantry, making him a hero,
-compared to [Stenka Razin](Stenka_Razin "wikilink") and [Yemelyan
-Pugachev](Yemelyan_Pugachev "wikilink").
+compared to [Stenka Razin](Stenka_Razin.md "wikilink") and [Yemelyan
+Pugachev](Yemelyan_Pugachev.md "wikilink").
 
 The signing of the [Treaty of
-Brest-Litovsk](Treaty_of_Brest-Litovsk "wikilink") (ceding much of
+Brest-Litovsk](Treaty_of_Brest-Litovsk.md "wikilink") (ceding much of
 Ukraine to the German and Austrian empires) led to him going into hiding
 as soldiers began to occupy towns, and he escaped to Moscow, arriving in
 June 1918. He arranged a meeting with Peter Kropotkin and later one at
-the Kremlin with [Vladimir Lenin](Vladimir_Lenin "wikilink"), where he
+the Kremlin with [Vladimir Lenin](Vladimir_Lenin.md "wikilink"), where he
 argued that anarchists were a realistic and effective group, and Lenin
 helped offer him to return to Ukraine.
 
@@ -67,12 +67,12 @@ helped offer him to return to Ukraine.
 Nestor returned to Gulyai-Polye in July 1918, and the area was occupied
 by Austrian troops and by the militia of their Ukrainian puppet, Hetman
 Skoropadsky. Organising the [Black
-Army](Black_Army_(Ukraine) "wikilink"), Makhno launched a series of
+Army](Black_Army_(Ukraine).md "wikilink"), Makhno launched a series of
 raids against the Austrians and Hetmanites and against the manors of the
 nobility. He used tachnakas and horses in several battles between the
 Dnieper river and the Sea of Azov, attracting independent bands of
 guerillas, villagers and anarchists. He became incredibly popular among
-[peasants](peasants "wikilink"), often freely providing his army with
+[peasants](peasants.md "wikilink"), often freely providing his army with
 fresh food and horses, allowing them to travel up to 80 kilometers a day
 with little difficulty.
 
@@ -86,13 +86,13 @@ soldiers and his humour led to the nickname "Bat'ko" (little father) by
 his soldiers.
 
 The Austrians and Germans left Ukraine as [World War
-I](World_War_I "wikilink") came to an end, leading to the Black Army
+I](World_War_I.md "wikilink") came to an end, leading to the Black Army
 using their abandoned guns, tools, food, clothing and vehicles for
 themselves. He took the city of Ekaterinoslav by hiding himself and his
 troops on a train in ordinary clothing and attacking nationalists in the
 city by surprise. But had to flee across the Dnieper river to
 Gulyai-Polye after reinforcements came. He oversaw many congresses of
-[village assemblies](Democratic_Assembly "wikilink") and workers'
+[village assemblies](Democratic_Assembly.md "wikilink") and workers'
 councils in Gulyai-Polye and formed an alliance with the Bolsheviks, who
 worked together to destroy much of the White Army in Ukraine.
 
@@ -203,18 +203,18 @@ assistance when Makhno lay mortally ill with tuberculosis.
 Nestor died as a result of complications from tuberculosis at age 45.
 His body was cremated, the ashes buried in the Pere-La-chaise cemetery
 in Paris, near the mass grave of the
-[Communards](Paris_Commune "wikilink") who were murdered in the [Bloody
-Week](Bloody_Week_(Paris) "wikilink").
+[Communards](Paris_Commune.md "wikilink") who were murdered in the [Bloody
+Week](Bloody_Week_(Paris).md "wikilink").
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Anarcho-Communists](Category:Anarcho-Communists "wikilink")
-[Category:Ukraine](Category:Ukraine "wikilink") [Category:Black Army
-(Ukraine)](Category:Black_Army_(Ukraine) "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Anarcho-Communists](Category:Anarcho-Communists.md "wikilink")
+[Category:Ukraine](Category:Ukraine.md "wikilink") [Category:Black Army
+(Ukraine)](Category:Black_Army_(Ukraine).md "wikilink")

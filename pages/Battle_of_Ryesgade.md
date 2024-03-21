@@ -5,9 +5,9 @@ permalink: /Battle_of_Ryesgade/
 
 The **Battle of Ryesgade** was a nine-day long takeover of several
 streets in the Osterbro neighbourhood by
-[autonomists](Autonomism "wikilink") in Copenhagen,
-[Denmark](Denmark "wikilink") in [September
-1986](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink").
+[autonomists](Autonomism.md "wikilink") in Copenhagen,
+[Denmark](Denmark.md "wikilink") in [September
+1986](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink").
 
 ## Timeline of the Battle
 
@@ -70,7 +70,7 @@ One of the first acts in the commune was to torch a building owned by
 Sperry Corporation, a US multinational involved in the production of
 Cruise and Pershing missiles. As one autonomist explained: “It’s not
 enough to talk. Love is a battle. We are fighting homelessness and
-gentrification, but also the [USA](United_States_of_America "wikilink"),
+gentrification, but also the [USA](United_States_of_America.md "wikilink"),
 South Africa, and capitalism to show our solidarity. Many of us have
 been to work in Nicaragua. Now the battle comes home.”[^10]
 
@@ -78,34 +78,34 @@ been to work in Nicaragua. Now the battle comes home.”[^10]
 
 <references />
 
-[Category:Events](Category:Events "wikilink")
-[Category:Battles](Category:Battles "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Events](Category:Events.md "wikilink")
+[Category:Battles](Category:Battles.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Denmark](Category:Denmark "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Scandanavia](Category:Scandanavia "wikilink")
-[Category:1986](Category:1986 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Autonomism](Category:Autonomism "wikilink")
-[Category:Squatting](Category:Squatting "wikilink") [Category:Squatter
-Uprisings](Category:Squatter_Uprisings "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Denmark](Category:Denmark.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Scandanavia](Category:Scandanavia.md "wikilink")
+[Category:1986](Category:1986.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Autonomism](Category:Autonomism.md "wikilink")
+[Category:Squatting](Category:Squatting.md "wikilink") [Category:Squatter
+Uprisings](Category:Squatter_Uprisings.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
 [Category:Anti-Eviction
-Actions](Category:Anti-Eviction_Actions "wikilink")
+Actions](Category:Anti-Eviction_Actions.md "wikilink")
 
-[^1]: [Georgy Katsiaficas](Georgy_Katsiaficas "wikilink"), [The
-    Subversion of Politics](The_Subversion_of_Politics "wikilink"), page
+[^1]: [Georgy Katsiaficas](Georgy_Katsiaficas.md "wikilink"), [The
+    Subversion of Politics](The_Subversion_of_Politics.md "wikilink"), page
     121
 
-[^2]: [Georgy Katsiaficas](Georgy_Katsiaficas "wikilink"), [The
-    Subversion of Politics](The_Subversion_of_Politics "wikilink"), page
+[^2]: [Georgy Katsiaficas](Georgy_Katsiaficas.md "wikilink"), [The
+    Subversion of Politics](The_Subversion_of_Politics.md "wikilink"), page
     122
 
-[^3]: [Wikipedia](Wikipedia "wikilink") (Danish) -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") (Danish) -
     <https://da.wikipedia.org/wiki/Slaget_om_Ryesgade>
 
 [^4]:

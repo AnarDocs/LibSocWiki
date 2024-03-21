@@ -5,7 +5,7 @@ permalink: /Radical_(Person)/
 
 **Radicals** are people who have rejected the society that they live in
 and want to construct a very different one. By definition, all
-[libertarian socialists](Libertarian_Socialism "wikilink") are radicals.
+[libertarian socialists](Libertarian_Socialism.md "wikilink") are radicals.
 
 ## Radicalisation
 
@@ -17,7 +17,7 @@ change society for what they think is better.
 ### Causes
 
 There are numerous causes for radicalisation. Generally radicalisation
-stems from an irreversible [loss of trust](Trust "wikilink") in the
+stems from an irreversible [loss of trust](Trust.md "wikilink") in the
 society the radical lives in.
 
 ### Psychological Effects
@@ -37,8 +37,8 @@ Radicalisation has both positive and negative psychological effects.
 - People with radical beliefs are more prone to black and white thinking
   than moderates
 - Creation of an us vs. them mentality that can lead to intolerance and
-  [dehumanisation](dehumanisation "wikilink")
+  [dehumanisation](dehumanisation.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

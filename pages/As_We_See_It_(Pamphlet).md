@@ -4,10 +4,10 @@ permalink: /As_We_See_It_(Pamphlet)/
 ---
 
 **As We See It**is a 1967 leaflet written by [Chris
-Pallis](Chris_Pallis "wikilink") and published by
-[Solidarity](Solidarity_(UK) "wikilink"). It is brief plan of action for
+Pallis](Chris_Pallis.md "wikilink") and published by
+[Solidarity](Solidarity_(UK).md "wikilink"). It is brief plan of action for
 creating a socialist society. It was followed up on in 1972 with [As We
-Don't See It](As_We_Don't_See_It_(Pamphlet) "wikilink").
+Don't See It](As_We_Don't_See_It_(Pamphlet).md "wikilink").
 
 ## Transcript
 
@@ -15,7 +15,7 @@ Don't See It](As_We_Don't_See_It_(Pamphlet) "wikilink").
 whatsoever over the decisions that most deeply and directly affect their
 lives. They sell their labour power while others who own or control the
 means of production accumulate wealth, make the laws and use the whole
-machinery of the [State](State_(Polity) "wikilink") to perpetuate and
+machinery of the [State](State_(Polity).md "wikilink") to perpetuate and
 reinforce their privileged positions.
 
 2\. During the past century the living standards of working people have
@@ -54,7 +54,7 @@ self-activity of the working class may take will vary considerably from
 country to country and from industry to industry. Its basic *content*
 will not.
 
-5\. Socialism is not just the [common ownership](Commons "wikilink") and
+5\. Socialism is not just the [common ownership](Commons.md "wikilink") and
 control of the means of production and distribution. It means equality,
 real freedom, reciprocal recognition and a radical transformation in all
 human relations. It is man's understanding of his environment and of
@@ -123,7 +123,7 @@ society is to be totally transformed.
   at marxists.org
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink") [Category:Chris
-Pallis](Category:Chris_Pallis "wikilink") [Category:Solidarity
-(UK)](Category:Solidarity_(UK) "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink") [Category:Chris
+Pallis](Category:Chris_Pallis.md "wikilink") [Category:Solidarity
+(UK)](Category:Solidarity_(UK).md "wikilink")

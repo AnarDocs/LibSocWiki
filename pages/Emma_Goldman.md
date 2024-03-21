@@ -4,11 +4,11 @@ permalink: /Emma_Goldman/
 ---
 
 **Emma Goldman**(1869 - 1940) was a legendary
-[anarchist](Anarchism "wikilink"),
-[feminist](Anarcha-Feminism "wikilink"), writer and activist. Her
+[anarchist](Anarchism.md "wikilink"),
+[feminist](Anarcha-Feminism.md "wikilink"), writer and activist. Her
 writing and lectures spanned a wide variety of issues, including
 prisons, atheism, freedom of speech, militarism,
-[capitalism](capitalism "wikilink"), marriage, free love, and
+[capitalism](capitalism.md "wikilink"), marriage, free love, and
 homosexuality.
 
 ## Life
@@ -822,22 +822,22 @@ On Saturday, the 17th of Febuary, 1940, Emma suffered a stroke in
 Toronto, Canada and became paralyzed on her right side and mute. She
 spent the next three months in hospital before suffering a second
 stroke, which killed her. Her body was buried in Chicago, next to the
-[Haymarket Martyrs](Haymarket_Bombing "wikilink").=
+[Haymarket Martyrs](Haymarket_Bombing.md "wikilink").=
 
-[Category:Russia](Category:Russia "wikilink")
-[Category:Lithuania](Category:Lithuania "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Feminism](Category:Feminism "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
+[Category:Russia](Category:Russia.md "wikilink")
+[Category:Lithuania](Category:Lithuania.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarcha-Feminism](Category:Anarcha-Feminism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarcha-Feminism](Category:Anarcha-Feminism.md "wikilink")

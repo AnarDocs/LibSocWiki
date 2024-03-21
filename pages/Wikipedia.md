@@ -3,18 +3,18 @@ title: Wikipedia
 permalink: /Wikipedia/
 ---
 
-**Wikipedia** is an [open-source](Open_Source_Software "wikilink")
+**Wikipedia** is an [open-source](Open_Source_Software.md "wikilink")
 project on the internet designed to make knowledge [accessible to
-all](Commons "wikilink"). It was founded in
-[2001](Timeline_of_Libertarian_Socialism "wikilink") and has since grown
+all](Commons.md "wikilink"). It was founded in
+[2001](Timeline_of_Libertarian_Socialism.md "wikilink") and has since grown
 to have versions in nearly 300 languages with 48,000,000 articles
 between them all.[^1] According to [Peter
-Gelderloos](Peter_Gelderloos "wikilink") (writing in 2010):
+Gelderloos](Peter_Gelderloos.md "wikilink") (writing in 2010):
 
 > Open Source and participatory technology are steadily becoming
 > accessible to an extent unprecedented by proprietary software.
 > Wikipedia exemplifies this. Started recently, in 2001, on Open Source
-> [Linux](Linux "wikilink") software, Wikipedia is already the largest
+> [Linux](Linux.md "wikilink") software, Wikipedia is already the largest
 > and most accessed encyclopedia in the world, with over 10 million
 > articles in more than 250 languages. Rather than being the exclusive
 > domain of paid experts from a particular academic subculture,
@@ -46,16 +46,16 @@ Gelderloos](Peter_Gelderloos "wikilink") (writing in 2010):
 
 <references />
 
-[Category:Commons](Category:Commons "wikilink")
-[Category:Open-Source](Category:Open-Source "wikilink")
+[Category:Commons](Category:Commons.md "wikilink")
+[Category:Open-Source](Category:Open-Source.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Internet](Category:Internet "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Internet](Category:Internet.md "wikilink")
 
 [^1]: <https://en.wikipedia.org/wiki/Wikipedia:Size_of_Wikipedia>
 
-[^2]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) [Anarchy
-    Works](Anarchy_Works "wikilink")
+[^2]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) [Anarchy
+    Works](Anarchy_Works.md "wikilink")

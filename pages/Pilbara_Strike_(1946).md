@@ -3,11 +3,11 @@ title: Pilbara Strike (1946)
 permalink: /Pilbara_Strike_(1946)/
 ---
 
-The **Pilbara Strike of 1946**was a [strike](List_of_Strikes "wikilink")
-in [Australia](Australia "wikilink") in
-[early](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink")
-[1946](Revolutions_of_1943_-_1949 "wikilink"), led by [indigenous
-farmworkers](Timeline_of_Indigenism "wikilink") for indigenous rights
+The **Pilbara Strike of 1946**was a [strike](List_of_Strikes.md "wikilink")
+in [Australia](Australia.md "wikilink") in
+[early](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink")
+[1946](Revolutions_of_1943_-_1949.md "wikilink"), led by [indigenous
+farmworkers](Timeline_of_Indigenism.md "wikilink") for indigenous rights
 and workers rights.
 
 ## Background

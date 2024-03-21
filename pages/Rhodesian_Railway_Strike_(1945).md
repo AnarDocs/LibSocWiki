@@ -4,18 +4,18 @@ permalink: /Rhodesian_Railway_Strike_(1945)/
 ---
 
 The **Rhodesian Railway Strike of 1945** was a
-[strike](List_of_Strikes "wikilink") in
-[1945](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink")
+[strike](List_of_Strikes.md "wikilink") in
+[1945](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink")
 by railway workers for wage increases and fighting against [anti-black
-racism](Anti-Racism "wikilink") by [bosses](Boss "wikilink") in Rhodesia
-(now [Zimbabwe](Zimbabwe "wikilink") and [Zambia](Zambia "wikilink")).
+racism](Anti-Racism.md "wikilink") by [bosses](Boss.md "wikilink") in Rhodesia
+(now [Zimbabwe](Zimbabwe.md "wikilink") and [Zambia](Zambia.md "wikilink")).
 
 ## Background
 
 Workers in the [British colony of Southern
-Rhodesia](British_Empire "wikilink"), now Zimbabwe and Zambia, bore an
+Rhodesia](British_Empire.md "wikilink"), now Zimbabwe and Zambia, bore an
 increased workload to support the war effort during [World War
-II](World_War_II "wikilink") as extraction of mineral resources
+II](World_War_II.md "wikilink") as extraction of mineral resources
 increased, employees of Rhodesia Railways worked upward of 65 hours per
 week to transport the minerals to ports on the Indian Ocean. While white
 European railway workers had strong unions representing them, black
@@ -63,19 +63,19 @@ were not met.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Black
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Black
 Rhodesian railroad workers strike for better pay,
 1945](https://nvdatabase.swarthmore.edu/content/black-rhodesian-railroad-workers-strike-better-pay-1945)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Zambia](Category:Zambia "wikilink")
-[Category:Zimbabwe](Category:Zimbabwe "wikilink")
-[Category:1945](Category:1945 "wikilink")
-[Category:1940s](Category:1940s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Southern
-Africa](Category:Southern_Africa "wikilink")
-[Category:Anti-Racism](Category:Anti-Racism "wikilink")
-[Category:Transportation](Category:Transportation "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Zambia](Category:Zambia.md "wikilink")
+[Category:Zimbabwe](Category:Zimbabwe.md "wikilink")
+[Category:1945](Category:1945.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Southern
+Africa](Category:Southern_Africa.md "wikilink")
+[Category:Anti-Racism](Category:Anti-Racism.md "wikilink")
+[Category:Transportation](Category:Transportation.md "wikilink")

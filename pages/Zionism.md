@@ -4,12 +4,12 @@ permalink: /Zionism/
 ---
 
 **Zionism** or **Jewish Nationalism** is a political ideology which says
-that [Jewish people](Judaism "wikilink") have a right to a nation in
-part of or all of the holy land of [Israel](Israel "wikilink"), which
+that [Jewish people](Judaism.md "wikilink") have a right to a nation in
+part of or all of the holy land of [Israel](Israel.md "wikilink"), which
 Jews are indigenous to. Supporters argue that this is a necessity to
 provide a safe areas for Jewish people to live and practice their
 religion in peace and safety (note that Zionism became popular after the
-[Holocaust](Holocaust "wikilink")), critics argue that it's a violent
+[Holocaust](Holocaust.md "wikilink")), critics argue that it's a violent
 ideology used to justify a system of apartheid and Palestinian
 oppression.
 
@@ -39,9 +39,9 @@ Hashemite Kingdom of Jordan.
 ### Green Zionism
 
 **Green Zionism** is a synthesis of
-[environmentalist](Environmentalism "wikilink") and Zionist politics,
+[environmentalist](Environmentalism.md "wikilink") and Zionist politics,
 arguing that Israel must be a clean and sustainable civilization. It has
-been influential in several [Kibbutzim](Kibbutzim "wikilink"), which
+been influential in several [Kibbutzim](Kibbutzim.md "wikilink"), which
 have made efforts to reduce their impact on the environment.
 
 ### Kahanism
@@ -58,7 +58,7 @@ argued, would not be healthy until the inverted pyramid was righted, and
 a substantial number of Jews became workers and peasants again. This,
 they held, could only be accomplished by Jews in their own country.
 Labor Zionism has been hugely influential in the creation of the
-[Kibbutzim](Kibbutzim "wikilink") and [Moshavim](Moshav "wikilink").
+[Kibbutzim](Kibbutzim.md "wikilink") and [Moshavim](Moshav.md "wikilink").
 
 <big>**Anarcho-Zionism**</big>
 
@@ -117,7 +117,7 @@ and their ethnic or cultural connection to Israel. Criticism such as
 denying Zionism uniquely supporting other forms of statism like it falls
 into this category.
 
-Here at [libsoc-wiki](Libertarian_Socialist_Wiki "wikilink"), we stand
+Here at [libsoc-wiki](Libertarian_Socialist_Wiki.md "wikilink"), we stand
 with all Jews of the world against antisemitism from the left and right.
 Along with all other people against any form of bigotry.
 
@@ -139,6 +139,6 @@ state, declaring Zionism evil is an attack on the Jewish communities
 right to exist as an entity at all, separate from criticizing Israel.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink")
-[Category:Zionism](Category:Zionism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink")
+[Category:Zionism](Category:Zionism.md "wikilink")

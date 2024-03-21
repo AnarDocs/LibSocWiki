@@ -5,15 +5,15 @@ permalink: /Free_Frisia/
 
 **Free Frisia** or **Frisian Freedom** (or **Friesische Freiheit** or
 **Fryske frijheid**) refers to a period where the
-[state](State_(Polity) "wikilink") and [feudalism](feudalism "wikilink")
+[state](State_(Polity).md "wikilink") and [feudalism](feudalism.md "wikilink")
 were absent from a significant portion of Frisia (Now claimed by the
-[Netherlands](Netherlands "wikilink") and [Germany](Germany "wikilink"))
+[Netherlands](Netherlands.md "wikilink") and [Germany](Germany.md "wikilink"))
 from [993 to the early
-1500s](Timeline_of_Libertarian_Socialism_in_Western_Europe "wikilink").
-Society was run via a [confederation](confederation "wikilink") of
+1500s](Timeline_of_Libertarian_Socialism_in_Western_Europe.md "wikilink").
+Society was run via a [confederation](confederation.md "wikilink") of
 democratic towns, villages and farming communities, allowing a sort of
-semi [proto-libertarian socialism](Libertarian_Socialism "wikilink") to
-be [experimented](List_of_Libertarian_Socialist_Societies "wikilink")
+semi [proto-libertarian socialism](Libertarian_Socialism.md "wikilink") to
+be [experimented](List_of_Libertarian_Socialist_Societies.md "wikilink")
 with in Medieval Europe.
 
 ## Decision-Making
@@ -31,7 +31,7 @@ in turn represented all of Friesland. Each city had eleven votes.[^1]
 
 ## Environmental Protection
 
-According to [Peter Gelderloos](Peter_Gelderloos "wikilink"), the
+According to [Peter Gelderloos](Peter_Gelderloos.md "wikilink"), the
 decentralized nature of Frisia at the time allowed it to practice some
 of the most advanced engineering and environmental protection
 experiments in the world at the time:
@@ -42,22 +42,22 @@ experiments in the world at the time:
 > Netherlands is below sea level and nearly all of it is in danger of
 > flooding, farmers had to work constantly to maintain and improve the
 > water management system. The protections against flooding were a
-> [common infrastructure that benefited everybody](Commons "wikilink"),
+> [common infrastructure that benefited everybody](Commons.md "wikilink"),
 > yet they also required everyone to invest in the good of the
 > collective to maintain them: an individual farmer stood to gain by
 > shirking water management duties, but the entire society would lose if
 > there were a flood. This example is especially significant because
 > Dutch society lacked the anarchistic values common in indigenous
 > societies. The area had long been converted to
-> [Christianity](Christianity "wikilink") and indoctrinated in its
-> [ecocidal](Ecocide "wikilink"),
-> [hierarchical](Social_Hierarchy "wikilink") values; for hundreds of
+> [Christianity](Christianity.md "wikilink") and indoctrinated in its
+> [ecocidal](Ecocide.md "wikilink"),
+> [hierarchical](Social_Hierarchy.md "wikilink") values; for hundreds of
 > years it had been under the control of a state, though the empire had
 > fallen apart and in the 12<sup>th</sup> and 13<sup>th</sup> centuries
 > the Netherlands were effectively stateless. Central authority in the
-> form of church officials, feudal lords, and [guilds](Guild "wikilink")
+> form of church officials, feudal lords, and [guilds](Guild.md "wikilink")
 > remained strong in Holland and Zeeland, where
-> [capitalism](capitalism "wikilink") would eventually originate, but in
+> [capitalism](capitalism.md "wikilink") would eventually originate, but in
 > northern regions such as Friesland society was largely decentralized
 > and horizontal.
 
@@ -67,7 +67,7 @@ experiments in the world at the time:
 > and villages managed to build and maintain extensive infrastructure to
 > reclaim land from the sea and protect against flooding amid
 > fluctuating sea levels. [Neighborhood
-> councils](Democratic_Assembly "wikilink"), by organizing cooperative
+> councils](Democratic_Assembly.md "wikilink"), by organizing cooperative
 > work bands or dividing duties between communities, built and
 > maintained the dykes, canals, sluices, and drainage systems necessary
 > to protect the entire society; it was “a joint approach from the
@@ -91,26 +91,26 @@ withstand hundreds of years of constant attack.[^3]
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink")
-[Category:Nederlands](Category:Nederlands "wikilink")
-[Category:Germany](Category:Germany "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Medieval](Category:Medieval "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink")
+[Category:Nederlands](Category:Nederlands.md "wikilink")
+[Category:Germany](Category:Germany.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Medieval](Category:Medieval.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Past Libertarian Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
-[Category:Netherlands](Category:Netherlands "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Netherlands](Category:Netherlands.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Frisian_freedom#Content>
 
-[^2]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) [Anarchy
-    Works](Anarchy_Works "wikilink")
+[^2]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) [Anarchy
+    Works](Anarchy_Works.md "wikilink")
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Frisian_freedom#End>

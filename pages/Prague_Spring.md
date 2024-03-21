@@ -5,10 +5,10 @@ permalink: /Prague_Spring/
 
 ![](PragueSpring.jpg "PragueSpring.jpg") The **Prague Spring**was a
 protest wave and period of liberalization in Czechoslovakia under
-[Stalinism](Leninism "wikilink") in
-[1968](Timeline_of_Libertarian_Socialism "wikilink").
+[Stalinism](Leninism.md "wikilink") in
+[1968](Timeline_of_Libertarian_Socialism.md "wikilink").
 
-[Colin Ward](Colin_Ward "wikilink") describes it as:
+[Colin Ward](Colin_Ward.md "wikilink") describes it as:
 
 > In a broadcast on the anniversary of the Soviet Invasion of
 > Czechoslovakia a speaker looked back to the summer of 1968 in Prague
@@ -42,7 +42,7 @@ protest wave and period of liberalization in Czechoslovakia under
 > tried to curb it. No doubt he had hoped to honour the promises he had
 > given at Dresden that he would impose order on what more and more
 > conservative Communists were calling
-> '[anarchy](Anarchism "wikilink")'". When the Soviet tanks rolled in to
+> '[anarchy](Anarchism.md "wikilink")'". When the Soviet tanks rolled in to
 > impose *their* order, the spontaneous order gave way to a spontaneous
 > resistance. Of Prague, Kamil Winter declared, "I must confess to you
 > that nothing was organised at all. Everything went on spontaneously
@@ -70,21 +70,21 @@ protest wave and period of liberalization in Czechoslovakia under
 
 <references />
 
-[Category:Czechia](Category:Czechia "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:USSR](Category:USSR "wikilink")
-[Category:1968](Category:1968 "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+[Category:Czechia](Category:Czechia.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:USSR](Category:USSR.md "wikilink")
+[Category:1968](Category:1968.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anti-Leninism](Category:Anti-Leninism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anti-Leninism](Category:Anti-Leninism.md "wikilink")
 [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Worker Uprisings](Category:Worker_Uprisings "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:1960s](Category:1960s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Worker Uprisings](Category:Worker_Uprisings.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
 
-[^1]: [Colin Ward](Colin_Ward "wikilink") (1973) [Anarchy in
-    Action](Anarchy_in_Action "wikilink")
+[^1]: [Colin Ward](Colin_Ward.md "wikilink") (1973) [Anarchy in
+    Action](Anarchy_in_Action.md "wikilink")

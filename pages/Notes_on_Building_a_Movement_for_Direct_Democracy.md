@@ -4,7 +4,7 @@ permalink: /Notes_on_Building_a_Movement_for_Direct_Democracy/
 ---
 
 **Notes on Building a Movement for Direct Democracy** is a 2004 article
-by [James Herod](James_Herod "wikilink") which gives 10 pieces of advice
+by [James Herod](James_Herod.md "wikilink") which gives 10 pieces of advice
 to building a movement towards direct democracy.
 
 ## Transcript
@@ -27,7 +27,7 @@ meaning of the term.
 <strong>1.</strong> All activists who are in a position to do so (and
 are interested in direct democracy) should attempt to establish either a
 [neighborhood assembly, a workplace assembly, or an extended household
-assembly](Democratic_Assembly "wikilink") (that is, the merging of small
+assembly](Democratic_Assembly.md "wikilink") (that is, the merging of small
 households, families, and individuals in a neighborhood to form larger
 units of 50-100 people). These are the social forms through which we
 will be able to defeat capitalists and build a new social world. This
@@ -76,9 +76,9 @@ it would be easy to do, if they only wanted to.
 <strong>5.</strong> Direct Democracy should be practiced in regional
 associations. A common structural form in many radical organizations
 (e.g., [Students for a Democratic
-Society](Students_for_a_Democratic_Society "wikilink") in the ‘60s, and
+Society](Students_for_a_Democratic_Society.md "wikilink") in the ‘60s, and
 [Northeastern Federation of
-Anarcho-Communists](Northeastern_Federation_of_Anarcho-Communists "wikilink")
+Anarcho-Communists](Northeastern_Federation_of_Anarcho-Communists.md "wikilink")
 today) is to have local member collectives or chapters which are bound
 together through an annual general assembly, which sets policy for the
 whole organization. I believe this structure should be abandoned.
@@ -99,9 +99,9 @@ publicize actual experiments in direct democracy taking place all over
 the world. It would be a project to help the movement for direct
 democracy (if in fact there is one) become conscious of itself,
 something similar to what the [Grassroots Economic
-Organizing](Grassroots_Economic_Organizing "wikilink") newsletter has
+Organizing](Grassroots_Economic_Organizing.md "wikilink") newsletter has
 done for the movement for self-managing [worker
-co-ops](Worker_Cooperative "wikilink").
+co-ops](Worker_Cooperative.md "wikilink").
 
 <strong>8.</strong> Beyond this there is simply a need for more
 propaganda work, to try to get the concept of direct democracy back into
@@ -125,10 +125,10 @@ negotiated agreements or territory wide vote tallying.
 
 - [Notes on Building a Movement for Direct
   Democracy](https://theanarchistlibrary.org/library/james-herod-notes-on-building-a-movement-for-direct-democracy)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:James
-Herod](Category:James_Herod "wikilink")
-[Category:Articles](Category:Articles "wikilink")
-[Category:Democracy](Category:Democracy "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:James
+Herod](Category:James_Herod.md "wikilink")
+[Category:Articles](Category:Articles.md "wikilink")
+[Category:Democracy](Category:Democracy.md "wikilink")

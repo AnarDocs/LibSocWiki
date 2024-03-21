@@ -7,11 +7,11 @@ permalink: /Horizontal_Economic_Planning/
 is is a type of economy in which the investment and allocation of
 resources and goods is done accordingly to an economy-wide plan built
 and coordinated through a distributed network of disparate economic
-agents (ie [community assemblies](Democratic_Assembly "wikilink") and
-[confederations](Confederation "wikilink")) production units
-([self-managed workplaces](Workers'_Self-Management "wikilink")). It,
-alongside the [gift economy](Gift_Economy "wikilink"), is a key theory
-in [anarcho-communism](Anarcho-Communism "wikilink").
+agents (ie [community assemblies](Democratic_Assembly.md "wikilink") and
+[confederations](Confederation.md "wikilink")) production units
+([self-managed workplaces](Workers'_Self-Management.md "wikilink")). It,
+alongside the [gift economy](Gift_Economy.md "wikilink"), is a key theory
+in [anarcho-communism](Anarcho-Communism.md "wikilink").
 
 ## Theory
 
@@ -24,12 +24,12 @@ the usage and efficiency of a resource. We will develop small working
 groups ('communal statistical commissions') that can record information
 from areas of production (like mines, factories, farms and workshops)
 and consumption (like warehouses and supermarkets) that can then be
-visualized in graphs and made [open-source](Open-Source "wikilink").
+visualized in graphs and made [open-source](Open-Source.md "wikilink").
 Such as the number a kind of items consumed, all of which would have
 their own physical measurements available for anyone to look up. These
 groups would publish this information to be freely available to
-[community assemblies](Democratic_Assembly "wikilink") and
-[federations](Confederation "wikilink").
+[community assemblies](Democratic_Assembly.md "wikilink") and
+[federations](Confederation.md "wikilink").
 
 When in considering to work on a new project (such as a factory
 switching its production) or whether or not to build a railway,
@@ -54,9 +54,9 @@ consumption outlets would order consumer goods in bulk as they do now.
 Hence the economy would be a vast network of co-operating individuals
 and workplaces and the dispersed knowledge which exists within any
 society can be put to good effect (<strong>better</strong> effect than
-under [capitalism](capitalism "wikilink") because it does not hide
+under [capitalism](capitalism.md "wikilink") because it does not hide
 social and ecological costs in the way market prices do and co-operation
-will eliminate the [business cycle](Business_Cycle "wikilink") and its
+will eliminate the [business cycle](Business_Cycle.md "wikilink") and its
 resulting social problems).
 
 Consider two production processes. Method A requires 70 tons of steel
@@ -874,14 +874,14 @@ consumption.
 
 ## See Also
 
-- [Lucas Aerospace Plan](Lucas_Aerospace_Plan "wikilink")
+- [Lucas Aerospace Plan](Lucas_Aerospace_Plan.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Communalism](Category:Communalism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Economics](Category:Economics "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Communalism](Category:Communalism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Economics](Category:Economics.md "wikilink")

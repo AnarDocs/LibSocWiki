@@ -5,13 +5,13 @@ permalink: /New_Forms_of_Worker_Organization:_The_Syndicalist_and_Autonomist_Res
 
 **New Forms of Worker Organization: The Syndicalist and Autonomist
 Restoration of Class Struggle Unionism** is a [2014
-book](List_of_Libertarian_Socialist_Media "wikilink") by [Immanuel
-Ness](Immanuel_Ness "wikilink") which discusses the resurgence of
+book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Immanuel
+Ness](Immanuel_Ness.md "wikilink") which discusses the resurgence of
 militant worker resistance across the world from the 1980s to the 2010s.
-Countries discussed include Italy, [China](China "wikilink"), Russia,
+Countries discussed include Italy, [China](China.md "wikilink"), Russia,
 India, South Africa, Madagascar, Colombia, Argentina, Sweden,
-[Australia](Australia "wikilink"),
-[USA](United_States_of_America "wikilink") and the UK.
+[Australia](Australia.md "wikilink"),
+[USA](United_States_of_America.md "wikilink") and the UK.
 
 ## Summary
 
@@ -42,10 +42,10 @@ India, South Africa, Madagascar, Colombia, Argentina, Sweden,
 #### Doing without the Boss: Workers’ Control Experiments in Australia in the 1970s
 
 Three notable cases of workers' control in
-[Australia](Australia "wikilink") are studied, the [Sydney Opera House
-Work-In,](Sydney_Opera_House_Work-In "wikilink") the [Whyalla Glove
-Factory Work-In](Whyalla_Glove_Factory_Work-In "wikilink") and the
-[Nymboida Mine Work-In](Nymboida_Mine_Work-In "wikilink").
+[Australia](Australia.md "wikilink") are studied, the [Sydney Opera House
+Work-In,](Sydney_Opera_House_Work-In.md "wikilink") the [Whyalla Glove
+Factory Work-In](Whyalla_Glove_Factory_Work-In.md "wikilink") and the
+[Nymboida Mine Work-In](Nymboida_Mine_Work-In.md "wikilink").
 
 #### Revolt in Fast Food Nation: The Wobblies Take on Jimmy John’s
 
@@ -57,8 +57,8 @@ Factory Work-In](Whyalla_Glove_Factory_Work-In "wikilink") and the
 
 - [New Forms of Worker
   Organization](https://libcom.org/library/new-forms-worker-organization-syndicalist-autonomist-restoration-class-struggle-unionism)
-  at [libcom.org](libcom.org "wikilink")
+  at [libcom.org](libcom.org.md "wikilink")
 
-[Category:Books](Category:Books "wikilink") [Category:Immanuel
-Ness](Category:Immanuel_Ness "wikilink") [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Immanuel
+Ness](Category:Immanuel_Ness.md "wikilink") [Category:Libertarian Socialist
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

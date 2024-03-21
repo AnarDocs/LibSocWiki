@@ -13,6 +13,6 @@ controversial, and opened up discussions on race, gender, police and
 conspiracy in the USA.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink")
-[Category:1994](Category:1994 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink")
+[Category:1994](Category:1994.md "wikilink")

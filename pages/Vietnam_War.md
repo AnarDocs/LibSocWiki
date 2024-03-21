@@ -4,9 +4,9 @@ permalink: /Vietnam_War/
 ---
 
 The **Vietnam War** also known as the **Resistance Wars** or **Indochina
-Wars** refers to a conflict between [Vietnam](Vietnam "wikilink"),
-[France](France "wikilink") and the
-[USA](United_States_of_America "wikilink") in their efforts to
+Wars** refers to a conflict between [Vietnam](Vietnam.md "wikilink"),
+[France](France.md "wikilink") and the
+[USA](United_States_of_America.md "wikilink") in their efforts to
 recolonise Vietnam and turn it into an area for extracting raw
 resources. The Vietnamese were successful thanks to fierce anti-colonial
 resistance by the Vietnamese and mutinous US soldiers and the peace
@@ -83,18 +83,18 @@ university campus protests.
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Vietnam](Category:Vietnam "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Wars](Category:Wars "wikilink")
-[Category:1945](Category:1945 "wikilink")
-[Category:1975](Category:1975 "wikilink")
-[Category:1940s](Category:1940s "wikilink")
-[Category:1950s](Category:1950s "wikilink")
-[Category:1960s](Category:1960s "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Vietnam
-War](Category:Vietnam_War "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Vietnam](Category:Vietnam.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Wars](Category:Wars.md "wikilink")
+[Category:1945](Category:1945.md "wikilink")
+[Category:1975](Category:1975.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Vietnam
+War](Category:Vietnam_War.md "wikilink")
 
 [^1]: <https://en.wikipedia.org/wiki/Vietnam_War_Crimes_Working_Group>

@@ -4,11 +4,11 @@ permalink: /Haining_Anti-Pollution_Campaign_(2011)/
 ---
 
 The **Haining Anti-Pollution Campaign** was a grassroots
-[environmentalist campaign](Timeline_of_Environmentalism "wikilink") in
-the city of Haining, [China](China "wikilink") against the pollution
-created by a local [solar panel](Electricity "wikilink")
-[factory](factory "wikilink") in
-[2011](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+[environmentalist campaign](Timeline_of_Environmentalism.md "wikilink") in
+the city of Haining, [China](China.md "wikilink") against the pollution
+created by a local [solar panel](Electricity.md "wikilink")
+[factory](factory.md "wikilink") in
+[2011](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 
@@ -23,7 +23,7 @@ can be toxic in high amounts.
 
 On the 15th of September 2011 local farmers and residents gathered
 outside the factory to demand a closure of the factory.
-[Police](Police "wikilink") tried to repress the protest forcefully
+[Police](Police.md "wikilink") tried to repress the protest forcefully
 leading to protesters into the factory offices and destroying property,
 8 company vehicles and 4 police cars.
 
@@ -37,16 +37,16 @@ closed down.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Chinese
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Chinese
 farmers protest solar panel plant pollution, Haining,
 2011](https://nvdatabase.swarthmore.edu/content/chinese-farmers-protest-solar-panel-plant-pollution-haining-2011)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")

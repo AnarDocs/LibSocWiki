@@ -3,9 +3,9 @@ title: Peasants
 permalink: /Peasants/
 ---
 
-**Peasants**are an [exploited class](exploited_class "wikilink") who
-work in [agriculture](agriculture "wikilink"), they do not control the
-[land](land "wikilink") they work on.
+**Peasants**are an [exploited class](exploited_class.md "wikilink") who
+work in [agriculture](agriculture.md "wikilink"), they do not control the
+[land](land.md "wikilink") they work on.
 
 ## List of Peasant Rebellions
 
@@ -13,7 +13,7 @@ work in [agriculture](agriculture "wikilink"), they do not control the
 
 - 209BCE: Anti-Qin revolts
 - 205BCE: [Great Revolt of the
-  Egyptians](Great_Revolt_of_the_Egyptians "wikilink")
+  Egyptians](Great_Revolt_of_the_Egyptians.md "wikilink")
 - 17: Lülin
 - 17: Red Eyebrows
 - 172: Bucolic War
@@ -125,22 +125,22 @@ work in [agriculture](agriculture "wikilink"), they do not control the
 - 1907: Romanian Peasant Revolt
 - 1911: Henan Peasant Rebellion
 - 1913: Northern Shaanxi Peasant Revolt
-- 1913: [Morelos Revolution](Morelos_Commune "wikilink")
+- 1913: [Morelos Revolution](Morelos_Commune.md "wikilink")
 - 1916: Semirechye Revolt
-- 1917: [Russian Revolution](Russian_Revolution "wikilink")
+- 1917: [Russian Revolution](Russian_Revolution.md "wikilink")
 - 1918: Arsk Uprising
-- 1918: [Ukrainian Revolution](Ukrainian_Revolution "wikilink")
+- 1918: [Ukrainian Revolution](Ukrainian_Revolution.md "wikilink")
 - 1920: Pitchfork Uprising
-- 1920: [Tambov Rebellion](Tambov_Rebellion "wikilink")
+- 1920: [Tambov Rebellion](Tambov_Rebellion.md "wikilink")
 - 1921: [Sorokino Peasants'
-  Revolt](Sorokino_Peasants'_Revolt "wikilink")
+  Revolt](Sorokino_Peasants'_Revolt.md "wikilink")
 - 1921: Malabar Rebellion
 - 1924: Revolt of Mang-The-Sixth
 - 1925: Revolt of Chu Heng-teng
 - 1927: Autumn Harvest Uprising
 - 1928: Red Spears Uprising
 - 1932: Salvadoran Peasant Uprising
-- 1932: [Lesko Uprising](Lesko_Uprising "wikilink")
+- 1932: [Lesko Uprising](Lesko_Uprising.md "wikilink")
 - 1932: Anti-Poppy Tax Uprising
 - 1936: Miyun District Rebellion
 - 1944: Beichuan District Rebellion
@@ -148,16 +148,16 @@ work in [agriculture](agriculture "wikilink"), they do not control the
 - 1946: Telengala Movement
 - 1947: Hukbalahap Rebellion
 - 1950: Cazin Rebellion
-- 1952: [Mau Mau Uprising](Mau_Mau_Uprising "wikilink")
+- 1952: [Mau Mau Uprising](Mau_Mau_Uprising.md "wikilink")
 - 1959: Escambray Rebellion
-- 1968: [Agbekoya Parapo Uprising](Agbekoya_Parapo_Uprising "wikilink")
+- 1968: [Agbekoya Parapo Uprising](Agbekoya_Parapo_Uprising.md "wikilink")
 - 1973: [Thailand Peasants'
-  Uprising](1970s_Thailand_Peasants'_Uprising "wikilink")
+  Uprising](1970s_Thailand_Peasants'_Uprising.md "wikilink")
 - 1975: Tigray and Eritrea Uprisings
-- 1994: [Zapatista Revolution](Zapatista_Revolution "wikilink")
+- 1994: [Zapatista Revolution](Zapatista_Revolution.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Economic
-Classes](Category:Economic_Classes "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Agriculture](Category:Agriculture "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Economic
+Classes](Category:Economic_Classes.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Agriculture](Category:Agriculture.md "wikilink")

@@ -4,12 +4,12 @@ permalink: /Gezi_Park_Uprising/
 ---
 
 The **Gezi Park Uprising** or **Gezi Park Protests** was an
-[uprising](List_of_Libertarian_Socialist_Revolutions "wikilink") in
-[Turkey](Republic_of_Turkey "wikilink") by
-[environmentalists](Environmentalism "wikilink") to protect city parks
-in [2013](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink").
+[uprising](List_of_Libertarian_Socialist_Revolutions.md "wikilink") in
+[Turkey](Republic_of_Turkey.md "wikilink") by
+[environmentalists](Environmentalism.md "wikilink") to protect city parks
+in [2013](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink").
 This uprising helped create the [Gezi Park
-Commune](Gezi_Park_Commune "wikilink").
+Commune](Gezi_Park_Commune.md "wikilink").
 
 ## Background
 
@@ -24,8 +24,8 @@ shopping center and luxury apartments, many people were outraged.[^1]
 ## Events
 
 Spread out over several weeks, the Gezi Park Uprising saw people in
-major cities battle [police](police "wikilink") with rocks, improvised
-barricades in city streets and [molotovs](Molotov_Cocktail "wikilink"),
+major cities battle [police](police.md "wikilink") with rocks, improvised
+barricades in city streets and [molotovs](Molotov_Cocktail.md "wikilink"),
 often driving them out of buildings and streets. In response, police
 used tear gas, rubber bullets, pepper spray and occasionally ran over
 protesters. There were also anti-protest mobs who attacked protesters
@@ -51,21 +51,21 @@ the protests.[^3]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Turkey](Category:Turkey "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:2013](Category:2013 "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Turkey](Category:Turkey.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:2013](Category:2013.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Gezi_Park_protests>
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Timeline_of_the_Gezi_Park_protests>
 
-[^3]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2015) [The
-    Failure of Nonviolence](The_Failure_of_Nonviolence "wikilink") -
+[^3]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2015) [The
+    Failure of Nonviolence](The_Failure_of_Nonviolence.md "wikilink") -
     <https://theanarchistlibrary.org/library/peter-gelderloos-the-failure-of-nonviolence>

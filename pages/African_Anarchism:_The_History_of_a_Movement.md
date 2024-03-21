@@ -4,9 +4,9 @@ permalink: /African_Anarchism:_The_History_of_a_Movement/
 ---
 
 **African Anarchism: The History of a Movement** is a 2001
-[book](List_of_Libertarian_Socialist_Books "wikilink") by [Sam
-Mbah](Sam_Mbah "wikilink") and I.E. Igariwey that covers the history and
-potential for an [anarchist](Anarchism "wikilink") revolution across
+[book](List_of_Libertarian_Socialist_Books.md "wikilink") by [Sam
+Mbah](Sam_Mbah.md "wikilink") and I.E. Igariwey that covers the history and
+potential for an [anarchist](Anarchism.md "wikilink") revolution across
 Africa.
 
 ## Summary
@@ -24,7 +24,7 @@ Africa.
 ### Chapter 6: Obstacles to the Development of Anarchism in Africa
 
 Africa has one of the smallest anarchist movements of any continent,
-especially when compared to the [Global North](Global_North "wikilink").
+especially when compared to the [Global North](Global_North.md "wikilink").
 Some of the factors holding back the growth of an anarchist movement in
 Africa include:
 
@@ -38,9 +38,9 @@ Africa include:
 
 ### Chapter 7: Anarchism’s Future in Africa
 
-The failures of [capitalism](capitalism "wikilink") and [authoritarian
-socialism](Authoritarian_Socialism "wikilink") offer hope for
-[anarchism](anarchism "wikilink") as a political project. Throughout
+The failures of [capitalism](capitalism.md "wikilink") and [authoritarian
+socialism](Authoritarian_Socialism.md "wikilink") offer hope for
+[anarchism](anarchism.md "wikilink") as a political project. Throughout
 history, the overall tendency in the development of human society has
 been toward social equality and greater individual freedom. The pace has
 seemed agonizingly slow and there have been innumerable setbacks, but
@@ -55,7 +55,7 @@ trade and imperial ambitions. Multinational corporations and the IMF
 have destroyed the ability for the continent to develop itself, leaving
 it poor. The rapid loss of wealth have also triggered numerous civil
 wars and orgies of violence, disintegrating of the
-[state](State_(Polity) "wikilink"). Many of these issues are placed on
+[state](State_(Polity).md "wikilink"). Many of these issues are placed on
 'natural' racism, but these tensions were flamed by capitalists and
 governments to suit their own interests.
 
@@ -72,13 +72,13 @@ Africa’s way out.
 
 - [African Anarchism: The History of a
   Movement](https://libcom.org/files/African%20Anarchism%20-%20Mbah%20and%20Igariwey.pdf)
-  at [libcom.org](libcom.org "wikilink")
+  at [libcom.org](libcom.org.md "wikilink")
 - [African Anarchism: The History of a
   Movement](https://theanarchistlibrary.org/library/sam-mbah-i-e-igariwey-african-anarchism-the-history-of-a-movement)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")

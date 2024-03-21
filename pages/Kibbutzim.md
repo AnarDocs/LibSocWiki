@@ -4,29 +4,29 @@ permalink: /Kibbutzim/
 ---
 
 **Kibbutzim**or **Kibbutz** are [intentional
-communities](Intentional_Community "wikilink") spread across
-[Israel](State_of_Israel "wikilink") and are connected to the left-wing
-of the [Zionist](Zionism "wikilink") movement. They have an estimated
+communities](Intentional_Community.md "wikilink") spread across
+[Israel](State_of_Israel.md "wikilink") and are connected to the left-wing
+of the [Zionist](Zionism.md "wikilink") movement. They have an estimated
 population of 120,000 people spread over [270
-communities](List_of_Libertarian_Socialist_Societies "wikilink") (or an
+communities](List_of_Libertarian_Socialist_Societies.md "wikilink") (or an
 average of 444 people per community).[^1] [Noam
-Chomsky](Noam_Chomsky "wikilink") has said the early kibbutzim "came
-closer to the [anarchist](Anarchism "wikilink") ideal than any other
+Chomsky](Noam_Chomsky.md "wikilink") has said the early kibbutzim "came
+closer to the [anarchist](Anarchism.md "wikilink") ideal than any other
 attempt that lasted for more than a very brief moment before
-destruction". [Graham Purchase](Graham_Purchase "wikilink") wrote that
+destruction". [Graham Purchase](Graham_Purchase.md "wikilink") wrote that
 the kibbutz became "exactly the sort of modern communal village/small
-town life which [Kropotkin](Peter_Kropotkin "wikilink") had envisaged".
+town life which [Kropotkin](Peter_Kropotkin.md "wikilink") had envisaged".
 
 ## Decision-Making
 
 Kibbutzim make decisions using [democratic town
-meetings](Democratic_Assembly "wikilink"). At once Kibbutz:
+meetings](Democratic_Assembly.md "wikilink"). At once Kibbutz:
 
 > Members met twice a week at town meetings to make decisions on items
 > like the budget, electing officers, and punishing people who broke the
 > community rules. Members elected a general secretary who prepared the
 > meeting agendas, chaired the meetings, and served as the kibbutz's
-> delegate in the [federation](Confederation "wikilink") of kibbutzim.
+> delegate in the [federation](Confederation.md "wikilink") of kibbutzim.
 > The secretary received assistance from a secretariat, a nominating
 > committee, an education committee, a high school committee, a cultural
 > committee, a welfare committee, a security committee, and a landscape
@@ -54,7 +54,7 @@ four incentives emerged from the Kibbutz to get people to work:
 
 1.  Group productivity affects the whole community’s standard of living
 2.  Members control and choose where they
-    [work](Workers'_Self-Management "wikilink"), gaining lots of
+    [work](Workers'_Self-Management.md "wikilink"), gaining lots of
     satisfaction from labor
 3.  People develop personal feelings of pride about their work
 4.  People gain prestige and recognition from other members of the
@@ -71,11 +71,11 @@ teaches visitors about organic gardening and construction with materials
 from the local landbase. The kibbutz's Center for Creative Ecology is
 also an environmental education, research and conservation institution.
 The Center offers academic programs in conjunction with the
-[University](University "wikilink") of Massachusetts Amherst and
-certification courses in [permaculture](permaculture "wikilink"),
-[sustainable design](Sustainability "wikilink") and training. Facilities
+[University](University.md "wikilink") of Massachusetts Amherst and
+certification courses in [permaculture](permaculture.md "wikilink"),
+[sustainable design](Sustainability.md "wikilink") and training. Facilities
 include an interactive park for organic and urban
-[agriculture](agriculture "wikilink"), natural building and solar energy
+[agriculture](agriculture.md "wikilink"), natural building and solar energy
 demonstrations as well as the energy-efficient EcoCampus, a neighborhood
 constructed from earth-plastered straw bales. The kibbutz's website
 reports, "Over the last four years Lotan, through its composting and
@@ -87,52 +87,52 @@ becoming a popular eco tourism attraction.[^9]
 
 ## See Also
 
-- [Moshav](Moshav "wikilink")
+- [Moshav](Moshav.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Zionism](Category:Zionism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Zionism](Category:Zionism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Israel](Category:Israel "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
-[Category:Palestine](Category:Palestine "wikilink")
-[Category:Israel-Palestine](Category:Israel-Palestine "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Israel](Category:Israel.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
+[Category:Palestine](Category:Palestine.md "wikilink")
+[Category:Israel-Palestine](Category:Israel-Palestine.md "wikilink")
 [Category:Current Libertarian Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
-[Category:1909](Category:1909 "wikilink")
-[Category:1900s](Category:1900s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")
+[Category:1909](Category:1909.md "wikilink")
+[Category:1900s](Category:1900s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
 
 [^1]: Ran Abramitzky, "Lessons from the Kibbutz on the
     Equality–Incentives Trade-off," 'Journal of Economic
     Perspectives*25, no. 1 (2011)*
 
-[^2]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) [Anarchy
-    Works](Anarchy_Works "wikilink")
+[^2]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) [Anarchy
+    Works](Anarchy_Works.md "wikilink")
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Kibbutz#Crime>
 
-[^4]: [James Horrox](James_Horrox "wikilink") (2009) *[A Living
+[^4]: [James Horrox](James_Horrox.md "wikilink") (2009) *[A Living
     Revolution: Anarchism in the Kibbutz
-    Movement](A_Living_Revolution:_Anarchism_in_the_Kibbutz_Movement "wikilink")*
+    Movement](A_Living_Revolution:_Anarchism_in_the_Kibbutz_Movement.md "wikilink")*
 
 [^5]: Melford Spiro (1963) Kibbutz: Venture in Utopia
 
 [^6]:
 
-[^7]: [Wikipedia](Wikipedia "wikilink") -
+[^7]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Kibbutz>
 
 [^8]: <http://kibbutzlotan.com/#!sustainability/crfd>

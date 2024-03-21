@@ -4,4 +4,4 @@ permalink: /Main_Page/
 ---
 
 1.  REDIRECT [Libertarian Socialist
-    Wiki](Libertarian_Socialist_Wiki "wikilink")
+    Wiki](Libertarian_Socialist_Wiki.md "wikilink")

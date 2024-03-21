@@ -5,8 +5,8 @@ permalink: /The_best-kept_secret_about_the_revolution_just_revealed_(GIY2100)/
 
 **The best-kept secret about the revolution just revealed** is the third
 chapter of the book [Glimpses into the Year
-2100](Glimpses_into_the_Year_2100_(Book) "wikilink") by [Ilan
-Shalif](Ilan_Shalif "wikilink").
+2100](Glimpses_into_the_Year_2100_(Book).md "wikilink") by [Ilan
+Shalif](Ilan_Shalif.md "wikilink").
 
 ## The best-kept secret about the revolution just revealed
 

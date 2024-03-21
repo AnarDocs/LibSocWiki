@@ -4,10 +4,10 @@ permalink: /CIA/
 ---
 
 The **Central Intelligence Agency** is a
-[US](United_States_of_America "wikilink") agency official tasked with
+[US](United_States_of_America.md "wikilink") agency official tasked with
 "gathering, processing, and analyzing national security information from
 around the world". In reality, the CIA acts as a wing of [US
-Imperialism](Timeline_of_US_Imperialism "wikilink"), aiming to make the
+Imperialism](Timeline_of_US_Imperialism.md "wikilink"), aiming to make the
 world safe for US business interests by overthrowing governments that do
 not subordinate themselves to US business.
 

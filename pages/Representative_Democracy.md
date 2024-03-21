@@ -5,18 +5,18 @@ permalink: /Representative_Democracy/
 
 **Representative democracy** (also **indirect democracy**,
 **representative government** or **psephocracy**) is a type of
-[democracy](democracy "wikilink") founded on the principle of elected
+[democracy](democracy.md "wikilink") founded on the principle of elected
 officials representing a group of people, as opposed to direct
 democracy. These should not be confused with directly democratic
-[libertarian socialist](Libertarian_Socialism "wikilink")
-[confederations](Confederation "wikilink"), in which 'representative's
+[libertarian socialist](Libertarian_Socialism.md "wikilink")
+[confederations](Confederation.md "wikilink"), in which 'representative's
 (called delegates for the sake of simplicity) are subject to recall,
 short-terms and only represent a small interest.
 
 ## History
 
 *See Also: [Timeline of Representative
-Democracy](Timeline_of_Representative_Democracy "wikilink")*
+Democracy](Timeline_of_Representative_Democracy.md "wikilink")*
 
 The development of representative democracy has been a long and unstable
 process, and that have been constant waves of representative governments
@@ -25,10 +25,10 @@ forming as well as backslides into more authoritarian governments.
 ### Precursors
 
 Although numerous direct democracies have existed throughout history
-([Ancient Athens](Athenian_Polis "wikilink"),
-[Haudenosaunee](Haudenosaunee_Confederacy "wikilink"), possibly the
+([Ancient Athens](Athenian_Polis.md "wikilink"),
+[Haudenosaunee](Haudenosaunee_Confederacy.md "wikilink"), possibly the
 [Indus River Valley
-Civilisation](Indus_River_Valley_Civilization "wikilink")) there are few
+Civilisation](Indus_River_Valley_Civilization.md "wikilink")) there are few
 examples of representative democracies.
 
 ### First wave
@@ -108,18 +108,18 @@ than dictatorships[^1] and are far less likely to repress their citizens
 (and repression in democracies is significantly smaller) than
 dictatorships. Additionally, democracies have significantly lower
 violent crime rates. Although there are notably violent democracies
-(notably [USA](United_States_of_America "wikilink"),
-[Israel](Israel "wikilink"), [South Africa](South_Africa "wikilink") and
-[Colombia](Colombia "wikilink")) and peaceful dictatorships there is an
+(notably [USA](United_States_of_America.md "wikilink"),
+[Israel](Israel.md "wikilink"), [South Africa](South_Africa.md "wikilink") and
+[Colombia](Colombia.md "wikilink")) and peaceful dictatorships there is an
 incredibly strong relationship between democracy and peace. Of the 40
-most peaceful countries on Earth, only 2 ([Qatar](Qatar "wikilink") and
-[Bhutan](Bhutan "wikilink")) aren't democracies.
+most peaceful countries on Earth, only 2 ([Qatar](Qatar.md "wikilink") and
+[Bhutan](Bhutan.md "wikilink")) aren't democracies.
 
 ### Strength
 
 Democracies are significantly more likely to win wars than dictatorship
 (despite being far less likely to start them).
-[Wikipedia](Wikipedia "wikilink") lists x wars between 1900 and 2019, x
+[Wikipedia](Wikipedia.md "wikilink") lists x wars between 1900 and 2019, x
 have been wars between states, x have been coalition wars, x have been
 rebellions/insurgencies against a state, x have been civil wars.
 
@@ -127,16 +127,16 @@ rebellions/insurgencies against a state, x have been civil wars.
 
 ### Authoritarian Criticisms
 
-Sociologist [Robert Michels](Robert_Michels "wikilink") argued that all
+Sociologist [Robert Michels](Robert_Michels.md "wikilink") argued that all
 democratic institutions suffer from an [Iron Law of
-Oligarchy](Iron_Law_of_Oligarchy "wikilink"), which states that power
+Oligarchy](Iron_Law_of_Oligarchy.md "wikilink"), which states that power
 tends to be concentrated over time in ANY democratic organisations,
 effectively dooming democracy to always be a failure.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Democracy](Category:Democracy "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Democracy](Category:Democracy.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
 
 [^1]: Dictatorship is used here to indicate to indicate any
     non-democratic country, measured by lower scores on the Democracy

@@ -4,15 +4,15 @@ permalink: /Boroo_Gold_Mine_Strike_(2009)/
 ---
 
 The **Boroo Gold Mine Strike** was a
-[2009](Timeline_of_Libertarian_Socialism_in_Northern_Asia "wikilink")
-strike by [mineworkers](Mining "wikilink") in Selenge, Mongolia against
-unsafe working conditions and [low wages](Wage_Labour "wikilink").
+[2009](Timeline_of_Libertarian_Socialism_in_Northern_Asia.md "wikilink")
+strike by [mineworkers](Mining.md "wikilink") in Selenge, Mongolia against
+unsafe working conditions and [low wages](Wage_Labour.md "wikilink").
 
 ## Background
 
 ### Cyanide Leak
 
-[Workers](Working_Class "wikilink") at Boroo reported water sources near
+[Workers](Working_Class.md "wikilink") at Boroo reported water sources near
 the mine being contaminated with cyanide leakage from the mine, which
 had been actively ignored by government officials and safety
 inspectors.[^1]
@@ -39,7 +39,7 @@ workers would have been herding livestock without Boroo.[^3]
 Over one hundred workers pitched tents outside the gate and blocked the
 main entrance. Another 200 staged a stay-in strike. The mine manager
 responded by terminating all food provisions, and workers in turn by
-[blocked](Blockade "wikilink") internal roads.[^4]
+[blocked](Blockade.md "wikilink") internal roads.[^4]
 
 ## Results
 
@@ -50,16 +50,16 @@ offered greater severance packages, ending the strike.[^5]
 
 <references />
 
-[Category:Mongolia](Category:Mongolia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink") [Category:List of
-Strikes](Category:List_of_Strikes "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Mining](Category:Mining "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:2009](Category:2009 "wikilink")
-[Category:2000s](Category:2000s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+[Category:Mongolia](Category:Mongolia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink") [Category:List of
+Strikes](Category:List_of_Strikes.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Mining](Category:Mining.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:2009](Category:2009.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
 [^1]: <https://libcom.org/news/mongolia-strike-gold-mine-ends-partial-victory-08072009>
 

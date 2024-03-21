@@ -4,28 +4,28 @@ permalink: /White_Terror_(Spain)/
 ---
 
 *Not to be confused with the White Terrors in
-[France](White_Terror_(France) "wikilink"),
-[Bulgaria](White_Terror_(Bulgaria) "wikilink"),
-[Russia](White_Terror_(Russia) "wikilink"),
-[Hungary](White_Terror_(Hungary) "wikilink"),
-[China](White_Terror_(China) "wikilink"),
-[Taiwan](White_Terror_(Taiwan) "wikilink"),
-[Finland](White_Terror_(Finland) "wikilink") and
-[Greece](White_Terror_(Greece) "wikilink").*
+[France](White_Terror_(France).md "wikilink"),
+[Bulgaria](White_Terror_(Bulgaria).md "wikilink"),
+[Russia](White_Terror_(Russia).md "wikilink"),
+[Hungary](White_Terror_(Hungary).md "wikilink"),
+[China](White_Terror_(China).md "wikilink"),
+[Taiwan](White_Terror_(Taiwan).md "wikilink"),
+[Finland](White_Terror_(Finland).md "wikilink") and
+[Greece](White_Terror_(Greece).md "wikilink").*
 
 *Content Warning: This article contains extensive discussion of mass
 murder, rape and child abuse*
 
 The **White Terror** or **Francoist Repression** was a [white
-terror](White_Terror "wikilink") by the Nationalist Faction in the
-[Spanish Civil War](Spanish_Civil_War "wikilink") and the [dictatorship
-in Spain](Franco_Dictatorship "wikilink") against political opponents.
-Including republicans, [anti-fascists](Anti-Fascism "wikilink"),
-socialists, [anarchists](Anarchism "wikilink"), protestants, freemasons,
+terror](White_Terror.md "wikilink") by the Nationalist Faction in the
+[Spanish Civil War](Spanish_Civil_War.md "wikilink") and the [dictatorship
+in Spain](Franco_Dictatorship.md "wikilink") against political opponents.
+Including republicans, [anti-fascists](Anti-Fascism.md "wikilink"),
+socialists, [anarchists](Anarchism.md "wikilink"), protestants, freemasons,
 intellectuals, and nationalists who supported an independent Galicia,
 Catalonia and Basque Country. Between 58,000 and 200,000 were killed
 during the repression. It is frequently compared to and contrasted with
-the [Spanish Red Terror](Red_Terror_(Spain) "wikilink"), which as death
+the [Spanish Red Terror](Red_Terror_(Spain).md "wikilink"), which as death
 estimates of between 38,000 to 115,000 people.
 
 ## During the War
@@ -33,7 +33,7 @@ estimates of between 38,000 to 115,000 people.
 ## After the War
 
 When Heinrich Himmler (the main architect of the
-[Holocaust](Holocaust "wikilink")) visited Spain in 1940, a year after
+[Holocaust](Holocaust.md "wikilink")) visited Spain in 1940, a year after
 Franco's victory, he claimed to have been "shocked" by the brutality of
 the Falangist repression. In July 1939, the foreign minister of Fascist
 Italy, Galeazzo Ciano, reported of "trials going on every day at a speed
@@ -44,7 +44,7 @@ In Madrid alone, between 200 and 250 a day, in Barcelona 150, in Seville
 ### Anti-Feminism
 
 Women's and LGBT rights were lost in the new regime as
-[patriarchy](patriarchy "wikilink") was violently enforced. Around 5,000
+[patriarchy](patriarchy.md "wikilink") was violently enforced. Around 5,000
 gay people were arrested and executed in concentration camps. Divorces
 were made illegal and divorced couples were forced by the state to
 remarry. Women now needed the permission of their husbands to take a job
@@ -117,11 +117,11 @@ dictatorship. Political parties and trade unions were forbidden except
 for the government party. Hundreds of militants and supporters of the
 parties and trade unions declared illegal under Francoist Spain, such as
 the [Spanish Socialist Workers'
-Party](Spanish_Socialist_Workers'_Party "wikilink"), [Communist Party of
-Spain](Communist_Party_of_Spain "wikilink"), [Workers' General
-Union](Workers'_General_Union_(Spain) "wikilink") and the [National
+Party](Spanish_Socialist_Workers'_Party.md "wikilink"), [Communist Party of
+Spain](Communist_Party_of_Spain.md "wikilink"), [Workers' General
+Union](Workers'_General_Union_(Spain).md "wikilink") and the [National
 Confederation of
-Labour](National_Confederation_of_Labour_(Spain) "wikilink") were
+Labour](National_Confederation_of_Labour_(Spain).md "wikilink") were
 imprisoned or executed. Other Iberian languages, including but not
 limited to Basque, Catalan, Galician, Asturleonese and Aragonese had
 their public use forbidden, and the statutes of autonomy of Catalonia
@@ -129,19 +129,19 @@ and the Basque Country were abolished.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [White Terror
+[Wikipedia](Wikipedia.md "wikilink") - [White Terror
 (Spain)](https://en.wikipedia.org/wiki/White_Terror_(Spain))
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:White
-Terrors](Category:White_Terrors "wikilink")
-[Category:Spain](Category:Spain "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Crimes Against
-Humanity](Category:Crimes_Against_Humanity "wikilink")
-[Category:1930s](Category:1930s "wikilink")
-[Category:1940s](Category:1940s "wikilink")
-[Category:1950s](Category:1950s "wikilink")
-[Category:1960s](Category:1960s "wikilink")
-[Category:1970s](Category:1970s "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:White
+Terrors](Category:White_Terrors.md "wikilink")
+[Category:Spain](Category:Spain.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Crimes Against
+Humanity](Category:Crimes_Against_Humanity.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")

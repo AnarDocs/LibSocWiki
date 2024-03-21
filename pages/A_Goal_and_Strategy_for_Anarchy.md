@@ -4,7 +4,7 @@ permalink: /A_Goal_and_Strategy_for_Anarchy/
 ---
 
 **A Goal and Strategy for Anarchy** is a 2008 talk given by [James
-Herod](James_Herod "wikilink") which argues anarchists must focus on
+Herod](James_Herod.md "wikilink") which argues anarchists must focus on
 organising assemblies.
 
 ## Transcript
@@ -28,15 +28,15 @@ communist society would look like, what social forms it would take. He
 said it would be up to the people making the revolution to work that
 out. Additionally, he derided as “utopian” socialist thinkers who were
 trying to think this through (e.g., [Charles
-Fourier](Charles_Fourier "wikilink") and [Robert
-Owen](Robert_Owen "wikilink")). Given the long-lasting hegemony of
+Fourier](Charles_Fourier.md "wikilink") and [Robert
+Owen](Robert_Owen.md "wikilink")). Given the long-lasting hegemony of
 Marxism on the left this label has stuck. To this day people refer to
 Fourier as a “utopian socialist.” So also has the ban stuck until quite
 recently, when the hegemony of Marxism-Leninism was finally broken.
 
 Recently, at least in USAmerica, two other political currents have
 joined the ban on thinking about the future society, Primitivism and
-[Postmodernism](Postmodernism "wikilink"). Primitivists define the enemy
+[Postmodernism](Postmodernism.md "wikilink"). Primitivists define the enemy
 as civilization, and are hoping that it will collapse; they do whatever
 they can to hasten this. As for what happens next, they offer some vague
 and romantic notions about everyone returning to live in hunting and
@@ -64,7 +64,7 @@ underpinned capitalism to date. Conservatism is dead, as is liberalism.
 The counterparts of these philosophies on the left are also dead and
 gone, namely, Leninism and Social Democracy. All these ideologies were
 more or less destroyed in the great revolts of the 1960s. Into the
-vacuum stepped [neoliberalism](neoliberalism "wikilink"), a reversion to
+vacuum stepped [neoliberalism](neoliberalism.md "wikilink"), a reversion to
 nineteenth century unfettered capitalism, or capitalism without the
 smokescreen, where profit-taking trumps all. In addition to all the
 inherent contradictions of a system based on the accumulation of capital
@@ -116,7 +116,7 @@ sustainable, humane, just, free, and joyful world.
 
 Fortunately for us, anarchy, humanity, and the world, many anarchists
 pretty much ignored the ban on imagining the future. [Peter
-Kropotkin](Peter_Kropotkin "wikilink") wrote detailed empirical studies,
+Kropotkin](Peter_Kropotkin.md "wikilink") wrote detailed empirical studies,
 infused with history and theory, about how we might better arrange
 ourselves socially. These studies present a picture of human life so at
 odds with contemporary realities and the dominant culture as to
@@ -124,12 +124,12 @@ practically stun the reader.
 
 Kropotkin was not alone, however. Almost from the first emergence of
 anarchism as a distinct social philosophy, with [William
-Godwin](William_Godwin "wikilink"), anarchists have been trying to
-imagine the future. [James Guillame](James_Guillame "wikilink"), from
+Godwin](William_Godwin.md "wikilink"), anarchists have been trying to
+imagine the future. [James Guillame](James_Guillame.md "wikilink"), from
 Bakunin’s circle, wrote a nice little essay on Social Organization in
 1876. The anarcho-syndicalists, through nearly a century of struggle,
 produced an enormous literature on [workers’ control and worker
-self-management](Workers'_Self-Management "wikilink"). There is an
+self-management](Workers'_Self-Management.md "wikilink"). There is an
 enormous literature on communalism, communes, and intentional
 communities. There is a small but important iterature on direct
 democracy. The Spanish revolutionaries, standing on fifty years of
@@ -139,7 +139,7 @@ plans which covered everything -- workplaces, public services,
 agriculture, and town and village self-government. We have the
 literature on the Paris Commune, on the San-Culottes in the French
 Revolution, on the [Ukrainian Makhnovist
-movement](Free_Territory_of_Ukraine "wikilink"), and on the direct
+movement](Free_Territory_of_Ukraine.md "wikilink"), and on the direct
 democracies of medieval towns. Recently, there has been a rash of
 uprisings based on Popular Assemblies in Algeria, Argentina, Bolivia,
 and Mexico. And so on, down through the past two hundred years.[^3]
@@ -153,7 +153,7 @@ perhaps the greatest contemporary philosopher of autonomy (see, for
 example, <em>Philosophy, Politics, Autonomy</em>). John Holloway has
 brilliantly explained the philosophical foundations for a free people in
 his book <em>Change the World Without Taking Power</em>. [Colin
-Ward](Colin_Ward "wikilink") brought anarchy down to earth in his book
+Ward](Colin_Ward.md "wikilink") brought anarchy down to earth in his book
 <em>Anarchy in Action</em>. There are dozens of other attempts.
 
 We don’t have to rely just on theorists from modern anarchism, however.
@@ -161,7 +161,7 @@ We can look back in history. There were enormous peasant revolts in
 early modern Europe. What did they want? They wanted to get the ruling
 classes off their backs and to live free and autonomous in their
 villages. This was no new thing either. As recently researched and
-superbly described by [David Graeber](David_Graeber "wikilink"),[^4]
+superbly described by [David Graeber](David_Graeber.md "wikilink"),[^4]
 from the emergence of the first states, whenever there was the slightest
 crack in the structure of power, people tried to get free and
 reestablish control over their own lives in their local communities.
@@ -221,10 +221,10 @@ Humans have always organized themselves into households, regardless of
 their societal type, even in tribal societies. It is a well-nigh
 universal and “natural” social form. Most of us spend a great deal of
 our lives in our households. Secondly, women in the [autonomous
-movement](Autonomism "wikilink") in Italy in the 1970s proved that
+movement](Autonomism.md "wikilink") in Italy in the 1970s proved that
 housework is an integral part of wage-slavery. That’s why they launched
 the [Wages for Housework
-campaign](Wages_for_Housework_Campaign "wikilink"). Finally, some of the
+campaign](Wages_for_Housework_Campaign.md "wikilink"). Finally, some of the
 keenest contemporary students of capitalism, those associated with
 Immanuel Wallerstein at the Fernand Braudel Center, include households
 as a key unit of analysis. These are some of the reasons why I think
@@ -309,16 +309,16 @@ Anarchism; Crimethinc; So-called Post-Left Anarchism.
 
 <strong>5.</strong> <em>Other</em>: Radical Democracy; Co-Housing;
 Intentional Communities; [Global Justice
-Movement](Global_Justice_Movement "wikilink").[^5]
+Movement](Global_Justice_Movement.md "wikilink").[^5]
 
 If we survey all these various currents with an eye for the strategy
 recommended by each, the picture is pretty bleak. The [Workers’
-Solidarity Alliance](Workers'_Solidarity_Alliance_(USA) "wikilink")
+Solidarity Alliance](Workers'_Solidarity_Alliance_(USA).md "wikilink")
 (WSA) remains an orthodox anarcho-syndicalist organization with a strict
 focus on workplace organizing, with the 100-year-old vision of federated
 workers’ councils as the social organization to replace capitalism.
 Similarly with the [Industrial Workers of the
-World](Industrial_Workers_of_the_World "wikilink") (Wobblies), whose
+World](Industrial_Workers_of_the_World.md "wikilink") (Wobblies), whose
 strategy hasn’t changed since its founding in 1905. It believes in
 industrial democracy (workers’ control), to be achieved through One Big
 Union.
@@ -346,7 +346,7 @@ transformation they think in terms of establishing a cooperative
 commonwealth, which will be legislated into existence, after a new
 progressive party wins control of the government.
 
-[Libertarian Municipalism](Libertarian_Municipalism "wikilink"), the
+[Libertarian Municipalism](Libertarian_Municipalism.md "wikilink"), the
 strategy which Murray Bookchin attempted to launch, never caught on. It
 proposed the take-over of local governments, by winning elections, to be
 thereafter transformed into popular assemblies based on direct democracy
@@ -408,14 +408,14 @@ campaigns for the right to organize, union organizing drives, fights for
 better wages, hours, and benefits, or in defense of fired workers.
 
 What else? By participating in [Food Not
-Bombs](Food_Not_Bombs "wikilink"), we anarchists take on the task of
+Bombs](Food_Not_Bombs.md "wikilink"), we anarchists take on the task of
 feeding the hungry, whereas we should be devoting our time and energy to
 destroying a system that creates hungry people. We cannot stop all the
 crimes of capitalists, one crime at a time. Their crimes are endless. We
 must stop capitalists. Bikes Not Bombs perhaps highlights an alternative
 to the car culture, but it doesn’t hurt capitalists in the least. No
 number of Critical Mass bike rides will defeat the oil/car oligarchy.
-[Anarchist Black Cross](Anarchist_Black_Cross "wikilink") is certainly a
+[Anarchist Black Cross](Anarchist_Black_Cross.md "wikilink") is certainly a
 decent, humane project, but no amount of letter writing to prisoners, or
 packets of books, will bring down the prison-industrial complex.
 Single-issue campaigns, like shutting down animal testing labs, in
@@ -519,12 +519,12 @@ Other relevant essays are also posted there, such as:
 
 - [A Goal and Strategy for
   Anarchy](https://theanarchistlibrary.org/library/james-herod-a-goal-and-strategy-for-anarchy#toc6)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Articles](Category:Articles "wikilink") [Category:James
-Herod](Category:James_Herod "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Articles](Category:Articles.md "wikilink") [Category:James
+Herod](Category:James_Herod.md "wikilink")
 
 [^1]: Wallerstein’s thesis can be found in “Globalization: A Long-Term
     Trajectory of the World-System,” Ch. 3, pp. 45-68, in his <em>The
@@ -534,10 +534,10 @@ Herod](Category:James_Herod "wikilink")
     Press, 2004).
 
 [^2]: For an outstanding study of this period see [Silvia
-    Federici](Silvia_Federici "wikilink"),
-    <em>[Caliban](Caliban_and_the_Witch "wikilink")</em>[<em>and the
+    Federici](Silvia_Federici.md "wikilink"),
+    <em>[Caliban](Caliban_and_the_Witch.md "wikilink")</em>[<em>and the
     Witch: Women, the Body, and Primitive
-    Accumulation.</em>](Caliban_and_the_Witch "wikilink") (Autonomedia,
+    Accumulation.</em>](Caliban_and_the_Witch.md "wikilink") (Autonomedia,
     2003)
 
 [^3]: References to all these things can be found in my big

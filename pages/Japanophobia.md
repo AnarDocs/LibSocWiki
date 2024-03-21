@@ -5,8 +5,8 @@ permalink: /Japanophobia/
 
 **Japanophobia** (also known as **Anti-Japanese Sentiment**,
 **Nipponophobia** and **Anti-Japanism**) refers to
-[racism](racism "wikilink"), prejudice, negative feelings and
-discrimination directed towards [Japanese](Japan "wikilink") people or
+[racism](racism.md "wikilink"), prejudice, negative feelings and
+discrimination directed towards [Japanese](Japan.md "wikilink") people or
 people of Japanese descent.
 
 ## Japanophobia by Country
@@ -21,8 +21,8 @@ people of Japanese descent.
 
 ### France
 
-During the [2020 Coronavirus Pandemic](Coronavirus_Pandemic "wikilink"),
-anti-Japanese racism became quite severe in [France](France "wikilink").
+During the [2020 Coronavirus Pandemic](Coronavirus_Pandemic.md "wikilink"),
+anti-Japanese racism became quite severe in [France](France.md "wikilink").
 Japan's public service broadcaster NHK, which provides a list of
 overseas safety risks for traveling, in early 2020 listed anti-Japanese
 discrimination as a safety risk when traveling to France and some other
@@ -49,11 +49,11 @@ of Japanese students on a study tour in Paris received abuse by locals.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Anti-Japanese
+[Wikipedia](Wikipedia.md "wikilink") - [Anti-Japanese
 Sentiment](https://en.wikipedia.org/wiki/Anti-Japanese_sentiment)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Racism](Category:Racism "wikilink")
-[Category:Bigotries](Category:Bigotries "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Racism](Category:Racism.md "wikilink")
+[Category:Bigotries](Category:Bigotries.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

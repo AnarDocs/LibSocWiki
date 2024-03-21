@@ -4,9 +4,9 @@ permalink: /Sascha_Schapiro/
 ---
 
 **Alexander "Sascha" Schapiro** (1890 - 1942) was an
-[anarchist](Anarchism "wikilink") and soldier in the [Russian
-Revolution](Russian_Revolution "wikilink") and [Spanish Civil
-War](Spanish_Civil_War "wikilink").
+[anarchist](Anarchism.md "wikilink") and soldier in the [Russian
+Revolution](Russian_Revolution.md "wikilink") and [Spanish Civil
+War](Spanish_Civil_War.md "wikilink").
 
 ## Life
 
@@ -15,11 +15,11 @@ War](Spanish_Civil_War "wikilink").
 Born into a family of Hasidic Jews in the border town of Novozybkov. He
 began to identify more with the working class and peasantry of Russia
 than his own wealthy family. Leaving the town at 14 to join an
-[insurrectionist anarchist](Insurrectionary_Anarchism "wikilink") group
-similar to the [Chernoe Znamia](Chernoe_Znamia "wikilink"). The group
+[insurrectionist anarchist](Insurrectionary_Anarchism.md "wikilink") group
+similar to the [Chernoe Znamia](Chernoe_Znamia.md "wikilink"). The group
 was repressed by police in 1905, after the [failed Russian
-Revolution](Russian_Revolution_(1905) "wikilink") and an attempt to
-assassinate [Tsar Nicholas II](Tsar_Nicholas_II "wikilink").
+Revolution](Russian_Revolution_(1905).md "wikilink") and an attempt to
+assassinate [Tsar Nicholas II](Tsar_Nicholas_II.md "wikilink").
 
 ### Arrest
 
@@ -34,76 +34,76 @@ year 1914 in solitary confinement.
 
 Sascha was released from prison in 1917, with the collapse of the
 Czarist regime and new [Provisional
-Government](Provisional_Government_(Russian_Revolution) "wikilink") led
-by [Alexander Kerensky](Alexander_Kerensky "wikilink"). Hailed as a hero
+Government](Provisional_Government_(Russian_Revolution).md "wikilink") led
+by [Alexander Kerensky](Alexander_Kerensky.md "wikilink"). Hailed as a hero
 across the country, he became an outspoken critic of the new regime.
 Befriending the anarchist revolutionaries [Lev
-Chernyi](Lev_Chernyi "wikilink") and [Maria
-Nikiforova](Maria_Nikiforova "wikilink"), and joining the [Black
-Army](Revolutionary_Insurrectionary_Army_of_Ukraine "wikilink"). He
+Chernyi](Lev_Chernyi.md "wikilink") and [Maria
+Nikiforova](Maria_Nikiforova.md "wikilink"), and joining the [Black
+Army](Revolutionary_Insurrectionary_Army_of_Ukraine.md "wikilink"). He
 married a woman named Rachel, and had a son, Dodek. However, repression
-of the anarchists by the [Bolsheviks](Bolsheviks "wikilink") led him to
+of the anarchists by the [Bolsheviks](Bolsheviks.md "wikilink") led him to
 flee to Minsk, where he met [Alexander
-Berkman](Alexander_Berkman "wikilink"). He escaped Russia through the
+Berkman](Alexander_Berkman.md "wikilink"). He escaped Russia through the
 Polish border in 1921, using forged papers.
 
 ### Life in Europe
 
 By 1922, Schapiro had reached Berlin, where he remained except for a few
 travels to Paris and Belgium until 1924. He befriended other anarchists
-there, such as [Francisco Ascaso](Francisco_Ascaso "wikilink"),
-[Buenaventura Durruti](Buenaventura_Durruti "wikilink"), [Francesco
-Ghezzi](Francesco_Ghezzi "wikilink") and [Theodor
-Plievier](Theodor_Plievier "wikilink"). He remained in contact with
-Nestor Makhno and members of the [Dielo Truda](Dielo_Truda "wikilink").
-Along with [Sébastien Faure](Sébastien_Faure "wikilink"), [Ugo
-Fedeli](Ugo_Fedeli "wikilink") and [Henryk
-Walecki](Maksymilian_Horwitz "wikilink") he founded the Paris-section of
+there, such as [Francisco Ascaso](Francisco_Ascaso.md "wikilink"),
+[Buenaventura Durruti](Buenaventura_Durruti.md "wikilink"), [Francesco
+Ghezzi](Francesco_Ghezzi.md "wikilink") and [Theodor
+Plievier](Theodor_Plievier.md "wikilink"). He remained in contact with
+Nestor Makhno and members of the [Dielo Truda](Dielo_Truda.md "wikilink").
+Along with [Sébastien Faure](Sébastien_Faure.md "wikilink"), [Ugo
+Fedeli](Ugo_Fedeli.md "wikilink") and [Henryk
+Walecki](Maksymilian_Horwitz.md "wikilink") he founded the Paris-section of
 the International Works of Anarchist Editions, run by [Severin
-Ferandel](Severin_Ferandel "wikilink"). He met [Hanka
-Grothendieck](Hanka_Grothendieck "wikilink") while working as a street
+Ferandel](Severin_Ferandel.md "wikilink"). He met [Hanka
+Grothendieck](Hanka_Grothendieck.md "wikilink") while working as a street
 photographer, and they had a son,
-[Alexander](Alexander_Grothendieck "wikilink").
+[Alexander](Alexander_Grothendieck.md "wikilink").
 
 ### Spanish Civil War
 
-Forced to flee [Germany](Nazi_Germany "wikilink") after the rise to
-power of [Adolf Hitler](Adolf_Hitler "wikilink"), and intent on fighting
-in the coming [Spanish Civil War](Spanish_Civil_War "wikilink"), the
+Forced to flee [Germany](Nazi_Germany.md "wikilink") after the rise to
+power of [Adolf Hitler](Adolf_Hitler.md "wikilink"), and intent on fighting
+in the coming [Spanish Civil War](Spanish_Civil_War.md "wikilink"), the
 couple sent Alexander to live with the Heydorns, a middle-class family
 with anarchist sympathies, in 1933. He worked as a soldier in
-[Spain](Spain "wikilink"), fighting until the bitter end of the war,
+[Spain](Spain.md "wikilink"), fighting until the bitter end of the war,
 where he fled to France, being interned at [Camp
-Vernet](Camp_Vernet "wikilink").
+Vernet](Camp_Vernet.md "wikilink").
 
 ### Nazi Germany
 
 Sascha lived in Nazi-Occupied Paris, active in the underground anarchist
 movement, but was soon arrested and deported to
-[Auschwitz](Auschwitz "wikilink") concentration camp in 1942, where he
+[Auschwitz](Auschwitz.md "wikilink") concentration camp in 1942, where he
 was killed.[^1]
 
 ## See Also
 
-- [Alexander Schapiro](Alexander_Schapiro "wikilink")
+- [Alexander Schapiro](Alexander_Schapiro.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Russia](Category:Russia "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Holocaust
-Victims](Category:Holocaust_Victims "wikilink") [Category:Disabled
-People](Category:Disabled_People "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Holocaust
+Victims](Category:Holocaust_Victims.md "wikilink") [Category:Disabled
+People](Category:Disabled_People.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Sascha_Schapiro>

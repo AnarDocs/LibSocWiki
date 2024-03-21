@@ -4,12 +4,12 @@ permalink: /IWW_Couriers'_Network/
 ---
 
 The **IWW Couriers' Network** is an
-[IWW](Industrial_Workers_of_the_World "wikilink") group that works with
+[IWW](Industrial_Workers_of_the_World.md "wikilink") group that works with
 food delivery workers, mainly those working for UberEats and Deliveroo
-in the [UK](United_Kingdom "wikilink") and
-[Ireland](Ireland "wikilink"). Inspired by the [Black
-Friday](Black_Friday_(Germany) "wikilink") actions by food delivery
-workers in [Germany](Germany "wikilink") in 2017.[^1] It was created in
+in the [UK](United_Kingdom.md "wikilink") and
+[Ireland](Ireland.md "wikilink"). Inspired by the [Black
+Friday](Black_Friday_(Germany).md "wikilink") actions by food delivery
+workers in [Germany](Germany.md "wikilink") in 2017.[^1] It was created in
 January 2018, with hundreds of members across Bristol, Cardiff, Glasgow,
 Edinburgh, Aberdeen, Dublin, Derry and Cork.[^2]
 
@@ -30,19 +30,19 @@ drop.[^4]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:IWW](Category:IWW "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:UK](Category:UK "wikilink")
-[Category:Ireland](Category:Ireland "wikilink") [Category:Trade
-Unions](Category:Trade_Unions "wikilink")
-[Category:2019](Category:2019 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2018](Category:2018 "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:IWW](Category:IWW.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:UK](Category:UK.md "wikilink")
+[Category:Ireland](Category:Ireland.md "wikilink") [Category:Trade
+Unions](Category:Trade_Unions.md "wikilink")
+[Category:2019](Category:2019.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2018](Category:2018.md "wikilink")
 
 [^1]: <https://iww.org.uk/news/solidarity-with-german-couriers-fighting-deliveroo/>
 

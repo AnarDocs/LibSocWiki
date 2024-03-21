@@ -8,7 +8,7 @@ and sexuality*
 
 **Libertarian Parenting** or **Libertarian Childrearing**refers to the
 parenting strategies advocated for by [libertarian
-socialists](Libertarian_Socialism "wikilink") to allow for the creation
+socialists](Libertarian_Socialism.md "wikilink") to allow for the creation
 of children who accept freedom and responsibility. The basic principles
 can be summed up as follows: Get rid of authority, moralism, and the
 desire to “improve” and “civilise” children. Allow them to be
@@ -104,10 +104,10 @@ a radical loss of touch with reality)”</em>
 
 Some would argue that these concerns, especially about sexual
 liberation, are pretty small compared to other ideas like dismantling
-the [state](State_(Polity) "wikilink") and
-[capitalism](capitalism "wikilink") introducing [workers'
-self-management](Workers'_Self-Management "wikilink") or [participatory
-democracy](Democratic_Assembly "wikilink"). Many socialists would even
+the [state](State_(Polity).md "wikilink") and
+[capitalism](capitalism.md "wikilink") introducing [workers'
+self-management](Workers'_Self-Management.md "wikilink") or [participatory
+democracy](Democratic_Assembly.md "wikilink"). Many socialists would even
 argue that these are distractions from class struggle and anyone who
 raises these concerns might even be secret capitalists.
 
@@ -125,8 +125,8 @@ is part of a multi-faceted attack on all systems of domination and a
 necessity towards building the self-managed society that libertarian
 socialists desire.
 
-If we look at the [Mujeres Libres](Mujeres_Libres "wikilink") in
-[Revolutionary Spain](Revolutionary_Spain "wikilink"), "Respecting
+If we look at the [Mujeres Libres](Mujeres_Libres.md "wikilink") in
+[Revolutionary Spain](Revolutionary_Spain.md "wikilink"), "Respecting
 children and educating them well was vitally important to the process of
 revolutionary change. Ignorance made people particularly vulnerable to
 oppression and suffering. More importantly, education prepared people
@@ -138,31 +138,31 @@ domination.”[^2]
 
 ## Notable Theorists
 
-- [Alexander Lowen](Alexander_Lowen "wikilink")
-- [Alfie Kohn](Alfie_Kohn "wikilink")
-- [A.S. Neill](A.S._Neill "wikilink")
-- [Chris Pallis](Chris_Pallis "wikilink")
-- [Emma Goldman](Emma_Goldman "wikilink")
-- [Max Stirner](Max_Stirner "wikilink")
-- [Mikhail Bakunin](Mikhail_Bakunin "wikilink")
-- [Wilhelm Reich](Wilhelm_Reich "wikilink")
+- [Alexander Lowen](Alexander_Lowen.md "wikilink")
+- [Alfie Kohn](Alfie_Kohn.md "wikilink")
+- [A.S. Neill](A.S._Neill.md "wikilink")
+- [Chris Pallis](Chris_Pallis.md "wikilink")
+- [Emma Goldman](Emma_Goldman.md "wikilink")
+- [Max Stirner](Max_Stirner.md "wikilink")
+- [Mikhail Bakunin](Mikhail_Bakunin.md "wikilink")
+- [Wilhelm Reich](Wilhelm_Reich.md "wikilink")
 
 ## See Also
 
-- [Democratic Education](Democratic_Education "wikilink")
-- [Self-Determination Theory](Self-Determination_Theory "wikilink")
-- [Sexual Liberation](Sexual_Liberation "wikilink")
+- [Democratic Education](Democratic_Education.md "wikilink")
+- [Self-Determination Theory](Self-Determination_Theory.md "wikilink")
+- [Sexual Liberation](Sexual_Liberation.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Education](Category:Education "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Education](Category:Education.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Violence#Child-rearing>
 
-[^2]: [Martha A. Ackelsberg](Martha_A._Ackelsberg "wikilink") (1991) -
-    [Free Women of Spain](Free_Women_of_Spain_(Book) "wikilink"), page
+[^2]: [Martha A. Ackelsberg](Martha_A._Ackelsberg.md "wikilink") (1991) -
+    [Free Women of Spain](Free_Women_of_Spain_(Book).md "wikilink"), page
     166

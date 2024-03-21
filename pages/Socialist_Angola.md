@@ -4,10 +4,10 @@ permalink: /Socialist_Angola/
 ---
 
 **Socialist Angola**, officially the **People's Republic of Angola**was
-a [Marxist-Leninist state](Marxism-Leninism_in_Practice "wikilink")
-which existed in what is now [Angola](Angola "wikilink") from 1975 to
+a [Marxist-Leninist state](Marxism-Leninism_in_Practice.md "wikilink")
+which existed in what is now [Angola](Angola.md "wikilink") from 1975 to
 1990, being a major player in the first half of the [Angolan Civil
-War](Angolan_Civil_War "wikilink").
+War](Angolan_Civil_War.md "wikilink").
 
 ## Positives and Negatives
 

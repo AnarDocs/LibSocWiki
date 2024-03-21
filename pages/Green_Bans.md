@@ -3,19 +3,19 @@ title: Green Bans
 permalink: /Green_Bans/
 ---
 
-**Green Bans** are [strikes](Strike "wikilink") designed to protect the
+**Green Bans** are [strikes](Strike.md "wikilink") designed to protect the
 environment or key parts of a local community. They were mainly done in
-[Australia](Australia "wikilink") in the
-[1970s](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink"), led by
+[Australia](Australia.md "wikilink") in the
+[1970s](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink"), led by
 the [Builders Labourers
-Federation](Builders_Labourers_Federation "wikilink") (BLF) and used to
+Federation](Builders_Labourers_Federation.md "wikilink") (BLF) and used to
 protect parkland, low-income housing and buildings with historical
 significance. The Green Bans have served as one of the main historical
-inspirations for [Green Syndicalism](Green_Syndicalism "wikilink").
+inspirations for [Green Syndicalism](Green_Syndicalism.md "wikilink").
 
 ## Philosophy
 
-[Jack Mundey](Jack_Mundey "wikilink"), a leading Green Ban organiser,
+[Jack Mundey](Jack_Mundey.md "wikilink"), a leading Green Ban organiser,
 summarised the philosophy of the Green Bans as such:
 
 > "Yes, we want to build. However, we prefer to build urgently-required
@@ -159,33 +159,33 @@ buildings were considered by the National Trust to be worthy of
 preservation. The bans led to new historical buildings and environmental
 legislations in the 1970s across several states and the Australian
 government. They also contributed the introduction of ['Green' as a
-political word](Environmentalism "wikilink") after inspiring [Petra
-Kelly](Petra_Kelly "wikilink").[^1]
+political word](Environmentalism.md "wikilink") after inspiring [Petra
+Kelly](Petra_Kelly.md "wikilink").[^1]
 
 ## See Also
 
-- [Black Armada Ban](Black_Armada_Ban "wikilink")
-- [Dalfram Strike](Dalfram_Strike_(1938) "wikilink")
-- [Political Unionism](Political_Unionism "wikilink")
-- [Juanita Nielsen](Juanita_Nielsen "wikilink")
-- [Work-In](Work-In "wikilink")
+- [Black Armada Ban](Black_Armada_Ban.md "wikilink")
+- [Dalfram Strike](Dalfram_Strike_(1938).md "wikilink")
+- [Political Unionism](Political_Unionism.md "wikilink")
+- [Juanita Nielsen](Juanita_Nielsen.md "wikilink")
+- [Work-In](Work-In.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:1971](Category:1971 "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:Events](Category:Events "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Green Syndicalism](Category:Green_Syndicalism "wikilink")
-[Category:Syndicalism](Category:Syndicalism "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:1975](Category:1975 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:1971](Category:1971.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:Events](Category:Events.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Green Syndicalism](Category:Green_Syndicalism.md "wikilink")
+[Category:Syndicalism](Category:Syndicalism.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:1975](Category:1975.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Green_ban#Outcomes_and_impacts>

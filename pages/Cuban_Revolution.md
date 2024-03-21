@@ -4,12 +4,12 @@ permalink: /Cuban_Revolution/
 ---
 
 The **Cuban Revolution** was a revolution against the [Batista
-Dictatorship](Batista_Dictatorship "wikilink") in
-[Cuba](Cuba "wikilink") which began in 1953 and ended in 1959 that
+Dictatorship](Batista_Dictatorship.md "wikilink") in
+[Cuba](Cuba.md "wikilink") which began in 1953 and ended in 1959 that
 eventually resulted in Cuba's turn towards
-[Marxist-Leninism](Marxist-Leninism "wikilink"). Led mainly by [Fidel
-Castro](Fidel_Castro "wikilink"), [Che Guevara](Che_Guevara "wikilink")
-and [Camilo Cienfuegos](Camilo_Cienfuegos "wikilink"), the revolution
+[Marxist-Leninism](Marxist-Leninism.md "wikilink"). Led mainly by [Fidel
+Castro](Fidel_Castro.md "wikilink"), [Che Guevara](Che_Guevara.md "wikilink")
+and [Camilo Cienfuegos](Camilo_Cienfuegos.md "wikilink"), the revolution
 was highly successful and not only led to the creation of one of the
 most controversial socialist states but also inspired a new generation
 of leftist movements, uprisings, and guerilla wars.
@@ -23,16 +23,16 @@ president from 1940 to 1944, he became a violent dictator in 1952,
 cancelling elections. The country, although prosperous, was plagued by a
 massive urban-rural divide, extreme poverty, racism and an increase in
 organised crime. It has even been suggested that Cuba was becoming a
-[neocolony](Neocolonialism "wikilink") of the US.
+[neocolony](Neocolonialism.md "wikilink") of the US.
 
 In 1952, Fidel Castro, then a young lawyer and activist, petitioned for
 the overthrow of Batista, whom he accused of corruption and tyranny.
 However, Castro's constitutional arguments were rejected by the Cuban
 courts. After deciding that the Cuban regime could not be replaced
 through legal means, Castro resolved to launch an armed revolution. To
-this end, he and his brother [Raúl](Raul_Castro "wikilink") founded a
+this end, he and his brother [Raúl](Raul_Castro.md "wikilink") founded a
 paramilitary organization known as "[The
-Movement](26th_of_July_Movement "wikilink")", stockpiling weapons and
+Movement](26th_of_July_Movement.md "wikilink")", stockpiling weapons and
 recruiting around 1,200 followers from Havana's disgruntled working
 class by the end of 1952.
 
@@ -52,7 +52,7 @@ Batista freed all political prisoners in 1955 after he was under
 political pressure. The Castro brothers went to Mexico and joined many
 Cuban exiles to help prepare for another attack on the Batista
 government. Mentored by left-wing veterans of the [Spanish Civil
-War](Spanish_Civil_War "wikilink") and meeting Che Guevara, the movement
+War](Spanish_Civil_War.md "wikilink") and meeting Che Guevara, the movement
 began preparing for an attack and continuously trained in Mexico.
 
 ### Student Protests
@@ -252,12 +252,12 @@ January.<sup>\[70\]</sup>
 ## Aftermath
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:1953](Category:1953 "wikilink")
-[Category:1959](Category:1959 "wikilink")
-[Category:1950s](Category:1950s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Cuba](Category:Cuba "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink") [Category:Guerilla
-Warfare](Category:Guerilla_Warfare "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:1953](Category:1953.md "wikilink")
+[Category:1959](Category:1959.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Cuba](Category:Cuba.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink") [Category:Guerilla
+Warfare](Category:Guerilla_Warfare.md "wikilink")

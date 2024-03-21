@@ -4,16 +4,16 @@ permalink: /A_People's_History_of_Australia_since_1788/
 ---
 
 **A People's History of Australia since 1788** is a 1988
-[book](List_of_Libertarian_Socialist_Books "wikilink") by Verity
+[book](List_of_Libertarian_Socialist_Books.md "wikilink") by Verity
 Burgmann and Jenny Lee that covers various areas in the [history of
-Australia](history_of_Australia "wikilink") that usually aren't
-discussed such as the development of [capitalism](capitalism "wikilink")
-in [Australia](Australia "wikilink"), the resistance to the
-establishment of [private property](Private_Property "wikilink") by
-[Australian Aboriginals](Australian_Aboriginals "wikilink"), the lives
+Australia](history_of_Australia.md "wikilink") that usually aren't
+discussed such as the development of [capitalism](capitalism.md "wikilink")
+in [Australia](Australia.md "wikilink"), the resistance to the
+establishment of [private property](Private_Property.md "wikilink") by
+[Australian Aboriginals](Australian_Aboriginals.md "wikilink"), the lives
 of convicts and immigrants, Australia's [slave
-trade](Slavery "wikilink") and efforts to establish a [pacific
-empire](Imperialism "wikilink").
+trade](Slavery.md "wikilink") and efforts to establish a [pacific
+empire](Imperialism.md "wikilink").
 
 ## Summary
 
@@ -46,7 +46,7 @@ empire](Imperialism "wikilink").
 ## See Also
 
 - [A People's History of the United
-  States](A_People's_History_of_the_United_States "wikilink")
+  States](A_People's_History_of_the_United_States.md "wikilink")
 
-[Category:Books](Category:Books "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

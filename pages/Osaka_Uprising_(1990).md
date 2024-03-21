@@ -4,10 +4,10 @@ permalink: /Osaka_Uprising_(1990)/
 ---
 
 The **Osaka Uprising** of
-[1990](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink") was
+[1990](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink") was
 a [working class
-uprising](List_of_Libertarian_Socialist_Revolutions "wikilink") in the
-Nishi-Nari ward of Osaka, [Japan](Japan "wikilink").
+uprising](List_of_Libertarian_Socialist_Revolutions.md "wikilink") in the
+Nishi-Nari ward of Osaka, [Japan](Japan.md "wikilink").
 
 ## Background
 
@@ -159,13 +159,13 @@ Japanese capital's only strategy against the eruption of its own
 contradictions is containment.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Japan](Category:Japan "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Worker
-Uprisings](Category:Worker_Uprisings "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:1990](Category:1990 "wikilink")
-[Category:1990s](Category:1990s "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Japan](Category:Japan.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Worker
+Uprisings](Category:Worker_Uprisings.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:1990](Category:1990.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink")

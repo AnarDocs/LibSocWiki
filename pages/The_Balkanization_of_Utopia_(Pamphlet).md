@@ -4,13 +4,13 @@ permalink: /The_Balkanization_of_Utopia_(Pamphlet)/
 ---
 
 **The Balkanization of Utopia** is a 1965 leaflet written by [Chris
-Pallis](Chris_Pallis "wikilink") and published by
-[Solidarity](Solidarity_(UK) "wikilink"). It is a short defense of the
+Pallis](Chris_Pallis.md "wikilink") and published by
+[Solidarity](Solidarity_(UK).md "wikilink"). It is a short defense of the
 sectarianism and infighting that dominates leftist politics and a
 prediction of a new
-[counterculture](Counterculture_of_the_1960s "wikilink") and
+[counterculture](Counterculture_of_the_1960s.md "wikilink") and
 [revolutionary wave in the late
-1960s](Revolutions_of_1968_-_1975 "wikilink").
+1960s](Revolutions_of_1968_-_1975.md "wikilink").
 
 ## Transcript
 
@@ -23,16 +23,16 @@ prediction of a new
 > the Young Socialists provided more familiar forms of dissent"
 > (*Guardian*, April 19, 1965).
 
-The [Press](Mass_Media "wikilink"), the [police](police "wikilink"), and
+The [Press](Mass_Media.md "wikilink"), the [police](police.md "wikilink"), and
 representatives of the established political parties must share a
 certain incredulous surprise on occasions like
-[Aldermaston](Aldermaston_Marches "wikilink"). For there, surfacing into
+[Aldermaston](Aldermaston_Marches.md "wikilink"). For there, surfacing into
 broad daylight, emerging from the anonymity of their daily lives, are
 literally dozens of different political (or anti-political) groupings,
 scores of rank-and-file papers, subversive to various degrees of the
 Established Order, and thousands upon thousands of individuals - with
 strongly felt opinions of their own - united in their opposition to the
-[Bomb](Nuclear_Weapons "wikilink") and in their determination to take
+[Bomb](Nuclear_Weapons.md "wikilink") and in their determination to take
 responsibility for their own actions.
 
 What vision of the future do these people hold? The categories of
@@ -48,9 +48,9 @@ technologies of identification known to the Special Branch. This rabble,
 this horde of potential troublemakers must be identified, their
 affiliations established, the files kept accurate and up to date. How
 much easier it would be to treat them all as "reds" or
-"[pacifists](Pacifism "wikilink")", as
-"[communists](Communism "wikilink")" or
-"[anarchists](Anarchism "wikilink")", without having to worry about the
+"[pacifists](Pacifism.md "wikilink")", as
+"[communists](Communism.md "wikilink")" or
+"[anarchists](Anarchism.md "wikilink")", without having to worry about the
 finer shades of doctrinal difference, without having to document this
 massive dissent.
 
@@ -81,8 +81,8 @@ like their own life and death - to the professional politicians? If they
 must have their Utopias, why can't they accept our standard models,
 prefabricated, provided and priced by official society itself? We may
 bemoan their apathy, but surely this is better than having them turn up
-in hundreds at [May Day](May_Day "wikilink") and shout us down, or make
-awkward comments about "[Vietnam](Vietnam_War "wikilink")" or "MPs'
+in hundreds at [May Day](May_Day.md "wikilink") and shout us down, or make
+awkward comments about "[Vietnam](Vietnam_War.md "wikilink")" or "MPs'
 salaries" or "old age pensioners" or other unpleasant subjects.
 
 The press - although aware of the newsworthiness of the esoteric - is
@@ -100,15 +100,15 @@ Gaitskell called them "peanuts".
 And what about the demonstrators themselves? The "balkanization" of
 their respective Utopias is too obvious to deny. Geography and history
 get muddled. For some Mecca is Moscow, for others Peking. Some live in
-[Petrograd](Petrograd_Soviet "wikilink") (in
-[1917](February_Revolution_(Russia) "wikilink")) - [others in Barcelona
-(in 1936)](Spanish_Revolution "wikilink"). Internationals and ideologies
-interpenetrate. Revolutionary Gods ([Marx](Karl_Marx "wikilink"),
-[Bakunin](Mikhail_Bakunin "wikilink"),
-[Luxemburg](Rosa_Luxemburg "wikilink"),
-[Malatesta](Errico_Malatesta "wikilink"), [de
-Leon](Daniel_De_Leon "wikilink"), [Lenin](Vladimir_Lenin "wikilink") and
-[Trotsky](Leon_Trotsky "wikilink")) jostle one another on the narrow
+[Petrograd](Petrograd_Soviet.md "wikilink") (in
+[1917](February_Revolution_(Russia).md "wikilink")) - [others in Barcelona
+(in 1936)](Spanish_Revolution.md "wikilink"). Internationals and ideologies
+interpenetrate. Revolutionary Gods ([Marx](Karl_Marx.md "wikilink"),
+[Bakunin](Mikhail_Bakunin.md "wikilink"),
+[Luxemburg](Rosa_Luxemburg.md "wikilink"),
+[Malatesta](Errico_Malatesta.md "wikilink"), [de
+Leon](Daniel_De_Leon.md "wikilink"), [Lenin](Vladimir_Lenin.md "wikilink") and
+[Trotsky](Leon_Trotsky.md "wikilink")) jostle one another on the narrow
 summits of a revolutionary Olympus. The truly godless are also
 clamouring for room to breathe.
 
@@ -127,7 +127,7 @@ self-appointed general staff of revolutionary generals. That ordinary
 people could themselves make history - and could make it in ways
 unforeseen and unsuspected by the professional revolutionaries - would
 never occur to the residual legatees of
-[Bolshevism](Bolsheviks "wikilink"). History is thus turned upside down.
+[Bolshevism](Bolsheviks.md "wikilink"). History is thus turned upside down.
 Monolithic conceptions of the road to "utopia" foreshadow Utopias in
 their own image, i.e. monolithic to the core.
 
@@ -144,11 +144,11 @@ no disparaging overtones of incapacity or futility. Established society
 is being corroded at many points, in many ways, *here* and *now*.
 Hundreds of thousands are contributing to the process, both consciously
 and otherwise: brick-planting policemen and lying
-[Labour](Labour_Party_(UK) "wikilink") politicians, [young people
-rejecting traditional sexual morality](Sexual_Revolution "wikilink") and
-[students](Student "wikilink") questioning the categorical imperatives
+[Labour](Labour_Party_(UK).md "wikilink") politicians, [young people
+rejecting traditional sexual morality](Sexual_Revolution.md "wikilink") and
+[students](Student.md "wikilink") questioning the categorical imperatives
 of death "for Queen and Country", train robbers and "[Spies for
-Peace](Spies_for_Peace "wikilink")" evading arrest month after month,
+Peace](Spies_for_Peace.md "wikilink")" evading arrest month after month,
 and well-paid trade union officials pontificating about the merits of an
 "incomes policy" for their members. All are playing a worthy part in a
 vast and essential process of demystification.
@@ -156,20 +156,20 @@ vast and essential process of demystification.
 So are South Bank clergymen de-godding God and Catholic priests acting
 as salesmen for Durex. So are Trots still building left-wings in the
 Labour Party and calling on Labour leaders to *legislate* for [workers'
-control](Workers'_Self-Management "wikilink"), while Labour MPs vote
+control](Workers'_Self-Management.md "wikilink"), while Labour MPs vote
 themselves a £30 a week wage increase and thunder against those who
-"rock the boat". So are French [Stalinists](Marxist-Leninism "wikilink")
-supporting [de Gaulle](Charles_de_Gaulle "wikilink") and Chinese
+"rock the boat". So are French [Stalinists](Marxist-Leninism.md "wikilink")
+supporting [de Gaulle](Charles_de_Gaulle.md "wikilink") and Chinese
 Stalinists supporting the suppression of the [Hungarian
-Revolution](Second_Hungarian_Revolution "wikilink"), [Negroes exposing
+Revolution](Second_Hungarian_Revolution.md "wikilink"), [Negroes exposing
 the whole fraudulent nature of the American judicial
-system](Civil_Rights_Movement_(USA) "wikilink") and White House
+system](Civil_Rights_Movement_(USA).md "wikilink") and White House
 politicians showing the world their notion of the ["rule of law" in the
 Dominican
-Republic](US_Occupation_of_the_Dominican_Republic_(1965) "wikilink"). So
+Republic](US_Occupation_of_the_Dominican_Republic_(1965).md "wikilink"). So
 too, finally, are workers at Paisley using sit-in tactics and having to
 be carried out by the police, while Labour leaders lambast latent
-[Luddites](Luddites "wikilink"), confer baronetcies on the Brockways and
+[Luddites](Luddites.md "wikilink"), confer baronetcies on the Brockways and
 Sopers of this world and encourage the half-pissed platitudes of
 "brother" Brown.
 
@@ -180,7 +180,7 @@ from very different premises, various groups are making fundamental
 critiques of established society. Some have been through the mill of
 traditional "left" politics, others not. Some start from their
 experience in production, others from their experience in the [anti-Bomb
-movement](Peace_Movement "wikilink"), some from the total crisis of
+movement](Peace_Movement.md "wikilink"), some from the total crisis of
 culture and values in the admass society, and others still from the void
 of their own daily lives. These critiques are slowly converging. They
 are literally ploughing up every acre of established thinking, including
@@ -201,9 +201,9 @@ is therefore neither tragedy nor farce. It is the sole guarantee that
 
 - [The Balkanization of
   Utopia](https://www.marxists.org/archive/brinton/1965/06/balkanization-utopia.htm)
-  at [marxists.org](marxists.org "wikilink")
+  at [marxists.org](marxists.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink") [Category:Chris
-Pallis](Category:Chris_Pallis "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink") [Category:Chris
+Pallis](Category:Chris_Pallis.md "wikilink")

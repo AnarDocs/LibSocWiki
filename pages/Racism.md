@@ -10,100 +10,100 @@ in the world.
 
 ## Specific Forms of Racism
 
-- [Afrophobia](Afrophobia "wikilink") - Racism directed towards African
+- [Afrophobia](Afrophobia.md "wikilink") - Racism directed towards African
   people
-- [Albanophobia](Albanophobia "wikilink") - Racism directed towards
+- [Albanophobia](Albanophobia.md "wikilink") - Racism directed towards
   Albanian people
-- [Anti-Bangladeshi Sentiment](Anti-Bangladeshi_Sentiment "wikilink")
-- [Anti-Croat Sentiment](Anti-Croat_Sentiment "wikilink")
-- [Anti-Czech Sentiment](Anti-Czech_Sentiment "wikilink")
-- [Anti-Estonian Sentiment](Anti-Estonian_Sentiment "wikilink")
-- [Anti-Filipino Sentiment](Anti-Filipino_Sentiment "wikilink")
-- [Anti-Haitian Sentiment](Anti-Haitian_Sentiment "wikilink")
-- [Anti-Hazara Sentiment](Anti-Hazara_Sentiment "wikilink")
-- [Anti-Igbo Sentiment](Anti-Igbo_Sentiment "wikilink")
-- [Anti-Korean Sentiment](Anti-Korean_Sentiment "wikilink")
-- [Anti-Malay Sentiment](Anti-Malay_Sentiment "wikilink") - Racism
+- [Anti-Bangladeshi Sentiment](Anti-Bangladeshi_Sentiment.md "wikilink")
+- [Anti-Croat Sentiment](Anti-Croat_Sentiment.md "wikilink")
+- [Anti-Czech Sentiment](Anti-Czech_Sentiment.md "wikilink")
+- [Anti-Estonian Sentiment](Anti-Estonian_Sentiment.md "wikilink")
+- [Anti-Filipino Sentiment](Anti-Filipino_Sentiment.md "wikilink")
+- [Anti-Haitian Sentiment](Anti-Haitian_Sentiment.md "wikilink")
+- [Anti-Hazara Sentiment](Anti-Hazara_Sentiment.md "wikilink")
+- [Anti-Igbo Sentiment](Anti-Igbo_Sentiment.md "wikilink")
+- [Anti-Korean Sentiment](Anti-Korean_Sentiment.md "wikilink")
+- [Anti-Malay Sentiment](Anti-Malay_Sentiment.md "wikilink") - Racism
   directed towards Malaysian people
-- [Anti-Manchuism](Anti-Manchuism "wikilink") - Racism directed towards
+- [Anti-Manchuism](Anti-Manchuism.md "wikilink") - Racism directed towards
   Manchu people
-- [Anti-Mexican Sentiment](Anti-Mexican_Sentiment "wikilink")
+- [Anti-Mexican Sentiment](Anti-Mexican_Sentiment.md "wikilink")
 - [Anti-Middle Eastern
-  Sentiment](Anti-Middle_Eastern_Sentiment "wikilink")- Racism directed
+  Sentiment](Anti-Middle_Eastern_Sentiment.md "wikilink")- Racism directed
   towards people from the Middle East
-- [Anti-Mongolian Sentiment](Anti-Mongolian_Sentiment "wikilink")
-- [Anti-Quebec Sentiment](Anti-Quebec_Sentiment "wikilink")
-- [Anti-Pashtun Sentiment](Anti-Pashtun_Sentiment "wikilink")
-- [Anti-Semitism](Anti-Semitism "wikilink") - Racism directed towards
+- [Anti-Mongolian Sentiment](Anti-Mongolian_Sentiment.md "wikilink")
+- [Anti-Quebec Sentiment](Anti-Quebec_Sentiment.md "wikilink")
+- [Anti-Pashtun Sentiment](Anti-Pashtun_Sentiment.md "wikilink")
+- [Anti-Semitism](Anti-Semitism.md "wikilink") - Racism directed towards
   Jewish people
-- [Anti-Thai Sentiment](Anti-Thai_Sentiment "wikilink")
-- [Anti-Vietnamese Sentiment](Anti-Vietnamese_Sentiment "wikilink")
-- [Antiziganism](Antiziganism "wikilink") - Racism directed towards
+- [Anti-Thai Sentiment](Anti-Thai_Sentiment.md "wikilink")
+- [Anti-Vietnamese Sentiment](Anti-Vietnamese_Sentiment.md "wikilink")
+- [Antiziganism](Antiziganism.md "wikilink") - Racism directed towards
   Romani people
-- [Arabophobia](Arabophobia "wikilink")
-- [Armenophobia](Armenophobia "wikilink") - Racism directed towards
+- [Arabophobia](Arabophobia.md "wikilink")
+- [Armenophobia](Armenophobia.md "wikilink") - Racism directed towards
   Armenian people
-- [Chilenophobia](Chilenophobia "wikilink") - Racism directed towards
+- [Chilenophobia](Chilenophobia.md "wikilink") - Racism directed towards
   Chilean people
-- [Fennophobia](Fennophobia "wikilink") - Racism directed towards
+- [Fennophobia](Fennophobia.md "wikilink") - Racism directed towards
   Finnish people
-- [Germanophobia](Germanophobia "wikilink")
-- [Hellenophobia](Hellenophobia "wikilink") - Racism directed towards
+- [Germanophobia](Germanophobia.md "wikilink")
+- [Hellenophobia](Hellenophobia.md "wikilink") - Racism directed towards
   Greek people
-- [Hibernophobia](Hibernophobia "wikilink") - Racism directed towards
+- [Hibernophobia](Hibernophobia.md "wikilink") - Racism directed towards
   Irish people
-- [Hispanophobia](Hispanophobia "wikilink") - Racism directed towards
+- [Hispanophobia](Hispanophobia.md "wikilink") - Racism directed towards
   Spanish people
-- [Hungarophobia](Hungarophobia "wikilink")
-- [Indonesiaphobia](Indonesiaphobia "wikilink")
-- [Indophobia](Indophobia "wikilink")
-- [Islamophobia](Islamophobia "wikilink")
-- [Italophobia](Italophobia "wikilink") - Racism directed towards
+- [Hungarophobia](Hungarophobia.md "wikilink")
+- [Indonesiaphobia](Indonesiaphobia.md "wikilink")
+- [Indophobia](Indophobia.md "wikilink")
+- [Islamophobia](Islamophobia.md "wikilink")
+- [Italophobia](Italophobia.md "wikilink") - Racism directed towards
   Italian people
-- [Japanophobia](Japanophobia "wikilink") - Racism directed towards
+- [Japanophobia](Japanophobia.md "wikilink") - Racism directed towards
   Japanese people
-- [Kartvelophobia](Kartvelophobia "wikilink") - Racism directed towards
+- [Kartvelophobia](Kartvelophobia.md "wikilink") - Racism directed towards
   Georgian people
-- [Khmerophobia](Khmerophobia "wikilink") - Racism directed towards
+- [Khmerophobia](Khmerophobia.md "wikilink") - Racism directed towards
   Cambodian people
-- [Kurdophobia](Kurdophobia "wikilink") - Racism directed towards
+- [Kurdophobia](Kurdophobia.md "wikilink") - Racism directed towards
   Kurdish people
-- [Lusophobia](Lusophobia "wikilink") - Racism directed towards
+- [Lusophobia](Lusophobia.md "wikilink") - Racism directed towards
   Portuguese people
-- [Pakophobia](Pakophobia "wikilink") - Racism directed towards
+- [Pakophobia](Pakophobia.md "wikilink") - Racism directed towards
   Pakistani people
-- [Persophobia](Persophobia "wikilink") - Racism directed towards
+- [Persophobia](Persophobia.md "wikilink") - Racism directed towards
   Iranian/Persian people
-- [Polonophobia](Polonophobia "wikilink") - Racism directed towards
+- [Polonophobia](Polonophobia.md "wikilink") - Racism directed towards
   Polish people
-- [Romanophobia](Romanophobia "wikilink") - Racism directed towards
+- [Romanophobia](Romanophobia.md "wikilink") - Racism directed towards
   Romanian people
-- [Russophobia](Russophobia "wikilink")
-- [Scotophobia](Scotophobia "wikilink") - Racism directed towards
+- [Russophobia](Russophobia.md "wikilink")
+- [Scotophobia](Scotophobia.md "wikilink") - Racism directed towards
   Scottish people
-- [Serbophobia](Serbophobia "wikilink") - Racism directed towards
+- [Serbophobia](Serbophobia.md "wikilink") - Racism directed towards
   Serbian people
-- [Slavophobia](Slavophobia "wikilink")
-- [Sinophobia](Sinophobia "wikilink") - Racism directed towards Chinese
+- [Slavophobia](Slavophobia.md "wikilink")
+- [Sinophobia](Sinophobia.md "wikilink") - Racism directed towards Chinese
   people
-- [Sufiphobia](Sufiphobia "wikilink") - Racism directed towards Sufi
+- [Sufiphobia](Sufiphobia.md "wikilink") - Racism directed towards Sufi
   people
-- [Tatarophobia](Tatarophobia "wikilink") - Racism directed towards
+- [Tatarophobia](Tatarophobia.md "wikilink") - Racism directed towards
   Tatar people
-- [Turkophobia](Turkophobia "wikilink") - Racism directed towards
+- [Turkophobia](Turkophobia.md "wikilink") - Racism directed towards
   Turkish people
-- [Ukrainophobia](Ukrainophobia "wikilink") - Racism directed towards
+- [Ukrainophobia](Ukrainophobia.md "wikilink") - Racism directed towards
   Ukrainian people
-- [Venezuelanophobia](Venezuelanophobia "wikilink")
+- [Venezuelanophobia](Venezuelanophobia.md "wikilink")
 
 ## See Also
 
-- [Sexism](Sexism "wikilink")
-- [Queerphobia](Queerphobia "wikilink")
-- [Bigotry](Bigotry "wikilink")
+- [Sexism](Sexism.md "wikilink")
+- [Queerphobia](Queerphobia.md "wikilink")
+- [Bigotry](Bigotry.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Racism](Category:Racism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Bigotries](Category:Bigotries "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Racism](Category:Racism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Bigotries](Category:Bigotries.md "wikilink")

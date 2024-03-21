@@ -5,23 +5,23 @@ permalink: /Hellenophobia/
 
 **Hellenophobia** (also known as **Anti-Greek Sentiment**,
 **anti-Hellenism**and **Mishellenism**) refers to
-[racism](racism "wikilink"), negative feelings, dislike, hatred,
+[racism](racism.md "wikilink"), negative feelings, dislike, hatred,
 derision and/or prejudice towards Greeks or people of Greek descent.
 
 ## Modern Hellenophobia
 
 ### Albania
 
-*Main Article: [Racism in Albania](Racism_in_Albania "wikilink")*
+*Main Article: [Racism in Albania](Racism_in_Albania.md "wikilink")*
 
 In the Interwar period (1918–39), the Albanian government closed down
 Greek schools as part of its policies of assimilation. During the
-[Communist rule in Albania (1944–92)](Socialist_Albania "wikilink"), the
+[Communist rule in Albania (1944–92)](Socialist_Albania.md "wikilink"), the
 government restricted the use of Greek language and Greek names by the
 country's Greek minority in an attempt of forced assimilation.
 Anti-Greek sentiment dominated the thinking of Enver Hoxha, the
 communist leader of Albania, during the [Greek Civil
-War](Greek_Civil_War "wikilink").
+War](Greek_Civil_War.md "wikilink").
 
 In post-Communist Albania, "there are no significant explicitly racist
 or chauvinist political parties", although, according to James Pettifer,
@@ -34,10 +34,10 @@ statement "No country is a threat to Albania".
 
 ### Australia
 
-*Main Article: [Racism in Australia](Racism_in_Australia "wikilink")*
+*Main Article: [Racism in Australia](Racism_in_Australia.md "wikilink")*
 
-Greeks in [Australia](Australia "wikilink") have been subject to
-discrimination. During [World War I](World_War_I "wikilink"), due to
+Greeks in [Australia](Australia.md "wikilink") have been subject to
+discrimination. During [World War I](World_War_I.md "wikilink"), due to
 King Constantine I's pro-German sympathies, Greek immigrants were viewed
 with hostility and suspicion. Anti-Greek riots occurred in Perth in 1915
 and in Kalgoorlie in 1916.
@@ -52,7 +52,7 @@ film *The Wog Boy*.
 
 ### Bulgaria
 
-*Main Article: [Racism in Bulgaria](Racism_in_Bulgaria "wikilink")*
+*Main Article: [Racism in Bulgaria](Racism_in_Bulgaria.md "wikilink")*
 
 In 1906, during the Macedonian Struggle, anti-Greek rallies and violent
 attacks took place in a number of Bulgarian cities. In Plovdiv, Greek
@@ -64,7 +64,7 @@ the pogroms, around 20,000 Greeks fled Bulgaria.
 
 ### Canada
 
-*Main Article: [Racism in Canada](Racism_in_Canada "wikilink")*
+*Main Article: [Racism in Canada](Racism_in_Canada.md "wikilink")*
 
 On August 2–5, 1918, a three-day anti-Greek riot occurred in Toronto.
 "Mobs of up to 5,000 people, led by war veterans returned from Europe,
@@ -75,14 +75,14 @@ and private property.
 
 ### Italy
 
-*Main Article: [Racism in Italy](Racism_in_Italy "wikilink")*
+*Main Article: [Racism in Italy](Racism_in_Italy.md "wikilink")*
 
 When the Italian Fascists gained power in 1922, they persecuted the
 Greek-speakers in Italy.
 
 ### Romania
 
-*Main Article: [Racism in Romania](Racism_in_Romania "wikilink")*
+*Main Article: [Racism in Romania](Racism_in_Romania.md "wikilink")*
 
 As Romanian nationalism grew overtime, a rift grew between Greece and
 Romania. In 1892, Romania refused to hand over the property of the
@@ -93,7 +93,7 @@ recalled its ambassador in Bucharest, Romania followed suit thus
 severing diplomatic relations between the countries. Diplomatic
 relations were restored in July 1896, in response to a rise of Bulgarian
 komitadji activity in Macedonia. In 1905, the two countries exchanged
-accusations regarding the [Vlach Question](Vlach_Question "wikilink").
+accusations regarding the [Vlach Question](Vlach_Question.md "wikilink").
 Romania claimed that Greek armed bands targeted ethnic Romanians in
 Macedonia, whereas Greece accused Romania of trying to create a false
 equation between Aromanians and Romanians.
@@ -121,22 +121,22 @@ Romania, restoring diplomatic relations with the latter.
 
 ### Soviet Union
 
-*Main Article: [Racism in the USSR](Racism_in_the_USSR "wikilink")*
+*Main Article: [Racism in the USSR](Racism_in_the_USSR.md "wikilink")*
 
 Between 1919 and 1924 around 47,000 Greeks emigrated from
-[Russia](Russian_Empire "wikilink") to [Greece](Greece "wikilink") as a
+[Russia](Russian_Empire.md "wikilink") to [Greece](Greece.md "wikilink") as a
 result of the official and unofficial anti-Greek sentiment in
-[Russia](Russia "wikilink"), which in its turn was a result of the Greek
+[Russia](Russia.md "wikilink"), which in its turn was a result of the Greek
 intervention in the Black Sea region in the [Russian Civil
-War](Russian_Civil_War "wikilink") against the
-[Bolsheviks](Bolsheviks "wikilink"). Tens of thousands of Greeks were
+War](Russian_Civil_War.md "wikilink") against the
+[Bolsheviks](Bolsheviks.md "wikilink"). Tens of thousands of Greeks were
 deported to the remote parts of the Soviet Union during [World War
-II](World_War_II "wikilink") in the [Greek Operation of
-NKVD](Greek_Operation_(USSR) "wikilink").
+II](World_War_II.md "wikilink") in the [Greek Operation of
+NKVD](Greek_Operation_(USSR).md "wikilink").
 
 ### Turkey
 
-*Main Article: [Racism in Turkey](Racism_in_Turkey "wikilink")*
+*Main Article: [Racism in Turkey](Racism_in_Turkey.md "wikilink")*
 
 A 2011 survey in Turkey revealed that 67% of respondents had unfavorable
 views toward Greeks, although only 6% of Turks said Greece was their
@@ -148,13 +148,13 @@ promote and disseminate an overtly anti-Greek discourse." Although
 others have argued anti-Greek sentiment is decreasing as appreciation
 for Greek culture grows.
 
-During and following [World War I](World_War_I "wikilink"), almost all
+During and following [World War I](World_War_I.md "wikilink"), almost all
 of the [Greek population of Anatolia was either
-exterminated](Greek_Genocide_(1910s) "wikilink") by the Ottoman
+exterminated](Greek_Genocide_(1910s).md "wikilink") by the Ottoman
 government or later transferred to Greece as part of a population
 exchange. In September 1955 the Turkish government sponsored [anti-Greek
-riots and pogrom in Istanbul](Istanbul_Pogrom_(1955) "wikilink"). The
-[conflict over Cyprus](Cyprus_Conflict "wikilink") kept anti-Greek
+riots and pogrom in Istanbul](Istanbul_Pogrom_(1955).md "wikilink"). The
+[conflict over Cyprus](Cyprus_Conflict.md "wikilink") kept anti-Greek
 feelings in Turkey high. At the height of the intercommunal violence in
 Cyprus, thousands of Greeks were expelled from Turkey, mostly Istanbul.
 In March of that year all persons (over 6,000) with Greek citizenship
@@ -167,13 +167,13 @@ Istanbul.
 
 In 1999 Turkey was again swept by a wave of anti-Greek sentiment,
 encouraged by the Turkish government following the capture of the
-[Kurdistan Workers' Party](Kurdistan_Workers'_Party "wikilink") leader
-[Abdullah Öcalan](Abdullah_Öcalan "wikilink"). However, as a result of
+[Kurdistan Workers' Party](Kurdistan_Workers'_Party.md "wikilink") leader
+[Abdullah Öcalan](Abdullah_Öcalan.md "wikilink"). However, as a result of
 the "earthquake diplomacy" and the subsequent rapprochement efforts
 between Greece and Turkey, the public perception of Greece as their main
 enemy decreased in Turkey from 29% in 2001 to 16.9% in 2004.
 
-The [Grey Wolves](Grey_Wolves_(Turkey) "wikilink"), a far-right
+The [Grey Wolves](Grey_Wolves_(Turkey).md "wikilink"), a far-right
 organization associated with the Nationalist Movement Party (MHP),
 routinely demonstrate outside the Ecumenical Patriarchate of
 Constantinople in Fener (Phanar), Istanbul and burn the Patriarch in
@@ -187,7 +187,7 @@ the patriarch deported to Greece.
 
 ### United States
 
-*Main Article: [Racism in the USA](Racism_in_the_USA "wikilink")*
+*Main Article: [Racism in the USA](Racism_in_the_USA.md "wikilink")*
 
 In the early 20th century Greeks in the United States were discriminated
 against in many ways. In 1904 Greek immigrants, unaware of labor
@@ -203,7 +203,7 @@ citizenship and as ignorant, depraved, and brutal foreigners."
 Anti-Greek riots occurred in Salt Lake City in 1917 which "almost
 resulted" in lynching of a Greek immigrant. In 1922, as a response to
 the anti-Greek nativist xenophobia by the [Ku Klux
-Klan](Ku_Klux_Klan "wikilink") (KKK), the American Hellenic Educational
+Klan](Ku_Klux_Klan.md "wikilink") (KKK), the American Hellenic Educational
 Progressive Association (AHEPA) was founded, which sought to Americanize
 the Greek immigrant in America.
 
@@ -215,10 +215,10 @@ canceled. Suck my Ass Bitch.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Anti-Greek
+[Wikipedia](Wikipedia.md "wikilink") - [Anti-Greek
 sentiment](https://en.wikipedia.org/wiki/Anti-Greek_sentiment)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Racism](Category:Racism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Racism](Category:Racism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

@@ -6,58 +6,58 @@ permalink: /Timeline_of_Libertarian_Socialism_in_Middle_Africa/
 ![](LocationCentralAfrica.png "LocationCentralAfrica.png") This is a
 timeline of various political, legal, military, social, economic and
 environmental events that have occurred in Middle Africa that are
-relevant to [libertarian socialism](Libertarian_Socialism "wikilink").
+relevant to [libertarian socialism](Libertarian_Socialism.md "wikilink").
 
-- 1990: [Gabon Uprising](Gabon_Uprising_(1990) "wikilink")
+- 1990: [Gabon Uprising](Gabon_Uprising_(1990).md "wikilink")
 
 ## See Also
 
 - [Timeline of Libertarian
-  Socialism](Timeline_of_Libertarian_Socialism "wikilink")
+  Socialism](Timeline_of_Libertarian_Socialism.md "wikilink")
 - [Timeline of Libertarian Socialism in North
-  America](Timeline_of_Libertarian_Socialism_in_North_America "wikilink")
+  America](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink")
 - [Timeline of Libertarian Socialism in Central
-  America](Timeline_of_Libertarian_Socialism_in_Central_America "wikilink")
+  America](Timeline_of_Libertarian_Socialism_in_Central_America.md "wikilink")
 - [Timeline of Libertarian Socialism in the
-  Caribbean](Timeline_of_Libertarian_Socialism_in_the_Caribbean "wikilink")
+  Caribbean](Timeline_of_Libertarian_Socialism_in_the_Caribbean.md "wikilink")
 - [Timeline of Libertarian Socialism in South
-  America](Timeline_of_Libertarian_Socialism_in_South_America "wikilink")
+  America](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink")
 - [Timeline of Libertarian Socialism in Western
-  Europe](Timeline_of_Libertarian_Socialism_in_Western_Europe "wikilink")
+  Europe](Timeline_of_Libertarian_Socialism_in_Western_Europe.md "wikilink")
 - [Timeline of Libertarian Socialism in Northern
-  Europe](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink")
+  Europe](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink")
 - [Timeline of Libertarian Socialism in Southern
-  Europe](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink")
+  Europe](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink")
 - [Timeline of Libertarian Socialism in Eastern
-  Europe](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink")
+  Europe](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink")
 - [Timeline of Libertarian Socialism in Northern
-  Africa](Timeline_of_Libertarian_Socialism_in_Northern_Africa "wikilink")
+  Africa](Timeline_of_Libertarian_Socialism_in_Northern_Africa.md "wikilink")
 - [Timeline of Libertarian Socialism in Western
-  Africa](Timeline_of_Libertarian_Socialism_in_Western_Africa "wikilink")
+  Africa](Timeline_of_Libertarian_Socialism_in_Western_Africa.md "wikilink")
 - [Timeline of Libertarian Socialism in Eastern
-  Africa](Timeline_of_Libertarian_Socialism_in_Eastern_Africa "wikilink")
+  Africa](Timeline_of_Libertarian_Socialism_in_Eastern_Africa.md "wikilink")
 - [Timeline of Libertarian Socialism in Southern
-  Africa](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink")
+  Africa](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink")
 - [Timeline of Libertarian Socialism in Western
-  Asia](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink")
+  Asia](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink")
 - [Timeline of Libertarian Socialism in Northern
-  Asia](Timeline_of_Libertarian_Socialism_in_Northern_Asia "wikilink")
+  Asia](Timeline_of_Libertarian_Socialism_in_Northern_Asia.md "wikilink")
 - [Timeline of Libertarian Socialism in Southern
-  Asia](Timeline_of_Libertarian_Socialism_in_Southern_Asia "wikilink")
+  Asia](Timeline_of_Libertarian_Socialism_in_Southern_Asia.md "wikilink")
 - [Timeline of Libertarian Socialism in Eastern
-  Asia](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink")
+  Asia](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink")
 - [Timeline of Libertarian Socialism in Southeast
-  Asia](Timeline_of_Libertarian_Socialism_in_Southeast_Asia "wikilink")
+  Asia](Timeline_of_Libertarian_Socialism_in_Southeast_Asia.md "wikilink")
 - [Timeline of Libertarian Socialism in
-  Oceania](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink")
+  Oceania](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Africa](Category:Africa "wikilink") [Category:Middle
-Africa](Category:Middle_Africa "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Middle
+Africa](Category:Middle_Africa.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Timelines](Category:Timelines "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Timelines](Category:Timelines.md "wikilink")

@@ -6,7 +6,7 @@ permalink: /Contradictions_of_Capitalism/
 This article outlines the **contradictions of authoritarian or
 capitalism**, or the ways in which capitalists contradict their own
 values. As such, this article takes [private
-property](Private_Property "wikilink") rights, markets and corporations
+property](Private_Property.md "wikilink") rights, markets and corporations
 for granted. Even if we as libertarian socialists have our own critiques
 of these ideas.
 
@@ -18,12 +18,12 @@ of these ideas.
   it's morally unacceptable to violate these and steal from people or
   coerce them into things. Despite this, history is filled with examples
   of capitalists contradicting their own principles.
-  - Capitalist countries like [Australia](Australia "wikilink"),
-    [Brazil](Brazil "wikilink"), [Canada](Canada "wikilink"),
-    [Finland](Finland "wikilink"), [Mexico](Mexico "wikilink"), [New
-    Zealand](New_Zealand "wikilink"), [Norway](Norway "wikilink"),
-    [Sweden](Sweden "wikilink") and the [United
-    States](United_States_of_America "wikilink") regularly see
+  - Capitalist countries like [Australia](Australia.md "wikilink"),
+    [Brazil](Brazil.md "wikilink"), [Canada](Canada.md "wikilink"),
+    [Finland](Finland.md "wikilink"), [Mexico](Mexico.md "wikilink"), [New
+    Zealand](New_Zealand.md "wikilink"), [Norway](Norway.md "wikilink"),
+    [Sweden](Sweden.md "wikilink") and the [United
+    States](United_States_of_America.md "wikilink") regularly see
     corporations and the state working to violate the property rights of
     indigenous communities to make way for development and natural
     resource extraction. (Specific details are available on each
@@ -54,7 +54,7 @@ of these ideas.
 
 ## New Zealand
 
-From 1984 to 1993, [New Zealand](New_Zealand "wikilink") rapidly shifted
+From 1984 to 1993, [New Zealand](New_Zealand.md "wikilink") rapidly shifted
 to a more capitalist society and away from social democracy. According
 to one political scientist "Between 1984 and 1993, New Zealand underwent
 radical economic reform, moving from what had probably been the most
@@ -106,9 +106,9 @@ New Zealand:
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Capitalism](Category:Capitalism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Capitalism](Category:Capitalism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
 
 [^1]: <https://www.trustforlondon.org.uk/publications/unpaid-britain-wage-default-british-labour-market/>
 

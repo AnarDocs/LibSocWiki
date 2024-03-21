@@ -5,19 +5,19 @@ permalink: /Zomia/
 
 **Zomia**refers to the huge mass of mainland Southeast Asia that has
 historically been [beyond the control of
-governments](List_of_Libertarian_Socialist_Societies "wikilink")
-([China](China "wikilink"), [India](India "wikilink"),
-[Nepal](Nepal "wikilink"), [Bhutan](Bhutan "wikilink"),
-[Thailand](Thailand "wikilink"), [Myanmar](Myanmar "wikilink"),
-[Vietnam](Vietnam "wikilink"), [Laos](Laos "wikilink") and
-[Cambodia](Cambodia "wikilink")) based in the population centers of the
+governments](List_of_Libertarian_Socialist_Societies.md "wikilink")
+([China](China.md "wikilink"), [India](India.md "wikilink"),
+[Nepal](Nepal.md "wikilink"), [Bhutan](Bhutan.md "wikilink"),
+[Thailand](Thailand.md "wikilink"), [Myanmar](Myanmar.md "wikilink"),
+[Vietnam](Vietnam.md "wikilink"), [Laos](Laos.md "wikilink") and
+[Cambodia](Cambodia.md "wikilink")) based in the population centers of the
 lowlands.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink") [Category:Libertarian
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink") [Category:Libertarian
 Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Current Libertarian Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")

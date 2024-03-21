@@ -4,11 +4,11 @@ permalink: /Catal_Huyuk/
 ---
 
 **Catal Huyuk** or **Çatalhöyük** was an early city that expressed
-[statelessness](List_of_Libertarian_Socialist_Societies "wikilink"),
-[communism](Anarcho-Communism "wikilink"), [gender
-equality](Gender_Equality "wikilink") and environmental
-[sustainability](sustainability "wikilink") between [7500BCE to
-5700BCE](Timeline_of_Libertarian_Socialism "wikilink").
+[statelessness](List_of_Libertarian_Socialist_Societies.md "wikilink"),
+[communism](Anarcho-Communism.md "wikilink"), [gender
+equality](Gender_Equality.md "wikilink") and environmental
+[sustainability](sustainability.md "wikilink") between [7500BCE to
+5700BCE](Timeline_of_Libertarian_Socialism.md "wikilink").
 
 ## Crime
 
@@ -17,10 +17,10 @@ skeletons of violence.[^1][^2]
 
 ## Economy
 
-There were no signs of a [market economy](Market_Economy "wikilink") or
-[central planning](Centrally_Planned_Economy "wikilink"), whilst equal
+There were no signs of a [market economy](Market_Economy.md "wikilink") or
+[central planning](Centrally_Planned_Economy.md "wikilink"), whilst equal
 sized houses and burial goods being the same size and quality all signs
-of an [anarcho-communist](Anarcho-Communism "wikilink") society. There
+of an [anarcho-communist](Anarcho-Communism.md "wikilink") society. There
 was also a wide diversity of material goods, suggesting and
 individualistic culture.[^3][^4]
 
@@ -32,9 +32,9 @@ of other populations for nearly 10,000 years, until around 1750 with the
 rise of modern medicine.[^5]
 
 Catal Huyuk was responsible for numerous key innovations of modern
-civilization, notably the ability to [mine](Mining "wikilink"), smelt
+civilization, notably the ability to [mine](Mining.md "wikilink"), smelt
 and use metal and the organisational concept of the
-[city](city "wikilink").[^6]
+[city](city.md "wikilink").[^6]
 
 ## Culture
 
@@ -51,48 +51,48 @@ stopped flowing through the region.[^9]
 
 ## See Also
 
-- [Cayonu Tepesi](Cayonu_Tepesi "wikilink")
+- [Cayonu Tepesi](Cayonu_Tepesi.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
-[Category:Turkey](Category:Turkey "wikilink") [Category:Past Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
+[Category:Turkey](Category:Turkey.md "wikilink") [Category:Past Libertarian
 Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
-[Category:Before Common Era](Category:Before_Common_Era "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Before Common Era](Category:Before_Common_Era.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk>
 
 [^2]: <http://www.urkommunismus.de/catalhueyuek_en.html>
 
 [^3]:
 
-[^4]: [Murray Bookchin](Murray_Bookchin "wikilink") (1992) [The Rise of
+[^4]: [Murray Bookchin](Murray_Bookchin.md "wikilink") (1992) [The Rise of
     Urbanization and the Decline of
-    Citizenship](The_Rise_of_Urbanization_and_the_Decline_of_Citizenship "wikilink")
+    Citizenship](The_Rise_of_Urbanization_and_the_Decline_of_Citizenship.md "wikilink")
 
 [^5]:
 
-[^6]: [Wikipedia](Wikipedia "wikilink") -
+[^6]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Timeline_of_historic_inventions#Neolithic>
 
-[^7]: [www.hurriyetdailynews.com/Default.aspx?PageID=238&NID=72411&NewsCatID=375](www.hurriyetdailynews.com/Default.aspx?PageID=238&NID=72411&NewsCatID=375 "wikilink")
+[^7]: [www.hurriyetdailynews.com/Default.aspx?PageID=238&NID=72411&NewsCatID=375](www.hurriyetdailynews.com/Default.aspx?PageID=238&NID=72411&NewsCatID=375.md "wikilink")
 
-[^8]: [Erich Fromm](Erich_Fromm "wikilink") (1973) *[The Anatomy of
+[^8]: [Erich Fromm](Erich_Fromm.md "wikilink") (1973) *[The Anatomy of
     Human
-    Destructiveness](The_Anatomy_of_Human_Destructiveness "wikilink")*
+    Destructiveness](The_Anatomy_of_Human_Destructiveness.md "wikilink")*
 
 [^9]:

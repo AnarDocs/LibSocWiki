@@ -4,24 +4,24 @@ permalink: /Saigon_Commune/
 ---
 
 The **Saigon Commune** was a [brief
-uprising](List_of_Libertarian_Socialist_Revolutions "wikilink") and
+uprising](List_of_Libertarian_Socialist_Revolutions.md "wikilink") and
 effort to create a [libertarian socialist
-society](List_of_Libertarian_Socialist_Societies "wikilink") in Saigon,
-[Vietnam](Vietnam "wikilink") in
-[1945](Timeline_of_Libertarian_Socialism_in_Southeast_Asia "wikilink").
+society](List_of_Libertarian_Socialist_Societies.md "wikilink") in Saigon,
+[Vietnam](Vietnam.md "wikilink") in
+[1945](Timeline_of_Libertarian_Socialism_in_Southeast_Asia.md "wikilink").
 
 ## Background
 
 Vietnam had been colonised by the [French
-Empire](French_Empire "wikilink") in 1887, leading to widespread
-[anti-colonial](Anti-Colonialism "wikilink") sentiment leading to a
-popular [communist](Communism "wikilink") movement in the 1930s. and
-invaded by the [Japanese Empire](Japanese_Empire "wikilink") in [World
-War II](World_War_II "wikilink").
+Empire](French_Empire.md "wikilink") in 1887, leading to widespread
+[anti-colonial](Anti-Colonialism.md "wikilink") sentiment leading to a
+popular [communist](Communism.md "wikilink") movement in the 1930s. and
+invaded by the [Japanese Empire](Japanese_Empire.md "wikilink") in [World
+War II](World_War_II.md "wikilink").
 
-The [Vietminh](Vietminh "wikilink"), a national liberation organisation
+The [Vietminh](Vietminh.md "wikilink"), a national liberation organisation
 that drew inspiration from
-[Marxist-Leninism](Authoritarian_Socialism "wikilink"), desired to be
+[Marxist-Leninism](Authoritarian_Socialism.md "wikilink"), desired to be
 recognised by the British and French Empires as a legitimate government,
 and so began to disarm various militias to its own police force, this
 move was extremely unpopular with Vietnamese people.[^1]
@@ -29,10 +29,10 @@ move was extremely unpopular with Vietnamese people.[^1]
 ## Events
 
 Militias of the Tia Sang (Trotskyists) called for the formation of
-[popular assemblies](Democratic_Assembly "wikilink") and the arming of
+[popular assemblies](Democratic_Assembly.md "wikilink") and the arming of
 the people to prepare for an imminent invasion by the French. The cities
 tram depot had been put under [workers'
-control](Workers'_Self-Management "wikilink") and workers' councils
+control](Workers'_Self-Management.md "wikilink") and workers' councils
 formed in other industries.
 
 The Vietminh called for the population to flee to the countryside to
@@ -63,7 +63,7 @@ The Stalinist Vietminh were more concerned with retaining control over
 the left than fighting off colonialism (even stabbing several to death).
 Most of the workers' lost their lives as they were cut off from support
 and faced enemies on all sides, forcing them to flee to the countryside,
-where sympathetic [peasants](peasants "wikilink") who killed landlords
+where sympathetic [peasants](peasants.md "wikilink") who killed landlords
 or corrupt government officials.
 
 A small group of Vietnamese students in Paris were convinced by the
@@ -1412,20 +1412,20 @@ were robustly answered ‘Ta, Ta, Ta Thu Thau’ by a PCI contingent.
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Vietnam](Category:Vietnam "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:1945](Category:1945 "wikilink")
-[Category:1940s](Category:1940s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:World War
-II](Category:World_War_II "wikilink")
-[Category:Anti-Colonialism](Category:Anti-Colonialism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Vietnam](Category:Vietnam.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:1945](Category:1945.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:World War
+II](Category:World_War_II.md "wikilink")
+[Category:Anti-Colonialism](Category:Anti-Colonialism.md "wikilink")
 [Category:Anti-Colonial
-Uprising](Category:Anti-Colonial_Uprising "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink") [Category:Worker
-Uprisings](Category:Worker_Uprisings "wikilink")
+Uprising](Category:Anti-Colonial_Uprising.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink") [Category:Worker
+Uprisings](Category:Worker_Uprisings.md "wikilink")
 
-[^1]: **[Ngô Văn Xuyet](Ngô_Văn_Xuyet "wikilink") -**[1945: The Saigon
+[^1]: **[Ngô Văn Xuyet](Ngô_Văn_Xuyet.md "wikilink") -**[1945: The Saigon
     Commune](https://libcom.org/history/articles/saigon-commune-1945)

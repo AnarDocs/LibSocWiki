@@ -4,7 +4,7 @@ permalink: /The_Brighter_Side_of_Human_Nature/
 ---
 
 **The Brighter Side of Human Nature: Altruism and Empathy in Everyday
-Life** is a 1990 book by [Alfie Kohn](Alfie_Kohn "wikilink").
+Life** is a 1990 book by [Alfie Kohn](Alfie_Kohn.md "wikilink").
 
 ## Summary
 
@@ -27,6 +27,6 @@ Life** is a 1990 book by [Alfie Kohn](Alfie_Kohn "wikilink").
 ### Chapter 9: Beyond Altruism
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Alfie
-Kohn](Category:Alfie_Kohn "wikilink")
-[Category:Books](Category:Books "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Alfie
+Kohn](Category:Alfie_Kohn.md "wikilink")
+[Category:Books](Category:Books.md "wikilink")

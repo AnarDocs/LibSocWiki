@@ -3,4 +3,4 @@ title: Commonwealth of Australia
 permalink: /Commonwealth_of_Australia/
 ---
 
-1.  REDIRECT [Australia](Australia "wikilink")
+1.  REDIRECT [Australia](Australia.md "wikilink")

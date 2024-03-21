@@ -4,19 +4,19 @@ permalink: /Isaac_Puente/
 ---
 
 **Isaac Puente Arnestoy** (3 June 1896 – 1 September 1936) was an
-[anarcho-communist](Anarcho-Communism "wikilink") and
-[anarcho-naturist](Anarcho-Naturism "wikilink") doctor who focused on
-[birth control](Reproductive_Rights "wikilink"),
-[abortion](abortion "wikilink"), hygiene, public
-[health](health "wikilink") and [the
-environment](Environmentalism "wikilink").
+[anarcho-communist](Anarcho-Communism.md "wikilink") and
+[anarcho-naturist](Anarcho-Naturism.md "wikilink") doctor who focused on
+[birth control](Reproductive_Rights.md "wikilink"),
+[abortion](abortion.md "wikilink"), hygiene, public
+[health](health.md "wikilink") and [the
+environment](Environmentalism.md "wikilink").
 
 ## Life
 
 ### Early Life
 
 Isaac war born in Las Carreras, near Vizcaya in the
-[Basque](Basque "wikilink") country of the [Spain](Spain "wikilink"). He
+[Basque](Basque.md "wikilink") country of the [Spain](Spain.md "wikilink"). He
 went to a Jesuist school in Orduna and then took up medical studies at
 Santiago and Valladolid Universities between 1914 and 1918. He started
 practicing as a doctor in Ciruena in Logrono province and then from 1919
@@ -34,7 +34,7 @@ Estudios, as well as for the Barcelona magazine Etica Iniciales.[^2]
 
 He was one of the leading anarchist theoreticians during the 1920s and
 1930s. In 1933 the Peninsula Plenary of the [Iberian Anarchist
-Federation](FAI_(Spain) "wikilink") (FAI) nominated him to write on the
+Federation](FAI_(Spain).md "wikilink") (FAI) nominated him to write on the
 concept of libertarian communism. His pamphlets on this theme, above all
 El Comunismo Libertario, were massively distributed, reaching around
 100,000 people.[^3]
@@ -60,14 +60,14 @@ Zaragoza.[^4]
 ### Death
 
 With the outbreak of the [Spanish Civil
-War](Spanish_Civil_War "wikilink"), Isaac was taken by surprised and
-arrested by [Francoist](Nationalists_(Spain) "wikilink") forces from his
+War](Spanish_Civil_War.md "wikilink"), Isaac was taken by surprised and
+arrested by [Francoist](Nationalists_(Spain).md "wikilink") forces from his
 medical practice in Maestu and taken to Vitoria. He was executed by
 firing squad with two other young anarchists in Pancorbo, near Burgos.
 He was later sentenced to death by a military tribunal, despite already
 being dead.[^5] The
-[CNTs](National_Confederation_of_Labour_(Spain) "wikilink") [Isaac
-Puente Battalion](Isaac_Puente_Battalion "wikilink") was named in his
+[CNTs](National_Confederation_of_Labour_(Spain).md "wikilink") [Isaac
+Puente Battalion](Isaac_Puente_Battalion.md "wikilink") was named in his
 honour.[^6]
 
 ## Ideas
@@ -154,29 +154,29 @@ honour.[^6]
 ## Works
 
 - <https://libcom.org/library/libertarian-communism> at
-  [Libcom](Libcom "wikilink")
+  [Libcom](Libcom.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarcho-Communists](Category:Anarcho-Communists "wikilink")
-[Category:Anarcho-Naturists](Category:Anarcho-Naturists "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarcho-Communists](Category:Anarcho-Communists.md "wikilink")
+[Category:Anarcho-Naturists](Category:Anarcho-Naturists.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:Spain](Category:Spain "wikilink")
-[Category:Doctors](Category:Doctors "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:Spain](Category:Spain.md "wikilink")
+[Category:Doctors](Category:Doctors.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Environmentalists](Category:Environmentalists "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Environmentalists](Category:Environmentalists.md "wikilink")
 
-[^1]: [Libcom](Libcom "wikilink") -
+[^1]: [Libcom](Libcom.md "wikilink") -
     <http://libcom.org/history/puente-isaac-1896-1936>
 
 [^2]:
@@ -187,5 +187,5 @@ Europe](Category:Southern_Europe "wikilink")
 
 [^5]:
 
-[^6]: [Wikipedia](Wikipedia "wikilink") -
+[^6]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Isaac_Puente>

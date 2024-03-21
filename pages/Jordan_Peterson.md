@@ -11,12 +11,12 @@ the modern conservative movement.[^1]
 
 <references />
 
-[Category:Biographies](Category:Biographies "wikilink")
-[Category:People](Category:People "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Canada](Category:Canada "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Conservatism](Category:Conservatism "wikilink")
+[Category:Biographies](Category:Biographies.md "wikilink")
+[Category:People](Category:People.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Conservatism](Category:Conservatism.md "wikilink")
 
 [^1]: [Jordan Peterson Biography
     Career](https://dotlocal.org/jordan-peterson/)(7 January 2021).

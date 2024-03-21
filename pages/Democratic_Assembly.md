@@ -8,10 +8,10 @@ permalink: /Democratic_Assembly/
 Assemblies**, **Citizens Assemblies**, **Village Assemblies**,
 **Municipal Assemblies** and **Civic Assemblies**) are the organs of
 local, grassroots, democratic decision-making within a [libertarian
-socialist](Libertarian_Socialism "wikilink") society. They also function
-as [dual power](Dual_Power "wikilink"), providing an alternative way of
+socialist](Libertarian_Socialism.md "wikilink") society. They also function
+as [dual power](Dual_Power.md "wikilink"), providing an alternative way of
 making community-wide decisions outside of the
-[state](State_(Polity) "wikilink").
+[state](State_(Polity).md "wikilink").
 
 ## Function
 
@@ -52,17 +52,17 @@ assembly.
 
 ## See Also
 
-- [Affinity Group](Affinity_Group "wikilink")
-- [Collective](Collective "wikilink")
-- [Confederation](Confederation "wikilink")
-- [Democratic Education](Democratic_Education "wikilink")
-- [Democratic Militia](Democratic_Militia "wikilink")
+- [Affinity Group](Affinity_Group.md "wikilink")
+- [Collective](Collective.md "wikilink")
+- [Confederation](Confederation.md "wikilink")
+- [Democratic Education](Democratic_Education.md "wikilink")
+- [Democratic Militia](Democratic_Militia.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Autonomism](Category:Autonomism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Democracy](Category:Democracy "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Autonomism](Category:Autonomism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Democracy](Category:Democracy.md "wikilink")

@@ -4,8 +4,8 @@ permalink: /Hierarchy_and_Complexity/
 ---
 
 [One of the most common
-arguments](Criticism_of_Libertarian_Socialism "wikilink") against
-[libertarian socialism](Libertarian_Socialism "wikilink") is that it is
+arguments](Criticism_of_Libertarian_Socialism.md "wikilink") against
+[libertarian socialism](Libertarian_Socialism.md "wikilink") is that it is
 incapable of managing large-scale, complex systems that are necessary
 for modern civilisation to function with a high quality of life for a
 long time.
@@ -17,6 +17,6 @@ long time.
 - Rojava
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Arguments](Category:Arguments "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Arguments](Category:Arguments.md "wikilink")

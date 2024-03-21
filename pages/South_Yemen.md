@@ -4,7 +4,7 @@ permalink: /South_Yemen/
 ---
 
 From 1969 to 1990, the People's Democratic Republic of Yemen or South
-Yemen became the only [Marxist-Leninist](Marxist-Leninism "wikilink")
+Yemen became the only [Marxist-Leninist](Marxist-Leninism.md "wikilink")
 state in the Arab world. Some of it's achievements include:
 
 - The country pursued socialist economic policies like nationalisation,
@@ -24,11 +24,11 @@ this, an agreement was reached for reunification in the country in 1990,
 ending socialism in Yemen.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")
 [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink") [Category:Former
-States](Category:Former_States "wikilink")
-[Category:Yemen](Category:Yemen "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
+Socialism](Category:Authoritarian_Socialism.md "wikilink") [Category:Former
+States](Category:Former_States.md "wikilink")
+[Category:Yemen](Category:Yemen.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")

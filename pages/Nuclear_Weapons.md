@@ -29,7 +29,7 @@ kilometres in diameter.
 - 2010: Nuclear missile silos in Wyoming, USA lost contact with a the
   main base, meaning that 50 nuclear missiles had an unknown status for
   an hour and would've been unable to cancel a launch. Luckily, none
-  were launched, it was later discovered that [AT&T](AT&T "wikilink")
+  were launched, it was later discovered that [AT&T](AT&T.md "wikilink")
   had not properly installed communication devices, despite assuring the
   government they had.[^4]
 
@@ -38,7 +38,7 @@ kilometres in diameter.
 Nuclear 'close calls' are moments in history where the world almost came
 close to witnessing a nuclear war.
 
-- 1956: During the [Suez Crisis](Suez_Crisis "wikilink"), the US
+- 1956: During the [Suez Crisis](Suez_Crisis.md "wikilink"), the US
   detected unknown aircraft in Turkey, that USSR fighter jets were
   flying over Syria, that a British bomber aircraft had been shot down
   over Syria and that the USSR navy was moving out of the Black Sea into
@@ -63,7 +63,7 @@ close to witnessing a nuclear war.
   that a telephone relay station in Colorado had a motor that
   overheated.[^7]
 - 1962: On October 26th, during the [Cuban Missile
-  Crisis](Cuban_Missile_Crisis "wikilink"). The *B-59* nuclear patrol
+  Crisis](Cuban_Missile_Crisis.md "wikilink"). The *B-59* nuclear patrol
   submarine owned by the USSR was harassed by US naval forces forcing it
   to submerge to the ocean floor. Unable to communicate with Moscow and
   running out of power for its life support systems, the dropping of
@@ -87,23 +87,23 @@ close to witnessing a nuclear war.
 
 ## See Also
 
-- [Nuclear Energy](Nuclear_Energy "wikilink")
-- [Vela Incident](Vela_Incident_(1979) "wikilink")
+- [Nuclear Energy](Nuclear_Energy.md "wikilink")
+- [Vela Incident](Vela_Incident_(1979).md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Nuclear
-Weapons](Category:Nuclear_Weapons "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Nuclear
+Weapons](Category:Nuclear_Weapons.md "wikilink")
 
 [^1]: [Union of Concerned
-    Scientists](Union_of_Concerned_Scientists "wikilink") (2015) -
+    Scientists](Union_of_Concerned_Scientists.md "wikilink") (2015) -
     [Close Calls with Nuclear
     Weapons](https://www.ucsusa.org/sites/default/files/attach/2015/04/Close%20Calls%20with%20Nuclear%20Weapons.pdf)
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/List_of_military_nuclear_accidents#1960s>
 
 [^3]:
@@ -120,10 +120,10 @@ Weapons](Category:Nuclear_Weapons "wikilink")
 
 [^7]:
 
-[^8]: [Wikipedia](Wikipedia "wikilink") -
+[^8]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/List_of_nuclear_close_calls#27_October_1962>
 
 [^9]:
 
-[^10]: [Wikipedia](Wikipedia "wikilink") -
+[^10]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Norwegian_rocket_incident>

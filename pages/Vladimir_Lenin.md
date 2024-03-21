@@ -19,10 +19,10 @@ critics on both the left and right emphasize his role as founder and
 leader of an authoritarian regime responsible for political repression
 and mass killings.
 
-[Category:Characters](Category:Characters "wikilink")
-[Category:Leninists](Category:Leninists "wikilink")
-[Category:Communists](Category:Communists "wikilink")
-[Category:Marxists](Category:Marxists "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Russia](Category:Russia "wikilink")
-[Category:USSR](Category:USSR "wikilink")
+[Category:Characters](Category:Characters.md "wikilink")
+[Category:Leninists](Category:Leninists.md "wikilink")
+[Category:Communists](Category:Communists.md "wikilink")
+[Category:Marxists](Category:Marxists.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink")
+[Category:USSR](Category:USSR.md "wikilink")

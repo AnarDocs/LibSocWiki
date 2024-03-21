@@ -4,8 +4,8 @@ permalink: /Worshiping_Power_(Book)/
 ---
 
 **Worshiping Power: An Anarchist View of Early State Formation** is a
-2017 [book](List_of_Libertarian_Socialist_Books "wikilink") by [Peter
-Gelderloos](Peter_Gelderloos "wikilink") that discusses the way that
+2017 [book](List_of_Libertarian_Socialist_Books.md "wikilink") by [Peter
+Gelderloos](Peter_Gelderloos.md "wikilink") that discusses the way that
 states form. The book mainly focuses on primary, secondary and tertiary
 state formation.
 
@@ -14,13 +14,13 @@ state formation.
 ### I. Take Me to Your Leader: The Politics of Alien Invasion
 
 In order for states to destroy [horizontal, egalitarian
-societies](List_of_Libertarian_Socialist_Societies "wikilink") or
+societies](List_of_Libertarian_Socialist_Societies.md "wikilink") or
 movements, they need to appoint some kind of hierarchical leadership.
 Examples include colonial societies drawing artificial borders of
 indigenous groups and appointing chiefs, taking local cultures and
 writing out formal legal codes. Indigenous councils and governments were
-set up in [Australia](Australia "wikilink"), [Canada](Canada "wikilink")
-and the [USA](United_States_of_America "wikilink") in order to serve as
+set up in [Australia](Australia.md "wikilink"), [Canada](Canada.md "wikilink")
+and the [USA](United_States_of_America.md "wikilink") in order to serve as
 mediators between the government (allowing for a weakening of indigenous
 social movements by forcing them to become lawyers and the easy
 exploitation of indigenous land for mining, farming or forestry). States
@@ -28,7 +28,7 @@ used a combination of subsidies and repression to destroy the trade
 union movement, turning it away from effective, horizontal forms of
 organisation and into hierarchical, bureaucratic bodies incapable of
 fully realising [workers'
-self-management](Workers'_Self-Management "wikilink"). The media
+self-management](Workers'_Self-Management.md "wikilink"). The media
 frequently appoint 'leaders' and 'spokepersons' for rebellions and
 protests in urban areas, weakening them.
 
@@ -36,7 +36,7 @@ The reasoning is simple. Hierarchical societies are easier to control,
 and hierarchies cannot defend themselves from more powerful hierarchies.
 Officials from a state cannot easily communicate with members of a
 society in which decisions are made in [open
-assemblies](Democratic_Assembly "wikilink"), or societies with
+assemblies](Democratic_Assembly.md "wikilink"), or societies with
 decentralised rather than centralised decision-making. When a state
 communicates with another society, it is interested in transmitting
 orders or legislating agreements, not in contributing its perspective to
@@ -59,7 +59,7 @@ try and negotiate, keeping the state back for as long as possible and
 win favourable trade deals. This strategy usually backfires horribly, as
 the diplomats make deal with the states to become a new ruling class in
 exchange for survival, leading to the formation of the *[reluctant
-client state](Reluctant_Client_State "wikilink")*.
+client state](Reluctant_Client_State.md "wikilink")*.
 
 The agents of colonization used diplomacy and commerce, with a symbolic
 battle or massacre thrown in to demonstrate their superiority. They make
@@ -73,32 +73,32 @@ wars or create autonomous communities to fight against the state.
 However, these rebellious efforts can create states in themselves, as
 people seek to partially imitate their oppressors by adopting a
 hierarchical military, thus creating their own states in the effort to
-resist a state (forming the [*rebel state*](Rebel_State "wikilink"))
+resist a state (forming the [*rebel state*](Rebel_State.md "wikilink"))
 Though it seems paradoxical, in the end it is a common occurrence for a
 colonized people to imitate the colonizer even as they rebel against
 them.
 
 #### Examples Used:
 
-- [Zomia](Zomia "wikilink")
-- [British Empire](British_Empire "wikilink")
+- [Zomia](Zomia.md "wikilink")
+- [British Empire](British_Empire.md "wikilink")
 - [French Colonisation of
-  Vietnam](French_Colonisation_of_Vietnam "wikilink")
+  Vietnam](French_Colonisation_of_Vietnam.md "wikilink")
 - [Dutch Colonisation of
-  Indonesia](Dutch_Colonisation_of_Indonesia "wikilink")
-- [Chin](Chin "wikilink")
-- [Roman Empire](Roman_Empire "wikilink")
+  Indonesia](Dutch_Colonisation_of_Indonesia.md "wikilink")
+- [Chin](Chin.md "wikilink")
+- [Roman Empire](Roman_Empire.md "wikilink")
 - [French Colonisation of North
-  America](French_Colonisation_of_North_America "wikilink")
-- [Haudenosaunee](Haudenosaunee_Confederacy "wikilink")
-- [Botswana](Botswana "wikilink")
-- [San](San "wikilink")
+  America](French_Colonisation_of_North_America.md "wikilink")
+- [Haudenosaunee](Haudenosaunee_Confederacy.md "wikilink")
+- [Botswana](Botswana.md "wikilink")
+- [San](San.md "wikilink")
 - Banda Islanders
-- [Black War in Tasmania](Black_War_(Tasmania) "wikilink")
+- [Black War in Tasmania](Black_War_(Tasmania).md "wikilink")
 - Ashanti Empire
 - Dahomey Kingdom
 - Oyo Empire
-- [Igodomigodo](Igodomigodo "wikilink")
+- [Igodomigodo](Igodomigodo.md "wikilink")
 
 ### II. Ze Germans: A State-Making Technology
 
@@ -513,5 +513,5 @@ enslavement have never disappeared, only been elaborated?
 ### XIII. From Clastres to Cairo to Kobane: Learning from States
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Peter
-Gelderloos](Category:Peter_Gelderloos "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Peter
+Gelderloos](Category:Peter_Gelderloos.md "wikilink")

@@ -4,14 +4,14 @@ permalink: /Neoliberalism/
 ---
 
 **Neoliberalism** refers to the 'stage'
-[capitalism](capitalism "wikilink") entered from the early 1970s to now
+[capitalism](capitalism.md "wikilink") entered from the early 1970s to now
 characterised by massive enclosure and the belief the market can solve
 all problems. The decline of the welfare state,
-[privatisation](privatisation "wikilink") of as many industries as
-possible, repression of [unions](Trade_Union "wikilink") and curbing of
+[privatisation](privatisation.md "wikilink") of as many industries as
+possible, repression of [unions](Trade_Union.md "wikilink") and curbing of
 workers' rights, deregulation of industry,
-[enclosure](enclosure "wikilink") of any remaining
-[commons](commons "wikilink") and massive expansion of military and
+[enclosure](enclosure.md "wikilink") of any remaining
+[commons](commons.md "wikilink") and massive expansion of military and
 police powers.
 
 ## History
@@ -30,7 +30,7 @@ In 1979, neoliberalism began in the UK,
 
 ### 1980s
 
-In 1980, [neoliberalism began in Japan](Japanese_Capitalism "wikilink")
+In 1980, [neoliberalism began in Japan](Japanese_Capitalism.md "wikilink")
 as the government abandoned its rural base and began to focus on Tokyo.
 Tariffs and subsidies to industries were reduced, the working week was
 massively expanded and the retirement age was raised.
@@ -66,8 +66,8 @@ Neoliberalism entered
 ### Right-Wing Criticisms
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Economics](Category:Economics "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink")
-[Category:Capitalism](Category:Capitalism "wikilink")
-[Category:Neoliberalism](Category:Neoliberalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Economics](Category:Economics.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink")
+[Category:Capitalism](Category:Capitalism.md "wikilink")
+[Category:Neoliberalism](Category:Neoliberalism.md "wikilink")

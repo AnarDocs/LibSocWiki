@@ -4,13 +4,13 @@ permalink: /Some_Inadequate_Explanations_(The_Irrational_in_Politics)/
 ---
 
 Confronted with disturbing facts like mass popular support for
-[imperialist wars](Imperialist_War "wikilink") or the rise of
-[fascism](fascism "wikilink") a certain type of traditional
+[imperialist wars](Imperialist_War.md "wikilink") or the rise of
+[fascism](fascism.md "wikilink") a certain type of traditional
 revolutionary can be guaranteed to provide a stereotyped answer. He will
 automatically stress the "betrayal" or "inadequacy" of the
-[Second](Second_International "wikilink") or [Third
-Internationals](Third_International "wikilink"), or of the [German
-Communist Party](Communist_Party_of_Germany "wikilink") ... or of this
+[Second](Second_International.md "wikilink") or [Third
+Internationals](Third_International.md "wikilink"), or of the [German
+Communist Party](Communist_Party_of_Germany.md "wikilink") ... or of this
 or that leadership which, for some reason or another, failed to rise to
 the historical occasion. (People who argue this way don't even seem to
 appreciate that the repeated *tolerance* by the masses of such
@@ -18,9 +18,9 @@ appreciate that the repeated *tolerance* by the masses of such
 
 Most sophisticated revolutionaries will lay the blame elsewhere. The
 means of moulding public opinion ([press, radio,
-TV](Mass_Media "wikilink"), [churches](Organised_Religion "wikilink"),
-[schools](Prussian_Education "wikilink") and
-[universities](University "wikilink")) are in the hands of the ruling
+TV](Mass_Media.md "wikilink"), [churches](Organised_Religion.md "wikilink"),
+[schools](Prussian_Education.md "wikilink") and
+[universities](University.md "wikilink")) are in the hands of the ruling
 class. These media consequently disseminate ruling-class ideas, values
 and priorities - day in, day out. What is disseminated affects all
 layers of the population, contaminating everyone. Is it surprising,
@@ -29,7 +29,7 @@ circumstances the mass of people still retain reactionary ideas?[^1]
 
 This explanation, although partially correct, is insufficient. In the
 long run it will not explain the continued acceptance by the [working
-class](Working_Class "wikilink") of bourgeois rule - or that such rule
+class](Working_Class.md "wikilink") of bourgeois rule - or that such rule
 has only been overthrown to be replaced by institutions of state
 capitalist type, embodying fundamentally similar hierarchical
 relationships (cult of leader, total delegation of authority to an
@@ -51,7 +51,7 @@ their accession to a different kind of consciousness.
 Let us consider for a moment - and not through rose-tinted spectacles -
 the average middle-aged working-class voter today (it matters little in
 this respect whether he votes "Conservative" or
-"[Labour](Labour_Party_(UK) "wikilink")"). He is probably
+"[Labour](Labour_Party_(UK).md "wikilink")"). He is probably
 hierarchy-conscious, xenophobic, racially-prejudiced, pro-monarchy,
 pro-capital-punishment, pro-law-and-order, anti-demonstrator,
 anti-longhaired students and anti-dropout. He is almost certainly
@@ -60,7 +60,7 @@ distorted sexuality endlessly depicted in the pages of the *News of the
 World*). No "practical" Party (aiming at power through the ballot-box)
 would ever dream of appealing to him through the advocacy of wage
 equality, [workers' management of
-production](Workers'_Self-Management "wikilink"), racial integration,
+production](Workers'_Self-Management.md "wikilink"), racial integration,
 penal reform, abolition of the monarchy, dissolution of the police,
 sexual freedom for adolescents or the legalization of pot. Anyone
 proclaiming this kind of "transitional programme" would not only fail to
@@ -80,7 +80,7 @@ determined. (If they were innate, there would be no rational or
 socialist perspective whatsoever.) We will be led to conclude that these
 resistances are the result of a long-standing conditioning, going back
 to earliest childhood, and that this conditioning is mediated through
-the whole institution of the [patriarchal](Patriarchy "wikilink")
+the whole institution of the [patriarchal](Patriarchy.md "wikilink")
 family. The net result is a powerful reinforcement and perpetuation of
 the dominant ideology and the mass production of individuals with
 slavery built into them, individuals ready at a later stage to accept
@@ -96,14 +96,14 @@ of transcending these obstacles.
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:The
-Irrational in Politics](Category:The_Irrational_in_Politics "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:The
+Irrational in Politics](Category:The_Irrational_in_Politics.md "wikilink")
 
 [^1]: To accept this as an "explanation" would be to vest in ideas a
     power they cannot have, namely the power totally to dominate
     material conditions, neutralizing the influence of the economic
     facts of life. It is surprising that this should never have occurred
-    to our "[Marxists](Marxism "wikilink")".
+    to our "[Marxists](Marxism.md "wikilink")".
 
 [^2]: In the words of Thomas Mann in *Buddenbrooks*: "We are most likely
     to get angry and excited in our opposition to some idea when we

@@ -5,33 +5,33 @@ permalink: /Revolutions_of_1986_-_1992/
 
 The **Revolutions of 1986 - 1992**, otherwise called the **Autumn of
 Nations** or **Fall of Nations**, were a [revolutionary
-wave](Revolutionary_Wave "wikilink") that occurred near the end of the
+wave](Revolutionary_Wave.md "wikilink") that occurred near the end of the
 20th century that saw the greatest number of collapsing dictatorships in
 human history, with x% of dictatorships becoming [representative
-democracies](Representative_Democracy "wikilink").
+democracies](Representative_Democracy.md "wikilink").
 
 ## Events by Region
 
 ### Africa
 
-- 1989: [Benin Uprising](Benin_Uprising_(1989) "wikilink")
+- 1989: [Benin Uprising](Benin_Uprising_(1989).md "wikilink")
 - 1989: [Madagascan Democracy
-  Movement](Madagascan_Democracy_Movement "wikilink")
-- 1990: [Zambian Food Riots](Zambian_Food_Riots_(1990) "wikilink")
-- 1990: [Gabon Uprising](Gabon_Uprising_(1990) "wikilink")
+  Movement](Madagascan_Democracy_Movement.md "wikilink")
+- 1990: [Zambian Food Riots](Zambian_Food_Riots_(1990).md "wikilink")
+- 1990: [Gabon Uprising](Gabon_Uprising_(1990).md "wikilink")
 - 1990: [Moroccan General
-  Strike](Moroccan_General_Strike_(1990) "wikilink")
+  Strike](Moroccan_General_Strike_(1990).md "wikilink")
 - 1991: [Okavango River
-  Campaign](Okavango_River_Campaign_(1991) "wikilink")
+  Campaign](Okavango_River_Campaign_(1991).md "wikilink")
 - 1992: [Malawi Democracy
-  Movement](Malawi_Democracy_Movement "wikilink")
+  Movement](Malawi_Democracy_Movement.md "wikilink")
 
 ### Asia
 
 - 1986: People Power Revolution
-- 1987: [June Democratic Struggle](June_Democratic_Struggle "wikilink")
+- 1987: [June Democratic Struggle](June_Democratic_Struggle.md "wikilink")
 - 1990: [Osaka Workers'
-  Uprising](Osaka_Workers'_Uprising_(1990) "wikilink")
+  Uprising](Osaka_Workers'_Uprising_(1990).md "wikilink")
 
 ### Europe
 
@@ -41,8 +41,8 @@ democracies](Representative_Democracy "wikilink").
 
 ### North America
 
-- 1989: [Pittson Mine Strike](Pittson_Mine_Strike_(1989) "wikilink")
-- 1990: [Oka Uprising](Oka_Uprising "wikilink")
+- 1989: [Pittson Mine Strike](Pittson_Mine_Strike_(1989).md "wikilink")
+- 1990: [Oka Uprising](Oka_Uprising.md "wikilink")
 
 ### South America
 
@@ -71,8 +71,8 @@ democracies](Representative_Democracy "wikilink").
   - 1994: Guinea-Bissau, South Africa
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:1980s](Category:1980s "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

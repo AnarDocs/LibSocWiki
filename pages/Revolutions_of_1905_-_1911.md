@@ -6,7 +6,7 @@ permalink: /Revolutions_of_1905_-_1911/
 ## Revolutions
 
 - 1905: [The failed revolution against Tsar Nicholas II in
-  Russia](Russian_Revolution_(1905) "wikilink").
+  Russia](Russian_Revolution_(1905).md "wikilink").
 - 1905: The revolution of Therisso.
 - 1905: Argentine Revolution of 1905.
 - 1905: The Persian/Iranian constitutional revolution.

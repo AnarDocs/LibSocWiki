@@ -4,10 +4,10 @@ permalink: /Dalian_Anti-Factory_Campaign_(2011)/
 ---
 
 The **Dalian Anti-Factory Campaign of 2011** was a
-[student](student "wikilink")-led [environmental
-protest](Timeline_of_Environmentalism "wikilink") in Dalian, Liaoning,
-[China](China "wikilink") in
-[2011](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+[student](student.md "wikilink")-led [environmental
+protest](Timeline_of_Environmentalism.md "wikilink") in Dalian, Liaoning,
+[China](China.md "wikilink") in
+[2011](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 
@@ -46,7 +46,7 @@ had been previously adopted by other grassroots activists in China as a
 euphemism for protest marches. Blog posts also show that during the week
 of 8 August, Dalians were increasingly talking about the [Xiamen
 Anti-Factory Campaign from
-2007](Xiamen_Anti-Factory_Campaign_(2007) "wikilink"), which
+2007](Xiamen_Anti-Factory_Campaign_(2007).md "wikilink"), which
 successfully led to the shutdown of a PX plant in that region. Reports
 indicate that an initial group of protesters gathered at the Municipal
 Building and commenced a sit-in there early Sunday morning. By midday
@@ -80,25 +80,25 @@ environmental protests in China.
 ## See Also
 
 - [Chinese Protest Wave (2007 -
-  2014)](Chinese_Protest_Wave_(2007_-_2014) "wikilink")
+  2014)](Chinese_Protest_Wave_(2007_-_2014).md "wikilink")
 - [Haining Anti-Factory
-  Campaign](Haining_Anti-Pollution_Campaign_(2011) "wikilink")
+  Campaign](Haining_Anti-Pollution_Campaign_(2011).md "wikilink")
 
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Chinese
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Chinese
 middle class protesters challenge chemical plant in Dalian,
 2011](https://nvdatabase.swarthmore.edu/content/chinese-middle-class-protesters-challenge-chemical-plant-dalian-2011)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:Revolutions of
-2010 - 2015](Category:Revolutions_of_2010_-_2015 "wikilink")
-[Category:21st Century](Category:21st_Century "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:Revolutions of
+2010 - 2015](Category:Revolutions_of_2010_-_2015.md "wikilink")
+[Category:21st Century](Category:21st_Century.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")

@@ -4,12 +4,12 @@ permalink: /Shanghai_Truck_Drivers'_Strike_(2011)/
 ---
 
 The **Shanghai Truck Drivers' Strike of 2011** was a
-[strike](List_of_Strikes "wikilink") of truck drivers in Shanghai,
-[China](China "wikilink") in [April
-2011](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink"). It
+[strike](List_of_Strikes.md "wikilink") of truck drivers in Shanghai,
+[China](China.md "wikilink") in [April
+2011](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink"). It
 was part of a [global wave of
-unrest](Revolutions_of_2008_-_2014 "wikilink") that was [especially
-notable in China](Chinese_Protest_Wave_(2007_-_2014) "wikilink"). It was
+unrest](Revolutions_of_2008_-_2014.md "wikilink") that was [especially
+notable in China](Chinese_Protest_Wave_(2007_-_2014).md "wikilink"). It was
 an episode
 
 ## Background
@@ -87,21 +87,21 @@ fee reductions.
 
 ## See Also
 
-- [Bonnots Rouges](Bonnots_Rouges "wikilink")
+- [Bonnots Rouges](Bonnots_Rouges.md "wikilink")
 
 ## Reference
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Shanghai
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Shanghai
 truck drivers strike to lower trucking fees,
 2011](https://nvdatabase.swarthmore.edu/content/shanghai-truck-drivers-strike-lower-trucking-fees-2011)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")

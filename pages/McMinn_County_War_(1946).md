@@ -4,16 +4,16 @@ permalink: /McMinn_County_War_(1946)/
 ---
 
 The **McMinn County War** or **Battle of Athens** was a
-[rebellion](List_of_Revolutions "wikilink") in Athens and Etowah,
+[rebellion](List_of_Revolutions.md "wikilink") in Athens and Etowah,
 Tennessee, [United States of
-America](United_States_of_America "wikilink"), against the local
+America](United_States_of_America.md "wikilink"), against the local
 government in
-[August](Timeline_of_Libertarian_Socialism_in_North_America "wikilink")
-[1946](Revolutions_of_1943_-_1949 "wikilink").
+[August](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink")
+[1946](Revolutions_of_1943_-_1949.md "wikilink").
 
 ## Background
 
-The citizens, including some [World War II](World_War_II "wikilink")
+The citizens, including some [World War II](World_War_II.md "wikilink")
 veterans, accused the local officials of predatory policing, police
 brutality, political corruption, and voter intimidation.
 

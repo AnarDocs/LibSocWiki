@@ -23,8 +23,8 @@ civilization.
 ### Science
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Science](Category:Science "wikilink")
-[Category:Chemistry](Category:Chemistry "wikilink") [Category:Water
-Uprisings](Category:Water_Uprisings "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Science](Category:Science.md "wikilink")
+[Category:Chemistry](Category:Chemistry.md "wikilink") [Category:Water
+Uprisings](Category:Water_Uprisings.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

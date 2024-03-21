@@ -11,7 +11,7 @@ human activities.
 ## History
 
 *See Also: [Timeline of
-Environmentalism](Timeline_of_Environmentalism "wikilink")*
+Environmentalism](Timeline_of_Environmentalism.md "wikilink")*
 
 ### Proto-Environmentalism
 
@@ -40,22 +40,22 @@ Environmentalism](Timeline_of_Environmentalism "wikilink")*
 - Green Left
 - Green Liberalism
 - Green Libertarianism
-- [Green Syndicalism](Green_Syndicalism "wikilink")
+- [Green Syndicalism](Green_Syndicalism.md "wikilink")
 - Green Zionism
 - Social Ecology
 - Veganism
 
 ## Notable Theorists
 
-- [Barry Commoner](Barry_Commoner "wikilink")
-- [Elinor Ostrom](Elinor_Ostrom "wikilink")
-- [Judi Bari](Judi_Bari "wikilink")
-- [Murray Bookchin](Murray_Bookchin "wikilink")
-- [Peter Kropotkin](Peter_Kropotkin "wikilink")
-- [Peter Gelderloos](Peter_Gelderloos "wikilink")
+- [Barry Commoner](Barry_Commoner.md "wikilink")
+- [Elinor Ostrom](Elinor_Ostrom.md "wikilink")
+- [Judi Bari](Judi_Bari.md "wikilink")
+- [Murray Bookchin](Murray_Bookchin.md "wikilink")
+- [Peter Kropotkin](Peter_Kropotkin.md "wikilink")
+- [Peter Gelderloos](Peter_Gelderloos.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")

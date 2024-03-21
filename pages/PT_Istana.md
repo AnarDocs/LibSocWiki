@@ -4,40 +4,40 @@ permalink: /PT_Istana/
 ---
 
 ![](PTISTANA.JPG "PTISTANA.JPG") **PT Istana** is a textile
-[factory](factory "wikilink") in [North
-Jakarta](Republic_of_Indonesia "wikilink") which has been
-[occupied](Occupation "wikilink") and [controlled by its
-workers](Workers'_Self-Management "wikilink") since 2007.
+[factory](factory.md "wikilink") in [North
+Jakarta](Republic_of_Indonesia.md "wikilink") which has been
+[occupied](Occupation.md "wikilink") and [controlled by its
+workers](Workers'_Self-Management.md "wikilink") since 2007.
 
 ## Events
 
 Jorge Martin, the International Secretary for Hands Off Venezeula,
 offered this account of the factory during his tour of
-[Malaysia](Malaysia "wikilink") and Indonesia:<em> </em>
+[Malaysia](Malaysia.md "wikilink") and Indonesia:<em> </em>
 
 On November 11, 2008, we travelled to PT Istana, a textile factory in
-North Jakarta, [Indonesia](Republic_of_Indonesia "wikilink"), to visit
+North Jakarta, [Indonesia](Republic_of_Indonesia.md "wikilink"), to visit
 the workers who have occupied it and are running it under workers'
 control. They were very interested in learning about the movement of
 [factory occupations in Latin
-America](Recovered_Factory_Movement "wikilink") in general and in
+America](Recovered_Factory_Movement.md "wikilink") in general and in
 particular the [experience in
-Venezuela](Bolivarian_Revolution "wikilink").
+Venezuela](Bolivarian_Revolution.md "wikilink").
 
 When we arrived at the gates of the factory, we saw banners greeting us
 and the gates being guarded by the workers. At the top of the gates the
 banners from the different organisations involved in the occupation were
 flying high and proud: the PRP (Working Peoples' Association) and the
 FSBKU-KASBI (Federation of Karya Utama Union - Congress of Indonesian
-Union Alliance), which is a local [federation](Confederation "wikilink")
-of [unions](Trade_Unions "wikilink") belonging to KASBI. The
-[workers](Working_Class "wikilink") present, overwhelmingly women (many
-wearing the traditional [Islamic](Islam "wikilink") headscarf), were
+Union Alliance), which is a local [federation](Confederation.md "wikilink")
+of [unions](Trade_Unions.md "wikilink") belonging to KASBI. The
+[workers](Working_Class.md "wikilink") present, overwhelmingly women (many
+wearing the traditional [Islamic](Islam.md "wikilink") headscarf), were
 extremely pleased to receive support from an international delegation
 and were proud to show us what they had achieved through their struggle.
 First of all they offered us a meal, which they had cooked themselves in
 a corner of the factory yard and which we ate together in the building
-they use as an [assembly hall](Democratic_Assembly "wikilink"). The food
+they use as an [assembly hall](Democratic_Assembly.md "wikilink"). The food
 was excellent but the thing that struck us most was the mood of the
 workers; they were happy, proud, and lively. It was very different from
 the mood you would see in a normal factory.
@@ -46,20 +46,20 @@ After eating we were shown around the factory premises. This was once a
 large textile factory employing more than 1,000 workers and producing
 textiles for big name Western brands (including GAP, Banana Republic,
 Victoria's Secrets, Adidas) and exporting to
-[Australia](Commonwealth_of_Australia "wikilink"), the
-[US](United_States_of_America "wikilink"),
-[India](Republic_of_India "wikilink"), [Malaysia](Malaysia "wikilink"),
-[Germany](Federal_Republic_of_Germany "wikilink"), etc. The first
+[Australia](Commonwealth_of_Australia.md "wikilink"), the
+[US](United_States_of_America.md "wikilink"),
+[India](Republic_of_India.md "wikilink"), [Malaysia](Malaysia.md "wikilink"),
+[Germany](Federal_Republic_of_Germany.md "wikilink"), etc. The first
 section of the factory we visited was where the workers had gathered a
 few of the machines and where they had managed to keep production going.
 The factory had been affected by flooding, which is recurrent in this
 part of Jakarta. However, since the company owners had cut off the
-[electricity](electricity "wikilink") supply, the workers had not been
+[electricity](electricity.md "wikilink") supply, the workers had not been
 able to use the pump to remove the water. This was a sad sight as
 hundreds of machines were lying idle in this massive warehouse with
 water knee-high. This is an example of the nature of
-[capitalism](capitalism "wikilink"): machines go unused while thousands
-of [workers have no jobs](Unemployment "wikilink").
+[capitalism](capitalism.md "wikilink"): machines go unused while thousands
+of [workers have no jobs](Unemployment.md "wikilink").
 
 On the first floor we saw another section where there were machines. The
 workers told us that once they set up a union and about 100 of them
@@ -74,8 +74,8 @@ boxes of finished products ready to be exported to Germany.
 
 After the visit, a mass meeting started with the presence of the workers
 and representatives of organisations of workers,
-[students](Student "wikilink"), [alternative
-media](Alternative_Media "wikilink"), lawyers and other supporters of
+[students](Student.md "wikilink"), [alternative
+media](Alternative_Media.md "wikilink"), lawyers and other supporters of
 the occupation.
 
 The spokespersons of the Occupied Factory Committee (Kompap) told us
@@ -93,7 +93,7 @@ intimidated into signing them, but the 100 or so belonging to the union
 steadfastly refused and won their case in an industrial court. Finally,
 in July 2007, the company put up posters announcing the end of
 production and tried to lock the workers out. The workers fought back
-and found themselves [occupying the premises](Occupation "wikilink").
+and found themselves [occupying the premises](Occupation.md "wikilink").
 Initially they were just fighting for their redundancy money, but this
 quickly escalated into a struggle for their jobs once it became clear
 that the company was not prepared to pay. They received support from the
@@ -128,9 +128,9 @@ development, etc.
 
 During the occupation the workers learned about the movement of occupied
 factories in Latin America and watched both [Naomi
-Klein's](Naomi_Klein "wikilink") "[The
-Take](The_Take_(Film) "wikilink")" about
-[Argentina](Argentinazo "wikilink") and HOV's "No Volveran" about
+Klein's](Naomi_Klein.md "wikilink") "[The
+Take](The_Take_(Film).md "wikilink")" about
+[Argentina](Argentinazo.md "wikilink") and HOV's "No Volveran" about
 Venezuela. This generated discussions which ended with the decision to
 start production under workers' control. They managed to get a contract
 from CTM and were looking for other contracts. They proudly showed us
@@ -152,7 +152,7 @@ Latin America occupying factories.
 
 We insisted on the importance of the step they had taken, not only in
 occupying the factory, but also in starting to produce without
-[bosses](Boss "wikilink"). They had proven something very important: the
+[bosses](Boss.md "wikilink"). They had proven something very important: the
 bosses need the workers to run the factories, but the workers do not
 need the bosses! We discussed a lot of the detailed practical problems
 they faced and suggested possible solutions. However, we insisted that
@@ -172,16 +172,16 @@ months will never be taken away from them.[^1]
 <references />
 
 [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Indonesia](Category:Indonesia "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Indonesia](Category:Indonesia.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Worker
-Uprisings](Category:Worker_Uprisings "wikilink")
-[Category:2007](Category:2007 "wikilink")
-[Category:2000s](Category:2000s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Worker
+Uprisings](Category:Worker_Uprisings.md "wikilink")
+[Category:2007](Category:2007.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
 [^1]: <http://www.workerscontrol.net/authors/indonesia-pt-istana-factory-occupied-and-producing-under-workers%E2%80%99-control>

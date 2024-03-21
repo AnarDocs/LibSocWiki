@@ -4,27 +4,27 @@ permalink: /Syndicalism/
 ---
 
 **Syndicalism** represents a radical and
-[militant](Militancy "wikilink") current in [working
-class](Working_Class "wikilink") movements which aims to create [trade
-unions](Trade_Union "wikilink") that will launch a revolution to destroy
-[capitalism](capitalism "wikilink") and create a society [run by the
-working class](Workers'_Self-Management "wikilink"). Syndicalism has
-inspired trends within [anarchism](anarchism "wikilink"),
-[marxism](marxism "wikilink"), [fascism](fascism "wikilink") and
-[environmentalism](environmentalism "wikilink").
+[militant](Militancy.md "wikilink") current in [working
+class](Working_Class.md "wikilink") movements which aims to create [trade
+unions](Trade_Union.md "wikilink") that will launch a revolution to destroy
+[capitalism](capitalism.md "wikilink") and create a society [run by the
+working class](Workers'_Self-Management.md "wikilink"). Syndicalism has
+inspired trends within [anarchism](anarchism.md "wikilink"),
+[marxism](marxism.md "wikilink"), [fascism](fascism.md "wikilink") and
+[environmentalism](environmentalism.md "wikilink").
 
 ## Tendencies
 
-- [Anarcho-Syndicalism](Anarcho-Syndicalism "wikilink")
-- [Council Communism](Council_Communism "wikilink")
-- [De Leonism](De_Leonism "wikilink")
-- [Green Syndicalism](Green_Syndicalism "wikilink")
-- [National Syndicalism](National_Syndicalism "wikilink")
+- [Anarcho-Syndicalism](Anarcho-Syndicalism.md "wikilink")
+- [Council Communism](Council_Communism.md "wikilink")
+- [De Leonism](De_Leonism.md "wikilink")
+- [Green Syndicalism](Green_Syndicalism.md "wikilink")
+- [National Syndicalism](National_Syndicalism.md "wikilink")
 
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Syndicalism](Category:Syndicalism "wikilink") [Category:Green
-Syndicalism](Category:Green_Syndicalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Syndicalism](Category:Syndicalism.md "wikilink") [Category:Green
+Syndicalism](Category:Green_Syndicalism.md "wikilink")

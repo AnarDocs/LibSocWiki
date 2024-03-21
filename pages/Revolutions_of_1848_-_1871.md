@@ -4,19 +4,19 @@ permalink: /Revolutions_of_1848_-_1871/
 ---
 
 The **Revolutions of 1848 - 1871** were a [revolutionary
-wave](Revolutionary_Wave "wikilink") consisting off mass political
+wave](Revolutionary_Wave.md "wikilink") consisting off mass political
 unrest and revolts around the world in the mid-19th century. The
-uprisings were mainly of a [liberal](Liberalism "wikilink")
-[capitalist](Capitalism "wikilink") and anti-colonial nature, and
+uprisings were mainly of a [liberal](Liberalism.md "wikilink")
+[capitalist](Capitalism.md "wikilink") and anti-colonial nature, and
 successfully spelt the death knells of
-[feudalism](feudalism "wikilink").
+[feudalism](feudalism.md "wikilink").
 
 ## Revolutions and Uprisings
 
 - 1848: Springtime of Nations
-  - [Denmark](Danish_Revolution_of_1848 "wikilink")
+  - [Denmark](Danish_Revolution_of_1848.md "wikilink")
 - 1848: Matale Rebellion (Sri Lanka)
-- 1851: [Taiping Revolution](Taiping_Revolution "wikilink") (China)
+- 1851: [Taiping Revolution](Taiping_Revolution.md "wikilink") (China)
 - 1852: Herzegovina Uprising (Ottoman Empire)
 - 1854: Vicalvarada (Spain)
 - 1854: Eureka Rebellion (Australia)
@@ -39,11 +39,11 @@ successfully spelt the death knells of
 - 1868: Meiji Restoration (Japan)
 - 1868: Glorious Revolution (Spain)
 - 1868: Lares Revolution (Puerto Rico)
-- 1868: [South Carolina Commune](South_Carolina_Commune "wikilink")
+- 1868: [South Carolina Commune](South_Carolina_Commune.md "wikilink")
   (USA)
 - 1868: Ten Years' War (Cuba)
 - 1869: Red River Rebellion (Canada)
-- 1871: [Paris Commune](Paris_Commune "wikilink") (France)
+- 1871: [Paris Commune](Paris_Commune.md "wikilink") (France)
 - 1871: Liberal Revolution (Guatemala)
 
 ## Strikes and Other Events
@@ -51,10 +51,10 @@ successfully spelt the death knells of
 - 1865: Upper Penisular Miner's Strike (USA)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Revoluntary Waves](Category:Revoluntary_Waves "wikilink")
-[Category:19th Century](Category:19th_Century "wikilink")
-[Category:1840s](Category:1840s "wikilink")
-[Category:1850s](Category:1850s "wikilink")
-[Category:1860s](Category:1860s "wikilink")
-[Category:1870s](Category:1870s "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Revoluntary Waves](Category:Revoluntary_Waves.md "wikilink")
+[Category:19th Century](Category:19th_Century.md "wikilink")
+[Category:1840s](Category:1840s.md "wikilink")
+[Category:1850s](Category:1850s.md "wikilink")
+[Category:1860s](Category:1860s.md "wikilink")
+[Category:1870s](Category:1870s.md "wikilink")

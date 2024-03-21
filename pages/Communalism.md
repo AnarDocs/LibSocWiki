@@ -4,13 +4,13 @@ permalink: /Communalism/
 ---
 
 **Communalism**is a [libertarian
-socialist](Libertarian_Socialism "wikilink") theory developed by [Murray
-Bookchin](Murray_Bookchin "wikilink"), beginning as the 'democratic
-dimension of [anarchism](anarchism "wikilink")' it was developed as a
+socialist](Libertarian_Socialism.md "wikilink") theory developed by [Murray
+Bookchin](Murray_Bookchin.md "wikilink"), beginning as the 'democratic
+dimension of [anarchism](anarchism.md "wikilink")' it was developed as a
 standalone philosophy. It integrates a significant amount of [social
-ecology](Social_Ecology_(Bookchin) "wikilink") and inspired much of
-[Democratic Confederalism](Democratic_Confederalism "wikilink"), the
-guiding philosophy of [Rojava](Rojava "wikilink").
+ecology](Social_Ecology_(Bookchin).md "wikilink") and inspired much of
+[Democratic Confederalism](Democratic_Confederalism.md "wikilink"), the
+guiding philosophy of [Rojava](Rojava.md "wikilink").
 
 ## Key Principles
 
@@ -40,8 +40,8 @@ guiding philosophy of [Rojava](Rojava "wikilink").
 
 - [Communalism Pamphlet](https://www.communalismpamphlet.net/)
 
-[Category:Communalism](Category:Communalism "wikilink")
+[Category:Communalism](Category:Communalism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")

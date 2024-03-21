@@ -4,14 +4,14 @@ permalink: /University_of_Havana_Strike_(1892)/
 ---
 
 The **University of Havana Strike** was a [student
-strike](Student_Strike "wikilink") in Havana, [Cuba](Cuba "wikilink"),
-[1892](Timeline_of_Libertarian_Socialism_in_the_Caribbean "wikilink") in
+strike](Student_Strike.md "wikilink") in Havana, [Cuba](Cuba.md "wikilink"),
+[1892](Timeline_of_Libertarian_Socialism_in_the_Caribbean.md "wikilink") in
 protest of cuts to university funding.
 
 ## Background
 
 The strike began after the announcement of the Robledo Decree, which
-[cut government funding](Austerity "wikilink") for university. This
+[cut government funding](Austerity.md "wikilink") for university. This
 caused university workers to be fired, a reduction in wages for the rest
 of them and the cutting of PhD programs.[^1]
 
@@ -29,16 +29,16 @@ funding for universities.[^3]
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1890s](Category:1890s "wikilink")
-[Category:1892](Category:1892 "wikilink")
-[Category:Cuba](Category:Cuba "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink") [Category:Student
-Strikes](Category:Student_Strikes "wikilink")
-[Category:School](Category:School "wikilink")
-[Category:Universities](Category:Universities "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1890s](Category:1890s.md "wikilink")
+[Category:1892](Category:1892.md "wikilink")
+[Category:Cuba](Category:Cuba.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink") [Category:Student
+Strikes](Category:Student_Strikes.md "wikilink")
+[Category:School](Category:School.md "wikilink")
+[Category:Universities](Category:Universities.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
 
 [^1]: Global Nonviolent Action Database: "[Students at the University of
     Havana Strike to Restore Doctoral Degrees

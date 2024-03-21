@@ -5,7 +5,7 @@ permalink: /Free_Territory_of_Ukraine/
 
 The **Free Territory of Ukraine** or **Makhnovia**was an [anarchist
 society](https://yt.cdaut.de/watch?v=ZiSM8SkE4mo&list=PLbnLysSug0vRMyRlmgC7MrrsH9-yreGeI&index=0)
-that existed in what is now [Ukraine](Ukraine "wikilink") from [1918 to
+that existed in what is now [Ukraine](Ukraine.md "wikilink") from [1918 to
 1921](https://yt.cdaut.de/watch?v=ZiSM8SkE4mo&list=PLbnLysSug0vRMyRlmgC7MrrsH9-yreGeI&index=0).
 
 ## Economy
@@ -54,35 +54,35 @@ focused on history of Kyiv and region around it.
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink") [Category:Past
+Socialism](Category:Libertarian_Socialism.md "wikilink") [Category:Past
 Libertarian Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Ukraine](Category:Ukraine "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:1910s](Category:1910s "wikilink")
-[Category:1920s](Category:1920s "wikilink")
-[Category:1918](Category:1918 "wikilink")
-[Category:1919](Category:1919 "wikilink")
-[Category:1920](Category:1920 "wikilink")
-[Category:1921](Category:1921 "wikilink") [Category:Russian Civil
-War](Category:Russian_Civil_War "wikilink") [Category:Russian
-Revolution](Category:Russian_Revolution "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Ukraine](Category:Ukraine.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:1910s](Category:1910s.md "wikilink")
+[Category:1920s](Category:1920s.md "wikilink")
+[Category:1918](Category:1918.md "wikilink")
+[Category:1919](Category:1919.md "wikilink")
+[Category:1920](Category:1920.md "wikilink")
+[Category:1921](Category:1921.md "wikilink") [Category:Russian Civil
+War](Category:Russian_Civil_War.md "wikilink") [Category:Russian
+Revolution](Category:Russian_Revolution.md "wikilink")
 
-[^1]: [Peter Arshinov](Peter_Arshinov "wikilink") (1923) [History of the
-    Makhnovist Movement](History_of_the_Makhnovist_Movement "wikilink"),
+[^1]: [Peter Arshinov](Peter_Arshinov.md "wikilink") (1923) [History of the
+    Makhnovist Movement](History_of_the_Makhnovist_Movement.md "wikilink"),
     page 84
 
-[^2]: [Peter Arshinov](Peter_Arshinov "wikilink") (1923) [History of the
-    Makhnovist Movement](History_of_the_Makhnovist_Movement "wikilink"),
+[^2]: [Peter Arshinov](Peter_Arshinov.md "wikilink") (1923) [History of the
+    Makhnovist Movement](History_of_the_Makhnovist_Movement.md "wikilink"),
     pages 102-103
 
-[^3]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) - [Anarchy
-    Works](Anarchy_Works "wikilink"), page 187
+[^3]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) - [Anarchy
+    Works](Anarchy_Works.md "wikilink"), page 187

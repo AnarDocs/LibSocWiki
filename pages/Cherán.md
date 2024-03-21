@@ -4,10 +4,10 @@ permalink: /Cherán/
 ---
 
 **Cherán** is a small
-[town](List_of_Libertarian_Socialist_Societies "wikilink") in
-[Mexico](Mexico "wikilink") that has practiced self-governance since
-[2011](Timeline_of_Libertarian_Socialism "wikilink") as a result of the
-[Cherán Revolution](Cherán_Revolution "wikilink").
+[town](List_of_Libertarian_Socialist_Societies.md "wikilink") in
+[Mexico](Mexico.md "wikilink") that has practiced self-governance since
+[2011](Timeline_of_Libertarian_Socialism.md "wikilink") as a result of the
+[Cherán Revolution](Cherán_Revolution.md "wikilink").
 
 ## Crime
 
@@ -40,44 +40,44 @@ protect itself. To quote one article on the town:
 ## Economy
 
 The town has started several [worker
-cooperatives](Worker_Cooperative "wikilink"), notably a greenhouse,
+cooperatives](Worker_Cooperative.md "wikilink"), notably a greenhouse,
 sawmill and concrete factory.[^4]
 
 ## Environmental Protection
 
-[Reforestation](Reforestation "wikilink") efforts [undertaken by the
-community](Community_Forestry "wikilink") have led to the reforestation
-of 20,000 hectares of [land](land "wikilink") (over three Manhattans) as
+[Reforestation](Reforestation.md "wikilink") efforts [undertaken by the
+community](Community_Forestry.md "wikilink") have led to the reforestation
+of 20,000 hectares of [land](land.md "wikilink") (over three Manhattans) as
 of 2018.[^5]
 
 ## See Also
 
 - [TV
   Cherán](https://www.youtube.com/channel/UCg4PDmk-wXOKN7cCdPPnxwQ) -
-  the officially community [YouTube](YouTube "wikilink") channel
+  the officially community [YouTube](YouTube.md "wikilink") channel
 
 ## References
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Mexico](Category:Mexico "wikilink") [Category:Central
-America](Category:Central_America "wikilink") [Category:Latin
-America](Category:Latin_America "wikilink") [Category:North
-America](Category:North_America "wikilink") [Category:Current
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Mexico](Category:Mexico.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink") [Category:Latin
+America](Category:Latin_America.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink") [Category:Current
 Libertarian Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
 [^1]: <https://www.latimes.com/world/mexico-americas/la-fg-mexico-cheran-20170710-htmlstory.html>
 

@@ -7,8 +7,8 @@ permalink: /Russification/
 assimilation process during which non-Russian communities (whether
 involuntarily or voluntarily) give up their culture and language in
 favor of Russian culture. The term also refers to both official and
-unofficial policies of the [Russian Empire](Russian_Empire "wikilink"),
-the [USSR](USSR "wikilink") and modern [Russia](Russia "wikilink") that
+unofficial policies of the [Russian Empire](Russian_Empire.md "wikilink"),
+the [USSR](USSR.md "wikilink") and modern [Russia](Russia.md "wikilink") that
 placed Russians ahead of ethnic minorities throughout the country.
 
 ## History

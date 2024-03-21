@@ -4,13 +4,13 @@ permalink: /Killing_Hope_(Book)/
 ---
 
 **Killing Hope: U.S. Military and CIA Interventions Since World War II**
-is a 2003 [book](List_of_Libertarian_Socialist_Books "wikilink") by
-[William Blum](William_Blum "wikilink") which discusses...[US
-military](United_States_of_America "wikilink") and [CIA](CIA "wikilink")
-interventions since [World War II](World_War_II "wikilink"), it outlines
-the efforts to build an [American Empire](American_Empire "wikilink") in
+is a 2003 [book](List_of_Libertarian_Socialist_Books.md "wikilink") by
+[William Blum](William_Blum.md "wikilink") which discusses...[US
+military](United_States_of_America.md "wikilink") and [CIA](CIA.md "wikilink")
+interventions since [World War II](World_War_II.md "wikilink"), it outlines
+the efforts to build an [American Empire](American_Empire.md "wikilink") in
 the second half of the 20th century through a combination of invasions,
-[bombings](Bombing "wikilink"), supporting coups, backing terrorists and
+[bombings](Bombing.md "wikilink"), supporting coups, backing terrorists and
 interfering in elections.
 
 ## Summary
@@ -24,26 +24,26 @@ and 'spreading democracy') as ideological justifications for this
 project, claiming to want freedom for all but actually fighting any
 country that doesn't bend to the will of the US government or US
 corporations. From the moment of the [first 'socialist'
-revolution](October_Revolution_(Russia) "wikilink"), the US has been
+revolution](October_Revolution_(Russia).md "wikilink"), the US has been
 acting as a global policeman to ensure that people don't get ideas like
 'redistribution of wealth', 'common ownership', 'workers control of
 industry' or 'direct democracy'.
 
 ### 1. China 1945 to 1960s: Was Mao Tse-tung just paranoid?
 
-After the end of [World War II](World_War_II "wikilink"), the US began
-to interfere in the [Chinese Civil War](Chinese_Civil_War "wikilink") in
-support of the [Kuomingtang](Kuomingtang "wikilink") (despite much of
+After the end of [World War II](World_War_II.md "wikilink"), the US began
+to interfere in the [Chinese Civil War](Chinese_Civil_War.md "wikilink") in
+support of the [Kuomingtang](Kuomingtang.md "wikilink") (despite much of
 the faction being composed of collaborates with
-[Japan](Japanese_Empire "wikilink"). Deploying 100,000 US soldiers to
+[Japan](Japanese_Empire.md "wikilink"). Deploying 100,000 US soldiers to
 the area, training 500,000 Kuomingtang soldiers, airlifting supplies in,
 bombing pro-communist villages and providing political support for the
 Kuomingtang. After this failed, the US supported the new state of
-[Taiwan](Taiwan "wikilink") (despite its repression and repeated attacks
-on [China](China "wikilink"), killing tens of thousands of people) and
+[Taiwan](Taiwan.md "wikilink") (despite its repression and repeated attacks
+on [China](China.md "wikilink"), killing tens of thousands of people) and
 supporting the secret Kuomingtang army in northern
-[Myanmar](Myanmar "wikilink"), one which created a [giant illegal heroin
-industry](Drug_Trafficking "wikilink") (which the CIA helped transport)
+[Myanmar](Myanmar.md "wikilink"), one which created a [giant illegal heroin
+industry](Drug_Trafficking.md "wikilink") (which the CIA helped transport)
 and killed more people in China, in addition to being a massive
 violation of sovereignty for Myanmar.
 
@@ -161,8 +161,8 @@ violation of sovereignty for Myanmar.
 
 - [Killing Hope: U.S. Military and CIA Interventions Since World War
   II](https://archive.org/details/pdfy-y_8iHigC3Ms5TngF) at
-  [archive.org](archive.org "wikilink")
+  [archive.org](archive.org.md "wikilink")
 
-[Category:Books](Category:Books "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:William Blum](Category:William_Blum "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:William Blum](Category:William_Blum.md "wikilink")

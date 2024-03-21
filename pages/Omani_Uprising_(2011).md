@@ -4,13 +4,13 @@ permalink: /Omani_Uprising_(2011)/
 ---
 
 The **Omani Uprising** was a series of protests and
-[strikes](List_of_General_Strikes "wikilink") in [Oman](Oman "wikilink")
+[strikes](List_of_General_Strikes.md "wikilink") in [Oman](Oman.md "wikilink")
 over cost of living, corruption, high unemployment, low wages and a
 desire for greater democracy in
-[2011](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink"). It
-was part of the [Arab Spring](Arab_Spring "wikilink") and a [wider
+[2011](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink"). It
+was part of the [Arab Spring](Arab_Spring.md "wikilink") and a [wider
 global wave of revolts from 2010 to
-2014](Revolutions_of_2010_-_2014 "wikilink").
+2014](Revolutions_of_2010_-_2014.md "wikilink").
 
 ## Background
 
@@ -23,18 +23,18 @@ living, the country was ripe for revolution.
 ## Events
 
 The 17th of January march of about 200 Omanians occurred soon after the
-[successful campaign in Tunisia](Tunisian_Revolution "wikilink") to
+[successful campaign in Tunisia](Tunisian_Revolution.md "wikilink") to
 remove President Zine Al Abidine Bin Ali. This first action was held to
 demonstrate against corruption in the government and the cost of food.
 Police did not attempt to stop the march. On the 18th of February, after
-unrest [increased in Bahrain](Bahraini_Uprising_(2011) "wikilink"), 350
+unrest [increased in Bahrain](Bahraini_Uprising_(2011).md "wikilink"), 350
 people marched, this time demanding both an end to corruption and a more
 fair distribution of oil revenue; these protesters did not directly
-oppose the Sultan of Oman and [police](police "wikilink") again did not
+oppose the Sultan of Oman and [police](police.md "wikilink") again did not
 attempt to stop the protest.
 
 On the 26th of February, protests spread to Sohar, where 500
-demonstrators [blockaded](Blockade "wikilink") a shopping mall. The next
+demonstrators [blockaded](Blockade.md "wikilink") a shopping mall. The next
 day, the 27th of February, protesters forced the closure of the Earth
 Roundabout to traffic by staging an occupation and blocking every access
 point to the main junction in the industrial port city. This occupation
@@ -58,7 +58,7 @@ the city in support of the government.
 Meanwhile in Sohar, a vigil was held outside of a police station in
 which two protesters were being held as the occupation and blockade of
 the Globe Roundabout continued. On the 5th of March
-[oil](Fossil_Fuels#Oil "wikilink") workers in Haima, a key oil region,
+[oil](Fossil_Fuels#Oil.md "wikilink") workers in Haima, a key oil region,
 began a sit-in demanding more investment in the region. On the 6th of
 March about 200 workers staged a protest at Oman Air in Muscat. They
 demanded a wage increase. Some workers called in sick, while others
@@ -122,7 +122,7 @@ many of the remaining protesters.
 ## Results
 
 Although the uprising failed to secure [representative
-democracy](Representative_Democracy "wikilink") in Oman, it did trigger
+democracy](Representative_Democracy.md "wikilink") in Oman, it did trigger
 economic reforms such as:
 
 - Increasing job creation and unemployment relief programs
@@ -134,23 +134,23 @@ economic reforms such as:
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [2011 Omani
+[Wikipedia](Wikipedia.md "wikilink") - [2011 Omani
 protests](https://en.wikipedia.org/wiki/2011_Omani_protests)
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Omanis make
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Omanis make
 economic gains, press for democracy
 2011](https://nvdatabase.swarthmore.edu/content/omanis-make-economic-gains-press-democracy-2011-0)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Oman](Category:Oman "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Arab
-Spring](Category:Arab_Spring "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink") [Category:Worker
-Uprisings](Category:Worker_Uprisings "wikilink") [Category:General
-Strikes](Category:General_Strikes "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Oman](Category:Oman.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Arab
+Spring](Category:Arab_Spring.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink") [Category:Worker
+Uprisings](Category:Worker_Uprisings.md "wikilink") [Category:General
+Strikes](Category:General_Strikes.md "wikilink")

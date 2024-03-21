@@ -3,19 +3,19 @@ title: Introduction (The Irrational in Politics)
 permalink: /Introduction_(The_Irrational_in_Politics)/
 ---
 
-The **introduction** to [Chris Pallis'](Chris_Pallis "wikilink") 1970
+The **introduction** to [Chris Pallis'](Chris_Pallis.md "wikilink") 1970
 book [The Irrational in
-Politics](The_Irrational_in_Politics_(Book) "wikilink"). It is followed
+Politics](The_Irrational_in_Politics_(Book).md "wikilink"). It is followed
 by the first chapter, '[Some
-examples](Some_examples_(The_Irrational_in_Politics) "wikilink")'.
+examples](Some_examples_(The_Irrational_in_Politics).md "wikilink")'.
 
 ## Introduction
 
 This pamphlet is an attempt to analyze the various mechanisms whereby
 modern society manipulates its wage (and house) slaves into accepting
 their slavery and - at least in the short term - seems to succeed. It
-does not deal with "[police](police "wikilink")" and
-"[jails](Prison "wikilink")" as ordinarily conceived but with those
+does not deal with "[police](police.md "wikilink")" and
+"[jails](Prison.md "wikilink")" as ordinarily conceived but with those
 internalized patterns of repression and coercion, and with those
 intellectual prisons in which the "mass individual" is today entrapped.
 
@@ -30,45 +30,45 @@ dominant ideology, and at sexual repression as an important determinant
 of social conditioning, resulting in the mass production of individuals
 perpetually craving authority and leadership and forever afraid of
 walking on their own or of thinking for themselves. Some of the problems
-of the developing [sexual revolution](Sexual_Revolution "wikilink") are
+of the developing [sexual revolution](Sexual_Revolution.md "wikilink") are
 then discussed. The pamphlet concludes by exploring a new dimension in
 the failure of the [Russian
-Revolution](October_Revolution_(Russia) "wikilink"). Throughout the aim
+Revolution](October_Revolution_(Russia).md "wikilink"). Throughout the aim
 is to help people acquire additional insight into their own psychic
 structure. The fundamental desires and aspirations of the ordinary
 individual, so long distorted and repressed, are in deep harmony with an
 objective such as the [libertarian reconstruction of
-society](Libertarian_Socialism "wikilink"). The revolutionary "ideal"
+society](Libertarian_Socialism.md "wikilink"). The revolutionary "ideal"
 must therefore be made less remote and abstract. It must be shown to be
 the fulfilment - starting here and now - of peoples' own independent
 lives.
 
 The pamphlet consists of two main essays: '[The Irrational in
-Politics](The_Irrational_in_Politics_(Book) "wikilink")' and '[The
+Politics](The_Irrational_in_Politics_(Book).md "wikilink")' and '[The
 Russian
-Experience](The_Russian_Experience_(The_Irrational_in_Politics) "wikilink")'.
+Experience](The_Russian_Experience_(The_Irrational_in_Politics).md "wikilink")'.
 These can be read independently. The subject matter does not overlap
 although the main arguments interlock at several levels. The essays are
 followed by an
-[appendix](Appendix:_Clara_Zetkin,_Reminiscences_of_Lenin_(The_Irrational_in_Politics) "wikilink"):
-an excerpt from [Clara Zetkin's](Clara_Zetkin "wikilink")
-*[Reminiscences of Lenin](Reminiscences_of_Lenin_(Book) "wikilink")*,
-which illustrates an aspect of [Lenin's](Vladimir_Lenin "wikilink")
+[appendix](Appendix:_Clara_Zetkin,_Reminiscences_of_Lenin_(The_Irrational_in_Politics).md "wikilink"):
+an excerpt from [Clara Zetkin's](Clara_Zetkin.md "wikilink")
+*[Reminiscences of Lenin](Reminiscences_of_Lenin_(Book).md "wikilink")*,
+which illustrates an aspect of [Lenin's](Vladimir_Lenin.md "wikilink")
 thinking little known - or desirably forgotten - by all those Leninists
 now jumping on the bandwagon of [women's
-liberation](Feminism "wikilink").
+liberation](Feminism.md "wikilink").
 
 Frequent references will be found to the works of [Wilhelm
-Reich](Wilhelm_Reich "wikilink"). This should not be taken to imply that
+Reich](Wilhelm_Reich.md "wikilink"). This should not be taken to imply that
 we subscribe to all that Reich wrote - a point spelt out in fuller and
 more specific detail later on. In the area that concerns us Reich's most
 relevant works were written in the early 1930s. At that time, although
-critical of [developments in Russia](USSR "wikilink") (and more critical
+critical of [developments in Russia](USSR.md "wikilink") (and more critical
 still of the policy of the [German Communist
-Party](Communist_Party_of_Germany "wikilink")) Reich still subscribed to
+Party](Communist_Party_of_Germany.md "wikilink")) Reich still subscribed to
 many of their common fundamental assumptions. Even later he still spoke
 of the "basic socialism of the Soviet Union"[^1] and muted his
-criticisms of the [Bolshevik](Bolsheviks "wikilink") leaders to an
+criticisms of the [Bolshevik](Bolsheviks.md "wikilink") leaders to an
 extent that is no longer possible for us, writing four decades later.
 Moreover such is the influence of authoritarian conditioning that even
 those who have achieved the deepest insight into its mechanisms cannot
@@ -105,8 +105,8 @@ in these pages.
 
 What is striking, however, is the disparity between radical attitudes in
 this area (now shared by many) and the continued acceptance by most
-so-called revolutionaries ([Stalinists](Marxist-Leninism "wikilink"),
-[Trotskyists](Trotskyism "wikilink"), [Maoists](Maoism "wikilink"),
+so-called revolutionaries ([Stalinists](Marxist-Leninism.md "wikilink"),
+[Trotskyists](Trotskyism.md "wikilink"), [Maoists](Maoism.md "wikilink"),
 etc.) of authoritarian practices and institutions. Whether we like it or
 not these groups and the ideas they peddle still dominate the political
 scene. We hope our pamphlet may contribute to subverting their
@@ -131,7 +131,7 @@ inhibitions, yet considerate of the feelings of others.[^4]
 These two considerations do not detract, however, from the relevance of
 this area. They should, on the contrary, be seen as a spur to further
 investigation into the roots of human belief and behaviour. If socialism
-is, in the phrase of the young [Marx](Karl_Marx "wikilink"), "man's
+is, in the phrase of the young [Marx](Karl_Marx.md "wikilink"), "man's
 positive self-consciousness", then all endeavours to deepen our
 understanding of *how* people think, and *why* they think and feel
 certain things, seem both worthwhile and necessary.
@@ -140,18 +140,18 @@ certain things, seem both worthwhile and necessary.
 
 <references />
 
-[^1]: [Wilhelm Reich](Wilhelm_Reich "wikilink"), *[The Sexual
-    Revolution](The_Sexual_Revolution_(Wilhelm_Reich_Book) "wikilink")*
+[^1]: [Wilhelm Reich](Wilhelm_Reich.md "wikilink"), *[The Sexual
+    Revolution](The_Sexual_Revolution_(Wilhelm_Reich_Book).md "wikilink")*
     (New York: The Noonday Press, 1962), p. 204.
 
 [^2]: See for instance the recent biography by his third wife, Ilse
     Ollendorf Reich, *Wilhelm Reich* (London: Elek, 1969).
 
 [^3]: See our reviews of Reich's *[What is Class
-    Consciousness?](What_is_Class_Consciousness?_(Book) "wikilink")* and
+    Consciousness?](What_is_Class_Consciousness?_(Book).md "wikilink")* and
     his *[Dialectical Materialism and
-    Psychoanalysis](Dialectical_Materialism_and_Psychoanalysis_(Book) "wikilink")*.
+    Psychoanalysis](Dialectical_Materialism_and_Psychoanalysis_(Book).md "wikilink")*.
 
-[^4]: See our review of [George Frankl's](George_Frankl "wikilink")
+[^4]: See our review of [George Frankl's](George_Frankl.md "wikilink")
     *[The Failure of the Sexual
-    Revolution](The_Failure_of_the_Sexual_Revolution_(Book) "wikilink").*
+    Revolution](The_Failure_of_the_Sexual_Revolution_(Book).md "wikilink").*

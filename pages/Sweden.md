@@ -3,12 +3,12 @@ title: Sweden
 permalink: /Sweden/
 ---
 
-**Sweden**is a [liberal](Liberalism "wikilink"),
-[colonial](Colonialism "wikilink"), [capitalist](Capitalism "wikilink")
-[state](List_of_States "wikilink") in Western Europe. It is near
-[Norway](Norway "wikilink"), [Finland](Finland "wikilink"),
-[Germany](Germany "wikilink"), [Poland](Poland "wikilink") and
-[Denmark](Denmark "wikilink").
+**Sweden**is a [liberal](Liberalism.md "wikilink"),
+[colonial](Colonialism.md "wikilink"), [capitalist](Capitalism.md "wikilink")
+[state](List_of_States.md "wikilink") in Western Europe. It is near
+[Norway](Norway.md "wikilink"), [Finland](Finland.md "wikilink"),
+[Germany](Germany.md "wikilink"), [Poland](Poland.md "wikilink") and
+[Denmark](Denmark.md "wikilink").
 
 ## Positives and Negatives
 
@@ -16,7 +16,7 @@ permalink: /Sweden/
 
 ### Negatives
 
-- Sweden has a major issue of [Antiziganism](Antiziganism "wikilink")
+- Sweden has a major issue of [Antiziganism](Antiziganism.md "wikilink")
   (discrimination against Roma people).
 - In a survey commissioned by the Equality Ombudsman
 
@@ -33,23 +33,23 @@ their ethnic background at least once in the last two years.
 
 - 1909: Swedish General Strike
 - 1931: Swedish General Strike
-- 2006: [Malmö26](Malmö26 "wikilink")
+- 2006: [Malmö26](Malmö26.md "wikilink")
 
 ## Libertarian Socialist Organisations
 
 - [Central Organisation of the Workers of
-  Sweden](Central_Organisation_of_the_Workers_of_Sweden "wikilink")
+  Sweden](Central_Organisation_of_the_Workers_of_Sweden.md "wikilink")
 
 ## Notable Swedes
 
-- [Björn Söderberg](Björn_Söderberg "wikilink")
-- [Olof Palme](Olof_Palme "wikilink")
+- [Björn Söderberg](Björn_Söderberg.md "wikilink")
+- [Olof Palme](Olof_Palme.md "wikilink")
 
-[Category:States](Category:States "wikilink")
-[Category:Sweden](Category:Sweden "wikilink")
-[Category:Scandanavia](Category:Scandanavia "wikilink")
-[Category:Northern Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Colonial
-States](Category:Colonial_States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:States](Category:States.md "wikilink")
+[Category:Sweden](Category:Sweden.md "wikilink")
+[Category:Scandanavia](Category:Scandanavia.md "wikilink")
+[Category:Northern Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Colonial
+States](Category:Colonial_States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

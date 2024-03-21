@@ -3,4 +3,4 @@ title: Marxist-Leninism
 permalink: /Marxist-Leninism/
 ---
 
-1.  REDIRECT [Marxism–Leninism](Marxism–Leninism "wikilink")
+1.  REDIRECT [Marxism–Leninism](Marxism–Leninism.md "wikilink")

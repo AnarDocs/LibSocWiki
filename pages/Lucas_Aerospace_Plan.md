@@ -4,9 +4,9 @@ permalink: /Lucas_Aerospace_Plan/
 ---
 
 The **Lucas Aerospace Plan** was a proposal in 1976 by aerospace
-[factory](factory "wikilink") workers to redirect their efforts into
+[factory](factory.md "wikilink") workers to redirect their efforts into
 producing medical, transport and green energy
-[technology](technology "wikilink").
+[technology](technology.md "wikilink").
 
 ## History
 
@@ -15,7 +15,7 @@ producing medical, transport and green energy
 Military Matters Lucas Aerospace was one of Europe's largest designers
 and manufacturers of aircraft systems and equipment in the early 1970s.
 It had over 18,000 workers on its payroll, spread over 15
-[factories](Factory "wikilink") throughout Britain. Nearly half of its
+[factories](Factory.md "wikilink") throughout Britain. Nearly half of its
 income came from building things for the military, such as combat
 aircraft and missiles. The British government pushed the company to
 restructure by firing 20% of its workers in exchange for access to
@@ -35,7 +35,7 @@ things without losing jobs.
 Some of the key proposals of the plan include:
 
 - Introduction of [democracy in
-  factories](Workers'_Self-Management "wikilink") and guaranteed
+  factories](Workers'_Self-Management.md "wikilink") and guaranteed
   employment for workers
 - Production of kidney dialysis of machines
 - Begin research and production of artificial limb control systems for
@@ -59,15 +59,15 @@ Some of the key proposals of the plan include:
 - Production of improved braking systems for vehicles
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:UK](Category:UK "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:1976](Category:1976 "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Green Syndicalism](Category:Green_Syndicalism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Syndicalism](Category:Syndicalism "wikilink")
-[Category:Economics](Category:Economics "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:UK](Category:UK.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:1976](Category:1976.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Green Syndicalism](Category:Green_Syndicalism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Syndicalism](Category:Syndicalism.md "wikilink")
+[Category:Economics](Category:Economics.md "wikilink")

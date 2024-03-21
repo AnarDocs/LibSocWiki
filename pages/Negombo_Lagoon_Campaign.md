@@ -4,8 +4,8 @@ permalink: /Negombo_Lagoon_Campaign/
 ---
 
 The **Negombo Lagoon Campaign** was an effort by
-[environmentalists](Environmentalism "wikilink") and fishers in
-[2010](Timeline_of_Libertarian_Socialism_in_Southern_Asia "wikilink") to
+[environmentalists](Environmentalism.md "wikilink") and fishers in
+[2010](Timeline_of_Libertarian_Socialism_in_Southern_Asia.md "wikilink") to
 stop the construction of a seaplane port for tourists.
 
 ## Background
@@ -41,16 +41,16 @@ in Negombo Lagoon.[^3]
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:2010](Category:2010 "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:2010](Category:2010.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
 [^1]: [Global Nonviolent Action
-    Database](Global_Nonviolent_Action_Database "wikilink") - [Sri
+    Database](Global_Nonviolent_Action_Database.md "wikilink") - [Sri
     Lankan fishermen stop building of seaplane platform in Negombo
     Lagoon,
     2010-2011](https://nvdatabase.swarthmore.edu/content/sri-lankan-fishermen-stop-building-seaplane-platform-negombo-lagoon-2010-2011)

@@ -14,15 +14,15 @@ carried out against people.
 
 - Atlantic Slave Trade (between 11 million and 60 million killed)
 - Construction of the Suez Canal (between 30,000 and 120,000 died)
-- [Holocaust](Holocaust "wikilink") (between 17 million and 19 million)
+- [Holocaust](Holocaust.md "wikilink") (between 17 million and 19 million)
 - [Occupation of East
-  Timor](Indonesian_Occupation_of_East_Timor "wikilink") (between 60,000
+  Timor](Indonesian_Occupation_of_East_Timor.md "wikilink") (between 60,000
   and 308,000 killed)
-- [Pinochet Dictatorship](Pinochet_Dictatorship "wikilink") (between
+- [Pinochet Dictatorship](Pinochet_Dictatorship.md "wikilink") (between
   2,000 and 30,000 killed)
-- [US Occupation of Haiti](US_Occupation_of_Haiti "wikilink")
+- [US Occupation of Haiti](US_Occupation_of_Haiti.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink") [Category:Mass
-Killings](Category:Mass_Killings "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Mass
+Killings](Category:Mass_Killings.md "wikilink")

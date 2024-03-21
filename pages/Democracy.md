@@ -8,9 +8,9 @@ of the group making decisions.
 
 ## See Also
 
-- [Democratic Assembly](Democratic_Assembly "wikilink")
+- [Democratic Assembly](Democratic_Assembly.md "wikilink")
 
-[Category:Democracy](Category:Democracy "wikilink")
+[Category:Democracy](Category:Democracy.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

@@ -5,17 +5,17 @@ permalink: /The_Subversion_of_Politics/
 
 **The Subversion of Politics: European Autonomous Social Movements and
 the Decolonization of Everyday Life** is a
-[book](List_of_Libertarian_Socialist_Media "wikilink") by [Georgy
-Katsiaficas](Georgy_Katsiaficas "wikilink") which explores various
-[autonomist](Autonomism "wikilink") movements in Europe (mainly Italy,
-[Spain](Spain "wikilink"), Germany, Denmark and the Netherlands), such
-as the [anti-fascists](Anti-Fascism "wikilink"),
-[punk](punk "wikilink"), [radical feminism](Feminism "wikilink"),
-[squatters](Squatting "wikilink") and
-[anti-nuclear](Anti-Nuclear_Movement "wikilink") activists between
-[1968](Timeline_of_Libertarian_Socialism_in_Western_Europe "wikilink")
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Georgy
+Katsiaficas](Georgy_Katsiaficas.md "wikilink") which explores various
+[autonomist](Autonomism.md "wikilink") movements in Europe (mainly Italy,
+[Spain](Spain.md "wikilink"), Germany, Denmark and the Netherlands), such
+as the [anti-fascists](Anti-Fascism.md "wikilink"),
+[punk](punk.md "wikilink"), [radical feminism](Feminism.md "wikilink"),
+[squatters](Squatting.md "wikilink") and
+[anti-nuclear](Anti-Nuclear_Movement.md "wikilink") activists between
+[1968](Timeline_of_Libertarian_Socialism_in_Western_Europe.md "wikilink")
 and
-[1999](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink").
+[1999](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink").
 
 ## Summary
 
@@ -41,6 +41,6 @@ and
   at archive.org
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Autonomism](Category:Autonomism "wikilink")
-[Category:Europe](Category:Europe "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Autonomism](Category:Autonomism.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")

@@ -4,23 +4,23 @@ permalink: /Namibian_General_Strike_(1971)/
 ---
 
 The **Namibian General Strike of 1971** was a [general
-strike](List_of_General_Strikes "wikilink") in
-[Namibia](Namibia "wikilink") (then a part of [South
-Africa](South_Africa "wikilink")) that occurred in
-[1971](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink")
-and [1972](Revolutions_of_1967_-_1975 "wikilink"), led by indigenous
+strike](List_of_General_Strikes.md "wikilink") in
+[Namibia](Namibia.md "wikilink") (then a part of [South
+Africa](South_Africa.md "wikilink")) that occurred in
+[1971](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink")
+and [1972](Revolutions_of_1967_-_1975.md "wikilink"), led by indigenous
 Ovambo attempting to gain greater workers rights and struggling against
-the governments [Apartheid](Apartheid_(South_Africa) "wikilink")
+the governments [Apartheid](Apartheid_(South_Africa).md "wikilink")
 policies.
 
 ## Background
 
-After [World War I](World_War_I "wikilink") and the
-[collapse](German_Revolution_(1918) "wikilink") of the German Empire,
+After [World War I](World_War_I.md "wikilink") and the
+[collapse](German_Revolution_(1918).md "wikilink") of the German Empire,
 South Africa gained the former german colony and began to force people
 there to live under the Apartheid system. In addition to this,
 indigenous people were required to perform [forced
-labor](Slavery "wikilink") for [capitalists](Capitalism "wikilink"),
+labor](Slavery.md "wikilink") for [capitalists](Capitalism.md "wikilink"),
 peaceful protests and petitions to end this system began in 1957 but
 were largely ineffective.
 
@@ -76,5 +76,5 @@ independent Namibia. Workers rights were signifi
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") -
+Database](Global_Nonviolent_Action_Database.md "wikilink") -
 <https://nvdatabase.swarthmore.edu/content/ovambo-migrant-workers-general-strike-rights-namibia-1971-72>

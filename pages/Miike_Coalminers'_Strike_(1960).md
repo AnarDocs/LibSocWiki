@@ -10,12 +10,12 @@ central Kyushu was the largest coal mine in Japan. Being one of Japan's
 few deposits of natural resources, it was extremely important since
 Japan did not have to rely on imports. Although developed in the 1700s
 by a small Samurai clan into a mine for fuel, it was soon nationalised
-after the [Meiji Restoration](Meiji_Restoration "wikilink") but was run
+after the [Meiji Restoration](Meiji_Restoration.md "wikilink") but was run
 very inefficiently so it was sold of to Mitsui Zaibatsu and the mine
 became a key part of Japan's industrialisation. However, working
 conditions and safety standards were awful and unionisation efforts were
 repressed due to fear of it being a socialist plot. However, during the
-[Allied Occupation of Japan](Allied_Occupation_of_Japan "wikilink"),
+[Allied Occupation of Japan](Allied_Occupation_of_Japan.md "wikilink"),
 workers were granted the right to form trade unions.
 
 However, the mine soon came under threat of cheaper energy imports from

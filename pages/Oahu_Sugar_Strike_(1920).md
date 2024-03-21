@@ -4,25 +4,25 @@ permalink: /Oahu_Sugar_Strike_(1920)/
 ---
 
 The **Oahu Sugar Strike** was a multiracial
-[strike](List_of_Strikes "wikilink") in
-[1920](Timeline_of_Libertarian_Socialism_in_North_America "wikilink")
-mainly by [Filipino](Philippines "wikilink") and
-[Japanese](Japan "wikilink") migrant workers on sugarcane plantations in
-[Hawaii](Hawaii "wikilink"), [USA](United_States_of_America "wikilink").
+[strike](List_of_Strikes.md "wikilink") in
+[1920](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink")
+mainly by [Filipino](Philippines.md "wikilink") and
+[Japanese](Japan.md "wikilink") migrant workers on sugarcane plantations in
+[Hawaii](Hawaii.md "wikilink"), [USA](United_States_of_America.md "wikilink").
 It involved 8,300 workers and was part of the [revolutionary
-wave](Revolutions_of_1916_-_1923 "wikilink") following [World War
-I](World_War_I "wikilink").
+wave](Revolutions_of_1916_-_1923.md "wikilink") following [World War
+I](World_War_I.md "wikilink").
 
 ## Background
 
 There had been numerous strikes before against the fairly low wages paid
 by the work there and the crowded living quarters for workers (which
-during the strike suffered a [Spanish Flu](Spanish_Flu "wikilink")
+during the strike suffered a [Spanish Flu](Spanish_Flu.md "wikilink")
 outbreak killing 150 people). However, these strikes were often broken
 as the plantation owners simply hired strikebreakers of other
-ethnicities and playing on [racism](racism "wikilink").
+ethnicities and playing on [racism](racism.md "wikilink").
 
-[World War I](World_War_I "wikilink") led to an increase in living
+[World War I](World_War_I.md "wikilink") led to an increase in living
 expenses despite stagnant wages and was a period of organising for the
 Filipino Labor Union and Federation of Japanese Labor, which brought a
 series of demands to the Hawaiian Sugar Planters' Association on the 4th
@@ -49,11 +49,11 @@ benefits was granted to the strikers.
 - Edward Beecher (1985) - *Working in Hawaii: A Labor History*
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:USA](Category:USA "wikilink")
-[Category:1920](Category:1920 "wikilink")
-[Category:1920s](Category:1920s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Anti-Racism](Category:Anti-Racism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:USA](Category:USA.md "wikilink")
+[Category:1920](Category:1920.md "wikilink")
+[Category:1920s](Category:1920s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Anti-Racism](Category:Anti-Racism.md "wikilink")

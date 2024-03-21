@@ -5,30 +5,30 @@ permalink: /Zapatista_Revolution/
 
 The **Zapatista Revolution**(commonly known as the **Zapatista
 Uprising** or **Chiapas Uprising**) was an [armed
-revolution](Revolution "wikilink") in
-[1994](Timeline_of_Libertarian_Socialism "wikilink") that triggered both
-the [Chiapas Conflict](Chiapas_Conflict "wikilink") and the formation of
+revolution](Revolution.md "wikilink") in
+[1994](Timeline_of_Libertarian_Socialism.md "wikilink") that triggered both
+the [Chiapas Conflict](Chiapas_Conflict.md "wikilink") and the formation of
 the [Rebel Zapatista Autonomous
-Municipalities](Rebel_Zapatista_Autonomous_Municipalities "wikilink").
+Municipalities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink").
 It was fought between the [Zapatista Army of National
-Liberation](Zapatista_Army_of_National_Liberation "wikilink") (EZLN) and
-the Mexican [military](military "wikilink").
+Liberation](Zapatista_Army_of_National_Liberation.md "wikilink") (EZLN) and
+the Mexican [military](military.md "wikilink").
 
 ## Background
 
-The Spanish [colonization](Colonialism "wikilink") of
-[Mexico](Mexico "wikilink") led to [genocide](genocide "wikilink") of
-[indigenous people](Indigenous_People "wikilink") and the
-[expropriation](Privatisation "wikilink") of [communal indigenous
-land](Commons "wikilink"). Although the indigenous led many uprisings
+The Spanish [colonization](Colonialism.md "wikilink") of
+[Mexico](Mexico.md "wikilink") led to [genocide](genocide.md "wikilink") of
+[indigenous people](Indigenous_People.md "wikilink") and the
+[expropriation](Privatisation.md "wikilink") of [communal indigenous
+land](Commons.md "wikilink"). Although the indigenous led many uprisings
 and guerilla wars against the Spanish colonizers, they largely failed
 due to inferior military technology, genocidal tactics used by the
 Spanish army and the destruction of communities due to diseases. Upon
-Mexico's independence from [Spain](Spain "wikilink"), exploitation of
+Mexico's independence from [Spain](Spain.md "wikilink"), exploitation of
 indigenous communities and labor intensified.[^1]
 
 During the Mexican Revolution (1910 - 1920), several guerilla leaders
-like [Emilio Zapata](Emilio_Zapata "wikilink") advocated the creation of
+like [Emilio Zapata](Emilio_Zapata.md "wikilink") advocated the creation of
 autonomous indigenous nations in Southern Mexico and stressed the need
 for common ownership of land. Although he was killed, he inspired
 numerous activists and rebels over the next hundred years. The new
@@ -71,56 +71,56 @@ military after pro-EZLN protesters fill every major Mexican city.[^5]
 
 The Zapatista Revolution was extremely successful, and created a large
 autonomous zone known as the [Rebel Zapatista Autonomous
-Municipalities](Rebel_Zapatista_Autonomous_Municipalities "wikilink").
+Municipalities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink").
 The extreme outpouring of support led to the massive growth of the
-[Global Justice Movement](Global_Justice_Movement "wikilink") and the
+[Global Justice Movement](Global_Justice_Movement.md "wikilink") and the
 fall of the PRI dictatorship in Mexico, beginning a [liberal
-democracy](Liberalism "wikilink"). It also helped inspire various other
+democracy](Liberalism.md "wikilink"). It also helped inspire various other
 uprisings across Mexico.
 
 ## Notable Participants
 
-- [Subcomandante Galeano](Subcomandante_Galeano "wikilink")
-- [Comandanta Esther](Comandanta_Esther "wikilink")
-- [Comandanta Ramona](Comandanta_Ramona "wikilink")
-- [Subcomandante Elisa](Subcomandante_Elisa "wikilink")
+- [Subcomandante Galeano](Subcomandante_Galeano.md "wikilink")
+- [Comandanta Esther](Comandanta_Esther.md "wikilink")
+- [Comandanta Ramona](Comandanta_Ramona.md "wikilink")
+- [Subcomandante Elisa](Subcomandante_Elisa.md "wikilink")
 
 ## See Also
 
-- [Chiapas Conflict](Chiapas_Conflict "wikilink")
+- [Chiapas Conflict](Chiapas_Conflict.md "wikilink")
 - [Zapatista Army of National
-  Liberation](Zapatista_Army_of_National_Liberation "wikilink")
+  Liberation](Zapatista_Army_of_National_Liberation.md "wikilink")
 - [Rebel Zapatista Autonomous
-  Municipalities](Rebel_Zapatista_Autonomous_Municipalities "wikilink")
-- [Mexican Revolution](Mexican_Revolution "wikilink")
+  Municipalities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink")
+- [Mexican Revolution](Mexican_Revolution.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Mexico](Category:Mexico "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Mexico](Category:Mexico.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Latin
-America](Category:Latin_America "wikilink") [Category:Central
-America](Category:Central_America "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Neo-Zapatismo](Category:Neo-Zapatismo "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:1994](Category:1994 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Latin
+America](Category:Latin_America.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Neo-Zapatismo](Category:Neo-Zapatismo.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:1994](Category:1994.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
 
 [^1]: <https://schoolsforchiapas.org/teach-chiapas/zapatista-timeline/>
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Chiapas_conflict>
 
 [^3]:
 
 [^4]:
 
-[^5]: [Wikipedia](Wikipedia "wikilink") -
+[^5]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Zapatista_uprising>

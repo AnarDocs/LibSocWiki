@@ -4,7 +4,7 @@ permalink: /Antoinette_Cauvin/
 ---
 
 **Antoinette Cauvin** or **Madame Sorgue**(1864 - 1924) was an
-[anarcho-syndicalist](Anarcho-Syndicalism "wikilink") activist and
+[anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") activist and
 organizer, considered the 'the most dangerous woman in Europe'.[^1]
 
 ## Life
@@ -14,7 +14,7 @@ organizer, considered the 'the most dangerous woman in Europe'.[^1]
 Antoinette's family was very wealthy and members of the aristocracy, her
 grandfather was the Russian general Piotr Chripcov, military attaché to
 the Russian embassy in Washington DC, and her father was a
-[Fourierist](Charles_Fourier "wikilink") doctor named Joseph-Pierre
+[Fourierist](Charles_Fourier.md "wikilink") doctor named Joseph-Pierre
 Durand de Gros.
 
 ### Activism
@@ -175,10 +175,10 @@ Bonnington Hotel on Southamton Row2,1,5,6.
 
 <https://fr.wikipedia.org/wiki/Madame_Sorgue>
 
-[Category:Anarcho-Syndicalists](Category:Anarcho-Syndicalists "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:France](Category:France "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink")
+[Category:Anarcho-Syndicalists](Category:Anarcho-Syndicalists.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:France](Category:France.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink")
 
 [^1]: <https://libcom.org/history/cauvin-nee-durand-de-gros-antoinette-aka-madame-sorgue-1864-1924>

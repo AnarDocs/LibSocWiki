@@ -4,9 +4,9 @@ permalink: /Community_Forestry/
 ---
 
 **Community Forestry** refers to community control and ownership of
-nearby [forests](Forest "wikilink"). This is often done with an emphasis
-on [democracy](democracy "wikilink") and the
-[commons](commons "wikilink").
+nearby [forests](Forest.md "wikilink"). This is often done with an emphasis
+on [democracy](democracy.md "wikilink") and the
+[commons](commons.md "wikilink").
 
 ## Examples
 
@@ -21,8 +21,8 @@ on [democracy](democracy "wikilink") and the
 ### Mexico
 
 Community forestry has been introduced in the [Zapatista
-Communities](Rebel_Zapatista_Autonomous_Municipalities "wikilink") and
-[Cherán](Cherán "wikilink"). In the former it has helped to plant 30,000
+Communities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink") and
+[Cherán](Cherán.md "wikilink"). In the former it has helped to plant 30,000
 trees and in the latter it has helped reforest 20,000 hectares of
 deforested land (in a town of 16,000! making it the largest
 reforestation program per capita in the world!)
@@ -32,7 +32,7 @@ reforestation program per capita in the world!)
 ### Russia
 
 Community forestry has been introduced in the Gassinski Forest covering
-an area of about 3,850 km2 by the [Russian](Russia "wikilink")
+an area of about 3,850 km2 by the [Russian](Russia.md "wikilink")
 government.
 
 ### United Kingdom
@@ -40,10 +40,10 @@ government.
 ### United States of America
 
 *See Also: [Hoedads Reforestation
-Cooperative](Hoedads_Reforestation_Cooperative "wikilink")*
+Cooperative](Hoedads_Reforestation_Cooperative.md "wikilink")*
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Commons](Category:Commons "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Commons](Category:Commons.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")

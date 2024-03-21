@@ -4,9 +4,9 @@ permalink: /Asari_(Mass_Effect)/
 ---
 
 The **Asari** are a fictional, space-faring species and civilisation in
-the [Mass Effect](Mass_Effect_(Video_Game) "wikilink") that employs some
+the [Mass Effect](Mass_Effect_(Video_Game).md "wikilink") that employs some
 principles of [libertarian
-socialism](List_of_Libertarian_Socialist_Societies "wikilink").
+socialism](List_of_Libertarian_Socialist_Societies.md "wikilink").
 
 ## Decision-Making
 
@@ -15,8 +15,8 @@ According to the *codex* (the in-game lore/wiki)
 > The asari came late to the concept of world government. For centuries,
 > their homeworld of Thessia was dotted with loose confederacies of
 > great republican cities. The closest Earthly equivalent would be the
-> ancient Mediterranean [city-states](Athenian_Polis "wikilink"). Since
-> the asari culture values [consensus](consensus "wikilink") and
+> ancient Mediterranean [city-states](Athenian_Polis.md "wikilink"). Since
+> the asari culture values [consensus](consensus.md "wikilink") and
 > accommodation, there was little impetus to form larger principalities.
 > Rather than hoard resources, the asari bartered freely. Rather than
 > attack one another over differing philosophies, they sought to
@@ -84,7 +84,7 @@ smash criminal rings and terrorists. According to the codex:
 
 ## Economics
 
-According to the Mass Effect [wiki](wiki "wikilink"):
+According to the Mass Effect [wiki](wiki.md "wikilink"):
 
 > The asari possess the largest single economy in the galaxy. They have
 > extensive trade and social contacts. Craft guilds, such as those
@@ -94,19 +94,19 @@ According to the Mass Effect [wiki](wiki "wikilink"):
 
 ## See Also
 
-- [Angara](Angara_(Mass_Effect) "wikilink")
-- [Geth](Geth_(Mass_Effect) "wikilink")
+- [Angara](Angara_(Mass_Effect).md "wikilink")
+- [Geth](Geth_(Mass_Effect).md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Fictional Libertarian Socialist
-Societies](Category:Fictional_Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Fictional_Libertarian_Socialist_Societies.md "wikilink")
 
 [^1]: <https://masseffect.fandom.com/wiki/Codex/Aliens:_Council_Races#Asari:_Government>
 

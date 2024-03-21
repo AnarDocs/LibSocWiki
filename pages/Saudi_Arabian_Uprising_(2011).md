@@ -4,13 +4,13 @@ permalink: /Saudi_Arabian_Uprising_(2011)/
 ---
 
 The **Saudi Arabian Uprising** were a series of protests in [Saudi
-Arabia](Saudi_Arabia "wikilink") over women's rights, economic
+Arabia](Saudi_Arabia.md "wikilink") over women's rights, economic
 inequality, police brutality, corruption, religious discrimination and
 high unemployment in [2011 and
-2012](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink"). It
-was part of the [Arab Spring](Arab_Spring "wikilink") and a [wider
+2012](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink"). It
+was part of the [Arab Spring](Arab_Spring.md "wikilink") and a [wider
 global wave of revolts from 2010 to
-2014](Revolutions_of_2010_-_2014 "wikilink").
+2014](Revolutions_of_2010_-_2014.md "wikilink").
 
 ## Events
 
@@ -30,14 +30,14 @@ with gunfire for about 10 minutes. Three protesters were injured and
 hospitalised with "moderate" injuries.
 
 This triggered a "Day of Rage" in solidarity with the uprisings in
-[Libya](Libyan_Revolution_(2011) "wikilink") and
-[Bahrain](Bahraini_Uprising_(2011) "wikilink") where protesters demanded
+[Libya](Libyan_Revolution_(2011).md "wikilink") and
+[Bahrain](Bahraini_Uprising_(2011).md "wikilink") where protesters demanded
 women's rights, prison reform, democratisation, removal of soldiers from
 Bahrain, workers rights and civil liberties. Over the next few months a
 cycle of protests with a few hundred people, online activism and police
 repression continued (including the killing of children and use of
 snipers). [Women began illegally driving
-cars](Women_to_Drive_Movement "wikilink") and were frequently arrested.
+cars](Women_to_Drive_Movement.md "wikilink") and were frequently arrested.
 University strikes began and sit-ins occurred in government buildings.
 Migrant workers went on hunger strike and massive open criticism of the
 government occurred in a weekly cycle that died down in 2013.
@@ -58,10 +58,10 @@ massive improvements in women's rights were made, notably:
 - Allowing women to enlist in the military
 
 Whilst Saudi Arabia is still an extremely
-[patriarchal](Patriarchy "wikilink") and authoritarian country, these
+[patriarchal](Patriarchy.md "wikilink") and authoritarian country, these
 limited reforms are huge wins.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [2011-12 Saudi Arabian
+[Wikipedia](Wikipedia.md "wikilink") - [2011-12 Saudi Arabian
 protests](https://en.wikipedia.org/wiki/2011–12_Saudi_Arabian_protests)

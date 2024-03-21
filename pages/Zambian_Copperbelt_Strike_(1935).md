@@ -4,9 +4,9 @@ permalink: /Zambian_Copperbelt_Strike_(1935)/
 ---
 
 The **Zambian Copperbelt Strike of
-[1935](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink")**was
-a [strike](List_of_Strikes "wikilink") by copperminers over high
-[taxes](Taxation "wikilink") and safety concerns in copper miners.
+[1935](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink")**was
+a [strike](List_of_Strikes.md "wikilink") by copperminers over high
+[taxes](Taxation.md "wikilink") and safety concerns in copper miners.
 
 ## Background
 
@@ -127,12 +127,12 @@ the coming decades, including later significant success by the African
 Mineworkers’ Union.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:1935](Category:1935 "wikilink")
-[Category:1930s](Category:1930s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Southern
-Africa](Category:Southern_Africa "wikilink")
-[Category:Zambia](Category:Zambia "wikilink")
-[Category:Mining](Category:Mining "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:1935](Category:1935.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Southern
+Africa](Category:Southern_Africa.md "wikilink")
+[Category:Zambia](Category:Zambia.md "wikilink")
+[Category:Mining](Category:Mining.md "wikilink")

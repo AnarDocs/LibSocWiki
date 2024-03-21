@@ -3,17 +3,17 @@ title: Uba Strike (1937)
 permalink: /Uba_Strike_(1937)/
 ---
 
-The **Uba Strike of 1937** was a [strike](List_of_Strikes "wikilink") by
-sugar workers in [Mauritius](Mauritius "wikilink") in
-[1937](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink").
+The **Uba Strike of 1937** was a [strike](List_of_Strikes.md "wikilink") by
+sugar workers in [Mauritius](Mauritius.md "wikilink") in
+[1937](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink").
 
 ## Background
 
 In the 1870s, large sugar estates sold off their less productive land to
 Indian Mauritians that formed a small class of landowners called
-Sirdars. The [British Empire](British_Empire "wikilink") feared angering
+Sirdars. The [British Empire](British_Empire.md "wikilink") feared angering
 the Franco-Mauritian elite for fears the island might join the [French
-Empire](French_Empire "wikilink") again, making it extremely difficult
+Empire](French_Empire.md "wikilink") again, making it extremely difficult
 for pro-worker reforms to be passed. Many farmers planted the hardier
 but less productive Uba variety of sugarcane. Although Uba produced more
 cane by weight it also had a lower sucrose content than traditional
@@ -32,7 +32,7 @@ Following the announcement of the fifteen percent reduction in the Uba
 cane price workers on the Rich Fund estate asked the Sirdars or managers
 to intervene to raise the price. After getting no satisfaction the
 workers went on strike and caused a number of minor disturbances. Due to
-[similar strikes](British_Caribbean_Strike_Wave_(1930s) "wikilink") in
+[similar strikes](British_Caribbean_Strike_Wave_(1930s).md "wikilink") in
 the Caribbean at the time the British government in Mauritius initially
 sought a conciliatory approach whilst the Labour Party held rallies
 calling for political and economic reform. By mid-August the strikes had
@@ -59,23 +59,23 @@ across the island.
 
 In 1938, the following reforms were passed in Mauritius:
 
-- Legalisation of [trade unions](Trade_Union "wikilink")
+- Legalisation of [trade unions](Trade_Union.md "wikilink")
 - Legalisation of [collective
-  bargaining](Collective_Bargaining "wikilink")
+  bargaining](Collective_Bargaining.md "wikilink")
 - Creation of institutions to mediate between workers and bosses
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Uba riots of
+[Wikipedia](Wikipedia.md "wikilink") - [Uba riots of
 1937](https://en.wikipedia.org/wiki/Uba_riots_of_1937)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Mauritius](Category:Mauritius "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Southern
-Africa](Category:Southern_Africa "wikilink")
-[Category:1937](Category:1937 "wikilink")
-[Category:1930s](Category:1930s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Strikes](Category:Strikes "wikilink") [Category:British
-Empire](Category:British_Empire "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Mauritius](Category:Mauritius.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Southern
+Africa](Category:Southern_Africa.md "wikilink")
+[Category:1937](Category:1937.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink") [Category:British
+Empire](Category:British_Empire.md "wikilink")

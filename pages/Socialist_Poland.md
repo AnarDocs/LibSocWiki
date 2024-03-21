@@ -13,11 +13,11 @@ advances, including
 - Seeing a boom in cinema and TV shows.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Poland](Category:Poland "wikilink") [Category:Authortarian
-States](Category:Authortarian_States "wikilink") [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink") [Category:Former
-States](Category:Former_States "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Poland](Category:Poland.md "wikilink") [Category:Authortarian
+States](Category:Authortarian_States.md "wikilink") [Category:Authoritarian
+Socialism](Category:Authoritarian_Socialism.md "wikilink") [Category:Former
+States](Category:Former_States.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")

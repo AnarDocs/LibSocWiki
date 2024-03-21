@@ -3,8 +3,8 @@ title: Timeline of Russian Atrocities
 permalink: /Timeline_of_Russian_Atrocities/
 ---
 
-A timeline of atrocities committed by [Russia](Russia "wikilink") since
-1991, for a list of those committed by the [USSR](USSR "wikilink"), see
+A timeline of atrocities committed by [Russia](Russia.md "wikilink") since
+1991, for a list of those committed by the [USSR](USSR.md "wikilink"), see
 here.
 
 ## 1999
@@ -28,25 +28,25 @@ here.
 
 ## See Also
 
-- [Timeline of US Imperialism](Timeline_of_US_Imperialism "wikilink")
+- [Timeline of US Imperialism](Timeline_of_US_Imperialism.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Timelines](Category:Timelines "wikilink")
-[Category:Russia](Category:Russia "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Timelines](Category:Timelines.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Russian_apartment_bombings#Theory_of_Russian_government_involvement>
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Armenian_parliament_shooting>
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Alexander_Litvinenko#Allegations>

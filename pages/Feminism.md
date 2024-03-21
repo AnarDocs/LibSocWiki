@@ -5,10 +5,10 @@ permalink: /Feminism/
 
 **Feminism** is a political philosophy and social movement which seeks
 to define, establish, and achieve political, economic, personal, and
-social [equality](Gender_Equality "wikilink") of
-[sexes](Sex_(Division) "wikilink"). It can also be viewed as an
+social [equality](Gender_Equality.md "wikilink") of
+[sexes](Sex_(Division).md "wikilink"). It can also be viewed as an
 organized social movement that is in resistance to
-[patriarchy](patriarchy "wikilink").
+[patriarchy](patriarchy.md "wikilink").
 
 ## Tendencies
 
@@ -16,9 +16,9 @@ organized social movement that is in resistance to
 
 **Africana Womanism** was a term coined in the late 1980s to focus on
 the experiences of African women, specific as it relates to
-[colonialism](colonialism "wikilink"), [white
-supremacy](White_Supremacy "wikilink") and
-[christianity](christianity "wikilink"). It is based on 18 principles:
+[colonialism](colonialism.md "wikilink"), [white
+supremacy](White_Supremacy.md "wikilink") and
+[christianity](christianity.md "wikilink"). It is based on 18 principles:
 
 1.  Self-Naming
 2.  Self-Definition
@@ -43,25 +43,25 @@ supremacy](White_Supremacy "wikilink") and
 
 ### Anarchist
 
-**[Anarcha-feminism](Anarcha-Feminism "wikilink")**or **anarchist
+**[Anarcha-feminism](Anarcha-Feminism.md "wikilink")**or **anarchist
 feminism,** **anarcho-feminism,** and/or **anarchx-feminism** refers
 towards an effort to synthesize the concerns of feminists towards
-patriarchy with the [anarchists](Anarchism "wikilink") opposition
-towards all [social hierarchy](Social_Hierarchy "wikilink"), this
+patriarchy with the [anarchists](Anarchism.md "wikilink") opposition
+towards all [social hierarchy](Social_Hierarchy.md "wikilink"), this
 manifests in three major ways:
 
 1.  Linking patriarchy as a uniquely important form of hierarchy with a
     significantly important role in the rise of the
-    [state](State_(Polity) "wikilink"),
-    [capitalism](capitalism "wikilink") and other forms of [social
-    hierarchy](Social_Hierarchy "wikilink").
+    [state](State_(Polity).md "wikilink"),
+    [capitalism](capitalism.md "wikilink") and other forms of [social
+    hierarchy](Social_Hierarchy.md "wikilink").
 2.  Attempting to integrate anarchist critiques of hierarchy with
     mainstream feminism.
 3.  Criticizing sexist tendencies within the anarchist movement.
 
-It is mostly associated with [Emma Goldman](Emma_Goldman "wikilink"),
-[Lucy Parsons](Lucy_Parsons "wikilink") and [Mikhail
-Bakunin](Mikhail_Bakunin "wikilink").
+It is mostly associated with [Emma Goldman](Emma_Goldman.md "wikilink"),
+[Lucy Parsons](Lucy_Parsons.md "wikilink") and [Mikhail
+Bakunin](Mikhail_Bakunin.md "wikilink").
 
 ### Anti-Abortion
 
@@ -169,10 +169,10 @@ Bakunin](Mikhail_Bakunin "wikilink").
 
 <references />
 
-[Category:Feminism](Category:Feminism "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Africana_womanism>

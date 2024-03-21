@@ -4,9 +4,9 @@ permalink: /Kronstadt_Rebellion/
 ---
 
 The **Kronstadt Rebellion** was a counter-revolutionary military
-desertion during the [Russian Revolution](October_Revolution "wikilink")
+desertion during the [Russian Revolution](October_Revolution.md "wikilink")
 in
-[1921](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink").
+[1921](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink").
 It was headed by White guardists, members of the bourgeoisie, and
 anti-semites. It received large amounts of funding from Western
 imperialist governments, and its leaders were able to flee to
@@ -229,19 +229,19 @@ Kronstadt shows above all else: given a choice between workers' power
 and party power, Bolshevism will destroy the former to ensure the
 latter.](https://vid.puffyan.us/watch?v=TnUNrTX8YCo&list=PLbnLysSug0vRMyRlmgC7MrrsH9-yreGeI&index=6)
 
-[Category:Russian Civil War](Category:Russian_Civil_War "wikilink")
-[Category:Russian Revolution](Category:Russian_Revolution "wikilink")
-[Category:1921](Category:1921 "wikilink")
-[Category:1920s](Category:1920s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Russia](Category:Russia "wikilink")
-[Category:Anti-Leninism](Category:Anti-Leninism "wikilink")
+[Category:Russian Civil War](Category:Russian_Civil_War.md "wikilink")
+[Category:Russian Revolution](Category:Russian_Revolution.md "wikilink")
+[Category:1921](Category:1921.md "wikilink")
+[Category:1920s](Category:1920s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink")
+[Category:Anti-Leninism](Category:Anti-Leninism.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Worker Uprisings](Category:Worker_Uprisings "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Worker Uprisings](Category:Worker_Uprisings.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")

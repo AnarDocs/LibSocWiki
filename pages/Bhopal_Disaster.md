@@ -4,7 +4,7 @@ permalink: /Bhopal_Disaster/
 ---
 
 The **Bhopal Disaster** or **Bhopal Gas Tragedy** was an [industrial
-disaster](List_of_Disasters "wikilink") in India in 1984, considered the
+disaster](List_of_Disasters.md "wikilink") in India in 1984, considered the
 worst in human history, with at least 3,600 people killed (although some
 estimates go up to 16,000 deaths) and 558,125 injuries. It occured at a
 pesticide factory owned by the Union Carbide corporation.

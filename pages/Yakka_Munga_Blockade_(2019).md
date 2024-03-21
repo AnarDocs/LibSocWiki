@@ -3,17 +3,17 @@ title: Yakka Munga Blockade (2019)
 permalink: /Yakka_Munga_Blockade_(2019)/
 ---
 
-The **Yakka Munga Blockade** was a [picket](Picketing "wikilink") by
-[Aboriginal Australians](Aboriginal_Australians "wikilink") in
-[2019](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink") to stop
+The **Yakka Munga Blockade** was a [picket](Picketing.md "wikilink") by
+[Aboriginal Australians](Aboriginal_Australians.md "wikilink") in
+[2019](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink") to stop
 the destruction of cultural sites from land-clearing on a
-[Chinese-owned](China "wikilink") cattle station in the Kimberley,
-[Western Australia](Australia "wikilink").
+[Chinese-owned](China.md "wikilink") cattle station in the Kimberley,
+[Western Australia](Australia.md "wikilink").
 
 ## Background
 
 Aboriginal Australians had been pretty brutally treated by the colonial
-government of the [British Empire](British_Empire "wikilink"), stealing
+government of the [British Empire](British_Empire.md "wikilink"), stealing
 and enclosing aboriginal land and wiping out 98% of the population.
 After Australia's independence in 1901, there were apartheid-esque
 conditions for aboriginals (many also being pushed into slavery and/or
@@ -44,15 +44,15 @@ successful.[^3]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Blockades](Category:Blockades "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:2019](Category:2019 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Aboriginal
-Australia](Category:Aboriginal_Australia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Blockades](Category:Blockades.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:2019](Category:2019.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Aboriginal
+Australia](Category:Aboriginal_Australia.md "wikilink")
 
 [^1]: [Yakka Munga station blockaded by protesters in fight to protect
     Kimberley

@@ -4,10 +4,10 @@ permalink: /23_de_Enero_Campaign/
 ---
 
 The **23 de Enero Campaign** refers to a small amount of direct action
-in Caracas, [Venezuela](Venezuela "wikilink") in
-[1981](Timeline_of_Libertarian_Socialism_in_South_America "wikilink") in
+in Caracas, [Venezuela](Venezuela.md "wikilink") in
+[1981](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink") in
 an effort to help improve a neighbourhood dominated by [state
-housing](State_Housing "wikilink").
+housing](State_Housing.md "wikilink").
 
 ## Background
 
@@ -48,10 +48,10 @@ emphasis of public service in Venezuela politics.
 
 - <https://nvdatabase.swarthmore.edu/content/venezuelans-seize-service-vehicles-force-neighborhood-upgrade-caracas-1981>
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Venezuela](Category:Venezuela "wikilink")
-[Category:1981](Category:1981 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:South
-America](Category:South_America "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Venezuela](Category:Venezuela.md "wikilink")
+[Category:1981](Category:1981.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")

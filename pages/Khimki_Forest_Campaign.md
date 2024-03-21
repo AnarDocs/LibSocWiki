@@ -4,10 +4,10 @@ permalink: /Khimki_Forest_Campaign/
 ---
 
 The **Khimki Forest Campaign** was a failed effort by
-[environmentalists](Environmentalism "wikilink") in
-[Russia](Russia "wikilink") to stop the deforestation of Khimki Forest
+[environmentalists](Environmentalism.md "wikilink") in
+[Russia](Russia.md "wikilink") to stop the deforestation of Khimki Forest
 for highway construction in
-[2010](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink").
+[2010](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink").
 
 ## Events
 
@@ -31,19 +31,19 @@ resume.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Russians
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Russians
 campaign to save Khimki Forest,
 2010](https://nvdatabase.swarthmore.edu/content/russians-campaign-save-khimki-forest-2010)
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Russia](Category:Russia "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:2010](Category:2010 "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:2010](Category:2010.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 [Category:Anti-Roads
-Campaigns](Category:Anti-Roads_Campaigns "wikilink")
+Campaigns](Category:Anti-Roads_Campaigns.md "wikilink")

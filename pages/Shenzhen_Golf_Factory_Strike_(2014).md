@@ -5,10 +5,10 @@ permalink: /Shenzhen_Golf_Factory_Strike_(2014)/
 
 The **Chinese Golf Factory Strike of 2014** or the **Chinese Golf
 Factory Workers Strike for Essential Rights**was a
-[strike](List_of_Strikes "wikilink") of [golf](golf "wikilink")
-[factory](factory "wikilink") workers in Shenzhen, Southern
-[China](China "wikilink") in
-[2014](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+[strike](List_of_Strikes.md "wikilink") of [golf](golf.md "wikilink")
+[factory](factory.md "wikilink") workers in Shenzhen, Southern
+[China](China.md "wikilink") in
+[2014](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 

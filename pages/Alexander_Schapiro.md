@@ -4,7 +4,7 @@ permalink: /Alexander_Schapiro/
 ---
 
 **Alexander M. Schapiro** (1883 - 1946) was an
-[anarcho-syndicalist](Anarcho-Syndicalism "wikilink") active in the
+[anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") active in the
 international anarchist movement.
 
 ## Life
@@ -12,7 +12,7 @@ international anarchist movement.
 ### Family
 
 Schapiro's father was named Moses Schapiro, who was a member of
-[Narodnaya Volya](Narodnaya_Volya "wikilink")
+[Narodnaya Volya](Narodnaya_Volya.md "wikilink")
 
 Schapiro was born in 1882 or 1883 in Rostov-on-Don in southern Russia,
 but grew up in Constantinople because his father Moses, a member of the
@@ -248,18 +248,18 @@ his death in 1946.
 
 ## See Also
 
-- [Sascha Schapiro](Sascha_Schapiro "wikilink")
+- [Sascha Schapiro](Sascha_Schapiro.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Anarcho-Syndicalists](Category:Anarcho-Syndicalists "wikilink")
-[Category:Russia](Category:Russia "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Anarcho-Syndicalists](Category:Anarcho-Syndicalists.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")

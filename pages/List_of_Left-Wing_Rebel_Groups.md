@@ -13,4 +13,4 @@ opposition to an established government.
 
 ##
 
-[Category:Lists](Category:Lists "wikilink")
+[Category:Lists](Category:Lists.md "wikilink")

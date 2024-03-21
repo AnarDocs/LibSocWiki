@@ -25,5 +25,5 @@ Obviously suggesting a relationship.
 
 ## See also
 
-- [ProleWiki](ProleWiki "wikilink")
-- [8chan](8chan "wikilink")
+- [ProleWiki](ProleWiki.md "wikilink")
+- [8chan](8chan.md "wikilink")

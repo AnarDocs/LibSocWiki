@@ -4,20 +4,20 @@ permalink: /China/
 ---
 
 **China**, officially the **People's Republic of China** is a large
-authoritarian [capitalist](Capitalism "wikilink") or [authoritarian
-socialist](Authoritarian_Socialism "wikilink")
-[state](List_of_States "wikilink"), claiming much of the geographic
+authoritarian [capitalist](Capitalism.md "wikilink") or [authoritarian
+socialist](Authoritarian_Socialism.md "wikilink")
+[state](List_of_States.md "wikilink"), claiming much of the geographic
 region of Eastern Asia and several outlying islands, it is near the
-states of [Russia](Russia "wikilink"), [Mongolia](Mongolia "wikilink"),
-[North Korea](North_Korea "wikilink"), [South
-Korea](South_Korea "wikilink"), [Japan](Japan "wikilink"),
-[Taiwan](Taiwan "wikilink"), the [Philippines](Philippines "wikilink"),
-[Vietnam](Vietnam "wikilink"), [Laos](Laos "wikilink"),
-[Myanmar](Myanmar "wikilink"), [India](India "wikilink"),
-[Bhutan](Bhutan "wikilink"), [Nepal](Nepal "wikilink"),
-[Pakistan](Pakistan "wikilink"), [Afghanistan](Afghanistan "wikilink"),
-[Tajikistan](Tajikistan "wikilink"), [Kyrgyzstan](Kyrgyzstan "wikilink")
-and [Kazakhstan](Kazakhstan "wikilink").
+states of [Russia](Russia.md "wikilink"), [Mongolia](Mongolia.md "wikilink"),
+[North Korea](North_Korea.md "wikilink"), [South
+Korea](South_Korea.md "wikilink"), [Japan](Japan.md "wikilink"),
+[Taiwan](Taiwan.md "wikilink"), the [Philippines](Philippines.md "wikilink"),
+[Vietnam](Vietnam.md "wikilink"), [Laos](Laos.md "wikilink"),
+[Myanmar](Myanmar.md "wikilink"), [India](India.md "wikilink"),
+[Bhutan](Bhutan.md "wikilink"), [Nepal](Nepal.md "wikilink"),
+[Pakistan](Pakistan.md "wikilink"), [Afghanistan](Afghanistan.md "wikilink"),
+[Tajikistan](Tajikistan.md "wikilink"), [Kyrgyzstan](Kyrgyzstan.md "wikilink")
+and [Kazakhstan](Kazakhstan.md "wikilink").
 
 ## Positives and Negatives
 
@@ -37,28 +37,28 @@ objective information that neither side could deny.*
 
 - China has a pretty bad record on foreign policy.
   - From 1974, China (along with the USA) supported Eritrean ML rebels
-    against [Socialist Ethiopia](Socialist_Ethiopia "wikilink").[^2]
+    against [Socialist Ethiopia](Socialist_Ethiopia.md "wikilink").[^2]
   - In 1975, China (with the USA and France) provided material support
     for anti-communist rebels in the [Angolan Civil
-    War](Angolan_Civil_War "wikilink") that tried to overthrow the
-    [socialist government](Socialist_Angola "wikilink").[^3]
+    War](Angolan_Civil_War.md "wikilink") that tried to overthrow the
+    [socialist government](Socialist_Angola.md "wikilink").[^3]
   - China tried to invade Vietnam in 1979, RIGHT after Vietnam had
     suffered brutally at the hands at the USA in the Vietnam War. Border
     skirmishes continued until 1991 where relations were normalised.[^4]
   - China, along with the USA and UK, also supported Pol Pot as they
     waged a war against Vietnam and [socialist
-    Cambodia](socialist_Cambodia "wikilink").[^5]
+    Cambodia](socialist_Cambodia.md "wikilink").[^5]
   - China ended support for the Communist Party of the Philippines [in
     their
-    insurgency](Communist_Insurgency_in_the_Philippines "wikilink") in
+    insurgency](Communist_Insurgency_in_the_Philippines.md "wikilink") in
     1976 as part of its normalisation of relations with the
     Philippines.[^6]
   - Since 1992, China has been closely cooperative with
-    [Israel](Israel "wikilink") on military matters.[^7][^8]
+    [Israel](Israel.md "wikilink") on military matters.[^7][^8]
   - Since 2002, China has been selling weapons to the Taliban in
     Afghanistan.[^9]
   - Since 2003, China has supported the government of Sudan whilst
-    carrying out [anti-Arab](Arabophobia "wikilink") ethnic cleansing
+    carrying out [anti-Arab](Arabophobia.md "wikilink") ethnic cleansing
     and mass rape.[^10]
   - In 2005, China sent military aid to Nepal to help them fight the
     Maoist rebels.[^11]
@@ -68,46 +68,46 @@ objective information that neither side could deny.*
 
 ## Major Social Struggles
 
-- 1920: [Guangzhou Commune](Guangzhou_Commune "wikilink")
-- 1929: [Shinmin Autonomous Zone](Shinmin_Autonomous_Zone "wikilink")
+- 1920: [Guangzhou Commune](Guangzhou_Commune.md "wikilink")
+- 1929: [Shinmin Autonomous Zone](Shinmin_Autonomous_Zone.md "wikilink")
 - 2007 - 2014: [Chinese Protest
-  Wave](Chinese_Protest_Wave_(2007_-_2013) "wikilink")
+  Wave](Chinese_Protest_Wave_(2007_-_2013).md "wikilink")
   - 2007: [Xiamen Anti-Factory
-    Campaign](Xiamen_Anti-Factory_Campaign_(2007) "wikilink")
-  - 2008: [Chengdu Stroll](Chengdu_Stroll_(2008) "wikilink")
+    Campaign](Xiamen_Anti-Factory_Campaign_(2007).md "wikilink")
+  - 2008: [Chengdu Stroll](Chengdu_Stroll_(2008).md "wikilink")
   - 2009: Guangzhou Anti-Landfill Campaign
-  - 2010: [Chinese Honda Strike](Chinese_Honda_Strike_(2010) "wikilink")
+  - 2010: [Chinese Honda Strike](Chinese_Honda_Strike_(2010).md "wikilink")
   - 2010: Tibetan Student Movement
   - 2011: [Shanghai Truck Drivers'
-    Strike](Shanghai_Truck_Drivers'_Strike_(2011) "wikilink")
+    Strike](Shanghai_Truck_Drivers'_Strike_(2011).md "wikilink")
   - 2011: [Haining Anti-Pollution
-    Campaign](Haining_Anti-Pollution_Campaign_(2011) "wikilink")
+    Campaign](Haining_Anti-Pollution_Campaign_(2011).md "wikilink")
   - 2011: [Dalian Anti-Factory
-    Campaign](Dalian_Anti-Factory_Campaign_(2011) "wikilink")
+    Campaign](Dalian_Anti-Factory_Campaign_(2011).md "wikilink")
   - 2011: Tibetan Food Boycott
   - 2011: Wukan Land Defense
   - 2012: [Ningbo Anti-Refinery
-    Campaign](Ningbo_Anti-Refinery_Campaign_(2012) "wikilink")
+    Campaign](Ningbo_Anti-Refinery_Campaign_(2012).md "wikilink")
   - 2012: [Qidong Anti-Pipeline
-    Campaign](Qidong_Pipeline_Campaign_(2012) "wikilink")
+    Campaign](Qidong_Pipeline_Campaign_(2012).md "wikilink")
   - 2012: [Shifang Anti-Factory
-    Campaign](Shifang_Anti-Factory_Campaign_(2012) "wikilink")
+    Campaign](Shifang_Anti-Factory_Campaign_(2012).md "wikilink")
   - 2013: Unchain The Truth
   - 2014: [Shenzhen Golf Factory
-    Strike](Shenzhen_Golf_Factory_Strike_(2014) "wikilink")
+    Strike](Shenzhen_Golf_Factory_Strike_(2014).md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:States](Category:States "wikilink")
-[Category:China](Category:China "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink")
-[Category:Authortarian States](Category:Authortarian_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:States](Category:States.md "wikilink")
+[Category:China](Category:China.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Authoritarian
+Socialism](Category:Authoritarian_Socialism.md "wikilink")
+[Category:Authortarian States](Category:Authortarian_States.md "wikilink")
 
 [^1]: <https://www.worldbank.org/en/country/china/overview#3>
 

@@ -4,26 +4,26 @@ permalink: /Ifugao/
 ---
 
 **Ifugao** refers to a province of Luzon in the
-[Philippines](Philippines "wikilink") that had been governed by a
+[Philippines](Philippines.md "wikilink") that had been governed by a
 [semi-anarchist political
-system](List_of_Libertarian_Socialist_Societies "wikilink") for two
+system](List_of_Libertarian_Socialist_Societies.md "wikilink") for two
 thousand years and developed the
-[sustainable](Sustainability "wikilink") [Banaue Rice
-Terraces](Agriculture "wikilink"), often considered the Eighth Wonder of
+[sustainable](Sustainability.md "wikilink") [Banaue Rice
+Terraces](Agriculture.md "wikilink"), often considered the Eighth Wonder of
 the World.
 
 ## History
 
 Ifuago was first settled around
-[500BCE](Timeline_of_Libertarian_Socialism_in_Southeast_Asia "wikilink"),
+[500BCE](Timeline_of_Libertarian_Socialism_in_Southeast_Asia.md "wikilink"),
 and building up itself over the next 2000 years through a complex web of
 agriculture, housing and a decentralised, self-governing structure.
 During the [Spanish Colonisation of the
-Philippines](Spanish_Colonisation_of_the_Philippines "wikilink")
+Philippines](Spanish_Colonisation_of_the_Philippines.md "wikilink")
 (beginning in 1521) it took hundreds of years for Ifugao to fall under
 Spanish control as the people fiercely resisted colonisation. The
 province remained relatively untouched during the Philippine Revolution,
-American Colonisation and [World War II](World_War_II "wikilink"), after
+American Colonisation and [World War II](World_War_II.md "wikilink"), after
 indepedence, it became a haven for tourists, anthropologists and
 archeologists.[^1]
 
@@ -32,13 +32,13 @@ archeologists.[^1]
 Villages hardly exist; rather houses are scattered, sometimes with a
 cluster of a dozen or so in one place. These can be seen as
 self-governing neighbourhoods (they also lacked a
-[state](State_(Polity) "wikilink"), [police](police "wikilink") and
-[law](Law_(Statism) "wikilink")). There is a unique class system, with
+[state](State_(Polity).md "wikilink"), [police](police.md "wikilink") and
+[law](Law_(Statism).md "wikilink")). There is a unique class system, with
 wealthy men on top (called kadangyang) who are granted this status in
 recognition of their sponsoring of feasts and mediating disputes. They
 mediate disputes in families, houses and between villages and often buys
 and sells resources in the community. Despite this, he has no authority
-and does not act as a [police force](Police "wikilink"), and is only has
+and does not act as a [police force](Police.md "wikilink"), and is only has
 as much power as he is granted.[^2]
 
 ## Crime
@@ -120,44 +120,44 @@ fields.[^10]
 
 ## See Also
 
-- [Highland New Guinea](Highland_New_Guinea "wikilink")
+- [Highland New Guinea](Highland_New_Guinea.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Past Libertarian Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
-[Category:Southeast Asia](Category:Southeast_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Philippines](Category:Philippines "wikilink") [Category:Before
-Common Era](Category:Before_Common_Era "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Southeast Asia](Category:Southeast_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Philippines](Category:Philippines.md "wikilink") [Category:Before
+Common Era](Category:Before_Common_Era.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Ifugao#History>
 
-[^2]: [Harold Barclay](Harold_Barclay "wikilink") (1990) - [People
+[^2]: [Harold Barclay](Harold_Barclay.md "wikilink") (1990) - [People
     Without Government: An Anthropology of
-    Anarchy](People_without_Government:_An_Anthropology_of_Anarchy "wikilink")
+    Anarchy](People_without_Government:_An_Anthropology_of_Anarchy.md "wikilink")
 
 [^3]:
 
-[^4]: [Wikipedia](Wikipedia "wikilink") -
+[^4]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Ifugao#Precolonial_age>
 
-[^5]: [Wikipedia](Wikipedia "wikilink") -
+[^5]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Ifugao#Rice_culture>
 
 [^6]:
 
-[^7]: [Wikipedia](Wikipedia "wikilink") -
+[^7]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Banaue_Rice_Terraces>
 
-[^8]: [Wikipedia](Wikipedia "wikilink") -
+[^8]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Rice_Terraces_of_the_Philippine_Cordilleras>
 
 [^9]:

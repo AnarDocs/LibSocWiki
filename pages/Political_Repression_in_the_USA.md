@@ -4,7 +4,7 @@ permalink: /Political_Repression_in_the_USA/
 ---
 
 **Political Repression in the USA** refers to the various ways the
-[United States](United_States_of_America "wikilink") government has
+[United States](United_States_of_America.md "wikilink") government has
 undermined various movements that threaten it. Like most liberal
 democracies, the United States has never really had a campaign of overt
 banning and mass murder to repress political opponents. Instead,
@@ -19,6 +19,6 @@ occasional massacre.
 
 *Speculated cases*
 
-1982: [Mumia Abu-Jamal](Mumia_Abu-Jamal "wikilink")
+1982: [Mumia Abu-Jamal](Mumia_Abu-Jamal.md "wikilink")
 
-1990: [Judi Bari](Judi_Bari "wikilink")
+1990: [Judi Bari](Judi_Bari.md "wikilink")

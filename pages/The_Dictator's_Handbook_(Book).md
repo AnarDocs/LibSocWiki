@@ -5,7 +5,7 @@ permalink: /The_Dictator's_Handbook_(Book)/
 
 **The Dictator's Handbook: Why Bad Behavior is Almost Always Good
 Politics** is a 2011 book by Bruce Bueno de Mesquita and Alastair Smith
-that outlines [selectorate theory](Selectorate_Theory "wikilink"),
+that outlines [selectorate theory](Selectorate_Theory.md "wikilink"),
 borrowing various examples from history, political science and
 economics.
 
@@ -69,15 +69,15 @@ ensuring their income was dependent on how much he liked them. He
 disciplined his winning coalition and greatly expanded his
 interchangeables, rendering civil war or his assassination impossible.
 
-In 1975, [Harvey Milk](Harvey_Milk "wikilink") failed to elected to the
+In 1975, [Harvey Milk](Harvey_Milk.md "wikilink") failed to elected to the
 San Francisco Board of Supervisors, the city government. In 1977, he
 succeeded, as the laws changed meaning that neighbourhoods elected to
 the board, and not the city in general. A much smaller group to gain
 power with, making it easier for him (until his tragic assassination in
 1978). Fidel Castro saw most of his fellow revolutionaries exiled,
 jailed, executed or resign in the early 60s (notably [Camilo
-Cienfuegos](Camilo_Cienfuegos "wikilink") and [Che
-Guevara](Che_Guevara "wikilink")) and the [USSR](USSR "wikilink")
+Cienfuegos](Camilo_Cienfuegos.md "wikilink") and [Che
+Guevara](Che_Guevara.md "wikilink")) and the [USSR](USSR.md "wikilink")
 ensured extremely long terms for its leaders through its rigged
 political system.
 
@@ -97,7 +97,7 @@ To remove whoever currently holds power, you need to do three things:
 3.  Rise up using the violence of a revolution or a foreign invasion.
 
 To illustrate these points, we can look at [Samuel
-Doe](Samuel_Doe "wikilink"), the [dictator](Doe_Dictatorship "wikilink")
+Doe](Samuel_Doe.md "wikilink"), the [dictator](Doe_Dictatorship.md "wikilink")
 of Liberia from 1980 to 1989. Born to a poor family in rural country, he
 moved to the capital city of Monrovia and joined the army in 1969. In
 1980 he and some other soldiers broke into the president's house to ask
@@ -106,7 +106,7 @@ sleep, took control of the government, executed the cabinet, installed
 trusted members of the Krahn tribe in key positions of government and
 the army, killed 50 of his co-conspirators, tripled the pay of the
 surviving army officers and [gained further funds through
-US](American_Empire "wikilink") aid by being an anti-communist
+US](American_Empire.md "wikilink") aid by being an anti-communist
 dictatorship, opening a tax haven, allowing for the fraudulent registry
 of 2,500 unsafe ships and allowing foreign mining companies to pillage
 the country. Executing anyone who protested the damage done to
@@ -120,26 +120,26 @@ but refusedountries treasury, they never found it. This meant that no
 faction could capture enough money to gain power, and Liberia collapsed
 into civil war.
 
-During the [Arab Spring](Arab_Spring "wikilink") in
-[Egypt](Arab_Spring_(Egypt) "wikilink") in 2011, the army refused to gun
+During the [Arab Spring](Arab_Spring.md "wikilink") in
+[Egypt](Arab_Spring_(Egypt).md "wikilink") in 2011, the army refused to gun
 down most of the protesters as they had been losing funds from the
 government (as a result of the great recession producing high
 unemployment and thus lower consumer spending and taxes, as well as cuts
 in foreign aid from the US) and allowed the people to take down the
 government. Eventually seizing power for themselves as
-[Egypt](Egypt "wikilink") is now a military dictatorship.
+[Egypt](Egypt.md "wikilink") is now a military dictatorship.
 
-During the [Iranian Revolution](Iranian_Revolution "wikilink") in 1979,
-[Ayatollah Khomeini](Ayatollah_Khomeini "wikilink") managed to outlive
-his main competitor, [Ali Shariati](Ali_Shariati "wikilink") (who died
+During the [Iranian Revolution](Iranian_Revolution.md "wikilink") in 1979,
+[Ayatollah Khomeini](Ayatollah_Khomeini.md "wikilink") managed to outlive
+his main competitor, [Ali Shariati](Ali_Shariati.md "wikilink") (who died
 in 1977), making him the main rival of the
-[Shah](Shah_of_Iran "wikilink") and he seized power by having the army
+[Shah](Shah_of_Iran.md "wikilink") and he seized power by having the army
 defect to him. He held a rigged referendum for the new government that
 meant he and religious and military leaders held the power. The reason
 the army defected is that it was exposed that the Shah was dying of
 cancer, meaning that the army knew instability was coming and defected
 to a new, healthier government. Similar events occurred in the
-[Philippines](Philippines "wikilink") and Democratic Congo, meaning that
+[Philippines](Philippines.md "wikilink") and Democratic Congo, meaning that
 rumours of sickness are very good things for would be revolutionaries.
 Castro in Cuba and the Kim family in North Korea avoid this by assigning
 family members as future heirs.
@@ -161,5 +161,5 @@ family members as future heirs.
 ### Chapter 10 - What Is To Be Done?
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Books](Category:Books "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Books](Category:Books.md "wikilink")

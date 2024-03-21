@@ -4,8 +4,8 @@ permalink: /Silvia_Rivera_Cusicanqui/
 ---
 
 **Silvia Rivera Cusicanqui** (1949) is an
-[indigenist](Indigenism "wikilink"), [anarchist](Anarchism "wikilink"),
-[feminist](Feminism "wikilink") and historian.
+[indigenist](Indigenism.md "wikilink"), [anarchist](Anarchism.md "wikilink"),
+[feminist](Feminism.md "wikilink") and historian.
 
 ## Life
 
@@ -13,18 +13,18 @@ permalink: /Silvia_Rivera_Cusicanqui/
 
 She was born in La Paz to parents of indigenous descent.
 
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarchist](Category:Anarchist "wikilink")
-[Category:Feminism](Category:Feminism "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Indigenists](Category:Indigenists "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarchist](Category:Anarchist.md "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Indigenists](Category:Indigenists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Latin
-America](Category:Latin_America "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:Bolivia](Category:Bolivia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Latin
+America](Category:Latin_America.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:Bolivia](Category:Bolivia.md "wikilink")

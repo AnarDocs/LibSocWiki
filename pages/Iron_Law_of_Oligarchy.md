@@ -4,12 +4,12 @@ permalink: /Iron_Law_of_Oligarchy/
 ---
 
 The **Iron Law of Oligarchy** is an idea in
-[sociology](sociology "wikilink") that suggests all [democratic
-organisations](Democracy "wikilink") eventually turn into oligarchies.
-Developed by [Syndicalist](Syndicalism "wikilink") [Robert
-Michels](Robert_Michels "wikilink") and is often used as one of the
+[sociology](sociology.md "wikilink") that suggests all [democratic
+organisations](Democracy.md "wikilink") eventually turn into oligarchies.
+Developed by [Syndicalist](Syndicalism.md "wikilink") [Robert
+Michels](Robert_Michels.md "wikilink") and is often used as one of the
 strongest arguments against democracy, especially [representative
-democracy](Representative_Democracy "wikilink").
+democracy](Representative_Democracy.md "wikilink").
 
 ## Overview
 
@@ -64,7 +64,7 @@ study noted, "The encyclopedia’s core norms address universal
 principles, such as neutrality, verifiability, civility, and consensus.
 The ambiguity and interpretability of these abstract concepts may drive
 them to decouple from each other over time."[^1] This view conflicts
-with the view proposed by [some](Anarchy_Works "wikilink") that
+with the view proposed by [some](Anarchy_Works.md "wikilink") that
 Wikipedia is democratic and self-improving, but the lack of formal
 hierarchies in Wikipedia and commitment to certain ideals prevent a
 fixed hierarchy and keeps Wikipedia open-source.
@@ -72,7 +72,7 @@ fixed hierarchy and keeps Wikipedia open-source.
 ## Breaking the Law
 
 It is possible to break the law and preserve democratic institutions
-from becoming oligarchical. [Adolf Gasser](Adolf_Gasser "wikilink")
+from becoming oligarchical. [Adolf Gasser](Adolf_Gasser.md "wikilink")
 argued that if you met five conditions, you could break the iron law of
 oligarchy and preserve democratic institutions:
 
@@ -89,7 +89,7 @@ oligarchy and preserve democratic institutions:
 
 This approach strongly resembles the model of confederation proposed by
 libertarian socialists. In Seymour Martin Lipset's
-[study](Union_Democracy_(Book) "wikilink") of the International
+[study](Union_Democracy_(Book).md "wikilink") of the International
 Typographical Union in 1956, found that two factors in the union allowed
 for it to break the iron law of oligarchy:
 
@@ -98,9 +98,9 @@ for it to break the iron law of oligarchy:
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Sociology](Category:Sociology "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Sociology](Category:Sociology.md "wikilink")
 
 [^1]: [The Evolution of Wikipedia’s Norm
     Network](https://www.mdpi.com/1999-5903/8/2/14)

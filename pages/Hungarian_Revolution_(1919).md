@@ -4,13 +4,13 @@ permalink: /Hungarian_Revolution_(1919)/
 ---
 
 The **Hungarian Revolution of 1919** refers to a [socialist
-revolution](List_of_Revolutions "wikilink") that took place in
-[Hungary](Hungary "wikilink") in
-[1919](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink").
+revolution](List_of_Revolutions.md "wikilink") that took place in
+[Hungary](Hungary.md "wikilink") in
+[1919](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink").
 It led to the formation of the **Hungarian Soviet Republic** (or the
 **Republic of Councils in Hungary**) which became the second [socialist
-state](Socialism_in_Practice "wikilink") established in the world, and
-was given direct orders by [Lenin](Vladimir_Lenin "wikilink").
+state](Socialism_in_Practice.md "wikilink") established in the world, and
+was given direct orders by [Lenin](Vladimir_Lenin.md "wikilink").
 
 ## Background
 
@@ -41,17 +41,17 @@ The policies implemented by the government included:
 
 In addition, there was the creation of the Lenin Boys, a militia which
 was deployed in locations where it was suspected a counter-revolution
-would begin. They began a [red terror](Red_Terror_(Hungary) "wikilink"),
+would begin. They began a [red terror](Red_Terror_(Hungary).md "wikilink"),
 executing people without trial and disbanding religious ceremonies,
 which led to them being attacked by locals. The red terror soon spread
 to the cities after a failed coup by the [social
-democrats](Social_Democracy "wikilink"), in which people were executed
+democrats](Social_Democracy.md "wikilink"), in which people were executed
 for suspected involvement with the coup, leading to a loss of support
 for the government.
 
 The government attempted to form an alliance with socialist Russia, but
 Lenin refused, citing the need to concentrate on the [Russian Civil
-War](Russian_Civil_War "wikilink"), but he still issued commands to them
+War](Russian_Civil_War.md "wikilink"), but he still issued commands to them
 via radio.
 
 ### Downfall
@@ -63,19 +63,19 @@ invaded, destroyed the revolution and began a white terror.
 ## Aftermath
 
 Surviving organisers fled to what would become the
-[USSR](USSR "wikilink") and were later all killed during the Great
+[USSR](USSR.md "wikilink") and were later all killed during the Great
 Purge.
 
 ### Legacy
 
 Both the [Hungarian People's
-Republic](Hungarian_People's_Republic "wikilink") and [1956
-revolution](Hungarian_Revolution_(1956) "wikilink") claimed to be the
+Republic](Hungarian_People's_Republic.md "wikilink") and [1956
+revolution](Hungarian_Revolution_(1956).md "wikilink") claimed to be the
 legitimate successors of this revolution.
 
 ## See Also
 
-- [Revolutions of 1916 - 1923](Revolutions_of_1916_-_1923 "wikilink")
+- [Revolutions of 1916 - 1923](Revolutions_of_1916_-_1923.md "wikilink")
 
 ## References
 
@@ -83,11 +83,11 @@ legitimate successors of this revolution.
 Republic](https://en.wikipedia.org/wiki/Hungarian_Soviet_Republic)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Hungary](Category:Hungary "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:1919](Category:1919 "wikilink")
-[Category:1910s](Category:1910s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Revolutions of
-1916 - 1923](Category:Revolutions_of_1916_-_1923 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Hungary](Category:Hungary.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:1919](Category:1919.md "wikilink")
+[Category:1910s](Category:1910s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Revolutions of
+1916 - 1923](Category:Revolutions_of_1916_-_1923.md "wikilink")

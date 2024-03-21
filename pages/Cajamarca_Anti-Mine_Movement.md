@@ -4,15 +4,15 @@ permalink: /Cajamarca_Anti-Mine_Movement/
 ---
 
 The **Cajamarca Anti-Mine Movement** was an effort in
-[2011](Timeline_of_Libertarian_Socialism_in_South_America "wikilink")
-and [2012](Timeline_of_Environmentalism "wikilink") in
-[Peru](Peru "wikilink") to permanently close the Conga mine, a gold
+[2011](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink")
+and [2012](Timeline_of_Environmentalism.md "wikilink") in
+[Peru](Peru.md "wikilink") to permanently close the Conga mine, a gold
 mine, which would've been the second largest gold mine in the world and
 the largest piece of foreign investment.
 
 ## Background
 
-In February 2010, [U.S.](United_States_of_America "wikilink")-based
+In February 2010, [U.S.](United_States_of_America.md "wikilink")-based
 Newmont Mining Company proposed a joint venture with the Peruvian
 company Mina Buenaventura to build the Conga mine, a new gold mine, in
 the Cajamarca region of Peru. Newmont proposed investing \$4.8 billion
@@ -25,7 +25,7 @@ for the Conga mine, which the Peruvian government approved.
 However, Peruvian locals in Cajamarca opposed the building of the Conga
 mine, concerned that the project would affect the fragile mountain
 wetlands in Cajamarca that include numerous lakes, rivers, and marshes
-that supply the region locals’ drinking [water](water "wikilink").
+that supply the region locals’ drinking [water](water.md "wikilink").
 Locals were not convinced by Newmont’s additional proposal to build
 artificial lakes to replace the four main high altitude lakes that would
 be affected by the mine. Locals in Cajamarca mistrusted the new project
@@ -48,10 +48,10 @@ earnings.
 
 On the 24th of November 2011, an estimated 10,000 residents of Cajamarca
 (with a total population of about 200,000)
-[marched](Protest_March "wikilink") through the city to protest the
+[marched](Protest_March.md "wikilink") through the city to protest the
 building of the Conga. Cajamarca state governor Gregorio Santos helped
 lead protest efforts. During the march, protesters clashed with riot
-[police](police "wikilink") who tear-gassed and fired upon protesters,
+[police](police.md "wikilink") who tear-gassed and fired upon protesters,
 resulting in reportedly 17 injuries. Protesters also used boulders to
 blockade the main roads in the region. Some Cajamarca-area schools and
 businesses closed in protest. In the nearby region of Yanacocha,
@@ -76,13 +76,13 @@ The campaign led to the mine constructions being canceled.
 
 ## See Also
 
-- [Puno Anti-Mine Movement](Puno_Anti-Mine_Movement "wikilink")
+- [Puno Anti-Mine Movement](Puno_Anti-Mine_Movement.md "wikilink")
 
-[Category:2011](Category:2011 "wikilink")
-[Category:2012](Category:2012 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Peru](Category:Peru "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:Mining](Category:Mining "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Peru](Category:Peru.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:Mining](Category:Mining.md "wikilink")

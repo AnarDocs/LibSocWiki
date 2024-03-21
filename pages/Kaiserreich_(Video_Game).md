@@ -6,7 +6,7 @@ permalink: /Kaiserreich_(Video_Game)/
 **Kaiserreich** is a mod for the game Hearts of Iron IV, taking place in
 an alternate 1936 where the German Empire won the First World War,
 leading to dramatic changes across the world, notably the rise of
-popularity of [syndicalism](syndicalism "wikilink") as the dominant
+popularity of [syndicalism](syndicalism.md "wikilink") as the dominant
 philosophy of revolutionaries, not communism. Praised for its realistic
 and interesting alternate history scenario
 
@@ -21,12 +21,12 @@ being lifted on Germany. Allowing Germany to force France into defeat by
 defeats) and eventually end the war in 1922.
 
 In Russia, German intervention in the [Russian Civil
-War](Russian_Civil_War "wikilink") destroys the [Black
-Army](Black_Army_(Ukraine) "wikilink") and [Free
-Territory](Free_Territory_of_Ukraine "wikilink") in Ukraine and
-ultimately captures Moscow, defeating [Trotsky](Leon_Trotsky "wikilink")
-([Lenin](Vladimir_Lenin "wikilink") had been assassinated in 1918 by
-[Fanny Kaplan](Fanny_Kaplan "wikilink"))
+War](Russian_Civil_War.md "wikilink") destroys the [Black
+Army](Black_Army_(Ukraine).md "wikilink") and [Free
+Territory](Free_Territory_of_Ukraine.md "wikilink") in Ukraine and
+ultimately captures Moscow, defeating [Trotsky](Leon_Trotsky.md "wikilink")
+([Lenin](Vladimir_Lenin.md "wikilink") had been assassinated in 1918 by
+[Fanny Kaplan](Fanny_Kaplan.md "wikilink"))
 
 ## Countries
 
@@ -42,7 +42,7 @@ ultimately captures Moscow, defeating [Trotsky](Leon_Trotsky "wikilink")
 
 ### South America
 
-[Category:Video Games](Category:Video_Games "wikilink")
+[Category:Video Games](Category:Video_Games.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Alternate History](Category:Alternate_History "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Alternate History](Category:Alternate_History.md "wikilink")

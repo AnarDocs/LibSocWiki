@@ -4,13 +4,13 @@ permalink: /History_of_the_Makhnovist_Movement/
 ---
 
 **History of the Makhnovist Movement (1918 - 1921)** is a 1923
-[book](List_of_Libertarian_Socialist_Books "wikilink") by [Peter
-Arshinov](Peter_Arshinov "wikilink") which explores the context of the
+[book](List_of_Libertarian_Socialist_Books.md "wikilink") by [Peter
+Arshinov](Peter_Arshinov.md "wikilink") which explores the context of the
 'Makhnovist Movement', centered around the actions of
-[anarcho-communist](Anarcho-Communism "wikilink") [Nestor
-Makhno](Nestor_Makhno "wikilink"), such as the creation and operation of
-the [Free Territory of Ukraine](Free_Territory_of_Ukraine "wikilink")
-and the [Black Army](Black_Army_(Ukraine) "wikilink").
+[anarcho-communist](Anarcho-Communism.md "wikilink") [Nestor
+Makhno](Nestor_Makhno.md "wikilink"), such as the creation and operation of
+the [Free Territory of Ukraine](Free_Territory_of_Ukraine.md "wikilink")
+and the [Black Army](Black_Army_(Ukraine).md "wikilink").
 
 ## Summary
 
@@ -44,14 +44,14 @@ and the [Black Army](Black_Army_(Ukraine) "wikilink").
 
 - [History of the Makhnovist
   Movement](https://theanarchistlibrary.org/library/peter-arshinov-history-of-the-makhnovist-movement-1918-1921)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Ukraine](Category:Ukraine "wikilink")
-[Category:Makhnovism](Category:Makhnovism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Ukraine](Category:Ukraine.md "wikilink")
+[Category:Makhnovism](Category:Makhnovism.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Russian Civil War](Category:Russian_Civil_War "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Russian Civil War](Category:Russian_Civil_War.md "wikilink")

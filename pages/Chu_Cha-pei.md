@@ -3,15 +3,15 @@ title: Chu Cha-pei
 permalink: /Chu_Cha-pei/
 ---
 
-**Chu Cha-pei** was an [anarchist](Anarchism "wikilink") [guerilla
-leader and soldier](List_of_Libertarian_Socialists "wikilink"), active
-in the [Yunnan Resistance](Yunnan_Resistance_(1950s) "wikilink"). The
+**Chu Cha-pei** was an [anarchist](Anarchism.md "wikilink") [guerilla
+leader and soldier](List_of_Libertarian_Socialists.md "wikilink"), active
+in the [Yunnan Resistance](Yunnan_Resistance_(1950s).md "wikilink"). The
 only known account of him comes from an interview with [H.L.
-Wei](H.L._Wei "wikilink") in 1975, who said he was "a sort of
-[Chinese](China "wikilink") [Makhno](Nestor_Makhno "wikilink"), from the
+Wei](H.L._Wei.md "wikilink") in 1975, who said he was "a sort of
+[Chinese](China.md "wikilink") [Makhno](Nestor_Makhno.md "wikilink"), from the
 Yunnan province in the south, near Burma and Indo-China, the son of a
 soldier and attended Whampoa Military Academy. He read [Pa
-Chin's](Ba_Jin "wikilink") translations of anarchist classics and an
+Chin's](Ba_Jin.md "wikilink") translations of anarchist classics and an
 ardent anarchists. He later met Pa Chin and visited me and my wife in
 Nanjing in 1936. He told us that one day he would welcome us to an
 anarchist utopia in the south. Chu Cha-pei actually knew about Makhno
@@ -32,18 +32,18 @@ unknown."[^1]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:China](Category:China "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:China](Category:China.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
 
-[^1]: [Paul Avrich](Paul_Avrich "wikilink") - [Anarchist Voices: An Oral
+[^1]: [Paul Avrich](Paul_Avrich.md "wikilink") - [Anarchist Voices: An Oral
     History of Anarchism in
-    America](Anarchist_Voices:_An_Oral_History_of_Anarchism_in_America "wikilink"),
+    America](Anarchist_Voices:_An_Oral_History_of_Anarchism_in_America.md "wikilink"),
     page 216

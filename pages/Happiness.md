@@ -12,10 +12,10 @@ well-being, eudaimonia, flourishing and well-being.
 
 Happiness is largely dependent on both negative and positive freedom.
 Whether or not a [libertarian socialist
-society](List_of_Libertarian_Socialist_Societies "wikilink") would make
+society](List_of_Libertarian_Socialist_Societies.md "wikilink") would make
 people more happy is unknown, however, data and testimony provide some
-clues, for example, [George Orwell](George_Orwell "wikilink") said of
-[Revolutionary Spain](Revolutionary_Spain "wikilink"):
+clues, for example, [George Orwell](George_Orwell.md "wikilink") said of
+[Revolutionary Spain](Revolutionary_Spain.md "wikilink"):
 
 > I had dropped more or less by chance into the only community of any
 > size in Western Europe where political consciousness and disbelief in
@@ -43,7 +43,7 @@ clues, for example, [George Orwell](George_Orwell "wikilink") said of
 > and not as cogs in the capitalist machine.[^1]
 
 The anthropologist Colin Turnbull, after living with a
-[Mbuti](Mbuti "wikilink") band, remarked, "They were a people who had
+[Mbuti](Mbuti.md "wikilink") band, remarked, "They were a people who had
 found in the forest something that made life more than just worth
 living, something that made it, with all its hardships and problems and
 tragedies, a wonderful thing full of joy and happiness and free of
@@ -51,15 +51,15 @@ care."[^2]
 
 Happiness at work through satisfaction is also important, and can be
 provided by [workers'
-self-management](Workers'_Self-Management "wikilink"). According to a
+self-management](Workers'_Self-Management.md "wikilink"). According to a
 study drawing on a questionnaire from the population of the
-[Italian](Italy "wikilink") province of Trento, [worker
-cooperatives](Worker_Cooperative "wikilink") are the only form of
+[Italian](Italy.md "wikilink") province of Trento, [worker
+cooperatives](Worker_Cooperative.md "wikilink") are the only form of
 enterprise that fosters social trust between employees.[^3] A survey
-conducted in Seoul, [South Korea](South_Korea "wikilink") suggests that
+conducted in Seoul, [South Korea](South_Korea.md "wikilink") suggests that
 in conventional firms, the more demanding the job is, the less committed
 the employees are, however, this was not the case in worker
-cooperatives.[^4] In the [US](United_States_of_America "wikilink"), home
+cooperatives.[^4] In the [US](United_States_of_America.md "wikilink"), home
 health aides in worker cooperatives were significantly more satisfied
 with their jobs than in other agencies.[^5]
 
@@ -68,12 +68,12 @@ with their jobs than in other agencies.[^5]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Psychology](Category:Psychology "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Psychology](Category:Psychology.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
 
-[^1]: [George Orwell](George_Orwell "wikilink") - [Homage to
-    Catalonia](Homage_to_Catalonia "wikilink")
+[^1]: [George Orwell](George_Orwell.md "wikilink") - [Homage to
+    Catalonia](Homage_to_Catalonia.md "wikilink")
 
 [^2]: Colin Turnbull - *The Forest People,*page 28
 

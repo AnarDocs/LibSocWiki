@@ -13,7 +13,7 @@ a main goal of many political systems.
 
 ## Forms of Violence
 
-- [Ecocide](Ecocide "wikilink")
+- [Ecocide](Ecocide.md "wikilink")
 
 ## Causes of Violence
 
@@ -27,8 +27,8 @@ a main goal of many political systems.
 ## See Also
 
 - [Encyclopedia of Peaceful
-  Societies](Encyclopedia_of_Peaceful_Societies "wikilink")
+  Societies](Encyclopedia_of_Peaceful_Societies.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

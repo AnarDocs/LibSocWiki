@@ -15,13 +15,13 @@ into infrastructure, vehicles and operations.
 Some have argued that a libertarian socialist society would not be able
 to coordinate the complex networks and services that make up a modern
 transportation system, Friedrich Engels argued in his essay *'[On
-Authority](On_Authority_(Book) "wikilink")*' who claimed that attempting
+Authority](On_Authority_(Book).md "wikilink")*' who claimed that attempting
 to institute anarchist control of railways and shipping would simply
 lead to their collapse and thus the downfall of modern civilisation. Do
 Engels’ claims stand up to the evidence? Let’s find out.
 
 In Revolutionary Spain, the
-[CNT](National_Confederation_of_Labour_(Spain) "wikilink") decided to
+[CNT](National_Confederation_of_Labour_(Spain).md "wikilink") decided to
 integrate and consolidate all transportation into an efficient system
 without waste. This improvement meant better facilities, rights of way,
 and incomparably better service for the riding public. Fares were
@@ -35,7 +35,7 @@ Revolution only 2% of supplies for maintenance and repairs were
 manufactured by the privately owned company. Under socialization, within
 only one year, 98% of the repair supplies were made in the socialized
 shops. The CNT also provided free [medical
-services](Healthcare "wikilink"), including clinics and home nursing
+services](Healthcare.md "wikilink"), including clinics and home nursing
 care, for the workers and their families.
 
 The railways across Catalonia were also significantly improved, they
@@ -49,9 +49,9 @@ oil) and tracking trains and communicating between drivers through
 telegraphs and telephones.[^1]
 
 In Sri Lanka from 1958 to 1979, self-management was introduced to the
-[Sri Lanka Transport Board](Sri_Lanka_Transport_Board "wikilink") in
+[Sri Lanka Transport Board](Sri_Lanka_Transport_Board.md "wikilink") in
 order to improve service, efficiency and morale. Construction material,
-fuel and vehicles were all [standardised](Standardisation "wikilink") to
+fuel and vehicles were all [standardised](Standardisation.md "wikilink") to
 ensure easier repairs and replacements, whilst morale among drivers and
 maintenance workers increased allowing for the smooth functioning of the
 world’s largest bus service (7,000 buses serving 4,000,000 commuters a
@@ -60,23 +60,23 @@ and few accidents.
 
 Upon the neoliberal reforms to the country in the late 1970s (in line
 with a global decline in [social
-democracy](Social_Democracy "wikilink")), self-management was abolished
-as a new class of [managers](Boss "wikilink") was introduced, destroying
+democracy](Social_Democracy.md "wikilink")), self-management was abolished
+as a new class of [managers](Boss.md "wikilink") was introduced, destroying
 morale and leading to more mistakes in the chain of command, leading to
 damage in buses. By the 2000s, the board had declined massively and gets
 a letter every day about overloaded buses, buses going too fast,
 dangerous driving, rude staff and high fees.[^2]
 
 The [Egged Israel Transport Cooperative Society
-Ltd](Egged_(Cooperative) "wikilink") or Egged, founded in 1933, provides
+Ltd](Egged_(Cooperative).md "wikilink") or Egged, founded in 1933, provides
 about 35% of Israel's public transport services, employs about 6,500
 workers and operates a fleet of 2,950 buses. Egged buses transport about
 900,000 passengers per day. Egged also operates some 1,500 buses in
-[Poland](Poland "wikilink"), where it operates some 215 buses for public
+[Poland](Poland.md "wikilink"), where it operates some 215 buses for public
 transportation and serves around 40 routes daily. Although run in a way
 that libertarian socialists advocate for, it is condemned by libertarian
 socialists, as Egged bus drivers have assisted the IDF by delivering
-supplies to soldiers in [Israel’s](Israel "wikilink") various colonial
+supplies to soldiers in [Israel’s](Israel.md "wikilink") various colonial
 wars.[^3]
 
 ## References
@@ -84,17 +84,17 @@ wars.[^3]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Transportation](Category:Transportation "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Transportation](Category:Transportation.md "wikilink")
 
 [^1]: [The Anarchist Collectives:Workers’ Self-Management in the Spanish
-    Revolution, 1936–1939](The_Anarchist_Collectives_(Book) "wikilink"),
+    Revolution, 1936–1939](The_Anarchist_Collectives_(Book).md "wikilink"),
     Collectivizations in Catalonia, published in 1974, and written by
-    [Augustin Souchy](Augustin_Souchy "wikilink")
+    [Augustin Souchy](Augustin_Souchy.md "wikilink")
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/History_of_Sri_Lanka_Transport_Board>
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Egged_(company)>

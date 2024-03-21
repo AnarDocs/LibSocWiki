@@ -3,11 +3,11 @@ title: Maus
 permalink: /Maus/
 ---
 
-**Maus** is a [postmodern](Postmodernism "wikilink") graphic novel by
-[Art Spiegelman](Art_Spiegelman "wikilink") that depicts himself
+**Maus** is a [postmodern](Postmodernism.md "wikilink") graphic novel by
+[Art Spiegelman](Art_Spiegelman.md "wikilink") that depicts himself
 interviewing his father in the late 1970s about his experiences as a
-Polish Jew and surviving the [Holocaust](Holocaust "wikilink") in
-[Auschwitz](Auschwitz "wikilink").
+Polish Jew and surviving the [Holocaust](Holocaust.md "wikilink") in
+[Auschwitz](Auschwitz.md "wikilink").
 
 ## Summary
 
@@ -33,7 +33,7 @@ Polish Jew and surviving the [Holocaust](Holocaust "wikilink") in
 
 ### Five/The Second Honeymoon
 
-[Category:Anti-Fascism](Category:Anti-Fascism "wikilink")
-[Category:Books](Category:Books "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Nazis](Category:Nazis "wikilink")
+[Category:Anti-Fascism](Category:Anti-Fascism.md "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Nazis](Category:Nazis.md "wikilink")

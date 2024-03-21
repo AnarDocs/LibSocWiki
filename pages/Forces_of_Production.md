@@ -4,8 +4,8 @@ permalink: /Forces_of_Production/
 ---
 
 **Forces of Production: A Social History of Industrial Automation** is a
-1984 [book](List_of_Libertarian_Socialist_Media "wikilink") by [David
-Noble](David_Noble "wikilink").
+1984 [book](List_of_Libertarian_Socialist_Media.md "wikilink") by [David
+Noble](David_Noble.md "wikilink").
 
 ## Summary
 
@@ -39,6 +39,6 @@ Noble](David_Noble "wikilink").
   Production](https://deterritorialinvestigations.files.wordpress.com/2015/03/david_f-_noble_david_f-_noble_forces_of_productbookza-org.pdf)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Books](Category:Books "wikilink")
-[Category:Technology](Category:Technology "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Books](Category:Books.md "wikilink")
+[Category:Technology](Category:Technology.md "wikilink")

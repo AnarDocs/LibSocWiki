@@ -4,9 +4,9 @@ permalink: /Louise_Michel/
 ---
 
 **Louise Michel** (1830 - 1905) was an
-[anarchist](Anarchism "wikilink"),
-[feminist](Anarcha-Feminism "wikilink"), schoolteacher, poet and
-important figure of the [Paris Commune](Paris_Commune "wikilink").
+[anarchist](Anarchism.md "wikilink"),
+[feminist](Anarcha-Feminism.md "wikilink"), schoolteacher, poet and
+important figure of the [Paris Commune](Paris_Commune.md "wikilink").
 
 ## Life
 
@@ -27,30 +27,30 @@ streets of Paris, she began to see more of the impoverished victims of
 Parisian society. During the Franco-Prussian War she was arrested for
 organising a volunteer militia to against the Prussians. Upon her
 release a few weeks later, she provided food and shelter and organised
-protests. During the [Paris Commune](Paris_Commune "wikilink"), she gave
+protests. During the [Paris Commune](Paris_Commune.md "wikilink"), she gave
 herself completely to the revolution, but the commune failed and she
 turned herself in to prevent her mother being executed. She was marched,
 along with other prisoners who were active in the commune, from
 Versailles to Satory. Along the way some were woken in the middle of the
 night, made dig their own graves and then shot. In total, there were
 about thirty thousand men, women and children executed. She was spared
-and deported to [New Caledonia](New_Caledonia "wikilink"), meeting
-[Natalie Lemel](Natalie_Lemel "wikilink") who introduced her to
+and deported to [New Caledonia](New_Caledonia.md "wikilink"), meeting
+[Natalie Lemel](Natalie_Lemel.md "wikilink") who introduced her to
 anarchism. She began to advocate for indigenous self-determination and
 revolution in New Caldeonia, and was granted amnesty in 1880 and
 returned to Paris.
 
-[Category:Anarchism](Category:Anarchism "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarcha-Feminism](Category:Anarcha-Feminism "wikilink")
-[Category:Anarcha-Feminists](Category:Anarcha-Feminists "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarcha-Feminism](Category:Anarcha-Feminism.md "wikilink")
+[Category:Anarcha-Feminists](Category:Anarcha-Feminists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:France](Category:France "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Paris
-Commune](Category:Paris_Commune "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:France](Category:France.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Paris
+Commune](Category:Paris_Commune.md "wikilink")

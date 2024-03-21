@@ -4,10 +4,10 @@ permalink: /Forerunners_of_Libertarian_Socialism/
 ---
 
 Numerous authors have speculated that [libertarian
-socialist](Libertarian_Socialism "wikilink") and anarchist thinking has
+socialist](Libertarian_Socialism.md "wikilink") and anarchist thinking has
 a number of forerunners throughout history - or people and movements who
 expressed similar ideas long before
-[Bakunin](Mikhail_Bakunin "wikilink") was born.
+[Bakunin](Mikhail_Bakunin.md "wikilink") was born.
 
 ## Examples of Forerunners
 
@@ -24,7 +24,7 @@ peasants in the fields and consulted with others before reaching a
 decision. They also believed in the abolition of economic inequality and
 communal ownership of land.[^1]
 
-[David Graeber](David_Graeber "wikilink") summaried the movement as
+[David Graeber](David_Graeber.md "wikilink") summaried the movement as
 believing that: "both merchants and government officials were both
 useless parasites, and attempted to create communities of equals where
 the only leadership would be by example, and the economy would be
@@ -44,14 +44,14 @@ colonialists.[^3]
 
 #### Quakers
 
-The Quakers are a [Christian](Christianity "wikilink") denomination that
+The Quakers are a [Christian](Christianity.md "wikilink") denomination that
 emerged out of Protestantism in the 1600s who have often been identified
 as being similar to libertarian socialism. They are famous for being
 consistently one of the most liberal and forward thinking sects of
 Christianity. Quakers tend to believe that all people are capable of
 finding god, and avoid building hierarchical structures. They have
 historically advocated against war, for the [abolition of
-slavery](Abolition_of_Slavery "wikilink"), against drinking alcohol and
+slavery](Abolition_of_Slavery.md "wikilink"), against drinking alcohol and
 for wearing plain clothes. Quakers are most famous historically in
 England and North America, but are located all over the world.[^4]
 

@@ -4,13 +4,13 @@ permalink: /Algeria/
 ---
 
 The **People's Democratic Republic of Algeria** is an
-[authoritarian](Authoritarianism "wikilink") and
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
-in North Africa, near [Spain](Spain "wikilink"),
-[Morocco](Morocco "wikilink"), [Western
-Sahara](Western_Sahara "wikilink"), [Mauritania](Mauritania "wikilink"),
-[Mali](Mali "wikilink"), [Niger](Niger "wikilink") and
-[Libya](Libya "wikilink").
+[authoritarian](Authoritarianism.md "wikilink") and
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
+in North Africa, near [Spain](Spain.md "wikilink"),
+[Morocco](Morocco.md "wikilink"), [Western
+Sahara](Western_Sahara.md "wikilink"), [Mauritania](Mauritania.md "wikilink"),
+[Mali](Mali.md "wikilink"), [Niger](Niger.md "wikilink") and
+[Libya](Libya.md "wikilink").
 
 ## History
 
@@ -19,9 +19,9 @@ Sahara](Western_Sahara "wikilink"), [Mauritania](Mauritania "wikilink"),
 From 1962 to 1989, Algeria was socialist.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Northern
-Africa](Category:Northern_Africa "wikilink")
-[Category:Algeria](Category:Algeria "wikilink")
-[Category:States](Category:States "wikilink") [Category:Authoritarian
-States](Category:Authoritarian_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Northern
+Africa](Category:Northern_Africa.md "wikilink")
+[Category:Algeria](Category:Algeria.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Authoritarian
+States](Category:Authoritarian_States.md "wikilink")

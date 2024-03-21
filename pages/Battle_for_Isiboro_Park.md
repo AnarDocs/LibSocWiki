@@ -4,11 +4,11 @@ permalink: /Battle_for_Isiboro_Park/
 ---
 
 The **Battle for Isiboro Park** was an
-[indigenous](Indigenism "wikilink") and
-[environmentalist](Environmentalism "wikilink") effort to stop the
+[indigenous](Indigenism.md "wikilink") and
+[environmentalist](Environmentalism.md "wikilink") effort to stop the
 construction of a massive highway through a national park in
-[2011](Timeline_of_Libertarian_Socialism_in_South_America "wikilink") in
-[Bolivia](Bolivia "wikilink").
+[2011](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink") in
+[Bolivia](Bolivia.md "wikilink").
 
 ## Background
 
@@ -44,21 +44,21 @@ After the massacre, the project was quickly called off.[^3]
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 [Category:Anti-Roads
-Campaigns](Category:Anti-Roads_Campaigns "wikilink")
-[Category:Bolivia](Category:Bolivia "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:Battles](Category:Battles "wikilink")
+Campaigns](Category:Anti-Roads_Campaigns.md "wikilink")
+[Category:Bolivia](Category:Bolivia.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:Battles](Category:Battles.md "wikilink")
 
 [^1]: [Global Nonviolent Action
-    Database](Global_Nonviolent_Action_Database "wikilink"): [Indigenous
+    Database](Global_Nonviolent_Action_Database.md "wikilink"): [Indigenous
     Bolivians challenge road through Isiboro Secure Park,
     2011](https://nvdatabase.swarthmore.edu/content/indigenous-bolivians-challenge-road-through-isiboro-secure-park-2011)
 

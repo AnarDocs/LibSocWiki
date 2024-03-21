@@ -13,6 +13,6 @@ often accused of being collaborators with Israel.[^1]
 ## Terrorism
 
 One major criticism of Palestine comes from [Palestinian
-Terrorism](Palestinian_Terrorism "wikilink").
+Terrorism](Palestinian_Terrorism.md "wikilink").
 
 [^1]: <http://www.glapn.org/sodomylaws/world/palestine/pseditorials001.htm>

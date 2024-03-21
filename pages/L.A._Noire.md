@@ -4,9 +4,9 @@ permalink: /L.A._Noire/
 ---
 
 **L.A. Noire** is a 2011 detective-themed action-adventure [video
-game](List_of_Video_Games "wikilink") set in Los Angeles,
-[USA](United_States_of_America "wikilink") during the late 1940s. It
-follows Cole Phelps, a [World War II](World_War_II "wikilink") veteran
+game](List_of_Video_Games.md "wikilink") set in Los Angeles,
+[USA](United_States_of_America.md "wikilink") during the late 1940s. It
+follows Cole Phelps, a [World War II](World_War_II.md "wikilink") veteran
 of the Okinawa Campaign, as he becomes a police officer and detective
 who progresses deeper and deeper into the seedy underbelly and enormous
 corruption of the city.
@@ -84,7 +84,7 @@ that the victim is still in Los Angeles, and arrests him for fraud.
 ### The Consul's Car
 
 The second case of the traffic desk, Cole investigates the theft and
-sabotage of a car belonging to the [Argentine](Argentina "wikilink")
+sabotage of a car belonging to the [Argentine](Argentina.md "wikilink")
 embassy, soon discovering that the car's owner, the Consul General, had
 been paying teenage boys to have sex with him. He soon discovers that
 one boy refused and knew about the car, leading Cole to investigate. He
@@ -159,7 +159,7 @@ a price which it is revealed was pressured by the 'Suburban
 Redevelopment Fund' using fraud. The fires were discovered to be caused
 by faulty heaters, the man who worked on said heaters admits to being
 paid by the company for doing it, but another suspect is an [anarchist
-and communist](Anarcho-Communism "wikilink") who hates the heater
+and communist](Anarcho-Communism.md "wikilink") who hates the heater
 company, either can be arrested for the crime.
 
 ### A Walk in Elysian Fields
@@ -218,5 +218,5 @@ a metalplating factory and that there are signs of corporate espionage.
 ###
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Video
-Games](Category:Video_Games "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Video
+Games](Category:Video_Games.md "wikilink")

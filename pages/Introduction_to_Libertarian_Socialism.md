@@ -3,12 +3,12 @@ title: Introduction to Libertarian Socialism
 permalink: /Introduction_to_Libertarian_Socialism/
 ---
 
-[Libertarian Socialism](Libertarian_Socialism "wikilink") is a political
+[Libertarian Socialism](Libertarian_Socialism.md "wikilink") is a political
 philosophy (a fancy way of saying 'plan to run society') that is the
 main focus of this wiki. It first emerged in 19th century Europe as
-split from the [socialist](Socialism "wikilink") movement arguing that
+split from the [socialist](Socialism.md "wikilink") movement arguing that
 the [usual socialist comfort with
-authoritarianism](Authoritarian_Socialism "wikilink") would lead to
+authoritarianism](Authoritarian_Socialism.md "wikilink") would lead to
 disastrous results. Libertarian socialists began to argue that a
 decentralised and democratic system of self-governing communities was
 the best way to rid the world of capitalisms problems like pollution,
@@ -17,43 +17,43 @@ poverty and alienation.
 ## Main Principles of Libertarian Socialism
 
 - Allowing people to control institutions relevant to them (ie their
-  neighbourhood, [school](Democratic_Education "wikilink") or
-  [workplace](Workers'_Self-Management "wikilink")) via [democratic
-  assemblies](Democratic_Assembly "wikilink") and
-  [confederations](Confederation "wikilink").
-- Focus on [restorative](Restorative_Justice "wikilink") and
-  [transformative justice](Transformative_Justice "wikilink").
+  neighbourhood, [school](Democratic_Education.md "wikilink") or
+  [workplace](Workers'_Self-Management.md "wikilink")) via [democratic
+  assemblies](Democratic_Assembly.md "wikilink") and
+  [confederations](Confederation.md "wikilink").
+- Focus on [restorative](Restorative_Justice.md "wikilink") and
+  [transformative justice](Transformative_Justice.md "wikilink").
 - Creation of a culture emphasizing individuality, happiness,
   cooperation and social justice.
 
 ## Key Concepts
 
-*Main Page: [Concepts](Concepts "wikilink")*
+*Main Page: [Concepts](Concepts.md "wikilink")*
 
-- [Democratic Assembly](Democratic_Assembly "wikilink")
-- [Confederation](Confederation "wikilink")
-- [Commons](Commons "wikilink")
-- [Workers' Self-Management](Workers'_Self-Management "wikilink")
-- [Democratic Education](Democratic_Education "wikilink")
-- [Cooperative](Cooperative "wikilink")
+- [Democratic Assembly](Democratic_Assembly.md "wikilink")
+- [Confederation](Confederation.md "wikilink")
+- [Commons](Commons.md "wikilink")
+- [Workers' Self-Management](Workers'_Self-Management.md "wikilink")
+- [Democratic Education](Democratic_Education.md "wikilink")
+- [Cooperative](Cooperative.md "wikilink")
 
 ## History
 
 *Main Article: [History of Libertarian
-Socialism](History_of_Libertarian_Socialism "wikilink")*
+Socialism](History_of_Libertarian_Socialism.md "wikilink")*
 
 It's been argued that libertarian socialism was the method of managing
 numerous ancient civilisations and emerged as a movement in early
-[Christianity](Christianity "wikilink") (and the many heretics of the
-middle ages) [guilds](guilds "wikilink"), [maroon
-communities](Maroons "wikilink"), [cooperatives](Cooperative "wikilink")
+[Christianity](Christianity.md "wikilink") (and the many heretics of the
+middle ages) [guilds](guilds.md "wikilink"), [maroon
+communities](Maroons.md "wikilink"), [cooperatives](Cooperative.md "wikilink")
 and rebellious towns. But it became a self-aware, global philosophy in
 the 1800s, beginning in Western Europe and influencing [several
 historical
-revolutions](List_of_Libertarian_Socialist_Revolutions "wikilink") and
+revolutions](List_of_Libertarian_Socialist_Revolutions.md "wikilink") and
 becoming a guide to [several new
-societies](List_of_Libertarian_Socialist_Societies "wikilink") and new
-[organisations](List_of_Libertarian_Socialist_Organizations "wikilink").
+societies](List_of_Libertarian_Socialist_Societies.md "wikilink") and new
+[organisations](List_of_Libertarian_Socialist_Organizations.md "wikilink").
 
 ## FAQ
 
@@ -88,7 +88,7 @@ a whole other question, and hopefully someone else will answer it,
 because I'm a lazy socialist and want to go eat my fruity pebbles.
 
 - [Why are you against the
-  system?](Why_are_you_against_the_system? "wikilink")
+  system?](Why_are_you_against_the_system?.md "wikilink")
 - How would diplomacy work?
 - How would defense work?
 - How would crime be stopped?
@@ -98,7 +98,7 @@ because I'm a lazy socialist and want to go eat my fruity pebbles.
 - How would regulations work?
 - How would education work?
 - How would healthcare work?
-- [How would housing work?](How_would_housing_work? "wikilink")
+- [How would housing work?](How_would_housing_work?.md "wikilink")
 - How would utilities work?
 - How would transportation work?
 - How would disaster response work?
@@ -107,6 +107,6 @@ because I'm a lazy socialist and want to go eat my fruity pebbles.
 - How would culture change?
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")

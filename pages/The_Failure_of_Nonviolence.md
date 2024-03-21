@@ -4,9 +4,9 @@ permalink: /The_Failure_of_Nonviolence/
 ---
 
 **The Failure of Nonviolence** is a 2015
-[book](List_of_Libertarian_Socialist_Media "wikilink") written by [Peter
-Gelderloos](Peter_Gelderloos "wikilink") which heavily criticizes
-[Pacifism](Pacifism "wikilink").
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") written by [Peter
+Gelderloos](Peter_Gelderloos.md "wikilink") which heavily criticizes
+[Pacifism](Pacifism.md "wikilink").
 
 ## Summary
 
@@ -17,80 +17,80 @@ revolutions) from 1990 - 2014 and are examined, these events followed a
 mix of pacifist and non-pacifist strategies, and are compared for
 successfulness. Those evaluated include:
 
-- [Oka Uprising](Oka_Uprising "wikilink") - non-pacifist and successful
-- [Zapatista Revolution](Zapatista_Revolution "wikilink") - non-pacifist
+- [Oka Uprising](Oka_Uprising.md "wikilink") - non-pacifist and successful
+- [Zapatista Revolution](Zapatista_Revolution.md "wikilink") - non-pacifist
   and successful
-- [Indonesian Uprising](Indonesian_Uprising_(1998) "wikilink") -
+- [Indonesian Uprising](Indonesian_Uprising_(1998).md "wikilink") -
   non-pacifist and semi-successful
-- [Second Intifada](Second_Intifada "wikilink") - non-pacifist and
+- [Second Intifada](Second_Intifada.md "wikilink") - non-pacifist and
   unsuccessful
-- [Black Spring](Black_Spring_(Algeria) "wikilink") - non-pacifist and
+- [Black Spring](Black_Spring_(Algeria).md "wikilink") - non-pacifist and
   successful
-- [Argentinazo](Argentinazo "wikilink") - non-pacifist and
+- [Argentinazo](Argentinazo.md "wikilink") - non-pacifist and
   semi-successful
-- [Iraq War Protests](Iraq_War_Protests "wikilink") - pacifist and
+- [Iraq War Protests](Iraq_War_Protests.md "wikilink") - pacifist and
   unsuccessful
-- [Color Revolutions](Color_Revolutions "wikilink") - pacifist and
+- [Color Revolutions](Color_Revolutions.md "wikilink") - pacifist and
   semi-successful
-- [Blue](Blue_Revolution_(Kuwait) "wikilink") and [Cedar
-  Revolution](Cedar_Revolution_(Lebanon) "wikilink") - pacifist and
+- [Blue](Blue_Revolution_(Kuwait).md "wikilink") and [Cedar
+  Revolution](Cedar_Revolution_(Lebanon).md "wikilink") - pacifist and
   semi-successful
-- [Banlieue Uprisings](Banlieue_Uprisings_(2005) "wikilink") -
+- [Banlieue Uprisings](Banlieue_Uprisings_(2005).md "wikilink") -
   non-pacifist and unsuccessful
-- [Bolivian Water](Water_War_(Bolivia) "wikilink") and [Gas
-  War](Gas_War_(Bolivia) "wikilink") - non-pacifist and successful
-- [Tulip Revolution](Tulip_Revolution "wikilink") - pacifist and
+- [Bolivian Water](Water_War_(Bolivia).md "wikilink") and [Gas
+  War](Gas_War_(Bolivia).md "wikilink") - non-pacifist and successful
+- [Tulip Revolution](Tulip_Revolution.md "wikilink") - pacifist and
   unsuccessful
-- [Oaxaca Revolution](Oaxaca_Revolution "wikilink") - non-pacifist and
+- [Oaxaca Revolution](Oaxaca_Revolution.md "wikilink") - non-pacifist and
   unsuccessful
-- [CPE Protests](CPE_Protests_(2006) "wikilink") - non-pacifist and
+- [CPE Protests](CPE_Protests_(2006).md "wikilink") - non-pacifist and
   successful
-- [Saffron Revolution](Saffron_Revolution "wikilink") - pacifist and
+- [Saffron Revolution](Saffron_Revolution.md "wikilink") - pacifist and
   unsuccessful
-- [Greek Uprising](Greek_Uprising_(2008) "wikilink") - non-pacifist and
+- [Greek Uprising](Greek_Uprising_(2008).md "wikilink") - non-pacifist and
   semi-successful
-- [Bersih Rallies](Bersih_Rallies "wikilink") - pacifist and
+- [Bersih Rallies](Bersih_Rallies.md "wikilink") - pacifist and
   unsuccessful
-- [Guadeloupe Uprising](Guadeloupe_Uprising "wikilink") - non-pacifist
+- [Guadeloupe Uprising](Guadeloupe_Uprising.md "wikilink") - non-pacifist
   and successful
-- [UK Student Uprising](UK_Student_Uprising_(2010) "wikilink") -
+- [UK Student Uprising](UK_Student_Uprising_(2010).md "wikilink") -
   non-pacifist and semi-successful
-- [Tunisian Revolution](Tunisian_Revolution "wikilink") - non-pacifist
+- [Tunisian Revolution](Tunisian_Revolution.md "wikilink") - non-pacifist
   and semi-successful
-- [Egyptian Revolution](Egyptian_Revolution_(2011) "wikilink") -
+- [Egyptian Revolution](Egyptian_Revolution_(2011).md "wikilink") -
   non-pacifist and semi-successful
-- [Libyan Revolution](Libyan_Civil_War "wikilink") - non-pacifist and
+- [Libyan Revolution](Libyan_Civil_War.md "wikilink") - non-pacifist and
   unsuccessful
-- [Syrian Revolution](Syrian_Revolution "wikilink") - non-pacifist and
+- [Syrian Revolution](Syrian_Revolution.md "wikilink") - non-pacifist and
   unsuccessful
-- [15M Movement](15M_Movement "wikilink") - non-pacifist and
+- [15M Movement](15M_Movement.md "wikilink") - non-pacifist and
   semi-successful
-- [UK Anti-Austerity Movement](UK_Anti-Austerity_Movement "wikilink") -
+- [UK Anti-Austerity Movement](UK_Anti-Austerity_Movement.md "wikilink") -
   pacifist and unsuccessful
-- [English Riots](English_Riots_(2011) "wikilink") - non-pacifist and
+- [English Riots](English_Riots_(2011).md "wikilink") - non-pacifist and
   unsuccessful
-- [Occupy Movement](Occupy_Movement "wikilink") - pacifist and
+- [Occupy Movement](Occupy_Movement.md "wikilink") - pacifist and
   unsuccessful
-- [Chilean Winter](Chilean_Winter "wikilink") - non-pacifist and
+- [Chilean Winter](Chilean_Winter.md "wikilink") - non-pacifist and
   unsuccessful
-- [Quebec Student Uprising](Quebec_Student_Uprising_(2012) "wikilink") -
+- [Quebec Student Uprising](Quebec_Student_Uprising_(2012).md "wikilink") -
   non-pacifist and successful
-- [Gezi Park Uprising](Gezi_Park_Uprising "wikilink") - non-pacifist and
+- [Gezi Park Uprising](Gezi_Park_Uprising.md "wikilink") - non-pacifist and
   successful
-- [Passo Livre Uprising](Passo_Livre_Uprising "wikilink") - non-pacifist
+- [Passo Livre Uprising](Passo_Livre_Uprising.md "wikilink") - non-pacifist
   and semi-successful
-- [Gamonal Uprising](Gamonal_Uprising "wikilink") - non-pacifist and
+- [Gamonal Uprising](Gamonal_Uprising.md "wikilink") - non-pacifist and
   successful
-- [Can Vies Uprising](Can_Vies_Uprising "wikilink") - non-pacifist and
+- [Can Vies Uprising](Can_Vies_Uprising.md "wikilink") - non-pacifist and
   successful
-- [Rojava Revolution](Rojava_Revolution "wikilink") - non-pacifist and
+- [Rojava Revolution](Rojava_Revolution.md "wikilink") - non-pacifist and
   successful
-- [Ferguson Uprising](Ferguson_Uprising_(2014) "wikilink") -
+- [Ferguson Uprising](Ferguson_Uprising_(2014).md "wikilink") -
   non-pacifist and unsuccessful
 - [Hong Kong Democracy
-  Protests](Hong_Kong_Democracy_Protests "wikilink") - pacifist and
+  Protests](Hong_Kong_Democracy_Protests.md "wikilink") - pacifist and
   unsuccessful
-- [Mapuche Uprising](Mapuche_Uprising "wikilink") - non-pacifist and
+- [Mapuche Uprising](Mapuche_Uprising.md "wikilink") - non-pacifist and
   semi-successful
 
 From an analysis of these 38 different uprisings, four conclusions were
@@ -101,7 +101,7 @@ drawn.
     put new social relations into practice, whether through practices of
     self-organization, collective self-defense, the reanimation of
     indigenous ways of life, or collectivization and
-    [communization](communization "wikilink") (ending the alienation of
+    [communization](communization.md "wikilink") (ending the alienation of
     capitalist property, which dictates that everything an be bought and
     sold, and putting our resources in common in a spirit of mutual aid
     rather than profit).
@@ -128,6 +128,6 @@ drawn.
   1-4)](https://theanarchistlibrary.org/library/peter-gelderloos-the-failure-of-nonviolence)
   at theanarchistlibrary
 
-[Category:Peter Gelderloos](Category:Peter_Gelderloos "wikilink")
-[Category:Pacifism](Category:Pacifism "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Peter Gelderloos](Category:Peter_Gelderloos.md "wikilink")
+[Category:Pacifism](Category:Pacifism.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

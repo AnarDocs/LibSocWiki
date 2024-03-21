@@ -4,10 +4,10 @@ permalink: /Stroessner_Regime/
 ---
 
 The **Stroessner Regime** was a military dictatorship, [sponsored by the
-US](Timeline_of_US_Imperialism "wikilink") that ruled
-[Paraguay](Paraguay "wikilink") from 1954 until its downfall in
-[1989](Revolutions_of_1986_-_1992 "wikilink"). It was led by the
-dictator [Alfredo Stroessner](Alfredo_Stroessner "wikilink").
+US](Timeline_of_US_Imperialism.md "wikilink") that ruled
+[Paraguay](Paraguay.md "wikilink") from 1954 until its downfall in
+[1989](Revolutions_of_1986_-_1992.md "wikilink"). It was led by the
+dictator [Alfredo Stroessner](Alfredo_Stroessner.md "wikilink").
 
 ## HistoDapsownfalle
 
@@ -48,7 +48,7 @@ Foreign press often referred to his government as the "poor man's Nazi
 regime".
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Dictatorships](Category:Dictatorships "wikilink")
-[Category:South America](Category:South_America "wikilink")
-[Category:Paraguay](Category:Paraguay "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Dictatorships](Category:Dictatorships.md "wikilink")
+[Category:South America](Category:South_America.md "wikilink")
+[Category:Paraguay](Category:Paraguay.md "wikilink")

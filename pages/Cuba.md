@@ -4,13 +4,13 @@ permalink: /Cuba/
 ---
 
 The **Socialist Republic of Cuba** is an [authoritarian
-socialist](Authoritarian_Socialism "wikilink")
-[state](List_of_States "wikilink") in the Caribbean, near the
-[USA](United_States_of_America "wikilink"),
-[Jamaica](Jamaica "wikilink"), [Haiti](Haiti "wikilink") and [The
-Bahamas](The_Bahamas "wikilink"). It is considered the last
-[Marxist-Leninist](Marxist-Leninism "wikilink") (commonly called
-[communist](Communism "wikilink")) government in the world.
+socialist](Authoritarian_Socialism.md "wikilink")
+[state](List_of_States.md "wikilink") in the Caribbean, near the
+[USA](United_States_of_America.md "wikilink"),
+[Jamaica](Jamaica.md "wikilink"), [Haiti](Haiti.md "wikilink") and [The
+Bahamas](The_Bahamas.md "wikilink"). It is considered the last
+[Marxist-Leninist](Marxist-Leninism.md "wikilink") (commonly called
+[communist](Communism.md "wikilink")) government in the world.
 
 ## Debates on the Left
 
@@ -26,9 +26,9 @@ a mix of both.
 
 - Cuba has a highly effective healthcare system. Cuba's life expectancy
   is 78.3 years, the 5th highest in the Americas behind
-  [Canada](Canada "wikilink"), [Chile](Chile "wikilink"), [Costa
-  Rica](Costa_Rica "wikilink") and the [United
-  States](United_States_of_America "wikilink"). Cuba ranks 30th on the
+  [Canada](Canada.md "wikilink"), [Chile](Chile.md "wikilink"), [Costa
+  Rica](Costa_Rica.md "wikilink") and the [United
+  States](United_States_of_America.md "wikilink"). Cuba ranks 30th on the
   2019 Bloomberg Healthiest Country Index, which is the only developing
   country to rank that high.[^1] Cuba has the highest doctor-to-patient
   ratio of any country in the world. As of September 2014, there are
@@ -37,7 +37,7 @@ a mix of both.
   epidemic in West Africa.[^2] In 2015, Cuba became the first country to
   eradicate mother-to-child transmission of HIV and syphilis, a
   milestone hailed by the [World Health
-  Organization](World_Health_Organization "wikilink") as "one of the
+  Organization](World_Health_Organization.md "wikilink") as "one of the
   greatest public health achievements possible".[^3]
 - Cuba has an excellent Cuba's literacy rate is 99.8%, compared to 76%
   in 1957.
@@ -46,7 +46,7 @@ a mix of both.
   through foreign literacy programs.
 - Cuba has some of the best environmental protection systems in the
   world.
-- Cuba has helped developed the [organipicos](organipicos "wikilink")
+- Cuba has helped developed the [organipicos](organipicos.md "wikilink")
   system.
 
 ### Objective Negatives of Cuba
@@ -58,20 +58,20 @@ a mix of both.
 
 ## Major Social Struggles
 
-- 1994: [Maleconazo](Maleconazo_(1994) "wikilink")
+- 1994: [Maleconazo](Maleconazo_(1994).md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Cuba](Category:Cuba "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
-[Category:Socialist States](Category:Socialist_States "wikilink")
-[Category:States](Category:States "wikilink") [Category:Authortarian
-States](Category:Authortarian_States "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Cuba](Category:Cuba.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")
+[Category:Socialist States](Category:Socialist_States.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Authortarian
+States](Category:Authortarian_States.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink")
 
 [^1]: <https://www.bloomberg.com/news/articles/2019-02-24/spain-tops-italy-as-world-s-healthiest-nation-while-u-s-slips>
 

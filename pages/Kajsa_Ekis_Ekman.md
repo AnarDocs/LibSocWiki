@@ -6,19 +6,19 @@ permalink: /Kajsa_Ekis_Ekman/
 ![](250px-Kajsa_Ekis_Ekman_(cropped).jpg "250px-Kajsa_Ekis_Ekman_(cropped).jpg")
 **Anna Kajsa** **Helena Langemar "Ekis" Ekman Makboul** (born 25th of
 July 1980) is a journalist and author specializing in
-[anti-capitalism](Capitalism#Anti-Capitalism "wikilink"), the financial
-crisis, [women's rights](Feminism "wikilink"), [workplace
-democracy](Workers'_Self-Management "wikilink"),
-[christianity](christianity "wikilink") and [human
-trafficking](Slavery "wikilink").
+[anti-capitalism](Capitalism#Anti-Capitalism.md "wikilink"), the financial
+crisis, [women's rights](Feminism.md "wikilink"), [workplace
+democracy](Workers'_Self-Management.md "wikilink"),
+[christianity](christianity.md "wikilink") and [human
+trafficking](Slavery.md "wikilink").
 
 ## Life
 
-Kasja was born in Stockholm, [Sweden](Sweden "wikilink") in 1980. She
+Kasja was born in Stockholm, [Sweden](Sweden.md "wikilink") in 1980. She
 has become an accomplished investigative journalist, writing for the
 Guardian and other media outlets. She has also published several books
 detailing the effects of human trafficking and sex work. In 2015, she
-was arrested by the [Israeli](Israel "wikilink") miltiary during a
+was arrested by the [Israeli](Israel.md "wikilink") miltiary during a
 pro-Gaza protest in Israel.[^1]
 
 ## Ideas
@@ -35,17 +35,17 @@ pro-Gaza protest in Israel.[^1]
 
 <references />
 
-[Category:Feminists](Category:Feminists "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Sweden](Category:Sweden "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Scandanavia](Category:Scandanavia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Sweden](Category:Sweden.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Scandanavia](Category:Scandanavia.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") (In Swedish)
+[^1]: [Wikipedia](Wikipedia.md "wikilink") (In Swedish)
     <https://sv.wikipedia.org/wiki/Kajsa_Ekis_Ekman>

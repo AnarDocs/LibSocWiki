@@ -4,16 +4,16 @@ permalink: /Ours_to_Master_and_to_Own:_Workers'_Control_from_the_Commune_to_the_
 ---
 
 **Ours to Master and to Own: Workers' Control from the Commune to the
-Present** is a [book](List_of_Libertarian_Socialist_Media "wikilink") by
-[Immanuel Ness](Immanuel_Ness "wikilink") and [Dario
-Azzellini](Dario_Azzellini "wikilink") (with contributions from other
+Present** is a [book](List_of_Libertarian_Socialist_Media.md "wikilink") by
+[Immanuel Ness](Immanuel_Ness.md "wikilink") and [Dario
+Azzellini](Dario_Azzellini.md "wikilink") (with contributions from other
 authors) outlining a brief history of episodes of [workers'
-control](Workers'_Self-Management "wikilink") and discussing various
+control](Workers'_Self-Management.md "wikilink") and discussing various
 philosophical questions around it. It covers episodes of workers'
-control in Russia, [Spain](Spain "wikilink"), Italy, Chile, France,
+control in Russia, [Spain](Spain.md "wikilink"), Italy, Chile, France,
 Scotland, Germany, Yugoslavia, Poland, Indonesia, Algeria, Argentina,
-Portugal, [Britain](United_Kingdom "wikilink"),
-[USA](United_States_of_America "wikilink"), [Canada](Canada "wikilink"),
+Portugal, [Britain](United_Kingdom.md "wikilink"),
+[USA](United_States_of_America.md "wikilink"), [Canada](Canada.md "wikilink"),
 India, Venezuela and Brazil.
 
 ## Summary
@@ -48,27 +48,27 @@ India, Venezuela and Brazil.
 
 #### Workers’ Control in Java, Indonesia, 1945–1946
 
-Written by [Jafar Suryomenggolo.](Jafar_Suryomenggolo "wikilink") During
+Written by [Jafar Suryomenggolo.](Jafar_Suryomenggolo.md "wikilink") During
 the [Indonesian National
-Revolution](Indonesian_National_Revolution#Workers'_Self-Management "wikilink")
-and [World War II](World_War_II "wikilink"), workers on the island of
-[Java](Republic_of_Indonesia "wikilink") seized control of factories,
-railroads and plantations from [managers](Boss "wikilink") in the
+Revolution](Indonesian_National_Revolution#Workers'_Self-Management.md "wikilink")
+and [World War II](World_War_II.md "wikilink"), workers on the island of
+[Java](Republic_of_Indonesia.md "wikilink") seized control of factories,
+railroads and plantations from [managers](Boss.md "wikilink") in the
 Japanese, Dutch and Indonesian states as part of resistance against the
-brutality of [colonialism](colonialism "wikilink"). They produced
+brutality of [colonialism](colonialism.md "wikilink"). They produced
 resources and provided transportation for
-[anti-colonial](Anti-Colonialism "wikilink") forces and improved working
+[anti-colonial](Anti-Colonialism.md "wikilink") forces and improved working
 conditions rapidly under a regime of self-management/dikelola sendiri.
 Despite this, the 'revolutionary' state soon betrayed the workers by
-[nationalizing](Nationalization "wikilink") industry and imposing a new
-class of [managers](Boss "wikilink"), workers who supported
+[nationalizing](Nationalization.md "wikilink") industry and imposing a new
+class of [managers](Boss.md "wikilink"), workers who supported
 self-management were dismissed as
-[anarcho-syndicalists](Anarcho-Syndicalism "wikilink").
+[anarcho-syndicalists](Anarcho-Syndicalism.md "wikilink").
 
 #### From Workers’ Self-Management to State Bureaucratic Control: Autogestion in Algeria
 
-Written by [Samuel J. Southgate](Samuel_J._Southgate "wikilink"). During
-the [Algerian Revolution](Algerian_Revolution "wikilink"), over 25,000
+Written by [Samuel J. Southgate](Samuel_J._Southgate.md "wikilink"). During
+the [Algerian Revolution](Algerian_Revolution.md "wikilink"), over 25,000
 enterprises were taken over and run by their workers between 1962 and
 1967 in the largest experiment in workers' self-management in human
 history. The state was initially enthusiastic about these developments,
@@ -77,19 +77,19 @@ to support anti-colonial sentiments within the new state. The state soon
 nationalized industry and changed the function of workers' councils,
 installing their own bureaucrats to assist in production, and soon a new
 wave of petty-tyrants and corruption hit the councils. Later, many firms
-were [privatized](Privatization "wikilink") to newly formed
-[corporations](Corporation "wikilink"), completely destroying workers'
+were [privatized](Privatization.md "wikilink") to newly formed
+[corporations](Corporation.md "wikilink"), completely destroying workers'
 control in the region.
 
 #### The Limits and Possibilities of Workers’ Control within the State: Mendoza, Argentina, 1973
 
-Written by [Gabriel Scodeller](Gabriel_Scodeller "wikilink"). Argentina
+Written by [Gabriel Scodeller](Gabriel_Scodeller.md "wikilink"). Argentina
 had been rocked by a string of US-backed military dictators since 1955,
 but the country became a [representative
-democracy](Representative_Democracy "wikilink") in 1973, triggering a
+democracy](Representative_Democracy.md "wikilink") in 1973, triggering a
 wave of workplace occupations to create workers' self-management and
-Peronism (a mixture of [social democracy](Social_Democracy "wikilink")
-and [nationalism](nationalism "wikilink") unique to Argentina). This
+Peronism (a mixture of [social democracy](Social_Democracy.md "wikilink")
+and [nationalism](nationalism.md "wikilink") unique to Argentina). This
 movement split into right-wing and left-wing factions, each favouring a
 different nationalist or socialist vision of the future. Over 500
 workplaces occupations were taken out, mainly in June which saw 350,
@@ -97,11 +97,11 @@ mainly in the public service sector. Each side carried out takeovers
 with escalating intensity in order to try and establish as much support
 among the population as possible. The occupations were destroyed by a
 new military dictatorship and crumbled under their own internal
-[contradictions](Contradiction_(Sociology) "wikilink"), such as the lack
-of [class consciousness](Class_Consciousness "wikilink"), desire to
-[work with](Reformism "wikilink") the [state](State_(Polity) "wikilink")
+[contradictions](Contradiction_(Sociology).md "wikilink"), such as the lack
+of [class consciousness](Class_Consciousness.md "wikilink"), desire to
+[work with](Reformism.md "wikilink") the [state](State_(Polity).md "wikilink")
 and failure to recognise the threat of
-[counter-revolution](Counter-Revolution "wikilink").
+[counter-revolution](Counter-Revolution.md "wikilink").
 
 #### Workers’ Councils in Portugal, 1974–1975 - Peter Robinson
 
@@ -111,21 +111,21 @@ and failure to recognise the threat of
 
 #### Workers’ Direct Action and Factory Control in the United States
 
-Written by [Immanuel Ness](Immanuel_Ness "wikilink"). Given that the USA
+Written by [Immanuel Ness](Immanuel_Ness.md "wikilink"). Given that the USA
 is the closest thing the world has to a capitalist paradise and the
 power of trade unions is often heavily restricted, workers will often
-resort to various [wildcat](Wildcat_Strike "wikilink") and spontaneous
+resort to various [wildcat](Wildcat_Strike.md "wikilink") and spontaneous
 actions in order to secure a great amount of workers rights. Beginning
-with the [Toledo Strike](1934_Toledo_Strike "wikilink") in 1934, where
+with the [Toledo Strike](1934_Toledo_Strike.md "wikilink") in 1934, where
 10,000 workers battled police who fired gas grenades and bullets into
 the crowd. Workers began a wave of insurgencies throughout the 1930s,
 sit-down strikes became common at places like tire and car factories.
 The highly successful [Flint sit-down
-strike](1936_Flint_Sit-Down_Strike "wikilink") in 1936 led to 400,000
+strike](1936_Flint_Sit-Down_Strike.md "wikilink") in 1936 led to 400,000
 workers participating in 477 sit-down strikes throughout the 1930s, and
 between 1936 and 1939, workers occupied 583 workplaces. The US labor
 movement became extremely passive following [World War
-II](World_War_II "wikilink") by a combination of union-boss
+II](World_War_II.md "wikilink") by a combination of union-boss
 collaboration, anti-communist fears, state repression, a large middle
 class and the threat of offshoring jobs. However, beginning in the
 2000s, a new wave of worker insurgency has begun, with the Delphi
@@ -133,27 +133,27 @@ Factory insurgency in 2005 and the Republic of Windows takeover in 2008.
 
 #### “Hot Autumn”: Italy’s Factory Councils and Autonomous Workers’ Assemblies, 1970s
 
-Written by [Patrick Cuninghame](Patrick_Cuninghame "wikilink").
+Written by [Patrick Cuninghame](Patrick_Cuninghame.md "wikilink").
 Following the [1969 "Hot Autumn" Strike
-Wave](1969_Italian_Hot_Autumn "wikilink"), traditional [trade
-unions](Trade_Union "wikilink") in Italy had lost most of their power
-(giving rise to the [workerist](Workerism "wikilink") and
-[autonomist](Autonomism "wikilink") movements). Inspired by autonomists,
+Wave](1969_Italian_Hot_Autumn.md "wikilink"), traditional [trade
+unions](Trade_Union.md "wikilink") in Italy had lost most of their power
+(giving rise to the [workerist](Workerism.md "wikilink") and
+[autonomist](Autonomism.md "wikilink") movements). Inspired by autonomists,
 workers carried out the largest wave of unrest since the [Bienno
-Rosso](Bienno_Rosso "wikilink") in 1919 and 1920. Rent, bill and
+Rosso](Bienno_Rosso.md "wikilink") in 1919 and 1920. Rent, bill and
 workplace strikes were organized to increase worker control of [surplus
-value](Surplus_Value "wikilink") and to place extreme strain on
-[capitalism](capitalism "wikilink") itself. Efforts to tame the unrest
+value](Surplus_Value.md "wikilink") and to place extreme strain on
+[capitalism](capitalism.md "wikilink") itself. Efforts to tame the unrest
 via increased welfare measures and recognition of partial [workers'
-councils](Workers'_Council "wikilink") failed. However, a combination of
-fear brought on by the [Years of Lead](Years_of_Lead_(Italy) "wikilink")
+councils](Workers'_Council.md "wikilink") failed. However, a combination of
+fear brought on by the [Years of Lead](Years_of_Lead_(Italy).md "wikilink")
 caused people to retreat into private life, as well as the beginning of
-[offshoring](offshoring "wikilink") of [factories](Factory "wikilink")
+[offshoring](offshoring.md "wikilink") of [factories](Factory.md "wikilink")
 and aggressive state repression of the movement. However, the surviving
 influence of Autonomism is still a big influence within Italian trade
-unions (notably [COBAS](COBAS "wikilink")),
-[squatting](squatting "wikilink") and the [Global Justice
-Movement](Global_Justice_Movement "wikilink").
+unions (notably [COBAS](COBAS.md "wikilink")),
+[squatting](squatting.md "wikilink") and the [Global Justice
+Movement](Global_Justice_Movement.md "wikilink").
 
 #### Recipe for Anarchy: British Columbia’s Telephone Workers’ Occupation of 1981 - Elaine Bernard
 
@@ -161,12 +161,12 @@ Movement](Global_Justice_Movement "wikilink").
 
 #### Workers’ Control in India’s Communist-Ruled State: Labor Struggles and Trade Unions in West Bengal
 
-Written by [Arup Kumar Sen](Arup_Kumar_Sen "wikilink"). India's brutal
-poverty, [gender inequality](Patriarchy "wikilink") and exploitation by
+Written by [Arup Kumar Sen](Arup_Kumar_Sen.md "wikilink"). India's brutal
+poverty, [gender inequality](Patriarchy.md "wikilink") and exploitation by
 foreign companies has been challenged on numerous occasions. In 1973,
 the Sangoan Tea and Allied Plantation Workers Co-operative was nearly
 shut down, and workers took it over as a [worker
-co-operative](Worker_Co-operative "wikilink") in 1974, running it
+co-operative](Worker_Co-operative.md "wikilink") in 1974, running it
 successfully for the next three years until it was shut down by a court
 order from the previous owners. In Kolkata in the late 1980s, over
 twenty worker co-operatives were opened from bankrupt enterprises.
@@ -176,8 +176,8 @@ accusations of crime and corruption.
 
 #### Argentinean Worker-Taken Factories: Trajectories of Workers’ Control under the Economic Crisis
 
-Written by [Marina Kabat](Marina_Kabat "wikilink"). Following the
-[Argentinazo](Argentinazo "wikilink") in 2001 and the seizure of
+Written by [Marina Kabat](Marina_Kabat.md "wikilink"). Following the
+[Argentinazo](Argentinazo.md "wikilink") in 2001 and the seizure of
 hundreds of workplaces to be run as self-managed firms, many of these
 enterprises struggled to survive throughout the 2000s. This was because
 people who took over bankrupted enterprises would assume the debts of
@@ -199,11 +199,11 @@ superiority of workers' self-management.
   <https://libcom.org/files/Ours%20to%20Master%20and%20to%20Own,%20Workers%E2%80%99%20Control%20from%20the%20Commune%20to%20the%20Present%20-%20Immanuel%20Ness,%20Dario%20Azzellini.pdf>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
 [Category:Libertarian Socialist
-Media](Category:Libertarian_Socialist_Media "wikilink")
+Media](Category:Libertarian_Socialist_Media.md "wikilink")
 [Category:Libertarian Socialist
-Books](Category:Libertarian_Socialist_Books "wikilink")
+Books](Category:Libertarian_Socialist_Books.md "wikilink")

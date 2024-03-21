@@ -4,18 +4,18 @@ permalink: /Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist
 ---
 
 Section C: What are the myths of capitalist economics? is the third
-section of [An Anarchist FAQ](An_Anarchist_FAQ "wikilink"), outlining
-the various myths around [capitalism](capitalism "wikilink") and using
+section of [An Anarchist FAQ](An_Anarchist_FAQ.md "wikilink"), outlining
+the various myths around [capitalism](capitalism.md "wikilink") and using
 them to launch harsh criticisms of the system.
 
 ## Chapters
 
-[C.1 What is wrong with economics?](C.1_(An_Anarchist_FAQ) "wikilink")
+[C.1 What is wrong with economics?](C.1_(An_Anarchist_FAQ).md "wikilink")
 
 [C.1.1 Is economics really value
-free?](C.1.1_(An_Anarchist_FAQ) "wikilink")
+free?](C.1.1_(An_Anarchist_FAQ).md "wikilink")
 
-[C.1.2 Is economics a science?](C.1.2_(An_Anarchist_FAQ) "wikilink")
+[C.1.2 Is economics a science?](C.1.2_(An_Anarchist_FAQ).md "wikilink")
 
 C.1.3 Can you have an economics based on individualism?
 
@@ -117,27 +117,27 @@ Within capitalism, economics plays an important ideological role.
 Economics has been used to construct a theory from which exploitation
 and oppression are excluded, by definition. We will attempt here to
 explain why capitalism is deeply exploitative. Elsewhere, in [section
-B](Section_B:_Why_do_anarchists_oppose_the_current_system?_(An_Anarchist_FAQ) "wikilink"),
+B](Section_B:_Why_do_anarchists_oppose_the_current_system?_(An_Anarchist_FAQ).md "wikilink"),
 we have indicated why capitalism is oppressive and will not repeat
 ourselves here. In many ways economics plays the role within capitalism
 that religion played in the Middle Ages, namely to provide
-[justification](Religious_Authority "wikilink") for the dominant social
+[justification](Religious_Authority.md "wikilink") for the dominant social
 system and hierarchies.“The priest keeps you docile and subjected,”
-argued [Malatesta](Errico_Malatesta "wikilink"), “telling you everything
+argued [Malatesta](Errico_Malatesta.md "wikilink"), “telling you everything
 is God’s will; the economist say it’s the law of nature.” They “end up
 saying that no one is responsible for poverty, so there’s no point
-rebelling against it.” [\[Fra Contadini]([Fra_Contadini "wikilink"), p.
+rebelling against it.” [\[Fra Contadini]([Fra_Contadini.md "wikilink"), p.
 21\]
 
 Even worse, they usually argue that collective action by [working class
-people](Working_Class "wikilink") is counterproductive and, like the
+people](Working_Class.md "wikilink") is counterproductive and, like the
 priest, urge us to tolerate current oppression and exploitation with
 promises of a better future (in heaven for the priest, for the economist
 it is an unspecified “long run”). It would be no generalisation to state
 that if you want to find someone to rationalise and justify an obvious
 injustice or form of oppression then you should turn to an economist
 (preferably a “free market” one). That is not the only similarity
-between the “[science](science "wikilink")” of economics and religion.
+between the “[science](science.md "wikilink")” of economics and religion.
 Like religion, its basis in science is usually lacking and its theories
 more based upon “leaps of faith” than empirical fact. Indeed, it is hard
 to find a “science” more unconcerned about empirical evidence or
@@ -145,15 +145,15 @@ building realistic models than economics.
 
 Just looking at the assumptions made in “perfect competition” shows that
 (see [section
-C.1](C.1_What_is_wrong_with_economics?_(An_Anarchist_FAQ) "wikilink")
+C.1](C.1_What_is_wrong_with_economics?_(An_Anarchist_FAQ).md "wikilink")
 for details). This means that economics is immune to such trivialities
 as evidence and fact, although that does not stop economics being used
 to rationalise and justify certain of these facts (such as
-[exploitation](exploitation "wikilink") and inequality). A classic
+[exploitation](exploitation.md "wikilink") and inequality). A classic
 example is the various ways economists have sought to explain what
 anarchists and other socialists have tended to call “[surplus
-value](Surplus_Value "wikilink")” (i.e. [profits](Profit "wikilink"),
-[interest](interest "wikilink") and [rent](rent "wikilink")). Rather
+value](Surplus_Value.md "wikilink")” (i.e. [profits](Profit.md "wikilink"),
+[interest](interest.md "wikilink") and [rent](rent.md "wikilink")). Rather
 than seek to explain its origin by an empirical study of the society it
 exists in (capitalism), economists have preferred to invent “just-so”
 stories, little a-historic parables about a past which never existed is
@@ -167,23 +167,23 @@ Hence the love of Robinson Crusoe in economics.Ironically, this
 favouring of theory (ideology would be a better term) is selective as
 their exposure as fundamentally flawed does not stop them being
 repeated. As we discuss in section C.2, the [neoclassical theory of
-capital](Neoclassical_Theory_of_Capital "wikilink") was proven to be
+capital](Neoclassical_Theory_of_Capital.md "wikilink") was proven to be
 incorrect by left-wing economists. This was admitted by their opponents:
 “The question that confronts us is not whether the [Cambridge
-Criticism](Cambridge_Capital_Controversy "wikilink") is theoretically
+Criticism](Cambridge_Capital_Controversy.md "wikilink") is theoretically
 valid. It is. Rather the question is an empirical or econometric one: is
 there sufficient substitutability within the system to establish
 neo-classical results?” Yet this did not stop this theory being taught
 to this day and the successful critique forgotten. Nor has econometrics
 successfully refuted the analysis, as capital specified in terms of
-[money](money "wikilink") cannot reflect a theoretical substance
+[money](money.md "wikilink") cannot reflect a theoretical substance
 (neo-classical “capital”) which could not exist in reality. However,
 that is unimportant for “\[u\]ntil the econometricians have the answer
 for us, placing reliance upon neo-classical economic theory is a matter
 of faith, ”which, of course, he had \[C. E. Ferguson,The Neo-classical
 Theory of Production and Distribution, p. 266 and p. xvii\]
 
-Little wonder that [Joan Robinson](Joan_Robinson "wikilink"), one of the
+Little wonder that [Joan Robinson](Joan_Robinson.md "wikilink"), one of the
 left-wing economists who helped expose the bankruptcy of the
 neo-classical theory of capital, stated that economics was “back where
 it was, a branch of theology.”\[Collected Economic Papers, Vol. 4, p.
@@ -194,7 +194,7 @@ as a complex organism that can be understood using the right
 differential calculus. Yet everything we know about economics suggests
 that it is a branch and not a particularly advanced one, of witchcraft.”
 \[Larry Elliot and Dan Atkinson, [The Age of
-Insecurity](The_Age_of_Insecurity_(Book) "wikilink"), p. 226\]
+Insecurity](The_Age_of_Insecurity_(Book).md "wikilink"), p. 226\]
 
 The weakness of economics is even acknowledged by some within the
 profession itself. According to Paul Ormerod, “orthodox economics is in
@@ -211,7 +211,7 @@ their dogmas as “economics is often intimidating. Its practitioners ...
 have erected around the discipline a barrier of jargon and mathematics
 which makes the subject difficult to penetrate for the
 non-initiated.”[The Death of
-Economics]([The_Death_of_Economics_(Book) "wikilink"), p. ix, p. 67 and
+Economics]([The_Death_of_Economics_(Book).md "wikilink"), p. ix, p. 67 and
 p. ix\]
 
 So in this section of our FAQ, we will try to get to the heart of modern
@@ -242,8 +242,8 @@ scientists, merely analysing the system, the development of their
 the injustices of the existing system.
 
 This can be seen best in attempts by economists to show that [Chief
-Executive Officers](Boss "wikilink") (CEOs) of firms, capitalists and
-[landlords](Landlord "wikilink") all deserve their riches while workers
+Executive Officers](Boss.md "wikilink") (CEOs) of firms, capitalists and
+[landlords](Landlord.md "wikilink") all deserve their riches while workers
 should be grateful for what they get. As such, economics has never been
 value free simply because what it says affects people and society. This
 produces a market for economic ideology in which those economists who
@@ -252,7 +252,7 @@ and economic policy where the responses of important economic
 professionals and the publicity given economic findings are correlated
 with the increased market demand for specific conclusions and a
 particular ideology.” [\[Edward S.
-Herman]([Edward_S._Herman "wikilink"), “The Selling of Market
+Herman]([Edward_S._Herman.md "wikilink"), “The Selling of Market
 Economics,” pp. 173–199, New Ways of Knowing, Marcus G. Raskin and
 Herbert J. Bernstein (eds.), p.192\]
 
@@ -261,31 +261,31 @@ ideology can truly be objective in the face of market demand for their
 services, there is a root problem with capitalist economics. This is
 that it the specific social relations and classes produced by capitalism
 have become embedded into the theory. Thus, as an example, the concepts
-of the [marginal productivity](Marginal_Productivity_Theory "wikilink")
-of [land](land "wikilink") and [capital](Capital_(Economics) "wikilink")
+of the [marginal productivity](Marginal_Productivity_Theory.md "wikilink")
+of [land](land.md "wikilink") and [capital](Capital_(Economics).md "wikilink")
 are assumed to universal in spite the fact that neither makes any sense
 outside an economy where one class of people owns the means of life
 while another sells their labour to them. Thus in an artisan/peasant
-society or [one based around co-operatives](Mutualism "wikilink"), there
+society or [one based around co-operatives](Mutualism.md "wikilink"), there
 would be no need for such concepts for in such societies, the
-distinction between [wages](Wage_Labour "wikilink") and profits has no
+distinction between [wages](Wage_Labour.md "wikilink") and profits has no
 meaning and, as a result, there is no income to the owners of machinery
 and land and no need to explain it in terms of the “marginal
 productivity” of either.
 
 Thus mainstream economics takes the class structure of capitalism as a
 natural, eternal, fact and builds up from there.
-[Anarchists](Anarchism "wikilink"), like [other
-socialists](Libertarian_Socialism "wikilink"), stress the opposite,
+[Anarchists](Anarchism.md "wikilink"), like [other
+socialists](Libertarian_Socialism.md "wikilink"), stress the opposite,
 namely that capitalism is a specific [historical
-phase](Economic_Stages "wikilink") and, consequently, there are no
+phase](Economic_Stages.md "wikilink") and, consequently, there are no
 universal economic laws and if you change the system the laws of
 economics change. Unless you are a capitalist economist, of course, when
 the same laws apply no matter what. In our discussion, it is important
 to remember that capitalist economics is not the same as the capitalist
 economy. The latter exists quite independently of the former (and,
 ironically, usually flourishes best when the policy makers ignore it).
-Dissident economist [Steve Keen](Steve_Keen "wikilink") provides a
+Dissident economist [Steve Keen](Steve_Keen.md "wikilink") provides a
 telling analogy between economics and meteorology. Just as “the climate
 would exist even if there were no intellectual discipline of
 meteorology, the economy itself would exist whether or not the
@@ -307,7 +307,7 @@ the institutional environment should be altered to make the economy work
 better.” By that they mean make the real economy more like their models,
 as “the hypothetical pure market performs better than the mixed economy
 in which we live.” [Debunking
-Economics]([Debunking_Economics_(Book) "wikilink"), pp. 6–8\]
+Economics]([Debunking_Economics_(Book).md "wikilink"), pp. 6–8\]
 
 Whether this actually makes the world a better place is irrelevant
 (indeed, economics has been so developed as to make such questions
@@ -330,13 +330,13 @@ Yet for a system supposedly based on maximising individual happiness
 (“utility”), capitalism produces a hell of a lot of unhappy people. Some
 radical economists have tried to indicate this and have created an
 all-embracing measure of well-being called the [Index of Sustainable
-Economic Welfare](Index_of_Sustainable_Economic_Welfare "wikilink")
+Economic Welfare](Index_of_Sustainable_Economic_Welfare.md "wikilink")
 (ISEW). Their conclusions, as summarised by Elliot and Atkinson, are
 significant: “In the 1950s and 1960s the ISEW rose in tandem with per
 capita GDP. It was a time not just of rising incomes, but of greater
-social equity, [low crime](Crime "wikilink"), [full
-employment](Unemployment#Full_Employment "wikilink") and [expanding
-welfare states](Social_Democracy "wikilink"). But from the mid-1970s
+social equity, [low crime](Crime.md "wikilink"), [full
+employment](Unemployment#Full_Employment.md "wikilink") and [expanding
+welfare states](Social_Democracy.md "wikilink"). But from the mid-1970s
 onwards the two measures started to move apart. GDP per head continued
 its inexorable rise, but the ISEW started to decline as a result of
 lengthening dole queues, social exclusion, the explosion in crime,
@@ -352,7 +352,7 @@ better off and happier. Ironically, when such unhappiness is pointed out
 most defenders of capitalism dismiss people’s expressed woe’s as
 irrelevant. Apparently some subjective evaluations are considered more
 important than others! Given that the mid-1970s marked the start of
-[neoliberalism](neoliberalism "wikilink"), the promotion of the market
+[neoliberalism](neoliberalism.md "wikilink"), the promotion of the market
 and the reduction of government interference in the economy, this is
 surely significant. After all, the “global economy of the early 21st
 century looks a lot more like the economic textbook ideal that did the
@@ -380,12 +380,12 @@ Anarchists argue that this is unsurprising as economics, rather than
 being a science is, in fact, little more than an ideology whose main aim
 is to justify and rationalise the existing system.
 
-We agree with [libertarian Marxist](Libertarian_Marxism "wikilink")
-[Paul Mattick’s](Paul_Mattick "wikilink") summation that economics
+We agree with [libertarian Marxist](Libertarian_Marxism.md "wikilink")
+[Paul Mattick’s](Paul_Mattick.md "wikilink") summation that economics
 is“actually no more than a sophisticated apology for the social and
 economic status quo”and hence the“growing discrepancy between \[its\]
 theories and reality.”[Economics, Politics and the Age of
-Inflation]([Economics,_Politics_and_the_Age_of_Inflation_(Book) "wikilink"),
+Inflation]([Economics,_Politics_and_the_Age_of_Inflation_(Book).md "wikilink"),
 p. vii\] Anarchists, unsurprisingly, see capitalism as a fundamentally
 exploitative system rooted in inequalities of power and wealth dominated
 by hierarchical structures (capitalist firms). In the sections that
@@ -394,7 +394,7 @@ detail. We would like to point out that for anarchists, exploitation is
 not more important than domination. Anarchists are opposed to both
 equally and consider them to be two sides of the same coin. You cannot
 have domination without exploitation nor exploitation without
-domination. As [Emma Goldman](Emma_Goldman "wikilink") pointed out,
+domination. As [Emma Goldman](Emma_Goldman.md "wikilink") pointed out,
 under capitalism: “wealth means power; the power to subdue, to crush, to
 exploit, the power to enslave,to outrage, to degrade ... Nor is this the
 only crime ... Still more fatal is the crime of turning the producer
@@ -402,11 +402,11 @@ into a mere particle of a machine, with less will and decision than his
 master of steel and iron. Man is being robbed not merely of the products
 of his labour, but of the power of free initiative, of originality, and
 the interest in, or desire for, the things he is making.” [Red Emma
-Speaks]([Red_Emma_Speaks_(Book) "wikilink"), pp. 66–7\]
+Speaks]([Red_Emma_Speaks_(Book).md "wikilink"), pp. 66–7\]
 
 Needless to say, it would be impossible to discuss or refute every issue
 covered in a standard economics book or every school of economics. As
-economist [Nicholas Kaldor](Nicholas_Kaldor "wikilink") notes,“\[e\]ach
+economist [Nicholas Kaldor](Nicholas_Kaldor.md "wikilink") notes,“\[e\]ach
 year new fashions sweep the ‘politico-economic complex’ only to
 disappear again with equal suddenness... These sudden bursts of fashion
 are a sure sign of the ‘pre-scientific’ stage \[economics is in\], where
@@ -414,18 +414,18 @@ any crazy idea can get a hearing simply because nothing is known with
 sufficient confidence to rule it out.”\[The Essential Kaldor, p. 377\]
 We will have to concentrate on key issues like the flaws in mainstream
 economics, why capitalism is exploitative, the existence and role of
-economic power, the [business cycle](Business_Cycle "wikilink"),
+economic power, the [business cycle](Business_Cycle.md "wikilink"),
 unemployment and inequality. Nor do we wish to suggest that all forms of
 economics are useless or equally bad. Our critique of capitalist
 economics does not suggest that no economist has contributed worthwhile
 and important work to social knowledge or our understanding of the
-economy. Far from it. As [Bakunin](Mikhail_Bakunin "wikilink") put it,
+economy. Far from it. As [Bakunin](Mikhail_Bakunin.md "wikilink") put it,
 property “is a god” and has "its metaphysics. It is the science of the
 bourgeois economists. Like any metaphysics it is a sort of twilight, a
 compromise between truth and falsehood, with the latter benefiting from
 it. It seeks to give falsehood the appearance of truth and leads truth
 to falsehood.” [The Political Philosophy of
-Bakunin]([The_Political_Philosophy_of_Bakunin_(Book) "wikilink"), p.
+Bakunin]([The_Political_Philosophy_of_Bakunin_(Book).md "wikilink"), p.
 179\]
 
 How far this is true varies form school to school, economist to
@@ -446,15 +446,15 @@ compatible with anarchist ideas.
 
 It is possible to present a correct analysis of capitalism or capitalist
 economics while, at the same time, being blind to the problems of
-[Keynesian economics](Keynesian_Economics "wikilink") or the horrors of
-[Stalinism](Marxist-Leninism "wikilink"). As such, our quoting of
+[Keynesian economics](Keynesian_Economics.md "wikilink") or the horrors of
+[Stalinism](Marxist-Leninism.md "wikilink"). As such, our quoting of
 certain critical economists does not imply agreement with their
 political opinions or policy suggestions. Then there is the issue of
 what do we mean by the term “capitalist economics”? Basically, any form
 of economic theory which seeks to rationalise and defend capitalism.
 This can go from the extreme of free market capitalist economics (such
 as the so-called [“Austrian”
-school](Austrian_School_of_Economics "wikilink") and Monetarists) to
+school](Austrian_School_of_Economics.md "wikilink") and Monetarists) to
 those who advocate state intervention to keep capitalism going
 (Keynesian economists). We will not be discussing those economists who
 advocate state capitalism. As a default, we will take “capitalist
@@ -469,12 +469,12 @@ Lastly, one of the constant refrains of economists is the notion that
 the public is ignorant of economics. The implicit assumption behind this
 bemoaning of ignorance by economists is that the world should be run
 either by economists or on their recommendations. In [section
-C.11](C.11_Doesn’t_neo-liberalism_in_Chile_prove_that_the_free_market_benefits_everyone?_(An_Anarchist_FAQ) "wikilink")
-we present a case study of a nation, [Chile](Chile "wikilink"), unlucky
+C.11](C.11_Doesn’t_neo-liberalism_in_Chile_prove_that_the_free_market_benefits_everyone?_(An_Anarchist_FAQ).md "wikilink")
+we present a case study of a nation, [Chile](Chile.md "wikilink"), unlucky
 enough to have that fate subjected upon it. Unsurprisingly, this rule by
 economists could only be imposed as a result of a [military
-coup](Chilean_Military_Coup_(1973) "wikilink") and [subsequent
-dictatorship](Pinochet_Dictatorship "wikilink"). As would be expected,
+coup](Chilean_Military_Coup_(1973).md "wikilink") and [subsequent
+dictatorship](Pinochet_Dictatorship.md "wikilink"). As would be expected,
 given the biases of economics, the wealthy did very well, workers less
 so (to put it mildly), in this experiment.
 
@@ -493,5 +493,5 @@ how to avoid being deceived by economists.”\[Contributions to Modern
 Economics, p. 75\]
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:An
-Anarchist FAQ](Category:An_Anarchist_FAQ "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:An
+Anarchist FAQ](Category:An_Anarchist_FAQ.md "wikilink")

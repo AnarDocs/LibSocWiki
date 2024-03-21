@@ -4,11 +4,11 @@ permalink: /Ningbo_Anti-Refinery_Campaign_(2012)/
 ---
 
 The **Ningbo Anti-Refinery Campaign of 2012** was a grassroots
-[environmental campaign](Timeline_of_Environmentalism "wikilink") to
-stop the construction of a [petrochemical](Fossil_Fuels#Oil "wikilink")
-[refinery](Factory "wikilink") in the city of Ningbo, Zhejian,
-[China](China "wikilink") in
-[2012](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+[environmental campaign](Timeline_of_Environmentalism.md "wikilink") to
+stop the construction of a [petrochemical](Fossil_Fuels#Oil.md "wikilink")
+[refinery](Factory.md "wikilink") in the city of Ningbo, Zhejian,
+[China](China.md "wikilink") in
+[2012](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 
@@ -72,24 +72,24 @@ many protesters wanted.
 ## See Also
 
 - [Chinese Protest Wave (2007 -
-  2014)](Chinese_Protest_Wave_(2007_-_2014) "wikilink")
+  2014)](Chinese_Protest_Wave_(2007_-_2014).md "wikilink")
 - [Shifang Anti-Factory
-  Campaign](Shifang_Anti-Factory_Campaign_(2012) "wikilink")
+  Campaign](Shifang_Anti-Factory_Campaign_(2012).md "wikilink")
 
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Chinese
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Chinese
 residents and students stop petrochemical plant expansion in Ningbo,
 2012](https://nvdatabase.swarthmore.edu/content/chinese-residents-and-students-stop-petrochemical-plant-expansion-ningbo-2012)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:2012](Category:2012 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Social Movements](Category:Social_Movements "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Social Movements](Category:Social_Movements.md "wikilink")

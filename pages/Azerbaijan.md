@@ -4,7 +4,7 @@ permalink: /Azerbaijan/
 ---
 
 **Azerbaijan** is an authoritarian capitalist
-[state](List_of_States "wikilink") in Northwest Asia and partly in
-Eastern Europe that borders [Russia](Russia "wikilink"),
-[Georgia](Georgia "wikilink"), [Armenia](Armenia "wikilink") and
-[Iran](Iran "wikilink").
+[state](List_of_States.md "wikilink") in Northwest Asia and partly in
+Eastern Europe that borders [Russia](Russia.md "wikilink"),
+[Georgia](Georgia.md "wikilink"), [Armenia](Armenia.md "wikilink") and
+[Iran](Iran.md "wikilink").

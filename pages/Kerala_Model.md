@@ -5,7 +5,7 @@ permalink: /Kerala_Model/
 
 The **Kerala Model** or **Kerala Phenomenon**or **Kerala Model of
 Development**refers to the model of social development and welfare
-practiced in the state of Kerala, [India](India "wikilink"). Despite
+practiced in the state of Kerala, [India](India.md "wikilink"). Despite
 having a relatively small and poor economy, Kerala has:
 
 - The highest life expectancy of any state in India, at 77 years

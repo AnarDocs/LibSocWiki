@@ -5,15 +5,15 @@ permalink: /Carnation_Revolution/
 
 The **Carnation Revolution** or **Portoguese Revolution of 1974** refers
 to a military coup and the resulting unrest which brought down the
-[fascist regime](Estado_Novo_(Portugal) "wikilink") in
-[Portugal](Portugal "wikilink") and led to numerous progressive reforms
+[fascist regime](Estado_Novo_(Portugal).md "wikilink") in
+[Portugal](Portugal.md "wikilink") and led to numerous progressive reforms
 and nearly created
-[self-management](Workers'_Self-Management "wikilink") in industry.
+[self-management](Workers'_Self-Management.md "wikilink") in industry.
 Occurring on the [25th of April,
-1974](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink"),
+1974](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink"),
 the revolution [was part of a wider chain of global revolts against
 authoritarian governments and
-cultures](Revolutions_of_1967_-_1975 "wikilink").
+cultures](Revolutions_of_1967_-_1975.md "wikilink").
 
 ## Background
 
@@ -33,15 +33,15 @@ Portugal
 
 ### US Interference
 
-An excerpt from [William Blum's](William_Blum "wikilink") book [Rogue
-State](Rogue_State_(Book) "wikilink") provides the best summary [US
-interference](Timeline_of_US_Imperialism "wikilink"):
+An excerpt from [William Blum's](William_Blum.md "wikilink") book [Rogue
+State](Rogue_State_(Book).md "wikilink") provides the best summary [US
+interference](Timeline_of_US_Imperialism.md "wikilink"):
 
 > A bloodless military coup in 1974 brought down the US-supported
 > 48-year fascist regime that was the world's only remaining colonial
 > power. This was followed by a program centered on nationalization of
 > major industries, [workers'
-> control](Workers'_Self-Management "wikilink"), a minimum wage, land
+> control](Workers'_Self-Management.md "wikilink"), a minimum wage, land
 > reform and other progressive measures. Washington and multinational
 > officials who were on the board of directors of the planet were
 > concerned. Destabilization became the order of the day: covert
@@ -62,9 +62,9 @@ interference](Timeline_of_US_Imperialism "wikilink"):
 The new Portugal, while very flawed, saw major gains following the end
 of the dictatorship, notably:
 
-- Creation of a [socially democratic](Social_Democracy "wikilink")
+- Creation of a [socially democratic](Social_Democracy.md "wikilink")
   universal healthcare and education system.
-- Excellent [medical services](Healthcare "wikilink"), reduction of
+- Excellent [medical services](Healthcare.md "wikilink"), reduction of
   infant mortality from 55.5 per 1,000 births (around 5.5%) in 1970 to
   2.5 per 1,000 births (around 0.2%) in 2010. In 1970 there were 94
   doctors per 100,000 people and in 2011 there was 405 per 100,000
@@ -72,49 +72,49 @@ of the dictatorship, notably:
 - Illiteracy went from 26% in 1970 to 5% in 2010.
 - High school enrollment for teenagers increased from 3.8% in 1970 to
   71% in 2010.
-- Major expansions of [water](water "wikilink") and electrical systems,
+- Major expansions of [water](water.md "wikilink") and electrical systems,
   in 1970 only 47% of households had access to piped water and only 68%
-  had access to [electricity](electricity "wikilink"). In 1991 that rose
+  had access to [electricity](electricity.md "wikilink"). In 1991 that rose
   to 86% of households with access to piped water and 98% with
   electricity.
 
 ### Decolonisation
 
-The revolution led to the [decolonisation](decolonisation "wikilink") of
-the [Portuguese Empire](Portuguese_Empire "wikilink") which then held
+The revolution led to the [decolonisation](decolonisation.md "wikilink") of
+the [Portuguese Empire](Portuguese_Empire.md "wikilink") which then held
 several territories in Africa. This also led to the end of the
-[Portuguese Colonial War](Portuguese_Colonial_War "wikilink"). In 1975
-[Indonesia](Indonesia "wikilink") invaded and
-[occupied](Indonesian_Occupation_of_East_Timor "wikilink") the
+[Portuguese Colonial War](Portuguese_Colonial_War.md "wikilink"). In 1975
+[Indonesia](Indonesia.md "wikilink") invaded and
+[occupied](Indonesian_Occupation_of_East_Timor.md "wikilink") the
 Portuguese province of Portuguese Timor ([East
-Timor](East_Timor "wikilink")) in Asia before independence could be
+Timor](East_Timor.md "wikilink")) in Asia before independence could be
 granted. Nearly 1 million Portuguese or persons of Portuguese descent
 left these former colonies as refugees. The massive exodus of the
 Portuguese military and citizens from Angola and Mozambique, would
-prompt an [era of chaos](Angolan_Civil_War "wikilink") and [severe
-destruction](Mozambican_Civil_War "wikilink") in those territories after
+prompt an [era of chaos](Angolan_Civil_War.md "wikilink") and [severe
+destruction](Mozambican_Civil_War.md "wikilink") in those territories after
 independence from Portugal in 1975.
 
 ## See Also
 
 - [Athens Polytechnic
-  Uprising](Athens_Polytechnic_Uprising_(1973) "wikilink")
-- [Second Spanish Revolution](Second_Spanish_Revolution "wikilink")
-- [Revolutions of 1967 - 1975](Revolutions_of_1967_-_1975 "wikilink")
+  Uprising](Athens_Polytechnic_Uprising_(1973).md "wikilink")
+- [Second Spanish Revolution](Second_Spanish_Revolution.md "wikilink")
+- [Revolutions of 1967 - 1975](Revolutions_of_1967_-_1975.md "wikilink")
 
 ## References
 
 [History of Portugal](https://en.wikipedia.org/wiki/History_of_Portugal)
-at [Wikipedia](Wikipedia "wikilink")
+at [Wikipedia](Wikipedia.md "wikilink")
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Portugal](Category:Portugal "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:1974](Category:1974 "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Portugal](Category:Portugal.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:1974](Category:1974.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
 [Category:Revolutions of 1968 -
-1975](Category:Revolutions_of_1968_-_1975 "wikilink")
+1975](Category:Revolutions_of_1968_-_1975.md "wikilink")

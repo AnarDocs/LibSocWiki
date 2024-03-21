@@ -4,9 +4,9 @@ permalink: /BC_Telephone_Work-In/
 ---
 
 The **BC Telephone Work-In** was an effort by telephone workers' to
-[self-manage](Workers'_Self-Management "wikilink") their company for
+[self-manage](Workers'_Self-Management.md "wikilink") their company for
 five days in
-[1981](Timeline_of_Libertarian_Socialism_in_North_America "wikilink").
+[1981](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink").
 
 ## Background
 
@@ -18,12 +18,12 @@ five days in
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1980s](Category:1980s "wikilink")
-[Category:1981](Category:1981 "wikilink")
-[Category:Canada](Category:Canada "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Work-Ins](Category:Work-Ins "wikilink")
-[Category:Strikes](Category:Strikes "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink")
+[Category:1981](Category:1981.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Work-Ins](Category:Work-Ins.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

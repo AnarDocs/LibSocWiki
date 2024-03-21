@@ -9,19 +9,19 @@ who aim to create socialism via reform whilst respecting liberal values.
 
 ## Historical Examples
 
-- [Bolivia](Socialist_Bolivia "wikilink") (2006 - 2019)
-- [Chile](Socialist_Chile "wikilink") (1970 - 1973)
-- [Kerala](Kerala_Model "wikilink"), India (1950? - Present)
-- [Marinaleda](Marinaleda "wikilink"), Spain (1979 - Present)
-- [Nicaragua](Socialist_Nicaragua "wikilink") (1979 - 1990)
-- [Paris Commune](Paris_Commune "wikilink"), France (1871)
-- [Red Vienna](Red_Vienna "wikilink"), Austria (1918 - 1934)
-- [Venezuela](Venezuela "wikilink") (1999 - Present)
+- [Bolivia](Socialist_Bolivia.md "wikilink") (2006 - 2019)
+- [Chile](Socialist_Chile.md "wikilink") (1970 - 1973)
+- [Kerala](Kerala_Model.md "wikilink"), India (1950? - Present)
+- [Marinaleda](Marinaleda.md "wikilink"), Spain (1979 - Present)
+- [Nicaragua](Socialist_Nicaragua.md "wikilink") (1979 - 1990)
+- [Paris Commune](Paris_Commune.md "wikilink"), France (1871)
+- [Red Vienna](Red_Vienna.md "wikilink"), Austria (1918 - 1934)
+- [Venezuela](Venezuela.md "wikilink") (1999 - Present)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Democratic
-Socialism](Category:Democratic_Socialism "wikilink")
-[Category:Socialism](Category:Socialism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink")
+Socialism](Category:Democratic_Socialism.md "wikilink")
+[Category:Socialism](Category:Socialism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink")

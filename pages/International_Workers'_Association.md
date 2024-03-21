@@ -4,8 +4,8 @@ permalink: /International_Workers'_Association/
 ---
 
 The **International Workers' Association** (**IWA**or **AIT**) is an
-[international federation](Confederation "wikilink") of
-[anarcho-syndicalist](Anarcho-Syndicalism "wikilink") trade unions and
+[international federation](Confederation.md "wikilink") of
+[anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") trade unions and
 initiatives.
 
 ## Current Members
@@ -17,63 +17,63 @@ send observers to congresses.*
 ### Sections
 
 - [Anarcho-Syndicalist
-  Federation](Anarcho-Syndicalist_Federation_(Australia) "wikilink")
-  ([Australia](Australia "wikilink"))
+  Federation](Anarcho-Syndicalist_Federation_(Australia).md "wikilink")
+  ([Australia](Australia.md "wikilink"))
 - [Anarcho-syndicalist
-  Initiative](Anarcho-syndicalist_Initiative_(Serbia) "wikilink")
-  ([Serbia](Serbia "wikilink"))
+  Initiative](Anarcho-syndicalist_Initiative_(Serbia).md "wikilink")
+  ([Serbia](Serbia.md "wikilink"))
 - [Association of Polish
-  Syndicalists](Association_of_Polish_Syndicalists "wikilink")
+  Syndicalists](Association_of_Polish_Syndicalists.md "wikilink")
 - [Brazilian Workers
-  Confederation](Brazilian_Workers_Confederation "wikilink")
+  Confederation](Brazilian_Workers_Confederation.md "wikilink")
 - [Confederation of Revolutionary
-  Anarcho-Syndicalists](Confederation_of_Revolutionary_Anarcho-Syndicalists_(Russia) "wikilink")
-  ([Russia](Russia "wikilink"))
-- [Direct Action](Direct_Action_(Slovakia) "wikilink")
-  ([Slovakia](Slovakia "wikilink"))
+  Anarcho-Syndicalists](Confederation_of_Revolutionary_Anarcho-Syndicalists_(Russia).md "wikilink")
+  ([Russia](Russia.md "wikilink"))
+- [Direct Action](Direct_Action_(Slovakia).md "wikilink")
+  ([Slovakia](Slovakia.md "wikilink"))
 - [National Confederation of
-  Labour](National_Confederation_of_Labour_(Spain) "wikilink")
-  ([Spain](Spain "wikilink"))
+  Labour](National_Confederation_of_Labour_(Spain).md "wikilink")
+  ([Spain](Spain.md "wikilink"))
 - [National Confederation of
-  Labour](National_Confederation_of_Labour_(France) "wikilink")
-  ([France](France "wikilink"))
+  Labour](National_Confederation_of_Labour_(France).md "wikilink")
+  ([France](France.md "wikilink"))
 - [Norwegian Syndicalist
-  Federation](Norwegian_Syndicalist_Federation "wikilink")
-- [Portuguese Section](Portuguese_Section_(IWA) "wikilink")
-- [Solidarity Federation](Solidarity_Federation_(UK) "wikilink")
-  ([UK](United_Kingdom "wikilink"))
+  Federation](Norwegian_Syndicalist_Federation.md "wikilink")
+- [Portuguese Section](Portuguese_Section_(IWA).md "wikilink")
+- [Solidarity Federation](Solidarity_Federation_(UK).md "wikilink")
+  ([UK](United_Kingdom.md "wikilink"))
 
 ### Friends
 
 - [Autonomous Workers'
-  Union](Autonomous_Workers'_Union_(Bulgaria) "wikilink")
-  ([Bulgaria](Bulgaria "wikilink"))
-- [Germinal](Germinal_(Chile) "wikilink") ([Chile](Chile "wikilink"))
+  Union](Autonomous_Workers'_Union_(Bulgaria).md "wikilink")
+  ([Bulgaria](Bulgaria.md "wikilink"))
+- [Germinal](Germinal_(Chile).md "wikilink") ([Chile](Chile.md "wikilink"))
 - [Libertarian Union of Students and
-  Workers](Libertarian_Union_of_Students_and_Workers_(Colombia) "wikilink")
-  ([Colombia](Colombia "wikilink"))
+  Workers](Libertarian_Union_of_Students_and_Workers_(Colombia).md "wikilink")
+  ([Colombia](Colombia.md "wikilink"))
 - [Örestad Local
-  Organization](Örestad_Local_Organization_(Sweden) "wikilink")
-  ([Sweden](Sweden "wikilink"))
+  Organization](Örestad_Local_Organization_(Sweden).md "wikilink")
+  ([Sweden](Sweden.md "wikilink"))
 - [Viennese Workers'
-  Syndicate](Viennese_Workers'_Syndicate_(Austria) "wikilink")
-  ([Austria](Austria "wikilink"))
+  Syndicate](Viennese_Workers'_Syndicate_(Austria).md "wikilink")
+  ([Austria](Austria.md "wikilink"))
 - [Workers' Solidarity
-  Alliance](Workers'_Solidarity_Alliance_(USA) "wikilink")
-  ([USA](United_States_of_America "wikilink"))
+  Alliance](Workers'_Solidarity_Alliance_(USA).md "wikilink")
+  ([USA](United_States_of_America.md "wikilink"))
 
-[Category:Characters](Category:Characters "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
+[Category:Characters](Category:Characters.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")
 [Category:Libertarian Socialist
-Organizations](Category:Libertarian_Socialist_Organizations "wikilink")
+Organizations](Category:Libertarian_Socialist_Organizations.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:International Workers'
-Association](Category:International_Workers'_Association "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
+Association](Category:International_Workers'_Association.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
 [Category:Anarcho-Syndicalist
-Groups](Category:Anarcho-Syndicalist_Groups "wikilink") [Category:Trade
-Union Federations](Category:Trade_Union_Federations "wikilink")
+Groups](Category:Anarcho-Syndicalist_Groups.md "wikilink") [Category:Trade
+Union Federations](Category:Trade_Union_Federations.md "wikilink")

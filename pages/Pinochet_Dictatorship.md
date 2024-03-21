@@ -8,22 +8,22 @@ torture, rape and murder*
 
 The **Pinochet Dictatorship** or **Military Dictatorship of Chile**
 refers to the rule of authoritarian, militaristic government led by
-[Augusto Pinochet](Augusto_Pinochet "wikilink") in
-[Chile](Chile "wikilink") from
-[1973](Chilean_Military_Coup_(1973) "wikilink") to
-[1990](Chilean_Transition_to_Democracy "wikilink"). The dictatorship
+[Augusto Pinochet](Augusto_Pinochet.md "wikilink") in
+[Chile](Chile.md "wikilink") from
+[1973](Chilean_Military_Coup_(1973).md "wikilink") to
+[1990](Chilean_Transition_to_Democracy.md "wikilink"). The dictatorship
 acted as a [client state to US
-interests](Timeline_of_US_Imperialism "wikilink"), and began the first
-experiments in [neoliberal economic policy](Neoliberalism "wikilink"),
+interests](Timeline_of_US_Imperialism.md "wikilink"), and began the first
+experiments in [neoliberal economic policy](Neoliberalism.md "wikilink"),
 which was disastrous for the working class but succeeded in restoring
-the rate of [profit](profit "wikilink") to high levels.
+the rate of [profit](profit.md "wikilink") to high levels.
 
 ## Origins
 
-In response to [Salvador Allende's](Salvador_Allende "wikilink") efforts
+In response to [Salvador Allende's](Salvador_Allende.md "wikilink") efforts
 to nationalise US-owned copper mines (to fund a larger [welfare
-state](Welfare_State "wikilink")) and grassroots efforts to create
-[workers' self-management](Workers'_Self-Management "wikilink"). The US
+state](Welfare_State.md "wikilink")) and grassroots efforts to create
+[workers' self-management](Workers'_Self-Management.md "wikilink"). The US
 supported the military and a mass campaign of disinformation in order to
 topple the government, killing Allende and imposing a new regime that
 dissolved parliament, banned trade unions, censored the media and
@@ -37,7 +37,7 @@ The dictatorship committed numerous crimes against humanity and
 instituted a reign of terror to purge Chile of leftists, killing between
 2,000 and 30,000 people, 27,000 people being tortured (and survived) and
 200,000 people were forced into exile (mainly to
-[Argentina](Argentina "wikilink")). In other words, 2.2% of Chile's
+[Argentina](Argentina.md "wikilink")). In other words, 2.2% of Chile's
 population (of 10.1 million) had their lives ended or ruined by the
 dictatorship.[^2]
 
@@ -48,8 +48,8 @@ Santiago), over 40,000 people were held there over 17 years, with the
 locker rooms and changing rooms were where prisoners were first to sleep
 and torture and executions were performed in the velodrome (including
 killing two American journalists, [Frank Teruggi
-Jr.](Frank_Teruggi_Jr. "wikilink") and [Charles
-Horman](Charles_Horman "wikilink")). Other buildings were converted into
+Jr.](Frank_Teruggi_Jr..md "wikilink") and [Charles
+Horman](Charles_Horman.md "wikilink")). Other buildings were converted into
 secret detention centres, and horrors occurred in all of them. Some of
 these horrors include:
 
@@ -89,8 +89,8 @@ these horrors include:
   found.[^14] This method of torture is continuously joked about in
   online right-wing spaces as their 'joking' plan for leftists.[^15]
 - Many victims reported suffering from [post traumatic stress
-  disorder](PTSD "wikilink"), isolation, worthlessness,
-  [shame](shame "wikilink"), [anxiety](anxiety "wikilink") and
+  disorder](PTSD.md "wikilink"), isolation, worthlessness,
+  [shame](shame.md "wikilink"), [anxiety](anxiety.md "wikilink") and
   hopelessness.[^16]
 
 ## Resistance
@@ -99,7 +99,7 @@ Various organisations were set up to resist the dictatorship, notably
 three main guerilla groups, the Lautaro Youth Movement (MJL), Manuel
 Rodríguez Patriotic Front (FPMR) and Revolutionary Left Movement (MIR).
 All three of these were strongly inspired by
-[Marxist-Leninist](Marxism-Leninism "wikilink") ideals. To give a short
+[Marxist-Leninist](Marxism-Leninism.md "wikilink") ideals. To give a short
 (and incomplete) timeline of their actions:
 
 - 1973: Leftists fight the army in the streets to return to the regime
@@ -129,14 +129,14 @@ All three of these were strongly inspired by
 - 1988: Leftist militants bomb a church in Valparaíso, injuring three
   churchgoers.
 - 1988: FPMR [takes control of four
-  towns](Chilean_Uprising_(1988) "wikilink") in the country, (Aguas
+  towns](Chilean_Uprising_(1988).md "wikilink") in the country, (Aguas
   Grandes, La Mora, Los Queñes and Pichipellahuén) and resists police
   and military efforts to take them back, but retreats after significant
   fighting.
 - 1989: A 26-year old soldier is shot and killed at point blank range
   while guarding a building in Viña del Mar.
 - 1989: MIR plans to kidnap 30 business executives in Chile of
-  [Brazilian](Brazil "wikilink") and [Canadian](Canada "wikilink")
+  [Brazilian](Brazil.md "wikilink") and [Canadian](Canada.md "wikilink")
   descent, but fails after it is detected by Canadian intelligence
   agencies.
 
@@ -145,19 +145,19 @@ All three of these were strongly inspired by
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Authortarian States](Category:Authortarian_States "wikilink")
-[Category:Chile](Category:Chile "wikilink") [Category:South
-America](Category:South_America "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:1980s](Category:1980s "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:Neoliberalism](Category:Neoliberalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Authortarian States](Category:Authortarian_States.md "wikilink")
+[Category:Chile](Category:Chile.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:Neoliberalism](Category:Neoliberalism.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973–1990>)
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Military_dictatorship_of_Chile_(1973%E2%80%931990)#Dictatorship_violence>
 
 [^3]: Peter Kornbluh (2003) *The Pinochet File: a Declassified Dossier
@@ -166,7 +166,7 @@ Century](Category:20th_Century "wikilink")
 [^4]: Report of the Chilean National Commission on Truth and
     Reconciliation
 
-[^5]: [Wikipedia](Wikipedia "wikilink") -
+[^5]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Human_rights_violations_in_Pinochet%27s_Chile#Physical_torture>
 
 [^6]: Peter Kornbluh (September 11, 2013). *The Pinochet File: A
@@ -191,7 +191,7 @@ Century](Category:20th_Century "wikilink")
 
 [^13]:
 
-[^14]: [Wikipedia](Wikipedia "wikilink") -
+[^14]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Death_flights#Chilean_dictatorship>
 
 [^15]: <https://knowyourmeme.com/memes/free-helicopter-rides>

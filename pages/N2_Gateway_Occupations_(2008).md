@@ -4,11 +4,11 @@ permalink: /N2_Gateway_Occupations_(2008)/
 ---
 
 The **N2 Gateway Occupations** was a mass
-[squatting](squatting "wikilink") campaign where people illegally
+[squatting](squatting.md "wikilink") campaign where people illegally
 squatted in public housing, and is the largest occupation in South
 African history and took place from [December
-2007](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink")
-to February [2008](Revolutions_of_2008_-_2014 "wikilink").
+2007](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink")
+to February [2008](Revolutions_of_2008_-_2014.md "wikilink").
 
 ## Background
 

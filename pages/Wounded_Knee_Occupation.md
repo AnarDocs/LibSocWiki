@@ -4,15 +4,15 @@ permalink: /Wounded_Knee_Occupation/
 ---
 
 The **Wounded Knee Occupation** refers to an
-[indigenist](Indigenism "wikilink") uprising in the
-[USA](United_States_of_America "wikilink") in
-[1973](Timeline_of_Indigenism "wikilink"), when 200 armed indigenous
+[indigenist](Indigenism.md "wikilink") uprising in the
+[USA](United_States_of_America.md "wikilink") in
+[1973](Timeline_of_Indigenism.md "wikilink"), when 200 armed indigenous
 activists occupied the town of Wounded Knee in protest of the corruption
 in tribal government and the failures of the US government to fulfill
 treaties with the indigenous population and demanded equality between
 indigenous and white citizens of the USA. It was part a global wave of
 revolts that rocked the world in the [late 1960s and early
-1970s](Revolutions_of_1967_-_1975 "wikilink").
+1970s](Revolutions_of_1967_-_1975.md "wikilink").
 
 ## Occupation
 

@@ -4,10 +4,10 @@ permalink: /Ngô_Văn_Xuyet/
 ---
 
 **Ngô Văn Xuyết** (1913 - 2005) was a metalworker, historian and
-[council communist](Council_Communism "wikilink"). He was born in rural
-[Vietnam](Vietnam "wikilink") and lived in Paris,
-[France](France "wikilink") for most of his life after the fall of the
-[Saigon Commune](Saigon_Commune "wikilink").
+[council communist](Council_Communism.md "wikilink"). He was born in rural
+[Vietnam](Vietnam.md "wikilink") and lived in Paris,
+[France](France.md "wikilink") for most of his life after the fall of the
+[Saigon Commune](Saigon_Commune.md "wikilink").
 
 ## Works
 
@@ -21,18 +21,18 @@ permalink: /Ngô_Văn_Xuyet/
 - 2004: Folk Tales of Vietnam
 - 2004: Ancient Utopia and the Peasants' War in China
 
-[Category:Characters](Category:Characters "wikilink")
+[Category:Characters](Category:Characters.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
-[Category:Vietnam](Category:Vietnam "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink")
-[Category:France](Category:France "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink") [Category:Council
-Communists](Category:Council_Communists "wikilink") [Category:Council
-Communism](Category:Council_Communism "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
+[Category:Vietnam](Category:Vietnam.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink")
+[Category:France](Category:France.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink") [Category:Council
+Communists](Category:Council_Communists.md "wikilink") [Category:Council
+Communism](Category:Council_Communism.md "wikilink")

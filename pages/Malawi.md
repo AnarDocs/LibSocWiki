@@ -4,7 +4,7 @@ permalink: /Malawi/
 ---
 
 **Malawi** (officially the **Republic of Malawi**) is a
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
 located in Southern Africa, it is bordered by
-[Zambia](Zambia "wikilink"), [Tanzania](Tanzania "wikilink") and
-[Mozambique](Mozambique "wikilink").
+[Zambia](Zambia.md "wikilink"), [Tanzania](Tanzania.md "wikilink") and
+[Mozambique](Mozambique.md "wikilink").

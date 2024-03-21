@@ -48,16 +48,16 @@ taken place on ProleWiki.
 ### Founding and early development (30 September 2020 – 24 November 2021)
 
 ProleWiki was founded on 30 September 2020 by
-[Brazilian](Brazil "wikilink")
-pro-[CPC](Communist_Party_of_China "wikilink") propagandist Felipe Forte
+[Brazilian](Brazil.md "wikilink")
+pro-[CPC](Communist_Party_of_China.md "wikilink") propagandist Felipe Forte
 and other users of the internet forum Lemmygrad. The initial concept for
 ProleWiki likely originated as a reaction to the
-[Liberal](Liberalism "wikilink") bias found on
-[Wikipedia](Wikipedia "wikilink"), with ProleWiki initially attempting
+[Liberal](Liberalism.md "wikilink") bias found on
+[Wikipedia](Wikipedia.md "wikilink"), with ProleWiki initially attempting
 to promote itself as "the people's Wikipedia". The then-sole
 administrator of ProleWiki, Forte, would firstly attempt to attract
 editors via promoting his project to several pro-China
-[Telegram](Telegram "wikilink") channels and to Lemmygrad. He would also
+[Telegram](Telegram.md "wikilink") channels and to Lemmygrad. He would also
 attempt to self-promote his site on Wikipedia shortly. Also at this
 time, the site allowed Marxist-Leninists of many distinct sub-groupings
 to join and freely express their views, a policy likely taken out of
@@ -69,7 +69,7 @@ that the spambots he covertly made were unintentional and made a system
 of "account requests" which, supposedly, was implemented to repel future
 spam attacks,[^3] but in truth existed as part of Forte's plot to slowly
 turn ProleWiki into a pro-CPC propaganda outlet via preventing
-non-revisionist [Marxists](Marxists "wikilink") from joining.[^4]
+non-revisionist [Marxists](Marxists.md "wikilink") from joining.[^4]
 However, the ProleWiki administration persists in denying the nature of
 this policy to this day.
 
@@ -104,10 +104,10 @@ Following this, Forte and the other administrators would openly state
 ProleWiki's dogmatic and permanent support for the People's Republic of
 China and codified it in their principles.[^8][^9] Forte and the others
 in his clique would proceed to completely discard
-[Lenin](Lenin "wikilink")'s scientific theory of
-[imperialism](imperialism "wikilink") (calling it "dogmatic" and
-"outdated") and started embracing anti-[Stalinist](Stalinist "wikilink")
-ideology, even downplaying [Stalin](Stalin "wikilink")'s contributions
+[Lenin](Lenin.md "wikilink")'s scientific theory of
+[imperialism](imperialism.md "wikilink") (calling it "dogmatic" and
+"outdated") and started embracing anti-[Stalinist](Stalinist.md "wikilink")
+ideology, even downplaying [Stalin](Stalin.md "wikilink")'s contributions
 to Marxism.[^10] ProleWiki, from this point forth, would consistently
 deny the account requests of anti-revisionists and generally any
 Communist who failed to fanatically support China.
@@ -138,7 +138,7 @@ views, Jucheguevara would, particularly following the creation of the
 articles on MAGA Communism and on Infrared, which similar to the one on
 Patriotic Socialism, made clear that “MAGA Communism” was anti-Marxist
 and revisionist, and the [Infrared
-collective](Infrared_(media_collective) "wikilink") (who are major
+collective](Infrared_(media_collective).md "wikilink") (who are major
 “theorists” and promoters of “MAGA Communism”) were chauvinist,
 apparently experience escalating discontent with ProleWiki itself.
 Jucheguevara would conspire with the Infrared community to effectively
@@ -173,7 +173,7 @@ the account requests of anti-revisionists – with them instead turning
 towards ultra-Dengist communities such as Lemmygrad and r/GenZedong for
 editor recruitment almost exclusively[^14][^15] – and openly went on a
 propaganda effort against anti-revisionist figures and movements, with
-them openly calling [Maoists](Marxism-Leninism-Maoism "wikilink"),
+them openly calling [Maoists](Marxism-Leninism-Maoism.md "wikilink"),
 Hoxhaists, and other anti-revisionists "dogmatic", "ultra-left",
 "sectarian", etc. in their articles.[^16][^17][^18] Following this,
 anti-revisionist users, led by user Wisconcom, would send a petition
@@ -182,7 +182,7 @@ with the administrators holding secret "proceedings" to ban users, make
 major decisions, etc., without anybody in the editorship knowing[^19]),
 the allowance of anti-revisionist users into the site, the expansion of
 the administration to more members, and the development of a [democratic
-centralist](Democratic_centralism "wikilink") system, rather than the
+centralist](Democratic_centralism.md "wikilink") system, rather than the
 one-man rule that the lead administrator Forte had over the site.[^20]
 
 The administration would reject this petition, despite its popularity
@@ -247,7 +247,7 @@ edit.[1](https://en.prolewiki.org/index.php?title=Special:Log/block&page=Comrade
 ### Marxism-Leninism and support for "actually existing socialism"
 
 ProleWiki, despite claiming to adhere to Marxism-Leninism, has commonly
-be described as [Dengist](Dengism "wikilink") in most communist circles
+be described as [Dengist](Dengism.md "wikilink") in most communist circles
 due to its militant, if not uncritical support for the People's Republic
 of China and its present economic system.[^30][^31] Despite the common
 views shared by Dengists that the current state-capitalist system of
@@ -257,26 +257,26 @@ claims that (with minimal concern for Marxist theory) private property
 under socialism is only "half-abolished"[^32] (contrary to the views of
 nearly every Marxist theorist), that billionaires are a critical part of
 a socialist state and must retain a large degree of state power,[^33]
-and that "[market socialism](market_socialism "wikilink")" (an oxymoron
+and that "[market socialism](market_socialism.md "wikilink")" (an oxymoron
 by the understanding of Marxian economics) is, in the words of the
 leading ProleWiki administrator, "a redundancy \[in terms\]. There's no
 socialism without markets".[^34]
 
 ProleWiki maintains the commonly-held Dengist view of "actually existing
-socialism", and views China, [Laos](Laos "wikilink"),
-[Vietnam](Vietnam "wikilink"), [Cuba](Republic_of_Cuba "wikilink"), and
-"[People's Korea](Democratic_People's_Republic_of_Korea "wikilink")" as
+socialism", and views China, [Laos](Laos.md "wikilink"),
+[Vietnam](Vietnam.md "wikilink"), [Cuba](Republic_of_Cuba.md "wikilink"), and
+"[People's Korea](Democratic_People's_Republic_of_Korea.md "wikilink")" as
 modern dictatorships of the proletariat. ProleWiki has expressed its
 uncritical support for China on many occasions,[^35] denying China's
-present [social-imperialist](Social-imperialism "wikilink") and
-[neocolonialist](Neocolonialism "wikilink") efforts as a mere "bourgeois
+present [social-imperialist](Social-imperialism.md "wikilink") and
+[neocolonialist](Neocolonialism.md "wikilink") efforts as a mere "bourgeois
 propaganda effort" (despite the editors proceeding to utilize
 billionaire-owned Russian and Chinese propaganda outlets and
 references),[^36][^37] that it is presently in the socialist mode of
 production and a full dictatorship of the proletariat (a stance which
 not even the Chinese government holds),[^38][^39] and even a
-[Soviet](Soviet_Union "wikilink")-style [planned
-economy](planned_economy "wikilink"), with their sources being posts on
+[Soviet](Soviet_Union.md "wikilink")-style [planned
+economy](planned_economy.md "wikilink"), with their sources being posts on
 pro-China subreddits which cite no sources whatsoever.[^40] (despite
 over 75% percent of the Chinese economy being owned by private, mostly
 bourgeois, entities, and even the public sector being run with a lack of
@@ -294,15 +294,15 @@ existing socialism" rather than actual revolutionary activities.
 ![](ProleWiki_antianti-revionist_ban_vote.png "ProleWiki_antianti-revionist_ban_vote.png")
 ProleWiki, particularly since its purge of anti-revisionists in October
 2022, has vilified anti-revisionist trends greatly. They have denounced
-[Albanian](People's_Socialist_Republic_of_Albania "wikilink") communist
-leader [Enver Hoxha](Enver_Hoxha "wikilink") as degrading into "dogmatic
+[Albanian](People's_Socialist_Republic_of_Albania.md "wikilink") communist
+leader [Enver Hoxha](Enver_Hoxha.md "wikilink") as degrading into "dogmatic
 and opportunistic thinking",[^43] denounced the concept of
 social-imperialism as "idealist" and "nonexistent" (and proceeding to
 defend reactionary and imperialistic actions by the
 Khruschevite-Brezhnevite Soviet Union),[^44] and denounced Maoism as
 being "Gonzaloism".[^45] The site has even demonized and otherwise
 attacked followers of [Irish
-Republicanism](Irish_Republicanism "wikilink"), along with other modern
+Republicanism](Irish_Republicanism.md "wikilink"), along with other modern
 revolutionary and anti-imperialist forces, calling them
 "petite-bourgeois" and "counter-revolutionary".[^46] In many other
 instances, ProleWiki has even voiced their support for Soviet
@@ -314,7 +314,7 @@ Albania.[^47][^48]
 
 One aspect which ProleWiki is infamous for is its militant support for
 the imperialist actions of the [Russian
-Federation](Russian_Federation "wikilink") and social-imperialist
+Federation](Russian_Federation.md "wikilink") and social-imperialist
 actions of the revisionist Soviet Union and the modern People's Republic
 of China. ProleWiki completely neglects accounting for the argumentation
 of the modern or historical anti-revisionist movement regarding
@@ -323,12 +323,12 @@ principle of "anti-imperialism".[^49]
 
 ProleWiki's "criticism" section on their page on social-imperialism
 misrepresents the nature of this concept. They[^50] refer to
-social-imperialism as "a [reformist](Reformism "wikilink") and
+social-imperialism as "a [reformist](Reformism.md "wikilink") and
 revisionist idea" and a concept which is employed solely by
 "ultra-leftists" (despite the concept originating from [Vladimir
-Lenin](Vladimir_Lenin "wikilink")) due to the fact that they maintain
+Lenin](Vladimir_Lenin.md "wikilink")) due to the fact that they maintain
 the misunderstanding that anti-revisionists believe no
-counter-revolution in [Mao](Mao_Zedong "wikilink")'s PRC or Stalin's
+counter-revolution in [Mao](Mao_Zedong.md "wikilink")'s PRC or Stalin's
 USSR took place, and further claim that "neither Mao nor Hoxha ever
 explained what the material basis of a "social-imperialist" state would
 be, and what the social formation of such a state looked like", despite
@@ -353,12 +353,12 @@ capital.[^53][^54]
 
 ## See also
 
-- [Conservapedia](Conservapedia "wikilink"), a similarly ideologically
+- [Conservapedia](Conservapedia.md "wikilink"), a similarly ideologically
   fanatical MediaWiki site which shares a comparable top-down
   administrative style and liberal banning policies.
-- [Lemmygrad](Lemmygrad "wikilink"), a Lemmy instance which shares
+- [Lemmygrad](Lemmygrad.md "wikilink"), a Lemmy instance which shares
   ProleWiki's views and are related to each other.
-- [InfraWiki](InfraWiki "wikilink"), a MediaWiki site which is an
+- [InfraWiki](InfraWiki.md "wikilink"), a MediaWiki site which is an
   offshoot of ProleWiki and mostly takes on the same positions.
 
 ## References

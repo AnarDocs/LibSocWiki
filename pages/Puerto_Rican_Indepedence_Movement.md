@@ -12,11 +12,11 @@ The Puerto Rican Independence Movement is
 ## Against the United States of America
 
 *Main Article: [Timeline of US
-Imperialism](Timeline_of_US_Imperialism "wikilink")*
+Imperialism](Timeline_of_US_Imperialism.md "wikilink")*
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anti-Colonialism](Category:Anti-Colonialism "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:Puerto
-Rico](Category:Puerto_Rico "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anti-Colonialism](Category:Anti-Colonialism.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:Puerto
+Rico](Category:Puerto_Rico.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink")

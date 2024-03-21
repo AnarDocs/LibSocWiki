@@ -4,18 +4,18 @@ permalink: /Sydney_Opera_House_Work-In/
 ---
 
 The **Sydney Opera House Work-In** was an episode of [workers'
-control](Workers'_Self-Management "wikilink") that occurred in Sydney,
-[Australia](Commonwealth_of_Australia "wikilink") in
-[1972](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").
+control](Workers'_Self-Management.md "wikilink") that occurred in Sydney,
+[Australia](Commonwealth_of_Australia.md "wikilink") in
+[1972](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").
 
 ## Background
 
 The Construction of the famous Sydney Opera House took place between
 1959 and 1973, or a period of 13 years. In 1972, management had fired a
-worker and in response the [workers](Working_Class "wikilink") demanded
+worker and in response the [workers](Working_Class.md "wikilink") demanded
 the rehiring of said worker and a [wage
-increase](Wage_Labour "wikilink") of 25%.
-[Management](Bosses "wikilink") refused these requests, and were all
+increase](Wage_Labour.md "wikilink") of 25%.
+[Management](Bosses.md "wikilink") refused these requests, and were all
 fired. In response, the workers broke into the construction site with a
 crowbar and brought their own toolboxes.[^1]
 
@@ -43,40 +43,40 @@ extremely satisfied with this, and ended their work-in.[^4]
 
 ## See Also
 
-- [Work-In](Work-In "wikilink")
-- [Harco Work-In](Harco_Work-In "wikilink")
+- [Work-In](Work-In.md "wikilink")
+- [Harco Work-In](Harco_Work-In.md "wikilink")
 - [Clutha Development Mine
-  Work-In](Clutha_Development_Mine_Work-In "wikilink")
+  Work-In](Clutha_Development_Mine_Work-In.md "wikilink")
 - [Whyalla Glove Factory
-  Work-In](Whyalla_Glove_Factory_Work-In "wikilink")
-- [Wyong Plaza Work-In](Wyong_Plaza_Work-In "wikilink")
-- [Nymboida Mine Work-In](Nymboida_Mine_Work-In "wikilink")
-- [Coal Cliff Work-In](Coal_Cliff_Work-In "wikilink")
+  Work-In](Whyalla_Glove_Factory_Work-In.md "wikilink")
+- [Wyong Plaza Work-In](Wyong_Plaza_Work-In.md "wikilink")
+- [Nymboida Mine Work-In](Nymboida_Mine_Work-In.md "wikilink")
+- [Coal Cliff Work-In](Coal_Cliff_Work-In.md "wikilink")
 - [Sanyo Television Factory
-  Work-In](Sanyo_Television_Factory_Work-In "wikilink")
-- [Union Carbide Work-In](Union_Carbide_Work-In "wikilink")
+  Work-In](Sanyo_Television_Factory_Work-In.md "wikilink")
+- [Union Carbide Work-In](Union_Carbide_Work-In.md "wikilink")
 - [Department of Social Security
-  Work-In](Department_of_Social_Security_Work-In "wikilink")
+  Work-In](Department_of_Social_Security_Work-In.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:Work-Ins](Category:Work-Ins "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1972](Category:1972 "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:Work-Ins](Category:Work-Ins.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1972](Category:1972.md "wikilink")
 
-[^1]: [Immanuel Ness](Immanuel_Ness "wikilink") (2014) [New Forms of
+[^1]: [Immanuel Ness](Immanuel_Ness.md "wikilink") (2014) [New Forms of
     Worker Organization: The Syndicalist and Autonomist Restoration of
     Class Struggle
-    Unionism](New_Forms_of_Worker_Organization:_The_Syndicalist_and_Autonomist_Restoration_of_Class_Struggle_Unionism "wikilink") -
+    Unionism](New_Forms_of_Worker_Organization:_The_Syndicalist_and_Autonomist_Restoration_of_Class_Struggle_Unionism.md "wikilink") -
     Chapter 10: Doing without the boss: Workers' Control Experiments in
     Australia in the 1970s
 

@@ -4,16 +4,16 @@ permalink: /January_Storm_(China)/
 ---
 
 *Not to be confused with January revolutions and uprisings in
-[Egypt](Egyptian_Revolution_(2011) "wikilink") (2011),
-[Germany](Sparticist's_Uprising "wikilink") (1918), Ukraine or Poland
+[Egypt](Egyptian_Revolution_(2011).md "wikilink") (2011),
+[Germany](Sparticist's_Uprising.md "wikilink") (1918), Ukraine or Poland
 (1863)*
 
 The **January Storm** (or **January Revolution**) was an attempt to turn
 Shanghai into a [libertarian socialistish
-community](Libertarian_Socialism "wikilink") during the [Cultural
-Revolution](Cultural_Revolution_(China) "wikilink") in
-[China](China "wikilink") in
-[1967](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+community](Libertarian_Socialism.md "wikilink") during the [Cultural
+Revolution](Cultural_Revolution_(China).md "wikilink") in
+[China](China.md "wikilink") in
+[1967](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 

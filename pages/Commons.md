@@ -5,14 +5,14 @@ permalink: /Commons/
 
 **Commons** (also known as **Common, Collective** or**Community
 Ownership**) refers to a way of managing and owning
-[land](land "wikilink"), natural resources and industry in collective
+[land](land.md "wikilink"), natural resources and industry in collective
 and democratic manner for the benefit of all in society as opposed to
-[state](state "wikilink") or [private
-ownership](Private_Ownership "wikilink").
+[state](state.md "wikilink") or [private
+ownership](Private_Ownership.md "wikilink").
 
 ## Successful Commons
 
-According to economist [Elinor Ostrom](Elinor_Ostrom "wikilink"), the
+According to economist [Elinor Ostrom](Elinor_Ostrom.md "wikilink"), the
 success of the commons depends on eight key factors:
 
 1.  Clearly defined (clear definition of the contents of the common pool
@@ -32,11 +32,11 @@ success of the commons depends on eight key factors:
     form of multiple layers of nested enterprises, with small local CPRs
     at the base level.
 
-[Category:Concepts](Category:Concepts "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Mutualism](Category:Mutualism "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Mutualism](Category:Mutualism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Commons](Category:Commons "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Commons](Category:Commons.md "wikilink")

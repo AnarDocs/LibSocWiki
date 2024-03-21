@@ -23,5 +23,5 @@ traditionally associated with “power,” or, at least privilege, mostly
 belong to men. Patriarchy gives both the ability and the right to use
 violence almost exclusively to men.
 
-[Category:Concepts](Category:Concepts "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")

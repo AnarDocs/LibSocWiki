@@ -5,20 +5,20 @@ permalink: /Sri_Lanka_Transport_Board/
 
 ![](Sri_Lanka_Transport_Board_logo.png "Sri_Lanka_Transport_Board_logo.png")
 The **Sri Lanka Transport Board** is a
-[company](Corporations "wikilink") which provides
-[bus](Buses "wikilink") services across [Sri
-Lanka](Democratic_Socialist_Republic_of_Sri_Lanka "wikilink"). It saw a
+[company](Corporations.md "wikilink") which provides
+[bus](Buses.md "wikilink") services across [Sri
+Lanka](Democratic_Socialist_Republic_of_Sri_Lanka.md "wikilink"). It saw a
 highly successful experiment in large-scale [workers'
-self-management](Workers'_Self-Management "wikilink") from [1958 to
-1979](Timeline_of_Libertarian_Socialism "wikilink") as well as some
-interesting data on [anarcho-capitalism](Anarcho-Capitalism "wikilink").
+self-management](Workers'_Self-Management.md "wikilink") from [1958 to
+1979](Timeline_of_Libertarian_Socialism.md "wikilink") as well as some
+interesting data on [anarcho-capitalism](Anarcho-Capitalism.md "wikilink").
 
 ## History
 
 ### Origins
 
 The first bus company in Sri Lanka was established in 1907, and
-according to [Wikipedia](Wikipedia "wikilink"):
+according to [Wikipedia](Wikipedia.md "wikilink"):
 
 > "There was no regulation, so when more than one bus operated on a
 > single route there was a scramble for the load, which might end in
@@ -43,21 +43,21 @@ and
 > proceed in secret, with union agents disguising themselves to avoid
 > company thugs.[^1]
 
-Sounds like a [utopia](Anarcho-Capitalism "wikilink"), doesn't it?
-Eventually, the [state](State_(Polity) "wikilink") was pressured by
-[unions](Trade_Unions "wikilink") to enact
-[regulations](Regulation "wikilink"), but the companies efforts to
+Sounds like a [utopia](Anarcho-Capitalism.md "wikilink"), doesn't it?
+Eventually, the [state](State_(Polity).md "wikilink") was pressured by
+[unions](Trade_Unions.md "wikilink") to enact
+[regulations](Regulation.md "wikilink"), but the companies efforts to
 constantly skirt them and the economic effects of poor [public
-transport](Transport "wikilink") led to
-[nationalization](nationalization "wikilink").[^2] But mismangement,
+transport](Transport.md "wikilink") led to
+[nationalization](nationalization.md "wikilink").[^2] But mismangement,
 corruption and inefficienies led to a change in the system.
 
 ### Workers' Self-Management
 
 In order to improve the efficiency of the buses, [worker
-councils](Worker_Councils "wikilink") were set up which allow [workers'
-self-management](Workers'_Self-Management "wikilink") to be put into
-practice. The [standardisation](standardisation "wikilink") of
+councils](Worker_Councils.md "wikilink") were set up which allow [workers'
+self-management](Workers'_Self-Management.md "wikilink") to be put into
+practice. The [standardisation](standardisation.md "wikilink") of
 construction material, vehicles and fuel combined with the increased
 morale of workers (both drivers and maintenance crew) led by workers
 councils allowed for the largest bus service in the world (with 7,000
@@ -67,9 +67,9 @@ accidents.[^3]
 
 ### Privatisation
 
-When the [neoliberal](Neoliberalism "wikilink") government around J.R.
+When the [neoliberal](Neoliberalism.md "wikilink") government around J.R.
 Jayewardene was intent on destroying a popular symbol of
-[socialism](socialism "wikilink") in practice. Funding was cut massively
+[socialism](socialism.md "wikilink") in practice. Funding was cut massively
 and buses were sold to other companies who supported the ruling
 government at low prices. Assets from the company were stolen by
 government cronies and workers councils were banned. By the 2000s, the
@@ -82,31 +82,31 @@ and high fees.[^4]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Southern
-Asia](Category:Southern_Asia "wikilink") [Category:Sri
-Lanka](Category:Sri_Lanka "wikilink")
-[Category:Transportation](Category:Transportation "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Southern
+Asia](Category:Southern_Asia.md "wikilink") [Category:Sri
+Lanka](Category:Sri_Lanka.md "wikilink")
+[Category:Transportation](Category:Transportation.md "wikilink")
 [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Privatization](Category:Privatization "wikilink")
-[Category:Anarcho-Capitalism](Category:Anarcho-Capitalism "wikilink")
-[Category:1958](Category:1958 "wikilink")
-[Category:1950s](Category:1950s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:1979](Category:1979 "wikilink")
-[Category:1970s](Category:1970s "wikilink")
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Privatization](Category:Privatization.md "wikilink")
+[Category:Anarcho-Capitalism](Category:Anarcho-Capitalism.md "wikilink")
+[Category:1958](Category:1958.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:1979](Category:1979.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/History_of_Sri_Lanka_Transport_Board#Origins>
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/History_of_Sri_Lanka_Transport_Board#Beginnings>
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/History_of_Sri_Lanka_Transport_Board#Golden_age>
 
-[^4]: [Wikipedia](Wikipedia "wikilink") -
+[^4]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/History_of_Sri_Lanka_Transport_Board#Breakdown>

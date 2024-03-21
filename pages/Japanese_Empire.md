@@ -4,8 +4,8 @@ permalink: /Japanese_Empire/
 ---
 
 The **Japanese Empire** or **Empire of Japan**was an empire that existed
-from 1868 to 1947 in what is now [Japan](Japan "wikilink"), Korea,
-[China](China "wikilink") and much of Southeast Asia.
+from 1868 to 1947 in what is now [Japan](Japan.md "wikilink"), Korea,
+[China](China.md "wikilink") and much of Southeast Asia.
 
 ## History
 
@@ -17,7 +17,7 @@ Christianity in the country. This ended after the US forcibly opened the
 country up for trade, leading to an ultra-nationalist movement forming
 that murdered foreigners and several parts of the former military
 attempted coups. Soon, a new authoritarian government was installed
-during the [Meiji Restoration](Meiji_Restoration "wikilink").
+during the [Meiji Restoration](Meiji_Restoration.md "wikilink").
 
 ### Meiji Restoration
 

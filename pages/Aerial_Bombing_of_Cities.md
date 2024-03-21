@@ -10,4 +10,4 @@ workers and demoralise the enemy state.
 ## See Also
 
 - [United States Bombing of
-  Cities](United_States_Bombing_of_Cities "wikilink")
+  Cities](United_States_Bombing_of_Cities.md "wikilink")

@@ -3,18 +3,18 @@ title: Bulgaria
 permalink: /Bulgaria/
 ---
 
-The **Republic of Bulgaria** is a [liberal](Liberalism "wikilink"),
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
-located in Southeast Europe, near [Turkey](Turkey "wikilink"),
-[Romania](Romania "wikilink"), [Serbia](Serbia "wikilink"),
-[Macedonia](Macedonia "wikilink") and [Greece](Greece "wikilink").
+The **Republic of Bulgaria** is a [liberal](Liberalism.md "wikilink"),
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
+located in Southeast Europe, near [Turkey](Turkey.md "wikilink"),
+[Romania](Romania.md "wikilink"), [Serbia](Serbia.md "wikilink"),
+[Macedonia](Macedonia.md "wikilink") and [Greece](Greece.md "wikilink").
 
 ## History
 
 ### Socialist Bulgaria (1946 - 1991)
 
 *Main Article: [People's Republic of
-Bulgaria](People's_Republic_of_Bulgaria "wikilink")*
+Bulgaria](People's_Republic_of_Bulgaria.md "wikilink")*
 
 In 1944, the USSR launched an invasion of Bulgaria due to their support
 for Nazi Germany, and Bulgarian communists launched a three day coup and
@@ -61,26 +61,26 @@ several ways, notably:
 ## Notably Social Struggles
 
 - Unknown: [Autonomous Workers'
-  Union](Autonomous_Workers'_Union_(Bulgaria) "wikilink")
-- 1903: [Strandzha Commune](Strandzha_Commune "wikilink")
+  Union](Autonomous_Workers'_Union_(Bulgaria).md "wikilink")
+- 1903: [Strandzha Commune](Strandzha_Commune.md "wikilink")
 
 ## Notable Bulgarians
 
-- [Koitscho Koitschew](Koitscho_Koitschew "wikilink")
-- [Ivan Balev](Ivan_Balev "wikilink")
+- [Koitscho Koitschew](Koitscho_Koitschew.md "wikilink")
+- [Ivan Balev](Ivan_Balev.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Bulgaria](Category:Bulgaria "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:States](Category:States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Bulgaria](Category:Bulgaria.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink")
 
 [^1]: <https://en.wikipedia.org/wiki/Demographics_of_Bulgaria>
 

@@ -3,8 +3,8 @@ title: Logical Fallacy
 permalink: /Logical_Fallacy/
 ---
 
-**Logical Fallacies** are 'errors' in the [logic](logic "wikilink") in
-an [argument](Argument_(Philosophy) "wikilink") that undermine the
+**Logical Fallacies** are 'errors' in the [logic](logic.md "wikilink") in
+an [argument](Argument_(Philosophy).md "wikilink") that undermine the
 argument itself.
 
 ## List of Logical Fallacies
@@ -26,10 +26,10 @@ argument itself.
 
 ## See Also
 
-- [Cognitive Bias](Cognitive_Bias "wikilink")
-- [List of Concepts](List_of_Concepts "wikilink")
+- [Cognitive Bias](Cognitive_Bias.md "wikilink")
+- [List of Concepts](List_of_Concepts.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Philosophy](Category:Philosophy "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Philosophy](Category:Philosophy.md "wikilink")

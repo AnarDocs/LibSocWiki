@@ -58,7 +58,7 @@ rebels began to attack Soviet troops.
 Some rebels began to carry out torture and executions of communists,
 secret police and military personnel. This soon led to a civil war
 between communists (themselves supported by factory workers and
-anti-fascist [World War II](World_War_II "wikilink") veterans) and
+anti-fascist [World War II](World_War_II.md "wikilink") veterans) and
 anti-communist rebels, with the Soviet army acting as a third faction.
 Workers' councils and popular assemblies spread across the country and
 rebels fought tanks with molotov cocktails. Anti-communist rebels

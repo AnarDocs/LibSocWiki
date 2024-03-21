@@ -4,19 +4,19 @@ permalink: /Healthcare/
 ---
 
 **Healthcare** or **Medical Care** is the maintenance or improvement of
-[health](health "wikilink") via the prevention, diagnosis, and treatment
+[health](health.md "wikilink") via the prevention, diagnosis, and treatment
 of disease, illness, injury, and other physical and mental impairments
 in people.
 
 ## Healthcare in a Libertarian Socialist Society
 
-[Libertarian socialists](Libertarian_Socialism "wikilink") have
+[Libertarian socialists](Libertarian_Socialism.md "wikilink") have
 experimented with various forms of healthcare in their
-[communities](List_of_Libertarian_Socialist_Societies "wikilink").
+[communities](List_of_Libertarian_Socialist_Societies.md "wikilink").
 
 ### Zapatistas
 
-The [Zapatistas](Rebel_Zapatista_Autonomous_Municipalities "wikilink")
+The [Zapatistas](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink")
 maintain a high-quality universal healthcare service which has been
 praised by the World Health Organization for reducing infant mortality
 and providing strong primary care to residents.[^1] Residents of the
@@ -39,33 +39,33 @@ well-being of communities.[^3] According to one account of Oventic from
 
 ## Notable Libertarian Socialist Doctors
 
-- [Amparo Poch y Gascón](Amparo_Poch_y_Gascón "wikilink")
-- [Chris Pallis](Chris_Pallis "wikilink")
-- [Félix Martí-Ibáñez](Félix_Martí-Ibáñez "wikilink")
-- [Joseph Toscano](Joseph_Toscano "wikilink")
-- [Koitscho Koitschew](Koitscho_Koitschew "wikilink")
-- [Isaac Puente](Isaac_Puente "wikilink")
-- [Ivan Balev](Ivan_Balev "wikilink")
-- [Pedro Vallina](Pedro_Vallina "wikilink")
-- [Roberto Remartinez](Roberto_Remartinez "wikilink")
+- [Amparo Poch y Gascón](Amparo_Poch_y_Gascón.md "wikilink")
+- [Chris Pallis](Chris_Pallis.md "wikilink")
+- [Félix Martí-Ibáñez](Félix_Martí-Ibáñez.md "wikilink")
+- [Joseph Toscano](Joseph_Toscano.md "wikilink")
+- [Koitscho Koitschew](Koitscho_Koitschew.md "wikilink")
+- [Isaac Puente](Isaac_Puente.md "wikilink")
+- [Ivan Balev](Ivan_Balev.md "wikilink")
+- [Pedro Vallina](Pedro_Vallina.md "wikilink")
+- [Roberto Remartinez](Roberto_Remartinez.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Healthcare](Category:Healthcare "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Healthcare](Category:Healthcare.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 
 [^1]: J.H. Cuevas (2007) Health and Autonomy: The Case of Chiapas
 
 [^2]: Resistencia Autónoma: Cuaderno de texto de primer grado del curso
     de “La Libertad según l@s Zapatistas
 
-[^3]: [Raúl Zibechi](Raúl_Zibechi "wikilink") (2012) [Territories in
+[^3]: [Raúl Zibechi](Raúl_Zibechi.md "wikilink") (2012) [Territories in
     Resistance: A Cartography of Latin American Social
-    Movements](Territories_in_Resistance:_A_Cartography_of_Latin_American_Social_Movements "wikilink")
+    Movements](Territories_in_Resistance:_A_Cartography_of_Latin_American_Social_Movements.md "wikilink")
 
 [^4]:
     > [Two decades on: A glimpse inside the Zapatista's capital,

@@ -4,18 +4,18 @@ permalink: /Socialist_Burkina_Faso/
 ---
 
 **Socialist Burkina Faso** refers to [Burkina
-Faso](Burkina_Faso "wikilink") from 1983 to 1987, which had a government
-led by [Thomas Sankara](Thomas_Sankara "wikilink"). Ideologically a
-[Marxist-Leninist](Marxist-Leninism "wikilink") society, there were
+Faso](Burkina_Faso.md "wikilink") from 1983 to 1987, which had a government
+led by [Thomas Sankara](Thomas_Sankara.md "wikilink"). Ideologically a
+[Marxist-Leninist](Marxist-Leninism.md "wikilink") society, there were
 fairly large programmes for social, ecological, and economic change were
 launched before it met a quick doom at the hands of
-[neo-colonialism](Neo-Colonalism "wikilink") and
-[francafrique](francafrique "wikilink").
+[neo-colonialism](Neo-Colonalism.md "wikilink") and
+[francafrique](francafrique.md "wikilink").
 
 ## Positives
 
 - The country was renamed from Upper Volta (a name given by the [French
-  Empire](French_Empire "wikilink")) to Burkina Faso, meaning 'land of
+  Empire](French_Empire.md "wikilink")) to Burkina Faso, meaning 'land of
   incorruptible people'. A new national flag and anthem were also given,
   written personally by Thomas Sankara.
 - The rights and properties of tribal chiefs as land reform was enacted,
@@ -62,7 +62,7 @@ launched before it met a quick doom at the hands of
   so bad even Sankara acknowledged it.
 - Given Sankara's taking of power through a coup and failure to properly
   decentralise power, he was [easily
-  vulnerable](Hydra_Hypothesis "wikilink") to being deposed in another
+  vulnerable](Hydra_Hypothesis.md "wikilink") to being deposed in another
   coup.
 - Unlike other Marxist-Leninist governments, the government failed to
   reduce the country's large illiteracy problem, having fired thousands
@@ -73,13 +73,13 @@ launched before it met a quick doom at the hands of
 ## Sources
 
 [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) at
-[Wikipedia](Wikipedia "wikilink")
+[Wikipedia](Wikipedia.md "wikilink")
 
-[Category:Socialist States](Category:Socialist_States "wikilink")
-[Category:Former States](Category:Former_States "wikilink")
-[Category:Burkina Faso](Category:Burkina_Faso "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+[Category:Socialist States](Category:Socialist_States.md "wikilink")
+[Category:Former States](Category:Former_States.md "wikilink")
+[Category:Burkina Faso](Category:Burkina_Faso.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Western
-Africa](Category:Western_Africa "wikilink")
-[Category:Africa](Category:Africa "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Western
+Africa](Category:Western_Africa.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink")

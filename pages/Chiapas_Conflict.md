@@ -4,13 +4,13 @@ permalink: /Chiapas_Conflict/
 ---
 
 The **Chiapas Conflict** refers to an ongoing conflict between the
-[EZLN](Zapatista_Army_of_National_Liberation "wikilink") and [Mexican
-government](Mexico "wikilink"), [police](police "wikilink") and
-[military](military "wikilink") for control of [Zapatista
-Communities](Rebel_Zapatista_Autonomous_Municipalities "wikilink") and
+[EZLN](Zapatista_Army_of_National_Liberation.md "wikilink") and [Mexican
+government](Mexico.md "wikilink"), [police](police.md "wikilink") and
+[military](military.md "wikilink") for control of [Zapatista
+Communities](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink") and
 the surrounding Lacandon Jungle. The conflict has also seen support by
-the [USA](United_States_of_America "wikilink"), as part of their ongoing
-[imperial project](Timeline_of_US_Imperialism "wikilink").
+the [USA](United_States_of_America.md "wikilink"), as part of their ongoing
+[imperial project](Timeline_of_US_Imperialism.md "wikilink").
 
 ## Timeline
 
@@ -31,7 +31,7 @@ the [USA](United_States_of_America "wikilink"), as part of their ongoing
 <!-- -->
 
 - **11 April 1998**: The autonomous municipality [Ricardo Flores
-  Magón](Ricardo_Flores_Magón "wikilink") is dismantled in a police and
+  Magón](Ricardo_Flores_Magón.md "wikilink") is dismantled in a police and
   military operation in the community of Taniperlas, municipality of
   Ocosingo. Nine Mexicans are detained and twelve foreigners are
   expelled from the country.
@@ -171,7 +171,7 @@ the [USA](United_States_of_America "wikilink"), as part of their ongoing
 <!-- -->
 
 - **23 April 2004**: [Noel Pável
-  González](Noel_Pável_González "wikilink"), student at the National
+  González](Noel_Pável_González.md "wikilink"), student at the National
   Autonomous University of Mexico and the National School of
   Anthropology and History, was found murdered in Mexico City. Elements
   of the investigation point towards the involvement of the ultra-right
@@ -273,17 +273,17 @@ the [USA](United_States_of_America "wikilink"), as part of their ongoing
 
 ## References
 
-1.  [Wikipedia](Wikipedia "wikilink") -
+1.  [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Chiapas_conflict#List_of_violent_incidents_(1994%E2%80%93present)>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Wars](Category:Wars "wikilink")
-[Category:Mexico](Category:Mexico "wikilink") [Category:Central
-America](Category:Central_America "wikilink") [Category:North
-America](Category:North_America "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:1990s](Category:1990s "wikilink")
-[Category:1994](Category:1994 "wikilink")
-[Category:Zapatistas](Category:Zapatistas "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Wars](Category:Wars.md "wikilink")
+[Category:Mexico](Category:Mexico.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink")
+[Category:1994](Category:1994.md "wikilink")
+[Category:Zapatistas](Category:Zapatistas.md "wikilink")

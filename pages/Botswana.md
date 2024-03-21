@@ -3,14 +3,14 @@ title: Botswana
 permalink: /Botswana/
 ---
 
-**Botswana** is a [liberal](Liberalism "wikilink")
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
-in Southern Africa, bordered by [South Africa](South_Africa "wikilink"),
-[Namibia](Namibia "wikilink"), Angola, [Zambia](Zambia "wikilink") and
+**Botswana** is a [liberal](Liberalism.md "wikilink")
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
+in Southern Africa, bordered by [South Africa](South_Africa.md "wikilink"),
+[Namibia](Namibia.md "wikilink"), Angola, [Zambia](Zambia.md "wikilink") and
 Zimbabwe. Botswana is notable for being one of two countries in Africa
 that has never experienced a dictatorship or civil war (the other being
-[Mauritius](Mauritius "wikilink")) after being decolonised by the
-[British Empire](British_Empire "wikilink").
+[Mauritius](Mauritius.md "wikilink")) after being decolonised by the
+[British Empire](British_Empire.md "wikilink").
 
 ## Positives
 
@@ -45,9 +45,9 @@ rather than a blessing (e.g., Sachs and Warner, 1995). So how did
 Botswana do it?
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Botswana](Category:Botswana "wikilink") [Category:Southern
-Africa](Category:Southern_Africa "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink")
-[Category:States](Category:States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Botswana](Category:Botswana.md "wikilink") [Category:Southern
+Africa](Category:Southern_Africa.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink")
+[Category:States](Category:States.md "wikilink")

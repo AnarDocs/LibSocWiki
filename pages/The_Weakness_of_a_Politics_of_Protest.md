@@ -4,16 +4,16 @@ permalink: /The_Weakness_of_a_Politics_of_Protest/
 ---
 
 **The Weakness of a Politics of Protest** is a 2000 article by [James
-Herod](James_Herod "wikilink") that is criticial of the marches and
+Herod](James_Herod.md "wikilink") that is criticial of the marches and
 demonstrations common in cities done for 'social change', instead
-advocating for [organising](organising "wikilink").
+advocating for [organising](organising.md "wikilink").
 
 ## Transcript
 
 <em>Expanded slightly November 2000 and January 2001</em>
 
 <em>"Unfortunately, with the growing popularity of [these
-struggles](Global_Justice_Movement "wikilink") \[against the WTO, IMF,
+struggles](Global_Justice_Movement.md "wikilink") \[against the WTO, IMF,
 and WB\] amongst broad sections of the left, we can already begin to see
 this developing movement shifting further in the direction of polite
 reform rather than open resistance. Even among many anarchists, we can
@@ -87,12 +87,12 @@ police of the world's ruling classes.
 The left's usual response to this point is to say that therefore we have
 to have 'massive' protests, and then they wouldn't be able to stop us.
 Wrong! They could, and have, like with the destruction of Vietnam, the
-[mass murder](New_Order_(Indonesia)#Mass_Killings_in_1960s "wikilink")
+[mass murder](New_Order_(Indonesia)#Mass_Killings_in_1960s.md "wikilink")
 of several hundred thousand people in Indonesia in 1965, the
-thoroughgoing destruction of the [New Left](New_Left "wikilink"), the
+thoroughgoing destruction of the [New Left](New_Left.md "wikilink"), the
 death squads in Central America in the eighties, the [extermination of a
 quarter of the
-population](Indonesian_Occupation_of_East_Timor "wikilink") of East
+population](Indonesian_Occupation_of_East_Timor.md "wikilink") of East
 Timor, the invasions of Grenada and Panama, the seventy-eight days of
 bombings in Yugoslavia in 1999, the ongoing sanctions and bombings in
 Iraq, the assassinations and massacres taking place right now in
@@ -115,7 +115,7 @@ for a few hours in the streets of the capitals of the world. Rather, it
 would be a movement made up of communities of people, and thus would be
 a cooperative movement, at its very roots. A new social order cannot be
 built in the streets, but only in our neighborhoods, workplaces, and
-households. [Capitalism](Capitalism "wikilink") cannot be defeated in
+households. [Capitalism](Capitalism.md "wikilink") cannot be defeated in
 the streets, but only in our neighborhoods, workplaces, and households.
 
 The trouble is, "we" do not know what "we" want. That is, there is no
@@ -201,7 +201,7 @@ demonstrations in the streets against policies we had no say in making?
 I have spelled all this out in greater detail in my short book,
 <em>[Getting Free: A Sketch of an Association of Democratic, Autonomous
 Neighborhoods and How to Create
-It](Getting_Free:_A_Sketch_of_an_Association_of_Democratic,_Autonomous_Neighborhoods_and_How_to_Create_It "wikilink").</em>
+It](Getting_Free:_A_Sketch_of_an_Association_of_Democratic,_Autonomous_Neighborhoods_and_How_to_Create_It.md "wikilink").</em>
 <em>(a)</em> A short sketch of the new social arrangements which
 <em>I</em> want is included there. I hope within a year or two or three
 to post or publish a longer study, <em>Imagining Anarchism</em>, which
@@ -218,7 +218,7 @@ When I first read Jack’s response, I thought, "Well, of course he’s
 right." But after mulling it over for a day or two I came to my senses.
 His letter actually illustrates some of the points I was trying to make.
 For example, Jack writes: "Do you think that it is sheer coincidence
-that [after Seattle](Battle_of_Seattle "wikilink") countless anarchist
+that [after Seattle](Battle_of_Seattle.md "wikilink") countless anarchist
 publications, book fairs, collectives, infoshops and activities have
 sprung up throughout the country?" My point is this: publications, book
 fairs, collectives, and infoshops cannot defeat capitalism or establish
@@ -276,7 +276,7 @@ the whole system, but by far the majority of these "revolutionaries"
 became Leninists, or in a few cases, even Stalinists! There was also a
 minority who were traditional socialists of one kind or another, but
 there was only a tiny, tiny, tiny minority of New Leftists who became
-anarchists, or [anarcho-syndicalists](Anarcho-Syndicalism "wikilink")
+anarchists, or [anarcho-syndicalists](Anarcho-Syndicalism.md "wikilink")
 (or anti-bolshevik communists, or Third Road Radicals, as I used to
 say), although I believe anarchist themes were a prominent part of the
 New Left experience.
@@ -292,7 +292,7 @@ until by now only a few of them remain.
 
 Wallerstein may be correct in claiming that the revolts of the sixties
 were one of only two systemic, world revolutions against capitalism, the
-other being in [1848](Revolutions_of_1848_-_1871 "wikilink"), both of
+other being in [1848](Revolutions_of_1848_-_1871.md "wikilink"), both of
 which went down to defeat. <em>(b)</em> And that is the point: the
 revolts of the sixties failed, although they scared the hell out of
 capitalists and forced them to make adjustments, and to retool, which of
@@ -387,8 +387,8 @@ The organization of my pamphlet, <em>Getting Free</em>, reflects these
 beliefs. I begin with a brief condemnation of capitalism, by describing
 what I hate most about it. Then I sketch out briefly, but in concrete
 detail, the kind of social arrangements which I would like and which I
-believe constitute [anarchism](anarchism "wikilink") ([true
-communism](Anarcho-Communism "wikilink")). Next I consider some of the
+believe constitute [anarchism](anarchism.md "wikilink") ([true
+communism](Anarcho-Communism.md "wikilink")). Next I consider some of the
 obstacles in the way of achieving such social arrangements, and some of
 the strategies that have already been tried but have failed. Then I map
 out, both in the abstract and in concrete detail, a strategy which I
@@ -398,7 +398,7 @@ goal, the program, that is, the concrete description of the social
 arrangements which I believe would make up an anarchistic society.
 
 The strategy which prevailed throughout most of this century,
-[Leninism](Leninism "wikilink"), was also linked to a particular
+[Leninism](Leninism.md "wikilink"), was also linked to a particular
 definition of communism, one involving nationalization of resources, for
 example, and so it focused on capturing the state. Sometimes I feel that
 all the marches on Washington DC are in reality vestiges of leninism,
@@ -429,8 +429,8 @@ my generation. I should be able to point to a whole shelf full of books
 by now, detailed studies which spell things out and examine concretely
 the many problems. We didn’t do the work however, except now we do have
 a few books coming out (e.g.. [Takis
-Fotopoulos](Takis_Fotopoulos "wikilink"), <em>[Towards an Inclusive
-Democracy](Towards_an_Inclusive_Democracy "wikilink")</em>). Instead,
+Fotopoulos](Takis_Fotopoulos.md "wikilink"), <em>[Towards an Inclusive
+Democracy](Towards_an_Inclusive_Democracy.md "wikilink")</em>). Instead,
 and for the most part, and tragically, my generation’s energies went
 into Identity Politics.
 
@@ -475,21 +475,21 @@ think of is pouring into the streets, in demonstrations, rallies, and
 marches. I was reminded recently, in the process of preparing a
 bibliographical guide to anarchist writings, and in looking up
 references to anarchist uprisings from the [German peasant war of
-1525](German_Peasants'_War "wikilink") on down, that this is no new
+1525](German_Peasants'_War.md "wikilink") on down, that this is no new
 thing. The peasants of early modern times poured into the streets and
 roads, and marched. Thomas Munzer participated in one such march, on
 Mulhausen, in 1525, where they took over the town council, and where
 Munzer was later captured, and beheaded (while Martin Luther sat
 comfortably with his Princes). There were marches and demonstrations in
-the [English revolution of 1640](English_Civil_War "wikilink"). The
-[sans-culottes](Sans-Culottes "wikilink"), in the [French
-Revolution](French_Revolution "wikilink"), poured into the streets, and
+the [English revolution of 1640](English_Civil_War.md "wikilink"). The
+[sans-culottes](Sans-Culottes.md "wikilink"), in the [French
+Revolution](French_Revolution.md "wikilink"), poured into the streets, and
 set up barricades, to defend their working class neighborhoods, where
 they had established self-government. There were demonstrations and
 marches all over Europe in the insurrections of 1848. And so on down
 through all the great revolutions of modern times. I saw once the eight
 hour BBC documentary of the [Spanish
-Revolution](Spanish_Revolution "wikilink"), and was simply amazed by the
+Revolution](Spanish_Revolution.md "wikilink"), and was simply amazed by the
 marches they had, involving hundreds of thousands of people at a time.
 One march they filmed in Madrid toward the end of the war must have had
 half-a-million people.
@@ -498,8 +498,8 @@ In almost all cases, though, in these historical events, it was not just
 marches and demonstrations, but also the setting up of local assemblies,
 and agricultural and/or industrial councils. This was true in the
 peasant wars, in the French Revolution, the [American
-Revolution](American_Revolution "wikilink"), the [Paris
-Commune](Paris_Commune "wikilink"), 1905 in Russia, 1917 in Russia,
+Revolution](American_Revolution.md "wikilink"), the [Paris
+Commune](Paris_Commune.md "wikilink"), 1905 in Russia, 1917 in Russia,
 1918-19 in Germany, 1936-39 in Spain, 1956 in Hungary, 1980-82 in
 Poland, and so forth. (This -- the setting up of assemblies -- does not
 seem to have happened in the great popular uprisings in Eastern Europe
@@ -565,8 +565,8 @@ a force for neo-liberalism.
 This week (Jan. 25-30) in Davos, Switzerland, radicals are demonstrating
 against the World Economic Forum. In addition, an anti-Davos
 counter-conference has been organized in [Porto
-Alegre](Porto_Alegre "wikilink"), [Brazil](Brazil "wikilink"), called
-the [World Social Forum](World_Social_Forum "wikilink"), attended by
+Alegre](Porto_Alegre.md "wikilink"), [Brazil](Brazil.md "wikilink"), called
+the [World Social Forum](World_Social_Forum.md "wikilink"), attended by
 thousands of activists. I can’t deny that I find these events very
 exciting and encouraging, just as I did the demonstrations and ‘shadow
 conferences’ in Seattle, Washington DC, Philadelphia, Los Angeles,
@@ -593,7 +593,7 @@ consciousness, about what’s wrong, what will happen then? In the absence
 of concrete positive programs for local self-rule, what will replace
 global capitalism, if not some more-or-less equally bad system? Won’t
 reforms most likely lean in the direction of [Social
-Democracy](Social_Democracy "wikilink"), at best, or at worst, some new
+Democracy](Social_Democracy.md "wikilink"), at best, or at worst, some new
 world governing elite, even if comprised of NGOs (which would
 undoubtedly be rapidly co-opted by a reconstituted ruling class)? A few
 articles have already appeared, by members of the new generation of
@@ -645,9 +645,9 @@ Building a Movement". On the web at www.zmag.org/dixonseattle.htm.
 
 - [The Weakness of a Politics of
   Protest](https://theanarchistlibrary.org/library/james-herod-the-weakness-of-a-politics-of-protest)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:James
-Herod](Category:James_Herod "wikilink")
-[Category:Articles](Category:Articles "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:James
+Herod](Category:James_Herod.md "wikilink")
+[Category:Articles](Category:Articles.md "wikilink")

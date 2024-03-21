@@ -4,4 +4,4 @@ permalink: /Awareness_League/
 ---
 
 1.  REDIRECT [Awareness League
-    (Nigeria)](Awareness_League_(Nigeria) "wikilink")
+    (Nigeria)](Awareness_League_(Nigeria).md "wikilink")

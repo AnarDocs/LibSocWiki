@@ -7,10 +7,10 @@ The **Nuclear Bombings of Japan** refers to the deployment of two
 nuclear bombs in the Japanese cities of Hiroshima and Nagasaki on the
 6th and 9th of August, 1945. The intital explosion, fires and long-term
 medical effects killed between 129,000 and 226,000 people. Seen as the
-final act of [World War II](World_War_II "wikilink") and the beginning
-of a [new nuclear age](Cold_War "wikilink"), they remain an extremely
+final act of [World War II](World_War_II.md "wikilink") and the beginning
+of a [new nuclear age](Cold_War.md "wikilink"), they remain an extremely
 controversial issue and remains the only known deployment of [nuclear
-weapons](Nuclear_Weapons "wikilink") in a war.
+weapons](Nuclear_Weapons.md "wikilink") in a war.
 
 ## Debate
 
@@ -73,22 +73,22 @@ President Truman's Chief of Staff
 
 ### List of Critics
 
-- [Albert Einstein](Albert_Einstein "wikilink") - Theoritical Physicist
-- [Gar Alperovitz](Gar_Alperovitz "wikilink") - Historian
-- [Noam Chomsky](Noam_Chomsky "wikilink") - Historian, Linguist and
+- [Albert Einstein](Albert_Einstein.md "wikilink") - Theoritical Physicist
+- [Gar Alperovitz](Gar_Alperovitz.md "wikilink") - Historian
+- [Noam Chomsky](Noam_Chomsky.md "wikilink") - Historian, Linguist and
   Cognitive Scientist
 
-[Category:World War II](Category:World_War_II "wikilink")
+[Category:World War II](Category:World_War_II.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Japan](Category:Japan "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:1945](Category:1945 "wikilink")
-[Category:1940s](Category:1940s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Mass
-Killings](Category:Mass_Killings "wikilink") [Category:Nuclear
-Weapons](Category:Nuclear_Weapons "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Japan](Category:Japan.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:1945](Category:1945.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Mass
+Killings](Category:Mass_Killings.md "wikilink") [Category:Nuclear
+Weapons](Category:Nuclear_Weapons.md "wikilink")
 
 [^1]: hansard.millbanksystems.com/commons/1945/aug/16/debate-on-the-address#S5CV0413P0_19450816_HOC_43
 

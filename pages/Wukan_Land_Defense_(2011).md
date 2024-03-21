@@ -547,6 +547,6 @@ assembly, blocking traffic and disrupting public order.<sup>\[63\]</sup>
 
 ## See Also
 
-- [Cherán Revolution](Cherán_Revolution "wikilink") - a similar event in
+- [Cherán Revolution](Cherán_Revolution.md "wikilink") - a similar event in
   Mexico that happened 5 months earlier.
-- [Resistance in China](Resistance_in_China "wikilink")
+- [Resistance in China](Resistance_in_China.md "wikilink")

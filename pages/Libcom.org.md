@@ -4,9 +4,9 @@ permalink: /Libcom.org/
 ---
 
 **libcom.org** is a website that covers politics and history from a
-[libertarian communist](Anarcho-Communism "wikilink") perspective. It
+[libertarian communist](Anarcho-Communism.md "wikilink") perspective. It
 uploads books, biographies of various communists and
-[anti-fascists](Anti-Fascism "wikilink"), articles, historical summaries
+[anti-fascists](Anti-Fascism.md "wikilink"), articles, historical summaries
 and perspectives on current news.
 
 ## Criticism
@@ -17,4 +17,4 @@ considered a bias source. Another common criticism is its relationship
 and problems revolving imperialist, anti-semitic and violent arguments
 by Baa'thists and communist Arab nationalists.
 
-[Category:Websites](Category:Websites "wikilink")
+[Category:Websites](Category:Websites.md "wikilink")

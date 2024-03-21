@@ -3,10 +3,10 @@ title: Years of Lead (Italy)
 permalink: /Years_of_Lead_(Italy)/
 ---
 
-The **Years of Lead** was a period in [Italian](Italy "wikilink")
+The **Years of Lead** was a period in [Italian](Italy.md "wikilink")
 history characterised by terrorism and political violence between
-leftists and [autonomists](Autonomism "wikilink"),
-[neo-fascists](Neo-Fascism "wikilink") and the government.
+leftists and [autonomists](Autonomism.md "wikilink"),
+[neo-fascists](Neo-Fascism.md "wikilink") and the government.
 
 ## Events
 

@@ -5,7 +5,7 @@ permalink: /Contradictions_of_Authoritarian_Socialism/
 
 This article outlines the **contradictions of authoritarian or state
 socialism**, or the ways in which [authoritarian
-socialist](Authoritarian_Socialism "wikilink") governments contradict
+socialist](Authoritarian_Socialism.md "wikilink") governments contradict
 their own values. As such, this article takes repression of dissenters,
 restrictions on media and movement, war crimes, invasion of other
 countries to protect socialist revolution and spying on citizens as
@@ -20,7 +20,7 @@ critique third world efforts at socialism whilst under siege from the
 United States. While we want all embargoes, US state-sponsored terrorism
 (as seen in Cuba and China) wars and espionage to end and oppose war
 against any of these countries or any other country not aligned with the
-USA (like [Iran](Iran "wikilink") or Syria) We are obviously aware that
+USA (like [Iran](Iran.md "wikilink") or Syria) We are obviously aware that
 these critiques won't reach the people living in these countries, but
 that isn't our goal. We are not trying to promote US-sponsored 'regime
 change' anywhere nor are we trying to incite a libertarian socialist
@@ -35,14 +35,14 @@ contains a list of positive and negative achievements.
 
 ## China
 
-- Xi Jinping, current Premier of [China](China "wikilink"), has admitted
+- Xi Jinping, current Premier of [China](China.md "wikilink"), has admitted
   that the country has a massive problem with corruption and has begun
   an anti-corruption campaign. The campaign 'netted' over 120
   high-ranking officials, including about a dozen high-ranking military
   officers, several senior executives of state-owned companies, and five
   national leaders. More than 100,000 people have been indicted for
   corruption.[^1]
-  - The [Wukan Uprising](Wukan_Land_Defense_(2011) "wikilink") in 2011
+  - The [Wukan Uprising](Wukan_Land_Defense_(2011).md "wikilink") in 2011
     highlights just how deep this corruption goes, and that the Chinese
     government often sold off peasant lands without their consent to
     wealthy corporations.
@@ -52,54 +52,54 @@ contains a list of positive and negative achievements.
     poor, social injustice, and excessive focus on material wealth.[^2]
 - China has a pretty bad record on foreign policy. *We won't be covering
   China's debt deals and infrastructure buying. To China's credit, it is
-  MUCH more peaceful than the [USA's](US_Hegemony "wikilink"),
-  [UK's](UK_Hegemony "wikilink") and
-  [France's](French_Hegemony "wikilink") efforts to create hegemony.*
+  MUCH more peaceful than the [USA's](US_Hegemony.md "wikilink"),
+  [UK's](UK_Hegemony.md "wikilink") and
+  [France's](French_Hegemony.md "wikilink") efforts to create hegemony.*
   - From 1974, China (along with the USA) supported Eritrean ML rebels
     against Socialist Ethiopia.
   - In 1975, China (with the USA and France) provided material support
     for anti-communist rebels in the Angolan Civil War that tried to
     overthrow the [socialist
-    government](Socialist_Angola "wikilink").[^3]
+    government](Socialist_Angola.md "wikilink").[^3]
   - China tried to invade Vietnam in 1979, RIGHT after Vietnam had
     suffered brutally at the hands at the USA in the [Vietnam
-    War](Vietnam_War "wikilink"). Border skirmishes continued until 1991
+    War](Vietnam_War.md "wikilink"). Border skirmishes continued until 1991
     where relations were normalised.[^4]
   - China ended support for the Communist Party of the Philippines in
     their insurgency in 1976 as part of its normalisation of relations
     with the Philippines.
   - China tried to invade Vietnam in 1979, RIGHT after Vietnam had
     suffered brutally at the hands at the USA in the [Vietnam
-    War](Vietnam_War "wikilink"). Border skirmishes continued until 1991
+    War](Vietnam_War.md "wikilink"). Border skirmishes continued until 1991
     where relations were normalised.[^5]
   - China, along with the USA and UK, also supported Pol Pot as they
     waged a war against Vietnam and socialist Cambodia.[^6]
   - Since 1992, China has been closely cooperative with
-    [Israel](Israel "wikilink") on military matters.[^7]
+    [Israel](Israel.md "wikilink") on military matters.[^7]
   - Since 2003, China has supported the government of Sudan whilst
     carrying out anti-Arab ethnic cleansing and mass rape.[^8]
   - Since 2005, China has aided the old Nepalese government against
     *Maoist* rebels by donating military aid to the government and
     arresting Maoists smuggling in weapons from China.[^9]
   - In the 2010s, Chinese state-owned companies invested in gas
-    pipelines in [Canada](Canada "wikilink") over indigenous lands
+    pipelines in [Canada](Canada.md "wikilink") over indigenous lands
     without the consent of indigenous people, leading to protests.[^10]
 
 ## Cuba
 
-*Given that [Cuba](Cuba "wikilink") and its supporters often claim to be
+*Given that [Cuba](Cuba.md "wikilink") and its supporters often claim to be
 [one of the most democratic countries in the
 world](https://www.youtube.com/watch?v=2aMsi-A56ds&t), we are going to
 include critiques based in media freedom and political repression, as
 media freedom is an important component of democracy.*
 
-- [Che's Guevara's](Che_Guevara "wikilink") grandson, [Canek Sánchez
-  Guerara](Canek_Sánchez_Guerara "wikilink"), said of the country: “The
-  [Cuban revolution](Cuban_Revolution "wikilink") has given birth to a
+- [Che's Guevara's](Che_Guevara.md "wikilink") grandson, [Canek Sánchez
+  Guerara](Canek_Sánchez_Guerara.md "wikilink"), said of the country: “The
+  [Cuban revolution](Cuban_Revolution.md "wikilink") has given birth to a
   bourgeoisie, to repressive apparatuses meant to defend from the people
   a bureaucracy very distant from that same people. But above all it has
   been anti-democratic because of the religious messianism of [its
-  leader](Fidel_Castro "wikilink")”. He was disgusted by “the
+  leader](Fidel_Castro.md "wikilink")”. He was disgusted by “the
   criminalisation of difference, the means of persecution of
   homosexuals, hippies, free thinkers, trade unionists and poets” and
   the installation of “a socialist bourgeoisie…falsely proletarian”.
@@ -111,7 +111,7 @@ media freedom is an important component of democracy.*
   behaved like a monarchy, and Fidel has ensured a monitoring of the
   succession, and that delays any change." He rejected the role that the
   regime were preparing for him as a high ranking military officer and
-  lived most of his life in [Mexico](Mexico "wikilink"), where he died
+  lived most of his life in [Mexico](Mexico.md "wikilink"), where he died
   in 2015 after heart surgery.[^11]
 - In January 2020, a former high ranking judge in Cuba (a communist and
   huge fan of Castro) leaked secret Cuban government documents that
@@ -141,27 +141,27 @@ media freedom is an important component of democracy.*
   also control the coverage of foreign reporters by granting
   accreditation selectively and expelling those regarded as too
   “negative” about the government."[^13]
-- The Cuban government allows [Israeli](Israel "wikilink") businesses to
-  operate in the country, and [Fidel Castro](Fidel_Castro "wikilink")
+- The Cuban government allows [Israeli](Israel.md "wikilink") businesses to
+  operate in the country, and [Fidel Castro](Fidel_Castro.md "wikilink")
   said in 2010 he believes Israel has a right to exist.[^14] (Note, both
   East Germany and North Korea severed ties with Israel, so it's not a
   survival thing)
 
 ## East Germany
 
-- [In 1953](East_German_Uprising "wikilink"), the government repressed
+- [In 1953](East_German_Uprising.md "wikilink"), the government repressed
   striking construction workers who protested harsh working
   conditions.[^15]
 
 ## North Korea
 
 - North Korea has [continuously been
-  abducting](North_Korean_Abductions "wikilink") [South
-  Korean](South_Korea "wikilink") and [Japanese](Japan "wikilink")
+  abducting](North_Korean_Abductions.md "wikilink") [South
+  Korean](South_Korea.md "wikilink") and [Japanese](Japan.md "wikilink")
   citizens throughout its existence.[^16][^17]
 - North Korea has a strong problem with human trafficking, the
   government essentially sells workers to countries like
-  [Russia](Russia "wikilink") and [Qatar](Qatar "wikilink") and there is
+  [Russia](Russia.md "wikilink") and [Qatar](Qatar.md "wikilink") and there is
   a huge problem with women being trafficked as sex slaves into
   China.[^18]
 - Since 1990, at least 18 North Korean diplomats have been caught
@@ -173,9 +173,9 @@ media freedom is an important component of democracy.*
 
 ## Union of Soviet Socialist Republics (USSR)
 
-- From 1930 to 1952, the [USSR](USSR "wikilink") pursued a number of
+- From 1930 to 1952, the [USSR](USSR.md "wikilink") pursued a number of
   policies of forced resettlement and deportations of entire ethnic
-  groups based on [racist](Racism_in_the_USSR "wikilink") propaganda.
+  groups based on [racist](Racism_in_the_USSR.md "wikilink") propaganda.
   This included the populations of the Azerbaijanis in Armenia, Balkars,
   Chechens, Chinese, Estonians, Finns, Germans, Greeks, Inguish, Jews,
   Kalmyks, Karachays, Latvians, Lithuanians, Poles, Romanians, Tatars,
@@ -183,18 +183,18 @@ media freedom is an important component of democracy.*
   condemnation of nationalism and proclaimed internationalism, including
   the right of nations and peoples to self-determination.[^21] (Note,
   apologists will try to claim that this was due to [World War
-  II](World_War_II "wikilink"), despite several of these not occurring
+  II](World_War_II.md "wikilink"), despite several of these not occurring
   during World War II, be wary.)
 - In 1933, the USSR recriminalised homosexuality between men after most
   of the medical community recommended viewing homosexuality as a normal
   and healthy thing.[^22]
-- In 1938, a [pedophile and rapist](Lavrentiy_Beria "wikilink") was made
+- In 1938, a [pedophile and rapist](Lavrentiy_Beria.md "wikilink") was made
   head of the secret police by Stalin.[^23]
 - In 1956, the government murdered several Marxist-Leninist students who
   were peacefully protesting government policies.[^24]
 - In 1962, the government [repressed striking factory
-  workers](Novocherkassk_Massacre_(1962) "wikilink") who wielded banners
-  of [Lenin](Vladimir_Lenin "wikilink") by killing around 20 of
+  workers](Novocherkassk_Massacre_(1962).md "wikilink") who wielded banners
+  of [Lenin](Vladimir_Lenin.md "wikilink") by killing around 20 of
   them.[^25]
 
 ## Vietnam
@@ -225,23 +225,23 @@ media freedom is an important component of democracy.*
 ## See Also
 
 - [Contradictions of
-  Capitalism](Contradictions_of_Capitalism "wikilink")
+  Capitalism](Contradictions_of_Capitalism.md "wikilink")
 - [Contradictions of
-  Conservatism](Contradictions_of_Conservatism "wikilink")
-- [Contradictions of Fascism](Contradictions_of_Fascism "wikilink")
+  Conservatism](Contradictions_of_Conservatism.md "wikilink")
+- [Contradictions of Fascism](Contradictions_of_Fascism.md "wikilink")
 - [Contradictions of
-  Liberalism](Contradictions_of_Liberalism "wikilink")
+  Liberalism](Contradictions_of_Liberalism.md "wikilink")
 - [Contradictions of Social
-  Democracy](Contradictions_of_Social_Democracy "wikilink")
+  Democracy](Contradictions_of_Social_Democracy.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink")
+Socialism](Category:Authoritarian_Socialism.md "wikilink")
 
 [^1]: <https://en.wikipedia.org/wiki/Anti-corruption_campaign_under_Xi_Jinping>
 

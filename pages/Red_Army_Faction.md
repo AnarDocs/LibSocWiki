@@ -5,8 +5,8 @@ permalink: /Red_Army_Faction/
 
 The **Red Army Faction** (or **RAF** or **Baader–Meinhof Group** or
 **Baader–Meinhof Gang**) was a
-[Marxist-Leninist](Marxist-Leninism "wikilink") terrorist group based in
-[Germany](Germany "wikilink") from 1970 to 1998.
+[Marxist-Leninist](Marxist-Leninism.md "wikilink") terrorist group based in
+[Germany](Germany.md "wikilink") from 1970 to 1998.
 
 ## History
 
@@ -15,33 +15,33 @@ The **Red Army Faction** (or **RAF** or **Baader–Meinhof Group** or
 Born out of the revolts in the late 1960s that swept the world and an
 alienated movement of young students. The RAF drew inspiration from
 successful guerrilla groups in the third world, the
-[Chinese](Chinese_Revolution "wikilink") and [Cuban
-Revolutions](Cuban_Revolution "wikilink") as well as the
-[Tupamaros](Tupamaros "wikilink") and Palestinian guerrillas. It also
+[Chinese](Chinese_Revolution.md "wikilink") and [Cuban
+Revolutions](Cuban_Revolution.md "wikilink") as well as the
+[Tupamaros](Tupamaros.md "wikilink") and Palestinian guerrillas. It also
 drew ideological inspiration from anti-colonial writers like [Ho Chi
-Minh](Ho_Chi_Minh "wikilink") and [Frantz
-Fanon](Frantz_Fanon "wikilink") as well as the Frankfurt School (notably
-[Habermas](Jurgen_Habermas "wikilink"),
-[Marcuse](Herbert_Marcuse "wikilink") and [Negt](Oskar_Negt "wikilink"))
-and early [Autonomism](Autonomism "wikilink") and
-[Situationism](Situationism "wikilink").
+Minh](Ho_Chi_Minh.md "wikilink") and [Frantz
+Fanon](Frantz_Fanon.md "wikilink") as well as the Frankfurt School (notably
+[Habermas](Jurgen_Habermas.md "wikilink"),
+[Marcuse](Herbert_Marcuse.md "wikilink") and [Negt](Oskar_Negt.md "wikilink"))
+and early [Autonomism](Autonomism.md "wikilink") and
+[Situationism](Situationism.md "wikilink").
 
 Notably, the unique conditions of Germany helped shaped the RAF. Not
 only were many students becoming disillusioned with capitalism,
 alienation and imperialism. But also the presence of many former Nazis
 who went unpunished in high profile positions of power, Germany's
-support for the [US Empire](Timeline_of_US_Imperialism "wikilink") and
-[Israel](Israel "wikilink") and the killing of left-wing student leader
-[Rudi Dutschke](Rudi_Dutschke "wikilink") by a right-winger. Not only
+support for the [US Empire](Timeline_of_US_Imperialism.md "wikilink") and
+[Israel](Israel.md "wikilink") and the killing of left-wing student leader
+[Rudi Dutschke](Rudi_Dutschke.md "wikilink") by a right-winger. Not only
 this result in the RAF but a strong ecosystem of left-wing organisations
-such as [Kommune 1](Kommune_1 "wikilink"), [Kommune
-2](Kommune_2 "wikilink"), [Kommune 3](Kommune_3 "wikilink"), the
+such as [Kommune 1](Kommune_1.md "wikilink"), [Kommune
+2](Kommune_2.md "wikilink"), [Kommune 3](Kommune_3.md "wikilink"), the
 [Socialist Patients'
-Collective](Socialist_Patients'_Collective "wikilink"), the
-[APO](Auserparlamentarische_Opposition "wikilink"), [Amon
-Düül](Amon_Duul "wikilink") the [German Students
-Movement](German_Students'_Movement "wikilink") and
-[Squatters](Squatting#Germany "wikilink"). These ecosystems
+Collective](Socialist_Patients'_Collective.md "wikilink"), the
+[APO](Auserparlamentarische_Opposition.md "wikilink"), [Amon
+Düül](Amon_Duul.md "wikilink") the [German Students
+Movement](German_Students'_Movement.md "wikilink") and
+[Squatters](Squatting#Germany.md "wikilink"). These ecosystems
 progressively declined due to frustration of a lack of change and
 infighting, with most developing into various anarchist and communist
 terrorist groups.
@@ -49,15 +49,15 @@ terrorist groups.
 ### Timeline of Major Actions
 
 - 1968: Future RAF members set fire to two department stores in
-  Frankfurt to protest the [Vietnam War](Vietnam_War "wikilink").
+  Frankfurt to protest the [Vietnam War](Vietnam_War.md "wikilink").
 - 1969: The RAF is officially formed, drawing inspiration from [Che
-  Guevara](Che_Guevara "wikilink") and the Tupamaros.
+  Guevara](Che_Guevara.md "wikilink") and the Tupamaros.
 - 1970: The RAF frees Baader from prison and begins training in
   Palestine with the
-  [PFLP](Popular_Front_for_the_Liberation_of_Palestine "wikilink") and
-  [PLO](Palestinian_Liberation_Organisation "wikilink").
+  [PFLP](Popular_Front_for_the_Liberation_of_Palestine.md "wikilink") and
+  [PLO](Palestinian_Liberation_Organisation.md "wikilink").
 - 1971: The RAF attempts to free one of its members ([Margrit
-  Schiller](Margrit_Schiller "wikilink")) from arrest, killing a police
+  Schiller](Margrit_Schiller.md "wikilink")) from arrest, killing a police
   officer in a shootout. This is the first murder attributed to the RAF.
 - 1971: The RAF carries out a bank robbery and shoots a police officer
   during their escape.
@@ -70,11 +70,11 @@ terrorist groups.
 - 1972: The RAF bombs a newspaper office known for pro-Zionist views.
 - 1972: The RAF bombs a US army officers club.
 - 1972: The RAF bombs the West Berlin British Yacht Club in solidarity
-  with the [IRA](Irish_Republican_Army "wikilink").
+  with the [IRA](Irish_Republican_Army.md "wikilink").
 - 1972: During the Munich Massacre, one of the demands of Black
   September (the attackers) is the release of RAF members from jail.
 - 1975: The RAF captures the West German embassy in
-  [Sweden](Sweden "wikilink") and takes hostages, leading to a siege
+  [Sweden](Sweden.md "wikilink") and takes hostages, leading to a siege
   that kills 2 RAF members and 2 Swedish police.
 - 1976: Lone RAF member shoots a police officer in the head after
   checking his papers.
@@ -82,21 +82,21 @@ terrorist groups.
   nuclear weapon the RAF planned to destroy, given that their diversion
   (an on fire fuel truck) failed to ignite.
 - 1977: The RAF assassinates [Siegfried
-  Buback](Siegfried_Buback "wikilink"), a former Nazi and
+  Buback](Siegfried_Buback.md "wikilink"), a former Nazi and
   Attorney-General of West Germany, alongside his driver and judicial
   officer Georg Wurster.
-- 1977: The RAF shoots [Jürgen Ponto](Jurgen_Ponto "wikilink"), head of
+- 1977: The RAF shoots [Jürgen Ponto](Jurgen_Ponto.md "wikilink"), head of
   one of Germany's largest banks (Dresdner Bank) in a failed kidnapping
   attempt.
 - 1977: The RAF kidnaps and kills [Hanns Martin
-  Schleyer](Hanns_Martin_Schleyer "wikilink"), head of the German
+  Schleyer](Hanns_Martin_Schleyer.md "wikilink"), head of the German
   Employers' Association and a former member of the SS. He was kidnapped
   in an attack on his car that killed his driver and three police
   escorts.
 - 1977: The RAF shoots a Dutch police officer outside a bar in Utretch,
-  the [Netherlands](Netherlands "wikilink").
+  the [Netherlands](Netherlands.md "wikilink").
 - 1977: The PLFP hijacking of [Lufthansa Flight
-  181](Lufthansa_Flight_181 "wikilink") was done to secure the release
+  181](Lufthansa_Flight_181.md "wikilink") was done to secure the release
   of RAF members, it failed.
 - 1978: Three RAF members doing target practice in the forest shoot a
   police officer who attempted to confront them.
@@ -116,7 +116,7 @@ terrorist groups.
   that was discovered.
 - 1985: The RAF shoots Ernst Zimmerman, head of a German aerospace
   company, in his home.
-- 1985: The RAF and [Action Directe](Action_Directe "wikilink") organise
+- 1985: The RAF and [Action Directe](Action_Directe.md "wikilink") organise
   a car bombing of a US air force base in Germany, killing two American
   soldiers.
 - 1986: The RAF kills a senior manager of Siemens, a German car company,
@@ -145,13 +145,13 @@ terrorist groups.
 ## Lessons for us
 
 The RAF are yet another example of why and how
-[terrorism](terrorism "wikilink") (especially by the left) fails, and
+[terrorism](terrorism.md "wikilink") (especially by the left) fails, and
 how we as leftists must do everything in our power to stop terrorism.
 
 ## Notable Members
 
-- [Andreas Baader](Andreas_Baader "wikilink") 
-- [Ulrike Meinhof](Ulrike_Meinhof "wikilink")
+- [Andreas Baader](Andreas_Baader.md "wikilink") 
+- [Ulrike Meinhof](Ulrike_Meinhof.md "wikilink")
 - Gudrun Ensslin
 - Jan-Carl Raspe
 - Holger Meins
@@ -199,9 +199,9 @@ how we as leftists must do everything in our power to stop terrorism.
 
 ## See Also
 
-- [Japanese Red Army](Japanese_Red_Army "wikilink")
-- [2 June Movement](2_June_Movement "wikilink")
-- [Anti-Imperialist Cell](Anti-Imperialist_Cell_(Germany) "wikilink")
-- [Revolutionary Cells](Revolutionary_Cells_(Germany) "wikilink")
-- [Rote Zora](Rote_Zora "wikilink")
-- [Tupamaros (Germany)](Tupamaros_(Germany) "wikilink")
+- [Japanese Red Army](Japanese_Red_Army.md "wikilink")
+- [2 June Movement](2_June_Movement.md "wikilink")
+- [Anti-Imperialist Cell](Anti-Imperialist_Cell_(Germany).md "wikilink")
+- [Revolutionary Cells](Revolutionary_Cells_(Germany).md "wikilink")
+- [Rote Zora](Rote_Zora.md "wikilink")
+- [Tupamaros (Germany)](Tupamaros_(Germany).md "wikilink")

@@ -3,8 +3,8 @@ title: Bastøy Prison
 permalink: /Bastøy_Prison/
 ---
 
-**Bastøy Prison** is a [minimum-security prison](Prison "wikilink") on
-Bastøy Island, Horten, [Norway](Norway "wikilink"), located
+**Bastøy Prison** is a [minimum-security prison](Prison.md "wikilink") on
+Bastøy Island, Horten, [Norway](Norway.md "wikilink"), located
 75 kilometres south of Oslo. The prison hosts 115 prisoners and has 70
 workers, with only 5 remaining overnight. It is known for being one of
 the most humane prisons in the world. The facility can only be accessed
@@ -42,24 +42,24 @@ being converted to wood.[^3]
 
 ## See Also
 
-- [Halden Prison](Halden_Prison "wikilink")
-- [MCI-Cedar Junction Prison](MCI-Cedar_Junction_Prison "wikilink")
+- [Halden Prison](Halden_Prison.md "wikilink")
+- [MCI-Cedar Junction Prison](MCI-Cedar_Junction_Prison.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Criminal
-Justice](Category:Criminal_Justice "wikilink")
-[Category:Prisons](Category:Prisons "wikilink")
-[Category:Scandanavia](Category:Scandanavia "wikilink")
-[Category:Norway](Category:Norway "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Criminal
+Justice](Category:Criminal_Justice.md "wikilink")
+[Category:Prisons](Category:Prisons.md "wikilink")
+[Category:Scandanavia](Category:Scandanavia.md "wikilink")
+[Category:Norway](Category:Norway.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Bastøy_Prison>
 
 [^2]: ~ The Guardian (2013) - [Bastoy: the Norwegian prison that

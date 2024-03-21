@@ -6,17 +6,17 @@ permalink: /Workers'_Control_in_Japan/
 **Workers' Control in Japan** is unfortunately largely unknown among the
 Anglophone left, however, we do have access to some information on it.
 Unlike [workers' control in most other
-countries](Workers'_Control_by_Country "wikilink"), Japan's peaked
+countries](Workers'_Control_by_Country.md "wikilink"), Japan's peaked
 following the end of World War II, a trend only [matched in
-Indonesia](Workers'_Control_in_Indonesia "wikilink").
+Indonesia](Workers'_Control_in_Indonesia.md "wikilink").
 
 ## During the Allied Occupation of Japan
 
 *Main Article: [Allied Occupation of
-Japan](Allied_Occupation_of_Japan "wikilink")*
+Japan](Allied_Occupation_of_Japan.md "wikilink")*
 
-Beginning in 1945 under [US occupation](US_Hegemony "wikilink"), a mass
-strike wave hit Japan after [trade unions](Trade_Union "wikilink") were
+Beginning in 1945 under [US occupation](US_Hegemony.md "wikilink"), a mass
+strike wave hit Japan after [trade unions](Trade_Union.md "wikilink") were
 legalised. Around 10% of these involved (or 133 strikes, involving over
 100,000 workers) led to work-ins. Many workers were angered at the war
 profiteering by Japanese capitalists and argued that the democratisation
@@ -49,17 +49,17 @@ the entire coal industry if certain demands were not met. Although
 initially accepted as profit-sharing and wage increases were given to
 the working class, the police began to repress episodes of workers'
 control, thus being a perfect example of
-[co-optation](co-optation "wikilink").
+[co-optation](co-optation.md "wikilink").
 
 ## References
 
 [Production control in
 Japan](https://libcom.org/history/production-control-japan) at
-[libcom.org](libcom.org "wikilink")
+[libcom.org](libcom.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Japan](Category:Japan "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Japan](Category:Japan.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")

@@ -4,16 +4,16 @@ permalink: /Hong_Kong_General_Strike_(1922)/
 ---
 
 The **Hong Kong General Strike of 1922** was a [general
-strike](List_of_General_Strikes "wikilink") started by sailors in [Hong
-Kong](Hong_Kong "wikilink") in
-[1922](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+strike](List_of_General_Strikes.md "wikilink") started by sailors in [Hong
+Kong](Hong_Kong.md "wikilink") in
+[1922](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 
-Hong Kong, a colony of the [British Empire](British_Empire "wikilink")
-since [1847](First_Opium_War "wikilink"), saw the quadrupling of prices
+Hong Kong, a colony of the [British Empire](British_Empire.md "wikilink")
+since [1847](First_Opium_War.md "wikilink"), saw the quadrupling of prices
 in the early 1920s without a wage rise. As revolutions had swept
-[China](China "wikilink"), many people in Hong Kong felt agitated, after
+[China](China.md "wikilink"), many people in Hong Kong felt agitated, after
 bosses refused to concede a 0% wage rise and closed shop, so the
 Seamen's Union (SU) went on strike.
 
@@ -53,22 +53,22 @@ The strike led to massive concessions from the government, notably:
 
 However, because the bosses stayed in power, they prepared well and
 defeated and [even bigger general strike three years
-later](Hong_Kong_General_Strike_(1925) "wikilink").
+later](Hong_Kong_General_Strike_(1925).md "wikilink").
 
 ## See Also
 
-- [Revolutions of 1916 - 1923](Revolutions_of_1916_-_1923 "wikilink")
+- [Revolutions of 1916 - 1923](Revolutions_of_1916_-_1923.md "wikilink")
 
 ## References
 
 <http://libcom.org/history/1922-the-hong-kong-strike>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:General
-Strikes](Category:General_Strikes "wikilink")
-[Category:1922](Category:1922 "wikilink")
-[Category:1920s](Category:1920s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Hong
-Kong](Category:Hong_Kong "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:General
+Strikes](Category:General_Strikes.md "wikilink")
+[Category:1922](Category:1922.md "wikilink")
+[Category:1920s](Category:1920s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Hong
+Kong](Category:Hong_Kong.md "wikilink")

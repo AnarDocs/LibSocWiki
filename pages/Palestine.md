@@ -5,12 +5,12 @@ permalink: /Palestine/
 
 **Palestine**or the **Palestinian Territories** refers mainly to the
 Gaza Strip and West Bank, two autonomous areas neighbouring
-[Israel](Israel "wikilink") that are the source of a lot of controversy.
+[Israel](Israel.md "wikilink") that are the source of a lot of controversy.
 
 ## Valid Criticism of Palestine
 
 *Main Article: [Criticism of
-Palestine](Criticism_of_Palestine "wikilink")*
+Palestine](Criticism_of_Palestine.md "wikilink")*
 
 ## Invalid Criticism of Palestine
 

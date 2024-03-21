@@ -4,11 +4,11 @@ permalink: /Novocherkassk_Massacre_(1962)/
 ---
 
 The **Novocherkassk Massacre** was a
-[massacre](Crimes_Against_Humanity "wikilink") committed against
-nonviolent protesters and [striking](List_of_Strikes "wikilink") workers
+[massacre](Crimes_Against_Humanity.md "wikilink") committed against
+nonviolent protesters and [striking](List_of_Strikes.md "wikilink") workers
 on the [2nd of June,
-1962](Left-Wing_Resistance_to_Authoritarian_Socialism "wikilink") in the
-city of Novocherkassk in the [USSR](USSR "wikilink") by the Red Army and
+1962](Left-Wing_Resistance_to_Authoritarian_Socialism.md "wikilink") in the
+city of Novocherkassk in the [USSR](USSR.md "wikilink") by the Red Army and
 KGB. 26 people were killed by soldiers and more than 200 were arrested,
 as well as 7 who were sentenced to death. The massacre was not discussed
 in the media and kept as a state secret until 1992. The massacre is
@@ -21,13 +21,13 @@ Discontent began with the increase of prices for consumer goods,
 shortages and poor working conditions. Production quotas were increased
 but wages were not, leading to anger. Workers at a traincar factory
 marched across the city, infront of the police station and city hall.
-Strikers carried potraits of [Lenin](Vladimir_Lenin "wikilink") and red
+Strikers carried potraits of [Lenin](Vladimir_Lenin.md "wikilink") and red
 flags, and were harassed by soldiers. Although tanks were sent in to
 crush, the local commander refused to fire on the strikers. Strikes were
 harassd by soldiers and soon attacked the police station, demanding
 better working conditions, the army soon shot into the crowd, killing
 dozens and soon a week-long curfew was imposed. Orders to kill were
-approved by [Khrushchev](Nikita_Khrushchev "wikilink") himself.
+approved by [Khrushchev](Nikita_Khrushchev.md "wikilink") himself.
 
 ## Aftermath
 
@@ -41,15 +41,15 @@ and identified in 1992 and buried in the cemetery of Novoshakhtinsk.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Novocherkassk
+[Wikipedia](Wikipedia.md "wikilink") - [Novocherkassk
 massacre](https://en.wikipedia.org/wiki/Novocherkassk_massacre)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USSR](Category:USSR "wikilink")
-[Category:1962](Category:1962 "wikilink")
-[Category:1960s](Category:1960s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Left-Wing
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USSR](Category:USSR.md "wikilink")
+[Category:1962](Category:1962.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Left-Wing
 Resistance to Authoritarian
-Socialism](Category:Left-Wing_Resistance_to_Authoritarian_Socialism "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
+Socialism](Category:Left-Wing_Resistance_to_Authoritarian_Socialism.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")

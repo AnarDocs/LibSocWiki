@@ -6,7 +6,7 @@ permalink: /Martin_Luther_King_Jr./
 **Martin Luther King Jr.** was a Baptist minister, socialist and black
 activist who became the most visible spokesperson and leader in the
 [American civil rights
-movement](American_Civil_Rights_Movement "wikilink") from 1955 until his
+movement](American_Civil_Rights_Movement.md "wikilink") from 1955 until his
 assassination in 1968. Born in Atlanta, King is best known for advancing
 civil rights through nonviolence and civil disobedience, inspired by his
 Christian beliefs and the nonviolent activism of Mahatma Gandhi.
@@ -20,7 +20,7 @@ King was shot to death.
 
 ### Conspiracy Theories
 
-[Conspiracy theories](Conspiracy_Theory "wikilink") around the shooting
+[Conspiracy theories](Conspiracy_Theory.md "wikilink") around the shooting
 argue that James either did not act alone or was not even the shooter.
 
 #### Evidence For
@@ -38,11 +38,11 @@ hood over his head." The next day, Memphis public work employees removed
 the bushes, destroying the crime scene.[^1]
 
 - In 1979, the [United States House Select Committee on
-  Assassinations](United_States_House_Select_Committee_on_Assassinations "wikilink")
+  Assassinations](United_States_House_Select_Committee_on_Assassinations.md "wikilink")
   (HSCA) released a report stating that there was a likelihood of
   conspiracy in the assassination of King. However, the committee
   believed that the government was not involved, and it was an action by
-  [white supremacists](White_Supremacy "wikilink").[^2]
+  [white supremacists](White_Supremacy.md "wikilink").[^2]
 - In 1997, tests on the bullets that killed King did not match the
   bullets fired by the rifle owned by James.<ref>CNN (1997) - [Ray
   lawyer: Test bullets don't match bullet that killed
@@ -70,18 +70,18 @@ experienced since the Civil War. Some of the biggest riots took place in
 Washington, D.C., Baltimore, Chicago, and Kansas City.[^4]
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
 
 [^1]: The Washington Post (2018) - [Who killed Martin Luther King Jr.?
     His family believes James Earl Ray was
     framed.](https://www.washingtonpost.com/news/retropolis/wp/2018/03/30/who-killed-martin-luther-king-jr-his-family-believes-james-earl-ray-was-framed/)
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_Assassinations>
 
 [^3]:
 
-[^4]: [Wikipedia](Wikipedia "wikilink") -
+[^4]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/King_assassination_riots>

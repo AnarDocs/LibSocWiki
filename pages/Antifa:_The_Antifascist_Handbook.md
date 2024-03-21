@@ -4,9 +4,9 @@ permalink: /Antifa:_The_Antifascist_Handbook/
 ---
 
 **Antifa: The Antifascist Handbook** is a 2017
-[book](List_of_Libertarian_Socialist_Media "wikilink") by [Mark
-Bray](Mark_Bray "wikilink") that discusses the history and philosophy
-behind the [anti-fascist](Anti-Fascism "wikilink") movement.
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Mark
+Bray](Mark_Bray.md "wikilink") that discusses the history and philosophy
+behind the [anti-fascist](Anti-Fascism.md "wikilink") movement.
 
 ## Summary
 
@@ -14,7 +14,7 @@ behind the [anti-fascist](Anti-Fascism "wikilink") movement.
 
 Fascism developed largely out of a mutation of nationalism (originally a
 left-wing concept) that developed in the anti-monarchical [revolutions
-of 1848](revolutions_of_1848 "wikilink") which synthesized patriarchy,
+of 1848](revolutions_of_1848.md "wikilink") which synthesized patriarchy,
 anti-semitism, militarism and disdain for the growing democratic and
 socialist movements in Europe. The early anti-fascist movements of
 France, USA, Italy
@@ -22,40 +22,40 @@ France, USA, Italy
 - France: In 1925, a gunfight occurred between the Jeunesses Patriotes
   and local communists, killing four fascists. This follows a tradition
   that goes back as far as the [Dreyfus
-  Affair](Dreyfus_Affair "wikilink"), as anarchists and socialists broke
+  Affair](Dreyfus_Affair.md "wikilink"), as anarchists and socialists broke
   into restaurants holding anti-semitic meetings and disrupted them.
 - USA: Black groups and socialists formed armed self-defense groups and
-  organized raids against the [KKK](Ku_Klux_Klan "wikilink") and white
+  organized raids against the [KKK](Ku_Klux_Klan.md "wikilink") and white
   lynchers in the late 1800s.
-- Italy: The [Arditi Del Popolo](Arditi_Del_Popolo "wikilink") formed in
+- Italy: The [Arditi Del Popolo](Arditi_Del_Popolo.md "wikilink") formed in
   1921 to combat the recent problem of fascist gangs harassing
   socialists. But this fell apart due to left-wing infighting, and led
   to the establishment of the first fascist government. But several lone
-  assassination attempts on [Mussolini](Benito_Mussolini "wikilink") and
+  assassination attempts on [Mussolini](Benito_Mussolini.md "wikilink") and
   key fascists were undertaken by anarchists, all of which failed due to
   many coincidences and luck for the fascists.
-- Germany: During [World War II](World_War_II "wikilink") and the
-  [Holocaust](Holocaust "wikilink"), numerous Jews and allies fought off
+- Germany: During [World War II](World_War_II.md "wikilink") and the
+  [Holocaust](Holocaust.md "wikilink"), numerous Jews and allies fought off
   deportations and attempted to liberate concentration camps.
 
 ### Chapter Two: “Never Again”: The Development of Modern Antifa, 1945–2003
 
-Fascism did not die with [Nazi Germany](Nazi_Germany "wikilink"), it
+Fascism did not die with [Nazi Germany](Nazi_Germany.md "wikilink"), it
 instead began to mutate, forming street gangs, gentlemen clubs and in
 some cases popular attitudes. The new anti-fascists began to fight back
 against these developments in Britain
 
 - Britain: Given that fascism was still fairly popular after the war,
-  the [43 Group](43_Group "wikilink") was formed by former Jewish
+  the [43 Group](43_Group.md "wikilink") was formed by former Jewish
   Soldiers in the British Army. They infiltrated fascist groups led by
-  [Oswald Mosely](Oswald_Mosely "wikilink") and attacked their meetings
+  [Oswald Mosely](Oswald_Mosely.md "wikilink") and attacked their meetings
   throughout the 1940s, and disbanded in 1950 as the threat died off. In
   the 1950s, new white supremacists terrorized Caribbean immigrant
   communities, leading to self-defense squads armed with knives, guns
   and molotovs. Another resurgence in the 1960s (triggered in response
-  to the [Civil Rights Movement](Civil_Rights_Movement "wikilink") in
-  the US and [decolonisation](decolonisation "wikilink") in Africa) led
-  to the formation of the [62 Group](62_Group "wikilink") who violently
+  to the [Civil Rights Movement](Civil_Rights_Movement.md "wikilink") in
+  the US and [decolonisation](decolonisation.md "wikilink") in Africa) led
+  to the formation of the [62 Group](62_Group.md "wikilink") who violently
   attacked fascists.
 - France:
 - Italy:
@@ -101,16 +101,16 @@ must learn in order to become more effective. They are:
 This chapter answers the most common objections towards militant
 anti-fascism, ranging from the effectiveness of militant tactics to
 concerns about erasing the right to [free
-speech](Free_Speech "wikilink").
+speech](Free_Speech.md "wikilink").
 
 1.  Erasure of free speech: Free Speech is only guaranteed from the US
     government, it doesn't protect you from violence from other
     citizens. Even then, the US government repeatedly breaks this
     promise by enforcing copyright laws, repression of left-wing
-    activists (notably in the [Red](First_Red_Scare "wikilink")
-    [Scares](Second_Red_Scare "wikilink"),
-    [COINTELPRO](COINTELPRO "wikilink") and the
-    [Occupy](Occupy_(Movement) "wikilink") movement), censorship during
+    activists (notably in the [Red](First_Red_Scare.md "wikilink")
+    [Scares](Second_Red_Scare.md "wikilink"),
+    [COINTELPRO](COINTELPRO.md "wikilink") and the
+    [Occupy](Occupy_(Movement).md "wikilink") movement), censorship during
     wartime, lack of rights for prisoners, criminalization of
     immigrants, the shooting of civilians in wars, supporting numerous
     dictatorships across the world, nondisclosure agreements. If it's
@@ -146,8 +146,8 @@ speech](Free_Speech "wikilink").
 
 - [Antifa: The Antifascist
   Handbook](https://libcom.org/library/antifa-anti-fascist-handbook) at
-  [libcom](libcom "wikilink")
+  [libcom](libcom.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anti-Fascism](Category:Anti-Fascism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anti-Fascism](Category:Anti-Fascism.md "wikilink")

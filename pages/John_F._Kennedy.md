@@ -5,7 +5,7 @@ permalink: /John_F._Kennedy/
 
 **John Fitzgerald Kennedy** (called **Jack** or **JFK**) was the 35th
 President of the [United States of
-America](United_States_of_America "wikilink").
+America](United_States_of_America.md "wikilink").
 
 ## Assassination
 
@@ -13,7 +13,7 @@ America](United_States_of_America "wikilink").
 
 There are several suspicious things that occurred during and after the
 assassination that many, many authors have considered evidence of a
-[conspiracy](Conspiracy_Theory "wikilink").
+[conspiracy](Conspiracy_Theory.md "wikilink").
 
 - In 1967, Josiah Thompson (private investigator) concluded from a close
   study of the Zapruder film and other forensic evidence, corroborated
@@ -39,5 +39,5 @@ assassination that many, many authors have considered evidence of a
 ### Theories
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Conspiracy Theories](Category:Conspiracy_Theories "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Conspiracy Theories](Category:Conspiracy_Theories.md "wikilink")

@@ -4,40 +4,40 @@ permalink: /Maasina_Ruru/
 ---
 
 **Maasina Ruru** or **Rule of Relationship of Siblings Together** was an
-[indigenist](Indigenism "wikilink") movement moving for self-governance,
+[indigenist](Indigenism.md "wikilink") movement moving for self-governance,
 social and economic equality, labor rights and preservation of
-indigenous culture in the [Solomon Islands](Solomon_Islands "wikilink")
-between [1943 and 1953](Timeline_of_Libertarian_Socialism "wikilink").
+indigenous culture in the [Solomon Islands](Solomon_Islands.md "wikilink")
+between [1943 and 1953](Timeline_of_Libertarian_Socialism.md "wikilink").
 
 ## Background
 
-The [indigenous people](Indigenous_People "wikilink") on the Solomon
+The [indigenous people](Indigenous_People.md "wikilink") on the Solomon
 Islands had faced the destruction of their land and culture, massacres
 to stop rebellion, exploitation of their labor and [racial
-segregation](Racism "wikilink") for hundreds of years. With the theft of
-[communal lands](Commons "wikilink"), many had been forced to work in
-[factories](Factory "wikilink") during [World War
-II](World_War_II "wikilink") just to get enough of a
-[wage](Wage_Slavery "wikilink") to buy their right to
-[food](Hunger "wikilink"), [water](water "wikilink") and
-[shelter](Housing "wikilink").
+segregation](Racism.md "wikilink") for hundreds of years. With the theft of
+[communal lands](Commons.md "wikilink"), many had been forced to work in
+[factories](Factory.md "wikilink") during [World War
+II](World_War_II.md "wikilink") just to get enough of a
+[wage](Wage_Slavery.md "wikilink") to buy their right to
+[food](Hunger.md "wikilink"), [water](water.md "wikilink") and
+[shelter](Housing.md "wikilink").
 
 ## Events
 
 Maasina Ruru began in 1943 as
-[anti-colonial](Anti-Colonialism "wikilink"),
-[anti-racist](Anti-Racism "wikilink") and
-[anti-capitalist](Anti-Capitalism "wikilink") sentiment rose among
-factory [workers](Working_Class "wikilink") in the Solomon Islands. They
+[anti-colonial](Anti-Colonialism.md "wikilink"),
+[anti-racist](Anti-Racism.md "wikilink") and
+[anti-capitalist](Anti-Capitalism.md "wikilink") sentiment rose among
+factory [workers](Working_Class.md "wikilink") in the Solomon Islands. They
 developed a manifesto and began spreading it around the islands
 indigenous population, there was a [general
-strike](General_Strike "wikilink") in 1945 demanding the wages of
+strike](General_Strike.md "wikilink") in 1945 demanding the wages of
 plantation workers be increased by 1200%, which led to the arresting of
 protest leaders and thousands of indigenous protesters in 1947 by
 British authorities. As such, villagers declared autonomy and [refused
-to pay taxes](Tax_Refusal "wikilink") and sabotage of workplaces became
+to pay taxes](Tax_Refusal.md "wikilink") and sabotage of workplaces became
 common. Mass arrests became common, but the indigenous people stood
-their ground and began [blocking](Blockade "wikilink") roads and
+their ground and began [blocking](Blockade.md "wikilink") roads and
 villages across the country, leading to eventual negotiations.[^1][^2]
 
 ## Results
@@ -50,24 +50,24 @@ and an indigenous council to represent their voices in 1953.
 
 <references />
 
-[Category:Solomon Islands](Category:Solomon_Islands "wikilink")
+[Category:Solomon Islands](Category:Solomon_Islands.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Anti-Colonialism](Category:Anti-Colonialism "wikilink")
-[Category:Social Movements](Category:Social_Movements "wikilink")
-[Category:Melanesia](Category:Melanesia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink") [Category:List of
-Strikes](Category:List_of_Strikes "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1943](Category:1943 "wikilink")
-[Category:1940s](Category:1940s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:1953](Category:1953 "wikilink")
-[Category:1950s](Category:1950s "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Anti-Colonialism](Category:Anti-Colonialism.md "wikilink")
+[Category:Social Movements](Category:Social_Movements.md "wikilink")
+[Category:Melanesia](Category:Melanesia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink") [Category:List of
+Strikes](Category:List_of_Strikes.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1943](Category:1943.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:1953](Category:1953.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
 
 [^1]: <http://wikieducator.org/Solomon_Islands_Labour_Movement#1940s_-_50s_Maasina_Ruru_movement>
 
-[^2]: [Libcom](Libcom "wikilink") -
+[^2]: [Libcom](Libcom.md "wikilink") -
     <http://libcom.org/history/1944-52-solomon-islanders-establish-autonomus-village-movement>

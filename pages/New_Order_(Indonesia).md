@@ -4,10 +4,10 @@ permalink: /New_Order_(Indonesia)/
 ---
 
 The **New Order** was an authoritarian regime that occupied
-[Indonesia](Indonesia "wikilink") from 1967 to 1998, it was one of the
-most [violent and corrupt governments](State_(Polity) "wikilink") in
+[Indonesia](Indonesia.md "wikilink") from 1967 to 1998, it was one of the
+most [violent and corrupt governments](State_(Polity).md "wikilink") in
 history, and acted as a [US-client
-state](Timeline_of_US_Imperialism "wikilink").
+state](Timeline_of_US_Imperialism.md "wikilink").
 
 ## Crimes Against Humanity
 
@@ -26,7 +26,7 @@ although it was likely done by the army with US support. The army then
 began a massive killing spree so large it bordered on a civil war across
 the country for the next year. Between 500,000 and 3,000,000 people had
 been killed (0.4 to 2.8% of the population) and the CIA secretly
-compared it to the [Holocaust](Holocaust "wikilink") and the Red Terrors
+compared it to the [Holocaust](Holocaust.md "wikilink") and the Red Terrors
 in China and Russia.[^1]
 
 - Killing methods included shooting, stabbing, beheadings, impaling,
@@ -52,12 +52,12 @@ in China and Russia.[^1]
 ### The Occupation of East Timor
 
 *See Main Article: [Indonesian Occupation of East
-Timor](Indonesian_Occupation_of_East_Timor "wikilink")*
+Timor](Indonesian_Occupation_of_East_Timor.md "wikilink")*
 
 From 1975 to 1999, the New Order engaged in a brutal occupation of East
 Timor, which had just gained independence from the Portuguese Empire
 following the anti-colonial war and [Carnation
-Revolution](Carnation_Revolution "wikilink") in Portugal. Despite East
+Revolution](Carnation_Revolution.md "wikilink") in Portugal. Despite East
 Timor's efforts to form an independent democratic state, Indonesia
 invaded with support from Australia, the US and Britain because they
 didn't ban their popular communist party. The resulting occupation has
@@ -70,7 +70,7 @@ Some notable and terrifying atrocities that occurred include:
 - Burning down Timorese houses and executing Timorese indiscriminately,
   including children.
 - The deliberate destruction of [farms and
-  crops](Agriculture "wikilink") in the countryside to force the
+  crops](Agriculture.md "wikilink") in the countryside to force the
   population into cities where they would often be shot for entering or
   put into resettlement camps.
 - These camps had no electricity, sewerage, water, medical care or
@@ -90,7 +90,7 @@ From 1983 to 1985, hundreds of bodies began showing up in public places
 and thousands of people connected to crime began going missing. The
 government did not reveal the cause of death for months, until
 eventually confessing it was done by undercover snipers working for the
-Indonesian military in order to reduce [crime](crime "wikilink") (which
+Indonesian military in order to reduce [crime](crime.md "wikilink") (which
 was successful as the population was too scared). Between 2,000 and
 10,000 people were killed by snipers.[^3]
 
@@ -99,19 +99,19 @@ was successful as the population was too scared). Between 2,000 and
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Authoritarian
-States](Category:Authoritarian_States "wikilink")
-[Category:Indonesia](Category:Indonesia "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+States](Category:Authoritarian_States.md "wikilink")
+[Category:Indonesia](Category:Indonesia.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%9366>
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indonesian_occupation_of_East_Timor>
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Petrus_killings>

@@ -4,9 +4,9 @@ permalink: /Economics/
 ---
 
 **Economics** is the study of the production, distribution, and
-consumption of resources and [work](work "wikilink").
+consumption of resources and [work](work.md "wikilink").
 
-[Category:Economics](Category:Economics "wikilink")
+[Category:Economics](Category:Economics.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

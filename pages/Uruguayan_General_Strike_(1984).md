@@ -4,19 +4,19 @@ permalink: /Uruguayan_General_Strike_(1984)/
 ---
 
 The **Uruguayan General Strike of 1984** was a [general
-strike](List_of_General_Strikes "wikilink") in
-[Uruguay](Uruguay "wikilink") in
-[1984](Timeline_of_Libertarian_Socialism_in_South_America "wikilink")
+strike](List_of_General_Strikes.md "wikilink") in
+[Uruguay](Uruguay.md "wikilink") in
+[1984](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink")
 which brought an end to the [dictatorship in the
-country](Uruguayan_Dictatorship "wikilink") and creation of a [liberal
-democracy](Representative_Democracy "wikilink").
+country](Uruguayan_Dictatorship.md "wikilink") and creation of a [liberal
+democracy](Representative_Democracy.md "wikilink").
 
 ## Background
 
 Before 1973, Uruguay had been one of few countries in Latin America with
 a near perfect record of political stability and a strong democracy
-(others included [Chile](Chile "wikilink") and [Costa
-Rica](Costa_Rica "wikilink")). The military coup in 1973 came as a
+(others included [Chile](Chile.md "wikilink") and [Costa
+Rica](Costa_Rica.md "wikilink")). The military coup in 1973 came as a
 profound shock to Uruguay. To make matters worse, this once peaceful
 nation was now living under a regime that used fear, threat, and
 intimidation to keep control of its populace. Many people were arrested
@@ -28,12 +28,12 @@ censored.
 
 In 1980, the government tried and failed to have a referendum to
 legitimise their regime. Then the government allowed several [May
-Day](May_Day "wikilink") rallies to be held (although some believed it
+Day](May_Day.md "wikilink") rallies to be held (although some believed it
 was a ploy to strike fear around the left) which backfired. Soon, a
 general strike began to be organised over anger of the severe
-[stagflation](stagflation "wikilink") in the country (51%
-[inflation](inflation "wikilink") and 15%
-[unemployment](unemployment "wikilink")) and a demand for wage
+[stagflation](stagflation.md "wikilink") in the country (51%
+[inflation](inflation.md "wikilink") and 15%
+[unemployment](unemployment.md "wikilink")) and a demand for wage
 increases, greater union rights, freedom of political prisoners and
 democracy.
 
@@ -71,10 +71,10 @@ creation of one of the most progressive countries in the world.
 <http://libcom.org/history/1984-uruguay-general-strike>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Uruguay](Category:Uruguay "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:1984](Category:1984 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:General
-Strikes](Category:General_Strikes "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Uruguay](Category:Uruguay.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:1984](Category:1984.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:General
+Strikes](Category:General_Strikes.md "wikilink")

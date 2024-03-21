@@ -4,7 +4,7 @@ permalink: /Megadiverse_Country/
 ---
 
 The term **megadiverse country** refers to any one of a group of nations
-that harbor the majority of [Earth's](Earth "wikilink") species and high
+that harbor the majority of [Earth's](Earth.md "wikilink") species and high
 numbers of endemic species. Conservation International identified 17
 megadiverse countries in 1998. Many of them are located in, or partially
 in, tropical or subtropical regions. Megadiversity means exhibiting
@@ -15,21 +15,21 @@ border marine ecosystems.
 
 ## Megadiverse Countries
 
-- [Australia](Australia "wikilink")
-- [Brazil](Brazil "wikilink")
-- [China](China "wikilink")
-- [Colombia](Colombia "wikilink")
+- [Australia](Australia.md "wikilink")
+- [Brazil](Brazil.md "wikilink")
+- [China](China.md "wikilink")
+- [Colombia](Colombia.md "wikilink")
 - [Democratic Republic of the
-  Congo](Democratic_Republic_of_the_Congo "wikilink")
-- [Ecuador](Ecuador "wikilink")
-- [India](India "wikilink")
-- [Indonesia](Indonesia "wikilink")
-- [Madagascar](Madagascar "wikilink")
-- [Malaysia](Malaysia "wikilink")
-- [Mexico](Mexico "wikilink")
-- [Papua New Guinea](Papua_New_Guinea "wikilink")
-- [Peru](Peru "wikilink")
-- [Philippines](Philippines "wikilink")
-- [South Africa](South_Africa "wikilink")
-- [United States of America](United_States_of_America "wikilink")
-- [Venezuela](Venezuela "wikilink")
+  Congo](Democratic_Republic_of_the_Congo.md "wikilink")
+- [Ecuador](Ecuador.md "wikilink")
+- [India](India.md "wikilink")
+- [Indonesia](Indonesia.md "wikilink")
+- [Madagascar](Madagascar.md "wikilink")
+- [Malaysia](Malaysia.md "wikilink")
+- [Mexico](Mexico.md "wikilink")
+- [Papua New Guinea](Papua_New_Guinea.md "wikilink")
+- [Peru](Peru.md "wikilink")
+- [Philippines](Philippines.md "wikilink")
+- [South Africa](South_Africa.md "wikilink")
+- [United States of America](United_States_of_America.md "wikilink")
+- [Venezuela](Venezuela.md "wikilink")

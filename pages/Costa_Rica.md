@@ -4,10 +4,10 @@ permalink: /Costa_Rica/
 ---
 
 **Costa Rica**, officially the **Republic of Costa Rica** is a
-[liberal](Liberalism "wikilink"), [colonial](Colonialism "wikilink"),
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
-located in Central America next to [Nicaragua](Nicaragua "wikilink") and
-[Panama](Panama "wikilink").
+[liberal](Liberalism.md "wikilink"), [colonial](Colonialism.md "wikilink"),
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
+located in Central America next to [Nicaragua](Nicaragua.md "wikilink") and
+[Panama](Panama.md "wikilink").
 
 ## Positives
 
@@ -74,7 +74,7 @@ indigenous people compared to other areas.
 
 ### Spanish Empire
 
-The [Spanish Empire](Spanish_Empire "wikilink") claimed Costa Rica in
+The [Spanish Empire](Spanish_Empire.md "wikilink") claimed Costa Rica in
 1502, and it was largely left as an undeveloped area of land. Of course,
 the Spanish Empire waged a brutal war of extermination against the
 indigenous population.
@@ -86,17 +86,17 @@ free from the Spanish Empire in 1821 and became a part of the United
 Provinces of Central America (later called the Federal Republic of
 Central America) and became independent after a war in 1835, and became
 a [democratic republic in
-1847](Timeline_of_Representative_Democracy "wikilink") with universal
+1847](Timeline_of_Representative_Democracy.md "wikilink") with universal
 male suffrage but remained extremely poor due to lack of infrastructure
 and industry. In 1856, the Costa Rican army attacked [William
-Walker's](William_Walker "wikilink") efforts to set up slave colonies in
+Walker's](William_Walker.md "wikilink") efforts to set up slave colonies in
 Nicaragua and defeated him.
 
 ### Liberal State
 
 In 1870 the government was overthrown by
-[liberals](Liberalism "wikilink"), who abolished the [death
-penalty](Death_Penalty "wikilink"), [torture](torture "wikilink") and
+[liberals](Liberalism.md "wikilink"), who abolished the [death
+penalty](Death_Penalty.md "wikilink"), [torture](torture.md "wikilink") and
 set presidential term limits to four years. However, the government
 engaged in religious persecution and attempted to be increasingly
 authoritarian while developing an export economy centered around the
@@ -111,25 +111,25 @@ the country.
 In 1917, a military dictator rose in the country, but he fell in 1919.
 In 1921, Costa Rica invaded Panama to claim several towns and it won.
 But the liberal state entered crisis in 1929 with the [Great
-Depression](Great_Depression "wikilink"). The [Communist
-Party](Communist_Party_of_Costa_Rica "wikilink") led a workers' movement
+Depression](Great_Depression.md "wikilink"). The [Communist
+Party](Communist_Party_of_Costa_Rica.md "wikilink") led a workers' movement
 and several strikes and a welfare state was created as the government
-followed [Keynesian](Keynesian_Economics "wikilink") theory and built up
+followed [Keynesian](Keynesian_Economics.md "wikilink") theory and built up
 their infrastructure. The reforms and political violence were extremely
 controversial and led to a bloody civil war that killed 2,000 people.
 
 The war was one by José Figueres Ferrer, a [social
-democrat](Social_Democracy "wikilink") who abolished the army to prevent
+democrat](Social_Democracy.md "wikilink") who abolished the army to prevent
 another civil war. This meant Costa Rica was spared the fate of most
 Latin American countries in the 20th century which fell into brutal
 civil wars, dictatorships, invasions or rigged elections because of [US
-imperialism](Timeline_of_US_Imperialism "wikilink") as there was no army
+imperialism](Timeline_of_US_Imperialism.md "wikilink") as there was no army
 to turn against the government meaning a direct invasion was the only
 possible measure. The government also gave women rights to vote,
 nationalised banks, expanded the welfare state, outlawed the communist
 party, guaranteed public education, citizenship for immigrants and
 cracking down on government corruption. Although the governments support
-for the [Caribbean Legion](Caribbean_Legion "wikilink") was extremely
+for the [Caribbean Legion](Caribbean_Legion.md "wikilink") was extremely
 controversial.
 
 The country entered a strange relationship with the USA, where it
@@ -141,12 +141,12 @@ of the most environmentally friendly countries in the world.
 ## References
 
 [Costa Rica](https://en.wikipedia.org/wiki/Costa_Rica) at
-[Wikipedia](Wikipedia "wikilink")
+[Wikipedia](Wikipedia.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Costa
-Rica](Category:Costa_Rica "wikilink") [Category:Central
-America](Category:Central_America "wikilink")
-[Category:States](Category:States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink") [Category:Colonial
-States](Category:Colonial_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Costa
+Rica](Category:Costa_Rica.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink") [Category:Colonial
+States](Category:Colonial_States.md "wikilink")

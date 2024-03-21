@@ -4,10 +4,10 @@ permalink: /Tibetan_Student_Movement_(2010)/
 ---
 
 The **Tibetan Student Movement of 2010** was a
-[indigenist](Indigenism "wikilink") [student
-movement](Student_Uprisings "wikilink") in [Tibet](Tibet "wikilink")
-(occupied by [China](China "wikilink")) in
-[2010](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+[indigenist](Indigenism.md "wikilink") [student
+movement](Student_Uprisings.md "wikilink") in [Tibet](Tibet.md "wikilink")
+(occupied by [China](China.md "wikilink")) in
+[2010](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 

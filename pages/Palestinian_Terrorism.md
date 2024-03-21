@@ -12,7 +12,7 @@ Palestinian Nationalism. Please note 3 things:
 - Terrorism must intentionally target civilians, attacks against
   military targets are not listed here.
 - Non-Palestinians can still commit terrorist attacks and attacks can
-  happen outside of Palestine and [Israel](Israel "wikilink").
+  happen outside of Palestine and [Israel](Israel.md "wikilink").
 
 ## List of Attacks
 
@@ -29,15 +29,15 @@ Palestinian Nationalism. Please note 3 things:
 
 ## See Also
 
-- [Zionist Terrorism](Zionist_Terrorism "wikilink")
-- [Anti-Semitic Terrorism](Anti-Semitic_Terrorism "wikilink")
-- [Islamic Terrorism](Islamic_Terrorism "wikilink")
+- [Zionist Terrorism](Zionist_Terrorism.md "wikilink")
+- [Anti-Semitic Terrorism](Anti-Semitic_Terrorism.md "wikilink")
+- [Islamic Terrorism](Islamic_Terrorism.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") - [1949 Menarsha synagogue
+[^1]: [Wikipedia](Wikipedia.md "wikilink") - [1949 Menarsha synagogue
     attack](https://en.wikipedia.org/wiki/1949_Menarsha_synagogue_attack)
 
-[^2]: [Wikipedia](Wikipedia "wikilink") - [1969 PFLP bombings in
+[^2]: [Wikipedia](Wikipedia.md "wikilink") - [1969 PFLP bombings in
     Jerusalem](https://en.wikipedia.org/wiki/1969_PFLP_bombings_in_Jerusalem)

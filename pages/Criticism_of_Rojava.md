@@ -3,7 +3,7 @@ title: Criticism of Rojava
 permalink: /Criticism_of_Rojava/
 ---
 
-[Rojava](Rojava "wikilink") has received a lot of criticism from all
+[Rojava](Rojava.md "wikilink") has received a lot of criticism from all
 sides of the spectrum, some valid, some invalid. This article will
 explore these criticisms. Some of the most common critiques are:
 
@@ -24,6 +24,6 @@ explore these criticisms. Some of the most common critiques are:
   Turkey being in NATO.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Arguments](Category:Arguments "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Arguments](Category:Arguments.md "wikilink")

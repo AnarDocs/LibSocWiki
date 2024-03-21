@@ -9,7 +9,7 @@ USA 1930s
 
 France 1936
 
-[France 1968](May_1968_Events_in_France "wikilink")
+[France 1968](May_1968_Events_in_France.md "wikilink")
 
 Italy 1969
 

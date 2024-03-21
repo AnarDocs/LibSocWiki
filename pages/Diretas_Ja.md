@@ -4,11 +4,11 @@ permalink: /Diretas_Ja/
 ---
 
 **Diretas Já** (English: Direct Now) was a grassroots social movement
-that emerged in [Brazil](Brazil "wikilink") in the
-[mid-1980s](Timeline_of_Libertarian_Socialism_in_South_America "wikilink")
+that emerged in [Brazil](Brazil.md "wikilink") in the
+[mid-1980s](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink")
 demanding the end of [military
-dictatorship](military_Dictatorship_of_Brazil "wikilink") and creation
-of a [liberal democracy](Representative_Democracy "wikilink").
+dictatorship](military_Dictatorship_of_Brazil.md "wikilink") and creation
+of a [liberal democracy](Representative_Democracy.md "wikilink").
 
 ## Background
 
@@ -33,11 +33,11 @@ The movement successfully toppled the dictatorship in Brazil and created
 a democratic government.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Brazil](Category:Brazil "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:1983](Category:1983 "wikilink")
-[Category:1984](Category:1984 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Brazil](Category:Brazil.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:1983](Category:1983.md "wikilink")
+[Category:1984](Category:1984.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")

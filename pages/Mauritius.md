@@ -4,26 +4,26 @@ permalink: /Mauritius/
 ---
 
 **Mauritius**, officially the **Republic of Mauritius** is a
-[liberal](Liberalism "wikilink") [capitalist](Capitalism "wikilink")
-[state](List_of_States "wikilink") located off the coast of Southern
-Africa near [Madagascar](Madagascar "wikilink") and the
-[Seychelles](Seychelles "wikilink").
+[liberal](Liberalism.md "wikilink") [capitalist](Capitalism.md "wikilink")
+[state](List_of_States.md "wikilink") located off the coast of Southern
+Africa near [Madagascar](Madagascar.md "wikilink") and the
+[Seychelles](Seychelles.md "wikilink").
 
 ## Positives and Negatives
 
 ### Positives
 
-- Alongside [Botswana](Botswana "wikilink"), Mauritius is the only
+- Alongside [Botswana](Botswana.md "wikilink"), Mauritius is the only
   African country to have not experienced a dictatorship or civil war
   since independence.
 - Mauritius scores among the highest in Africa for all quality of life
   indicators and is comparable to Western Europe or North America.
 - Mauritius maintains a strong [social
-  democracy](Social_Democracy "wikilink") with free universal health
+  democracy](Social_Democracy.md "wikilink") with free universal health
   care, free education up to tertiary level and free public transport
   for students, senior citizens, and the disabled.
 - Mauritius is a successful [multicultural, multilingual, multiethnic
-  and multireligious](Diversity_(Sociology) "wikilink") society that has
+  and multireligious](Diversity_(Sociology).md "wikilink") society that has
   not seen riots or wars as a result of this.
 - Mauritius has a pretty tame police force, with no signs of forced
   disappearances.
@@ -73,7 +73,7 @@ Africa near [Madagascar](Madagascar "wikilink") and the
   - In 2017, a politician gave a contract to supply food to government
     organisations to his daughter in a scandal known as "Biscuitgate".
   - In 2018 the President resigned after it turned out she had taken a
-    credit card from an [Angolan](Angola "wikilink") banker who wanted
+    credit card from an [Angolan](Angola.md "wikilink") banker who wanted
     to expand into Mauritius.
   - In 2020 it was found that the government took bribes in exchange for
     contracts to help work on improvements to the countries electric
@@ -83,13 +83,13 @@ Africa near [Madagascar](Madagascar "wikilink") and the
   wages, substandard living conditions, lack of clearly defined work
   titles, denial of meal allowances,and deportation. As of November 1,
   there were an estimated 39,500 migrant workers in the country, mainly
-  from [Bangladesh](Bangladesh "wikilink"), [India](India "wikilink"),
-  [Sri Lanka](Sri_Lanka "wikilink"), [Nepal](Nepal "wikilink"),
-  [China](China "wikilink"), and [Madagascar](Madagascar "wikilink").
+  from [Bangladesh](Bangladesh.md "wikilink"), [India](India.md "wikilink"),
+  [Sri Lanka](Sri_Lanka.md "wikilink"), [Nepal](Nepal.md "wikilink"),
+  [China](China.md "wikilink"), and [Madagascar](Madagascar.md "wikilink").
 
 ## Major Social Struggles
 
-- 1937: [Uba Strike](Uba_Strike_(1937) "wikilink")
+- 1937: [Uba Strike](Uba_Strike_(1937).md "wikilink")
 - 1971: Port Strikes
 - 1975: Student Revolt
 - 1999: Riots
@@ -100,10 +100,10 @@ Africa near [Madagascar](Madagascar "wikilink") and the
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:States](Category:States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Southern
-Africa](Category:Southern_Africa "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Southern
+Africa](Category:Southern_Africa.md "wikilink")
 
 [^1]: <https://en.wikipedia.org/wiki/Corruption_in_Mauritius>

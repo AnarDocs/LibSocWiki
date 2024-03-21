@@ -3,11 +3,11 @@ title: 43 Group
 permalink: /43_Group/
 ---
 
-The **43 Group** was a militant [anti-fascist](Anti-Fascism "wikilink")
+The **43 Group** was a militant [anti-fascist](Anti-Fascism.md "wikilink")
 group composed mainly of Jewish veterans in the British Armed Forces
-from [World War II](World_War_II "wikilink"), who fought fascist groups
-following [Oswald Mosely](Oswald_Mosely "wikilink") in the [late
-1940s](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink").
+from [World War II](World_War_II.md "wikilink"), who fought fascist groups
+following [Oswald Mosely](Oswald_Mosely.md "wikilink") in the [late
+1940s](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink").
 
 It would not be the last. This direct action sparked the formation in
 March 1946 of the 3 Group: a militant anti-fascist organization composed
@@ -121,11 +121,11 @@ the 43 Group disbanded, believing that their goal of stamping out
 Mosleyite fascism had been achieved, at least for the time being.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anti-Fascism](Category:Anti-Fascism "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
-[Category:UK](Category:UK "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:1940s](Category:1940s "wikilink")
-[Category:1946](Category:1946 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anti-Fascism](Category:Anti-Fascism.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")
+[Category:UK](Category:UK.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink")
+[Category:1946](Category:1946.md "wikilink")

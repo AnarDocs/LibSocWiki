@@ -6,7 +6,7 @@ permalink: /Ecocide/
 **Ecocide** or **Environmental Destruction** is the deliberate or
 accidental destruction of natural ecosystems and habitats for human
 purposes, it's comparable to genocide and can have [significant effects
-on societies](Eco-Collapse_Hypothesis "wikilink").
+on societies](Eco-Collapse_Hypothesis.md "wikilink").
 
 ## Ecocide by Country
 
@@ -16,12 +16,12 @@ on societies](Eco-Collapse_Hypothesis "wikilink").
 
 #### Russia
 
-Upon the formation of the [Russian Federation](Russia "wikilink"),
+Upon the formation of the [Russian Federation](Russia.md "wikilink"),
 around 40% of Russia's territory began demonstrating symptoms of
 "significant" ecological stress, largely due to a diverse number of
 environmental issues, including deforestation, energy irresponsibility,
 pollution, and nuclear waste, largely the leftovers of the
-[USSRs](USSR "wikilink") economic policy. Around 16 million hectares of
+[USSRs](USSR.md "wikilink") economic policy. Around 16 million hectares of
 forest are lost each year to a variety of causes including logging,
 pollution, and fires. 75% of surface water, and 50% of all water in
 Russia is now polluted (only 8% of wastewater is fully treated before
@@ -39,9 +39,9 @@ diseases.[^1]
 ### South America
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Environmental_issues_in_Russia>

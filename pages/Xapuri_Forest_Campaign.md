@@ -4,18 +4,18 @@ permalink: /Xapuri_Forest_Campaign/
 ---
 
 The **Xapuri Forest Campaign** was an 11-year long ([1977 -
-1988](Timeline_of_Libertarian_Socialism_in_South_America "wikilink"))
-effort to organize [environmentalists](Environmentalism "wikilink"),
-[trade unionists](Trade_Union "wikilink") and [indigenous
-people](Indigenous_People "wikilink") together to defend the Amazon
-rainforest around the town of Xapuri, [Brazil](Brazil "wikilink") from
+1988](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink"))
+effort to organize [environmentalists](Environmentalism.md "wikilink"),
+[trade unionists](Trade_Union.md "wikilink") and [indigenous
+people](Indigenous_People.md "wikilink") together to defend the Amazon
+rainforest around the town of Xapuri, [Brazil](Brazil.md "wikilink") from
 destruction by wealthy ranchers.
 
 ## Background
 
 Much of the Amazon Rainforest had been controlled by powerful rubber
 barrons for centuries, who had treated much of the population terribly,
-working in [slave-like](Slavery "wikilink") conditions. Attempts were
+working in [slave-like](Slavery.md "wikilink") conditions. Attempts were
 made in the 1960s to unionize these workers, called “rubber tappers;”
 however, these attempts failed. But in the 1970s, ranchers from Southern
 Brazil began to buy most of the land in order to clear them for land to
@@ -23,13 +23,13 @@ graze cattle on. This forcibly evicted the rubber tappers and cut them
 off from their main source of income. This led to a successful
 establishing of a rubber tappers union in 1975, the president of which
 was Wilson Pinheiro and the secretary was [Chico
-Mendes](Chico_Mendes "wikilink"), who went to Xapuri to establish a new
+Mendes](Chico_Mendes.md "wikilink"), who went to Xapuri to establish a new
 branch of the union.[^1]
 
 ## Events
 
 Chico helped organize the Xapuri Rural Workers' Union with [Marina
-Silva](Marina_Silva "wikilink") in 1977, drawing a link between the
+Silva](Marina_Silva.md "wikilink") in 1977, drawing a link between the
 survivial of the forest and the survival of the workers. The goal of the
 
 The primary goal of the organization was to stop ranchers from clear
@@ -112,28 +112,28 @@ off limits to logging, the first 'extractive reserve' in Brazil. In the
 next 13 years, twenty-one additional reserves have been established,
 protecting 1.5% of the Amazon's total area. However, the campaign
 triggered a wave of assassinations of
-[environmentalists](Environmentalism "wikilink"), [trade
-unionists](Trade_Union "wikilink") and
-[indigenists](Indigenism "wikilink").[^2]
+[environmentalists](Environmentalism.md "wikilink"), [trade
+unionists](Trade_Union.md "wikilink") and
+[indigenists](Indigenism.md "wikilink").[^2]
 
 ## References
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Brazil](Category:Brazil "wikilink") [Category:South
-America](Category:South_America "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1988](Category:1988 "wikilink")
-[Category:1977](Category:1977 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink") [Category:Trade
-Unionism](Category:Trade_Unionism "wikilink")
-[Category:Cooperatives](Category:Cooperatives "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Brazil](Category:Brazil.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1988](Category:1988.md "wikilink")
+[Category:1977](Category:1977.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink") [Category:Trade
+Unionism](Category:Trade_Unionism.md "wikilink")
+[Category:Cooperatives](Category:Cooperatives.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
 
 [^1]: <https://nvdatabase.swarthmore.edu/content/brazilian-rubber-tappers-campaign-protest-deforestation-brazilian-rainforest-region-1977-198>
 

@@ -5,11 +5,11 @@ permalink: /Talamanca_Anti-Oil_Movement/
 
 The **Talamanca Anti-Oil Movement** or **Talamanca Anti-Oil Campaign**
 refers to a massive campaign to completely ban [oil
-drilling](Fossil_Fuels "wikilink") from the Talamanca region of [Costa
-Rica](Costa_Rica "wikilink") from [1999 to
-2002](Timeline_of_Libertarian_Socialism_in_Central_America "wikilink")
-led by [indigenous groups](Indigenism "wikilink") and
-[environmentalists](Environmentalism "wikilink").
+drilling](Fossil_Fuels.md "wikilink") from the Talamanca region of [Costa
+Rica](Costa_Rica.md "wikilink") from [1999 to
+2002](Timeline_of_Libertarian_Socialism_in_Central_America.md "wikilink")
+led by [indigenous groups](Indigenism.md "wikilink") and
+[environmentalists](Environmentalism.md "wikilink").
 
 ## Background
 
@@ -24,7 +24,7 @@ Angered by the fact that their communities had not been consulted in the
 deal, and foreseeing the ecological devastation and economic
 exploitation that would result from oil exploration in their region,
 Talamancan residents formed the [Anti-Petroleum Action
-(ADELA)](Anti-Petroleum_Action_(ADELA) "wikilink") coalition to protest
+(ADELA)](Anti-Petroleum_Action_(ADELA).md "wikilink") coalition to protest
 the concessions. Comprised of environmentalists, indigenous groups,
 indigenous rights organizations, religious groups, community groups,
 farmers’ organizations, fishermen’s unions, small-business owners,
@@ -49,15 +49,15 @@ defeat much more powerful governments and corporations.
 <https://nvdatabase.swarthmore.edu/content/costa-rican-communities-defeat-us-oil-companies-protect-local-environment-1999-2002>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Events](Category:Events "wikilink") [Category:Costa
-Rica](Category:Costa_Rica "wikilink") [Category:Central
-America](Category:Central_America "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:1999](Category:1999 "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:2002](Category:2002 "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:1990s](Category:1990s "wikilink")
-[Category:2000s](Category:2000s "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Costa
+Rica](Category:Costa_Rica.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:1999](Category:1999.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:2002](Category:2002.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")

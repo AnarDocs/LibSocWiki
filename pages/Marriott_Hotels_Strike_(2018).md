@@ -3,9 +3,9 @@ title: Marriott Hotels Strike (2018)
 permalink: /Marriott_Hotels_Strike_(2018)/
 ---
 
-The **Marriot Hotels Strike** was a [strike](List_of_Strikes "wikilink")
-in cities across the [USA](United_States_of_America "wikilink") in
-[2018](Timeline_of_Libertarian_Socialism_in_North_America "wikilink") in
+The **Marriot Hotels Strike** was a [strike](List_of_Strikes.md "wikilink")
+in cities across the [USA](United_States_of_America.md "wikilink") in
+[2018](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink") in
 protest of low wages and sexual harassment faced by hotel workers.
 
 ## Background
@@ -42,9 +42,9 @@ The concessions won by Marriot workers include:
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:2018](Category:2018 "wikilink")
-[Category:2010s](Category:2010s "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:2018](Category:2018.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")

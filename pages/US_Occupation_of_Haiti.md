@@ -7,9 +7,9 @@ permalink: /US_Occupation_of_Haiti/
 subjects around murder and rape*
 
 The **US Occupation of Haiti** or the **Rape of Haiti**was an effort by
-the [USA](United_States_of_America "wikilink") to defend their [colonial
-ambitions](Timeline_of_US_Imperialism "wikilink") in Latin America from
-the expanding [German Empire](German_Empire "wikilink") from 1915 to
+the [USA](United_States_of_America.md "wikilink") to defend their [colonial
+ambitions](Timeline_of_US_Imperialism.md "wikilink") in Latin America from
+the expanding [German Empire](German_Empire.md "wikilink") from 1915 to
 1934. Haiti became an occupied territory of an American Empire, and US
 soldiers killed, raped and tortured an unknown number of people.
 
@@ -40,7 +40,7 @@ Warren G. Harding criticized incumbent Woodrow Wilson, referring to the
 occupation as the "Rape of Haiti"; however after he won the election he
 continued the occupation in his own presidency (but remember you have to
 vote and cannot question our elected leaders!).[^1] America believes in
-the [rule of law](Rule_of_Law "wikilink") so strongly that they forgot
+the [rule of law](Rule_of_Law.md "wikilink") so strongly that they forgot
 to apply it here, and none of the soldiers, officers, commanders,
 politicians and businessmen who helped these digusting crimes against
 humanity were ever charged! Oopsies daisy!
@@ -49,16 +49,16 @@ humanity were ever charged! Oopsies daisy!
 
 <references />
 
-[Category:US Imperialism](Category:US_Imperialism "wikilink")
-[Category:Haiti](Category:Haiti "wikilink")
-[Category:Caribbean](Category:Caribbean "wikilink")
-[Category:1915](Category:1915 "wikilink")
-[Category:1934](Category:1934 "wikilink")
-[Category:1930s](Category:1930s "wikilink")
-[Category:1910s](Category:1910s "wikilink")
-[Category:1920s](Category:1920s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:US Imperialism](Category:US_Imperialism.md "wikilink")
+[Category:Haiti](Category:Haiti.md "wikilink")
+[Category:Caribbean](Category:Caribbean.md "wikilink")
+[Category:1915](Category:1915.md "wikilink")
+[Category:1934](Category:1934.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink")
+[Category:1910s](Category:1910s.md "wikilink")
+[Category:1920s](Category:1920s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Sexual_violence_in_Haiti#United_States_occupation_(1915%E2%80%931934)>

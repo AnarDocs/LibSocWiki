@@ -10,9 +10,9 @@ educational reform.
 ## Background
 
 In Egypt, in the early 1950s, a [military
-coup](Egyptian_Revolution_(1952) "wikilink") had displaced the British
+coup](Egyptian_Revolution_(1952).md "wikilink") had displaced the British
 puppet king and led to the establishment of a regime under [Gamal Abdel
-Nasser](Gamal_Abdel_Nasser "wikilink"), which, while ‘speaking for the
+Nasser](Gamal_Abdel_Nasser.md "wikilink"), which, while ‘speaking for the
 people’ (the peasants and workers) was hostile not only to the feudal
 landowners but also to any political opposition or any attempt to create
 independent trade unions to represent the working class directly.

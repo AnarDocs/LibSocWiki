@@ -12,4 +12,4 @@ under the Creative Commons Attribution-Share Alike License 3.0
 - [Read the full legal code of the
   license](http://creativecommons.org/licenses/by-sa/3.0/legalcode).
 
-Please see [Wikia:Licensing](w:Wikia:Licensing "wikilink") for details.
+Please see [Wikia:Licensing](w:Wikia:Licensing.md "wikilink") for details.

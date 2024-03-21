@@ -7,7 +7,7 @@ permalink: /HBPC-CHINA/
 Congress</big> -<big>Earth-Asia-PRCN</big>**
 
 The deep idea is [libertarian
-socialism](Libertarian_Socialism "wikilink").
+socialism](Libertarian_Socialism.md "wikilink").
 
 Congress founded in China at 2021-07-08.
 

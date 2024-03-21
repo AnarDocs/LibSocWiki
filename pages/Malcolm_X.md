@@ -14,10 +14,10 @@ and most influential African Americans in history.
 ## Assassination
 
 Much like other civil rights leaders (notably [Martin Luther King
-Jr.](Martin_Luther_King_Jr. "wikilink") and [Fred
-Hampton](Fred_Hampton "wikilink")) Malcolm X was shot dead, his
+Jr.](Martin_Luther_King_Jr..md "wikilink") and [Fred
+Hampton](Fred_Hampton.md "wikilink")) Malcolm X was shot dead, his
 assassination has spawned two notable [conspiracy
-theories](Conspiracy_Theory "wikilink").
+theories](Conspiracy_Theory.md "wikilink").
 
 ### Events
 
@@ -35,8 +35,8 @@ blast.
 ### Theory \#1: Nation of Islam
 
 All evidence points to a level of involvement by the [Nation of
-Islam](Nation_of_Islam "wikilink"), an black [Islamic](Islam "wikilink")
-group in the [USA](United_States_of_America "wikilink") that Malcolm X
+Islam](Nation_of_Islam.md "wikilink"), an black [Islamic](Islam.md "wikilink")
+group in the [USA](United_States_of_America.md "wikilink") that Malcolm X
 was once a member of, but he had a notable falling out with the Nation
 after denouncing black nationalism and the rape culture within the
 organisation. The evidence
@@ -53,9 +53,9 @@ organisation. The evidence
 ### Theory \#2: FBI
 
 Some have speculated that Malcolm X was killed by the
-[FBI](Federal_Bureau_of_Investigation "wikilink") and New York City
-[police](police "wikilink") as part of
-[COINTELPRO](COINTELPRO "wikilink"), the evidence for this includes:
+[FBI](Federal_Bureau_of_Investigation.md "wikilink") and New York City
+[police](police.md "wikilink") as part of
+[COINTELPRO](COINTELPRO.md "wikilink"), the evidence for this includes:
 
 - The FBI had been spying on Malcolm extensively, and police had
   infiltrated the Nation of Islam.
@@ -82,14 +82,14 @@ Some have speculated that Malcolm X was killed by the
   despite calls for their release.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Characters](Category:Characters "wikilink") [Category:Civil
-Rights Movement](Category:Civil_Rights_Movement "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:1960s](Category:1960s "wikilink")
-[Category:1965](Category:1965 "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Anti-Racists](Category:Anti-Racists "wikilink")
-[Category:Conspiracy Theories](Category:Conspiracy_Theories "wikilink")
-[Category:COINTELPRO](Category:COINTELPRO "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Characters](Category:Characters.md "wikilink") [Category:Civil
+Rights Movement](Category:Civil_Rights_Movement.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink")
+[Category:1965](Category:1965.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Anti-Racists](Category:Anti-Racists.md "wikilink")
+[Category:Conspiracy Theories](Category:Conspiracy_Theories.md "wikilink")
+[Category:COINTELPRO](Category:COINTELPRO.md "wikilink")

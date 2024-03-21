@@ -4,24 +4,24 @@ permalink: /Oka_Uprising/
 ---
 
 The **Oka Uprising** (or **Oka Crisis** in the [Canadian
-media](Mass_Media "wikilink")) was an
-[indigenist](Indigenism "wikilink")
-[uprising](List_of_Libertarian_Socialist_Revolutions "wikilink") against
+media](Mass_Media.md "wikilink")) was an
+[indigenist](Indigenism.md "wikilink")
+[uprising](List_of_Libertarian_Socialist_Revolutions.md "wikilink") against
 the illegal expropriation of sacred
-[Mohawk](Haudenosaunee_Confederacy "wikilink") land by
-[capitalists](Ruling_Class "wikilink") in Oka, Quebec,
-[Canada](Canada "wikilink") in
-[1990](Timeline_of_Indigenism "wikilink").
+[Mohawk](Haudenosaunee_Confederacy.md "wikilink") land by
+[capitalists](Ruling_Class.md "wikilink") in Oka, Quebec,
+[Canada](Canada.md "wikilink") in
+[1990](Timeline_of_Indigenism.md "wikilink").
 
 ## Background
 
 Mohawk people first settled in the Montreal area in the early 18th
 century, moving north from their homeland in the Hudson River valley.
 They displaced the Wyandot people (or Hurons) native to the area, with
-whom the [Haudenosaunee](Haudenosaunee "wikilink") (of which the Mohawk
+whom the [Haudenosaunee](Haudenosaunee.md "wikilink") (of which the Mohawk
 were a tribe) had long been in conflict, and who had been weakened
 through prolonged contact with [French
-settlers](French_Empire "wikilink"). Mohawk settlement in the St
+settlers](French_Empire.md "wikilink"). Mohawk settlement in the St
 Lawrence river valley was influenced to a great extent by French Jesuit
 missionaries who sought converts from among the Mohawk and who
 established Jesuit missionary villages for them at Kahnawake and
@@ -43,7 +43,7 @@ this stand-off with force.
 
 In 1936, the seminary sold the territory under protest by the local
 Mohawk community. At the time they still kept cattle on the [common
-land](Commons "wikilink"). By 1956, the Mohawk were left to six
+land](Commons.md "wikilink"). By 1956, the Mohawk were left to six
 remaining square kilometers from their original 165. In 1959, the town
 approved the development of a private nine-hole golf course, the *Club
 de golf d'Oka*, on a portion of the disputed land. The Mohawk suit filed
@@ -228,16 +228,16 @@ his responsibilities as mayor required him to act as he
 did.<sup>\[28\]</sup>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Canada](Category:Canada "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:Anti-Colonialism](Category:Anti-Colonialism "wikilink")
-[Category:1990](Category:1990 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Indigenous
-Uprisings](Category:Indigenous_Uprisings "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:Anti-Colonialism](Category:Anti-Colonialism.md "wikilink")
+[Category:1990](Category:1990.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Indigenous
+Uprisings](Category:Indigenous_Uprisings.md "wikilink")
 [Category:Anti-Colonial
-Uprising](Category:Anti-Colonial_Uprising "wikilink")
-[Category:Golf](Category:Golf "wikilink")
+Uprising](Category:Anti-Colonial_Uprising.md "wikilink")
+[Category:Golf](Category:Golf.md "wikilink")

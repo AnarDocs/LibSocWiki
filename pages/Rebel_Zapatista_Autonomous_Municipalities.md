@@ -5,21 +5,21 @@ permalink: /Rebel_Zapatista_Autonomous_Municipalities/
 
 The **Rebel Zapatista Autonomous Municipalities** or **Municipios
 Autónomos Rebel des Zapatistas** (**MAREZ**) are an [autonomous
-society](List_of_Libertarian_Socialist_Societies "wikilink") within the
+society](List_of_Libertarian_Socialist_Societies.md "wikilink") within the
 Mexican state that emerged as a result of the [Zapatista
-Revolution](Zapatista_Revolution "wikilink") in
-[1994](Timeline_of_Libertarian_Socialism "wikilink") inspired by the
-[indigenist](Indigenism "wikilink") ideology of
-[Neo-Zapatismo](Neo-Zapatismo "wikilink"). They control roughly a third
-of the [Mexican](Mexico "wikilink") state of Chiapas with a population
+Revolution](Zapatista_Revolution.md "wikilink") in
+[1994](Timeline_of_Libertarian_Socialism.md "wikilink") inspired by the
+[indigenist](Indigenism.md "wikilink") ideology of
+[Neo-Zapatismo](Neo-Zapatismo.md "wikilink"). They control roughly a third
+of the [Mexican](Mexico.md "wikilink") state of Chiapas with a population
 of around 360,000 people.[^1]
 
 ## Decision-Making
 
 At a local level, people attend a [popular
-assembly](Democratic_Assembly "wikilink") of around 300 families where
+assembly](Democratic_Assembly.md "wikilink") of around 300 families where
 anyone over the age of 12 can participate in decision-making, these
-assemblies strive to reach a [consensus](consensus "wikilink") but are
+assemblies strive to reach a [consensus](consensus.md "wikilink") but are
 willing to fall back to a majority vote.
 
 Each community has 3 main administrative structures: (1) the
@@ -28,7 +28,7 @@ for land control*, which deals with forestry and disputes with
 neighboring communities; and (3) the *agencia*, a community police
 agency.
 
-The communities form a [confederation](confederation "wikilink") with
+The communities form a [confederation](confederation.md "wikilink") with
 other communities to create an autonomous municipalities, which form
 further confederations with other municipalities to create a region. The
 Zapatistas are composed of five regions, who in turn form the whole of
@@ -48,7 +48,7 @@ government' or 'autonomous government') as well as various multinational
 banks and corporations, drug cartels, fascist groups, the CIA (who
 support Mexico and cartels on behalf of the US). All of these tensions
 and occasional violent confrontations are known as the [Chiapas
-Conflict](Chiapas_Conflict "wikilink").
+Conflict](Chiapas_Conflict.md "wikilink").
 
 Entry to the Zapatista Communities is quite easy provided you can get
 into Mexico and Chiapas, according to one visitor of the communities:
@@ -60,33 +60,33 @@ into Mexico and Chiapas, according to one visitor of the communities:
 ## Crime
 
 Each community has an autonomous police agency (agencia), more akin to a
-[neighborhood watch](Neighborhood_Watch "wikilink"), and a judicial
-council. There is almost no [crime](crime "wikilink") and
-[prison](prison "wikilink") population, due to an emphasis on
-[restorative](Restorative_Justice "wikilink") and [transformative
-justice](Transformative_Justice "wikilink") over [punitive
-justice](Punitive_Justice "wikilink") and due to [common
-ownership](Commons "wikilink") of land preventing
-[hunger](hunger "wikilink"), the [control of
-work](Workers'_Self-Management "wikilink") and
-[education](Democratic_Education "wikilink"). The only two people in
+[neighborhood watch](Neighborhood_Watch.md "wikilink"), and a judicial
+council. There is almost no [crime](crime.md "wikilink") and
+[prison](prison.md "wikilink") population, due to an emphasis on
+[restorative](Restorative_Justice.md "wikilink") and [transformative
+justice](Transformative_Justice.md "wikilink") over [punitive
+justice](Punitive_Justice.md "wikilink") and due to [common
+ownership](Commons.md "wikilink") of land preventing
+[hunger](hunger.md "wikilink"), the [control of
+work](Workers'_Self-Management.md "wikilink") and
+[education](Democratic_Education.md "wikilink"). The only two people in
 jail (in a society of 360,000, which means they have the lowest prisoner
 population per capita in the world) are in jail for being admitted
 foreign agents planting marijuana crops to justify military incursions
-into their communities using the [war on drugs](War_on_Drugs "wikilink")
+into their communities using the [war on drugs](War_on_Drugs.md "wikilink")
 as a pretext.[^4]
 
 ## Economy
 
 The economy is mainly composed of [worker
-cooperatives](Worker_Cooperative "wikilink"), family farms and community
+cooperatives](Worker_Cooperative.md "wikilink"), family farms and community
 stores with the councils of good government providing low-interest
 loans, free education, radio stations and health-care to communities.
 The economy is largely self-reliant and agricultural, producing mainly
 corn, beans, coffee, bananas, sugar, cattle, chickens, pigs and clothing
 at cooperatives. The communities have abolished private (but not
 personal) ownership of property and instituted a system of [common
-ownership of land](Commons "wikilink"), and they sell over \$44 million
+ownership of land](Commons.md "wikilink"), and they sell over \$44 million
 worth of goods to international markets each year.[^5]
 
 ## Public Services
@@ -95,7 +95,7 @@ worth of goods to international markets each year.[^5]
 
 The Zapatistas run hundreds of schools with thousands of teachers
 modeled around the principles of [democratic
-education](Democratic_Education "wikilink") where students and
+education](Democratic_Education.md "wikilink") where students and
 communities collectively decide on school curriculum and students are
 not subjects to grading. On average, the Zapatistas have more schools
 than the surrounding indigenous communities governed by the right-wing
@@ -227,40 +227,40 @@ In terms of LGBT rights:
 ## See Also
 
 - [Zapatista Army of National
-  Liberation](Zapatista_Army_of_National_Liberation "wikilink")
-- [Zapatista Revolution](Zapatista_Revolution "wikilink")
-- [Neo-Zapatismo](Neo-Zapatismo "wikilink")
-- [Zapatismo](Zapatismo "wikilink")
-- [Chiapas Conflict](Chiapas_Conflict "wikilink")
-- [Mexican Revolution](Mexican_Revolution "wikilink")
-- [Mexico](Mexico "wikilink")
-- [Morelos Commune](Morelos_Commune "wikilink")
+  Liberation](Zapatista_Army_of_National_Liberation.md "wikilink")
+- [Zapatista Revolution](Zapatista_Revolution.md "wikilink")
+- [Neo-Zapatismo](Neo-Zapatismo.md "wikilink")
+- [Zapatismo](Zapatismo.md "wikilink")
+- [Chiapas Conflict](Chiapas_Conflict.md "wikilink")
+- [Mexican Revolution](Mexican_Revolution.md "wikilink")
+- [Mexico](Mexico.md "wikilink")
+- [Morelos Commune](Morelos_Commune.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Zapatismo](Category:Zapatismo "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Mexico](Category:Mexico "wikilink")
-[Category:Societies](Category:Societies "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Zapatismo](Category:Zapatismo.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Mexico](Category:Mexico.md "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Central
-America](Category:Central_America "wikilink") [Category:North
-America](Category:North_America "wikilink") [Category:Latin
-America](Category:Latin_America "wikilink") [Category:Libertarian
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Central
+America](Category:Central_America.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink") [Category:Latin
+America](Category:Latin_America.md "wikilink") [Category:Libertarian
 Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Current Libertarian Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
-[Category:1994](Category:1994 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Zapatistas](Category:Zapatistas "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")
+[Category:1994](Category:1994.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Zapatistas](Category:Zapatistas.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Rebel_Zapatista_Autonomous_Municipalities>
 
 [^2]: Niels Barmeyer (2009) Developing Zapatista Autonomy: Conflict and
@@ -275,9 +275,9 @@ Century](Category:20th_Century "wikilink")
 [^5]: *Resistencia Autónoma: Cuaderno de texto de primer grado del curso
     de "La Libertad según l@s Zapatistas"*, 6-13.
 
-[^6]: [Raúl Zibechi](Raúl_Zibechi "wikilink") (2012) [Territories in
+[^6]: [Raúl Zibechi](Raúl_Zibechi.md "wikilink") (2012) [Territories in
     Resistance: A Cartography of Latin American Social
-    Movements](Territories_in_Resistance:_A_Cartography_of_Latin_American_Social_Movements "wikilink")
+    Movements](Territories_in_Resistance:_A_Cartography_of_Latin_American_Social_Movements.md "wikilink")
 
 [^7]: National University of Ireland, Cork called “Understanding
     Zapatista Autonomy: An Analysis of Healthcare and Education”.
@@ -296,7 +296,7 @@ Century](Category:20th_Century "wikilink")
     Scarcity in
     Chiapas](https://schoolsforchiapas.org/development-and-extraction-water-scarcity-in-chiapas/)
 
-[^13]: [Schools for Chiapas](Schools_for_Chiapas "wikilink") - [Neem:
+[^13]: [Schools for Chiapas](Schools_for_Chiapas.md "wikilink") - [Neem:
     The People's
     Pharmacy](https://schoolsforchiapas.org/advances/sustainable-agriculture/trees/neem/)
 

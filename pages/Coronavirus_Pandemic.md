@@ -12,7 +12,7 @@ and territories, resulting in approximately 33,900 deaths. More than
 ## Spread
 
 The virus was first linked to an animal market in Wuhan,
-[China](China "wikilink") and spread across the country. The Chinese
+[China](China.md "wikilink") and spread across the country. The Chinese
 government covered up much of the virus
 
 ## Effects
@@ -253,10 +253,10 @@ A hunger strike occurred at York County Prison in Pennsylvania.
 <https://libcom.org/news/march-25-workers-launch-wave-wildcat-strikes-trump-pushes-return-work-amidst-exploding-coro>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:2019](Category:2019 "wikilink")
-[Category:2020](Category:2020 "wikilink")
-[Category:2020s](Category:2020s "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:Pandemics](Category:Pandemics "wikilink")
-[Category:Events](Category:Events "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:2019](Category:2019.md "wikilink")
+[Category:2020](Category:2020.md "wikilink")
+[Category:2020s](Category:2020s.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:Pandemics](Category:Pandemics.md "wikilink")
+[Category:Events](Category:Events.md "wikilink")

@@ -4,9 +4,9 @@ permalink: /Whyalla_Glove_Factory_Work-In/
 ---
 
 The **Whyalla Glove Factory Work-In** was an episode of [workers'
-control](Workers'_Self-Management "wikilink") in Whyalla, [South
-Australia](Commonwealth_of_Australia "wikilink") from [1972 to
-1973](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").
+control](Workers'_Self-Management.md "wikilink") in Whyalla, [South
+Australia](Commonwealth_of_Australia.md "wikilink") from [1972 to
+1973](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").
 
 ## Background
 
@@ -180,33 +180,33 @@ company.”<sup>63</sup>
 
 ## See Also
 
-- [Work-In](Work-In "wikilink")
-- [Harco Work-In](Harco_Work-In "wikilink")
+- [Work-In](Work-In.md "wikilink")
+- [Harco Work-In](Harco_Work-In.md "wikilink")
 - [Clutha Development Mine
-  Work-In](Clutha_Development_Mine_Work-In "wikilink")
-- [Sydney Opera House Work-In](Sydney_Opera_House_Work-In "wikilink")
-- [Wyong Plaza Work-In](Wyong_Plaza_Work-In "wikilink")
-- [Nymboida Mine Work-In](Nymboida_Mine_Work-In "wikilink")
-- [Coal Cliff Work-In](Coal_Cliff_Work-In "wikilink")
+  Work-In](Clutha_Development_Mine_Work-In.md "wikilink")
+- [Sydney Opera House Work-In](Sydney_Opera_House_Work-In.md "wikilink")
+- [Wyong Plaza Work-In](Wyong_Plaza_Work-In.md "wikilink")
+- [Nymboida Mine Work-In](Nymboida_Mine_Work-In.md "wikilink")
+- [Coal Cliff Work-In](Coal_Cliff_Work-In.md "wikilink")
 - [Sanyo Television Factory
-  Work-In](Sanyo_Television_Factory_Work-In "wikilink")
-- [Union Carbide Work-In](Union_Carbide_Work-In "wikilink")
+  Work-In](Sanyo_Television_Factory_Work-In.md "wikilink")
+- [Union Carbide Work-In](Union_Carbide_Work-In.md "wikilink")
 - [Department of Social Security
-  Work-In](Department_of_Social_Security_Work-In "wikilink")
+  Work-In](Department_of_Social_Security_Work-In.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Work-Ins](Category:Work-Ins "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:1972](Category:1972 "wikilink")
-[Category:1973](Category:1973 "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Worker
-Cooperatives](Category:Worker_Cooperatives "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Work-Ins](Category:Work-Ins.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:1972](Category:1972.md "wikilink")
+[Category:1973](Category:1973.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Worker
+Cooperatives](Category:Worker_Cooperatives.md "wikilink")

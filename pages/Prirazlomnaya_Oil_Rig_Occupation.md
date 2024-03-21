@@ -4,9 +4,9 @@ permalink: /Prirazlomnaya_Oil_Rig_Occupation/
 ---
 
 The **Prirazlomnaya Oil Rig Occupation** was an
-[environmentalist](Environmentalism "wikilink") effort to block the
-construction of an offshore oil rig in [Russia](Russia "wikilink") in
-[2012](Timeline_of_Libertarian_Socialism_in_Northern_Asia "wikilink").
+[environmentalist](Environmentalism.md "wikilink") effort to block the
+construction of an offshore oil rig in [Russia](Russia.md "wikilink") in
+[2012](Timeline_of_Libertarian_Socialism_in_Northern_Asia.md "wikilink").
 
 ## Background
 
@@ -41,22 +41,22 @@ Rig.[^3]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:2012](Category:2012 "wikilink")
-[Category:Russia](Category:Russia "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink")
-[Category:Germany](Category:Germany "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Greenpeace](Category:Greenpeace "wikilink") [Category:Fossil
-Fuels](Category:Fossil_Fuels "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink")
+[Category:Germany](Category:Germany.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Greenpeace](Category:Greenpeace.md "wikilink") [Category:Fossil
+Fuels](Category:Fossil_Fuels.md "wikilink")
 
 [^1]: [Global Nonviolent Action
-    Database](Global_Nonviolent_Action_Database "wikilink"): [Greenpeace
+    Database](Global_Nonviolent_Action_Database.md "wikilink"): [Greenpeace
     challenges Gazprom, prevents oil production at Prirazlomnaya field,
     2012](https://nvdatabase.swarthmore.edu/content/greenpeace-challenges-gazprom-prevents-oil-production-prirazlomnaya-field-2012)
 

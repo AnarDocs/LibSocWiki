@@ -3,11 +3,11 @@ title: Japan
 permalink: /Japan/
 ---
 
-**Japan** is a [liberal](Liberalism "wikilink"),
-[colonial](Colonialism "wikilink"), [capitalist](Capitalism "wikilink")
-[state](List_of_States "wikilink") in Eastern Asia, it is near
-[China](China "wikilink"), [South Korea](South_Korea "wikilink") and
-[Russia](Russia "wikilink"). The state claims 6,582 the 11th largest
+**Japan** is a [liberal](Liberalism.md "wikilink"),
+[colonial](Colonialism.md "wikilink"), [capitalist](Capitalism.md "wikilink")
+[state](List_of_States.md "wikilink") in Eastern Asia, it is near
+[China](China.md "wikilink"), [South Korea](South_Korea.md "wikilink") and
+[Russia](Russia.md "wikilink"). The state claims 6,582 the 11th largest
 population of any state and the largest city, Tokyo, holding 38 million
 people. It claims the third largest economy, the most highly educated
 population, the longest average life expectancy and some of the best
@@ -15,7 +15,7 @@ health outcomes for people at all ages.
 
 However, Japan has many, many issues. It has one of the highest suicide
 rates in the world, a declining population, a toxic culture, consumes
-massive amounts of fossil fuels, has a [sexist](Sexism "wikilink")
+massive amounts of fossil fuels, has a [sexist](Sexism.md "wikilink")
 culture (Japanese women are also heavily fetishised by men in the West).
 
 ## Positives and Negatives
@@ -29,11 +29,11 @@ culture (Japanese women are also heavily fetishised by men in the West).
   penalizes discriminatory activities committed by citizens, businesses,
   or non-governmental organizations.
 - In 2003, a law was passed allowing
-  [transgender](transgender "wikilink") people to change their legal
+  [transgender](transgender.md "wikilink") people to change their legal
   gender on legal documents. Approval requires being over 22 years old,
   unmarried, undergoing sex reassignment surgery, sterilisation, and
   have no minor children. This is pretty
-  [transphobic](Transphobia "wikilink").
+  [transphobic](Transphobia.md "wikilink").
 
 ## History
 
@@ -43,19 +43,19 @@ culture (Japanese women are also heavily fetishised by men in the West).
 
 ### Meiji Restoration
 
-*Main Article: [Meiji Restoration](Meiji_Restoration "wikilink")*
+*Main Article: [Meiji Restoration](Meiji_Restoration.md "wikilink")*
 
 ### Japanese Empire
 
-The short-lived [Japanese Empire](Japanese_Empire "wikilink") began in
-1894 as it invaded [Qing China](Qing_China "wikilink"), taking Joseon
+The short-lived [Japanese Empire](Japanese_Empire.md "wikilink") began in
+1894 as it invaded [Qing China](Qing_China.md "wikilink"), taking Joseon
 Korea, Taiwan and several smaller islands in 1895. Japan challenged the
-[Russian Empire](Russian_Empire "wikilink") in 1904 for control of
+[Russian Empire](Russian_Empire.md "wikilink") in 1904 for control of
 nearby ports in China and won, with some massive global consequences. In
-[World War I](World_War_I "wikilink"), Japan sided with the Allies and
-took the [German Empire's](German_Empire "wikilink") colonies in Asia
+[World War I](World_War_I.md "wikilink"), Japan sided with the Allies and
+took the [German Empire's](German_Empire.md "wikilink") colonies in Asia
 and tfhe Pacific and helped invade Russia during the [Russian Civil
-War](Russian_Civil_War "wikilink"), stationing troops there until 1924.
+War](Russian_Civil_War.md "wikilink"), stationing troops there until 1924.
 
 The military carried out massive purges of the left (notably anarchists)
 and ensured a military-dominated government. In 1931 Japan invaded
@@ -71,7 +71,7 @@ a liberal client state.
 
 ### Boom Years
 
-Following [World War II](World_War_II "wikilink"), Japan went through an
+Following [World War II](World_War_II.md "wikilink"), Japan went through an
 economic boom and Japanese culture became popular internationally. Much
 of the country moved into cities and the countryside declined.
 
@@ -87,28 +87,28 @@ and mental illness.
 ## Major Social Struggles
 
 - 1918: Food Riots
-- 1945: [133 Workplace Takeovers](Workers'_Control_in_Japan "wikilink")
-- 1956: [Sunagawa Struggle](Sunagawa_Struggle_(Japan) "wikilink")
-- 1966: [Sanrizuka Struggle](Sanrizuka_Struggle_(Japan) "wikilink")
+- 1945: [133 Workplace Takeovers](Workers'_Control_in_Japan.md "wikilink")
+- 1956: [Sunagawa Struggle](Sunagawa_Struggle_(Japan).md "wikilink")
+- 1966: [Sanrizuka Struggle](Sanrizuka_Struggle_(Japan).md "wikilink")
 - 1967: Student Movement
 - 1970: Koza Riot
 - 1990: [Osaka Workers'
-  Uprising](Osaka_Workers'_Uprising_(1990) "wikilink")
+  Uprising](Osaka_Workers'_Uprising_(1990).md "wikilink")
 - 2018: Bus Strike
 
 ## Notable Japanese People
 
-- [Kōki Ishii](Kōki_Ishii "wikilink")
-- [Ono Tozaburo](Ono_Tozaburo "wikilink")
+- [Kōki Ishii](Kōki_Ishii.md "wikilink")
+- [Ono Tozaburo](Ono_Tozaburo.md "wikilink")
 
 ## See Also
 
-- [Japanophobia](Japanophobia "wikilink")
+- [Japanophobia](Japanophobia.md "wikilink")
 
-[Category:Japan](Category:Japan "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:States](Category:States "wikilink") [Category:Colonial
-States](Category:Colonial_States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink")
+[Category:Japan](Category:Japan.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Colonial
+States](Category:Colonial_States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink")

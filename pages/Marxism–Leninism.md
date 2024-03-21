@@ -17,5 +17,5 @@ guiding revolutionary theory for the international proletariat.
   etc.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")

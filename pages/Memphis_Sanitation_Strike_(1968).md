@@ -4,18 +4,18 @@ permalink: /Memphis_Sanitation_Strike_(1968)/
 ---
 
 The **Memphis Sanitation Strike of 1968** was a
-[strike](List_of_Strikes "wikilink") by predominantly-black sanitation
+[strike](List_of_Strikes.md "wikilink") by predominantly-black sanitation
 workers in the city of Memphis, Tennessee,
-[USA](United_States_of_America "wikilink") from [February to
-April](Timeline_of_Libertarian_Socialism_in_North_America "wikilink"),
-[1968](Revolutions_of_1967_-_1975 "wikilink").
+[USA](United_States_of_America.md "wikilink") from [February to
+April](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink"),
+[1968](Revolutions_of_1967_-_1975.md "wikilink").
 
 ## Background
 
 The city of Memphis had a long history of segregation and unfair
 treatment for black residents. The influential politician E.H. Crump had
 created a city police force, much of it culled from the [Ku Klux
-Klan](Ku_Klux_Klan "wikilink"), that acted violently toward the black
+Klan](Ku_Klux_Klan.md "wikilink"), that acted violently toward the black
 population and maintained Jim Crow. Blacks were excluded from unions and
 paid much less than whites - conditions which persisted and sometimes
 worsened in the first half of the 20th century.
@@ -81,10 +81,10 @@ union recognition and wage increases, although additional strikes had to
 be threatened to force the City of Memphis to honour its agreements.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:1968](Category:1968 "wikilink")
-[Category:1960s](Category:1960s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:1968](Category:1968.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")

@@ -4,9 +4,9 @@ permalink: /Elinor_Ostrom/
 ---
 
 **Elinor Claire** **Ostrom** was an economist most famous for debunking
-the [tragedy of the commons](Tragedy_of_the_Commons "wikilink").
+the [tragedy of the commons](Tragedy_of_the_Commons.md "wikilink").
 Although her research also focused on decision-making, the
-[commons](commons "wikilink"), trust, cooperation and the environment.
+[commons](commons.md "wikilink"), trust, cooperation and the environment.
 
 ## Life
 
@@ -23,7 +23,7 @@ eventually joined a swimming team and swam competitively until she
 started teaching swimming to earn funds to help put herself through
 college.
 
-[Category:Commons](Category:Commons "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Environmentalists](Category:Environmentalists "wikilink")
+[Category:Commons](Category:Commons.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Environmentalists](Category:Environmentalists.md "wikilink")

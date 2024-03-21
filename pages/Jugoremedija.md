@@ -3,11 +3,11 @@ title: Jugoremedija
 permalink: /Jugoremedija/
 ---
 
-**Jugoremedija** is a pharmaceutical [factory](factory "wikilink") in
-Zrenjanin, [Serbia](Serbia "wikilink") that saw an episode of
-[strikes](List_of_Strikes "wikilink") from 2003 to 2004 before seeing
-[workers' control](Workers'_Self-Management "wikilink") from
-[2006](Timeline_of_Libertarian_Socialism_in_Southern_Asia "wikilink").
+**Jugoremedija** is a pharmaceutical [factory](factory.md "wikilink") in
+Zrenjanin, [Serbia](Serbia.md "wikilink") that saw an episode of
+[strikes](List_of_Strikes.md "wikilink") from 2003 to 2004 before seeing
+[workers' control](Workers'_Self-Management.md "wikilink") from
+[2006](Timeline_of_Libertarian_Socialism_in_Southern_Asia.md "wikilink").
 
 ## Background
 
@@ -34,25 +34,25 @@ complete support from the state.[^3][^4]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Workers'
-Self-Management](Category:Workers'_Self-Management "wikilink")
-[Category:Balkans](Category:Balkans "wikilink") [Category:Worker
-Cooperatives](Category:Worker_Cooperatives "wikilink")
-[Category:Cooperatives](Category:Cooperatives "wikilink")
-[Category:Serbia](Category:Serbia "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2003](Category:2003 "wikilink")
-[Category:2004](Category:2004 "wikilink")
-[Category:2012](Category:2012 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2006](Category:2006 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Workers'
+Self-Management](Category:Workers'_Self-Management.md "wikilink")
+[Category:Balkans](Category:Balkans.md "wikilink") [Category:Worker
+Cooperatives](Category:Worker_Cooperatives.md "wikilink")
+[Category:Cooperatives](Category:Cooperatives.md "wikilink")
+[Category:Serbia](Category:Serbia.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2003](Category:2003.md "wikilink")
+[Category:2004](Category:2004.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2006](Category:2006.md "wikilink")
 
-[^1]: [Andrej Grubačić](Andrej_Grubačić "wikilink") (2010) - [Don't
+[^1]: [Andrej Grubačić](Andrej_Grubačić.md "wikilink") (2010) - [Don't
     Mourn, Balkanize! Essays After
-    Yugoslavia](Don't_Mourn,_Balkanize!_Essays_After_Yugoslavia "wikilink")
+    Yugoslavia](Don't_Mourn,_Balkanize!_Essays_After_Yugoslavia.md "wikilink")
 
 [^2]:
 

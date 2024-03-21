@@ -4,13 +4,13 @@ permalink: /Redneck_Revolt/
 ---
 
 **Redneck Revolt** is an
-[anarcho-communist](Anarcho-Communism "wikilink") and
-[anti-fascist](Anti-Fascism "wikilink") [network of gun
-clubs](List_of_Libertarian_Socialist_Organizations "wikilink") and
-[mutual aid](Mutual_Aid "wikilink") groups based in the Southern [United
-States](United_States_of_America "wikilink") that specialises in
+[anarcho-communist](Anarcho-Communism.md "wikilink") and
+[anti-fascist](Anti-Fascism.md "wikilink") [network of gun
+clubs](List_of_Libertarian_Socialist_Organizations.md "wikilink") and
+[mutual aid](Mutual_Aid.md "wikilink") groups based in the Southern [United
+States](United_States_of_America.md "wikilink") that specialises in
 training people in safe firearm usage, first aid and gardening. They
-also help provide [food](food "wikilink"), clothing and needle exchanges
+also help provide [food](food.md "wikilink"), clothing and needle exchanges
 to poor communities.
 
 ## History
@@ -35,18 +35,18 @@ Minuteman Project.
 ### Name
 
 The group attributes their use of the word "redneck" to the time of the
-[Coal Wars](Coal_Wars_(USA) "wikilink"), a series of labor disputes in
+[Coal Wars](Coal_Wars_(USA).md "wikilink"), a series of labor disputes in
 the United States occurring from around [1890 to around
-1930](Timeline_of_Libertarian_Socialism_in_North_America "wikilink"),
+1930](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink"),
 when the word became popular among coalminers. The use of the term is
 also intended as a form of subversion or reappropriation. The group's
 name also refers to the [Battle of Blair
-Mountain](Battle_of_Blair_Mountain "wikilink"), and the red bandanas
+Mountain](Battle_of_Blair_Mountain.md "wikilink"), and the red bandanas
 worn by members emulate those worn by striking coalminers during that
 conflict. A member has said that the group tries "to acknowledge the
 ways we've made mistakes and bought into [white
-supremacy](White_Supremacy "wikilink") and
-[capitalism](capitalism "wikilink"), but also give ourselves an
+supremacy](White_Supremacy.md "wikilink") and
+[capitalism](capitalism.md "wikilink"), but also give ourselves an
 environment in which it's OK to celebrate redneck culture".
 
 ## Activities
@@ -59,19 +59,19 @@ and clothing programs, and community gardens, and host needle exchanges,
 potlucks, and educational events.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")
 [Category:Community
-Organizing](Category:Community_Organizing "wikilink")
+Organizing](Category:Community_Organizing.md "wikilink")
 [Category:Libertarian Socialist
-Organizations](Category:Libertarian_Socialist_Organizations "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:2016](Category:2016 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Gun
-Clubs](Category:Gun_Clubs "wikilink")
+Organizations](Category:Libertarian_Socialist_Organizations.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:2016](Category:2016.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Gun
+Clubs](Category:Gun_Clubs.md "wikilink")

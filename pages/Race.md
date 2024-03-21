@@ -15,4 +15,4 @@ Racism refers to discrimination
 ## See Also
 
 - Whiteness
-- [Scientific Racism](Scientific_Racism "wikilink")
+- [Scientific Racism](Scientific_Racism.md "wikilink")

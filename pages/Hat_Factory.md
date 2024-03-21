@@ -3,20 +3,20 @@ title: Hat Factory
 permalink: /Hat_Factory/
 ---
 
-The **Hat Factory** was a [squat](List_of_Squats "wikilink") and [social
-center](Social_Center "wikilink") that was [set up in 2001 and evicted
-in 2014](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink") in
-Sydney, [Australia](Australia "wikilink").
+The **Hat Factory** was a [squat](List_of_Squats.md "wikilink") and [social
+center](Social_Center.md "wikilink") that was [set up in 2001 and evicted
+in 2014](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink") in
+Sydney, [Australia](Australia.md "wikilink").
 
 ## History
 
 The Hat Factory was established in 2001, as squatters set up a library,
-a [free shop](Free_Shop "wikilink"), kitchen, [an
-assembly](Democratic_Assembly "wikilink"), movie theatre and places for
+a [free shop](Free_Shop.md "wikilink"), kitchen, [an
+assembly](Democratic_Assembly.md "wikilink"), movie theatre and places for
 people to sleep. It hosted movies, discussions, concerts, fundraisers
 and dinners.[^1] After the owner desired to sell the property in a
 context of rising house prices[^2] in the are, 50 riot
-[police](police "wikilink") moved in, but the Hat Factory had reinforced
+[police](police.md "wikilink") moved in, but the Hat Factory had reinforced
 its doors and built up barricades. The police eventually broke in with a
 battering ram and the squatters dispersed into the street.[^3] The house
 was eventually sold and the squatters were heavily demonized by the
@@ -27,19 +27,19 @@ of tenants rights.[^4]
 
 <references />
 
-[Category:Squatting](Category:Squatting "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2001](Category:2001 "wikilink")
-[Category:2014](Category:2014 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+[Category:Squatting](Category:Squatting.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2001](Category:2001.md "wikilink")
+[Category:2014](Category:2014.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Autonomism](Category:Autonomism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Autonomism](Category:Autonomism.md "wikilink")
 
 [^1]: <https://en.squat.net/2014/08/10/sydney-australia-eviction-of-the-hat-factory/>
 

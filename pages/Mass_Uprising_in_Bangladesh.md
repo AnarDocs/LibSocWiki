@@ -4,13 +4,13 @@ permalink: /Mass_Uprising_in_Bangladesh/
 ---
 
 The **Mass Uprising in Bangladesh** was a [democratic
-revolution](List_of_Revolutions "wikilink") in
-[Bangladesh](Bangladesh "wikilink") in
-[1990](Timeline_of_Libertarian_Socialism_in_Southern_Asia "wikilink")
+revolution](List_of_Revolutions.md "wikilink") in
+[Bangladesh](Bangladesh.md "wikilink") in
+[1990](Timeline_of_Libertarian_Socialism_in_Southern_Asia.md "wikilink")
 that toppled the country's [military
-dictatorship](Ershad_Dictatorship "wikilink"). It was part of a
+dictatorship](Ershad_Dictatorship.md "wikilink"). It was part of a
 [worldwide wave of anti-authoritarian
-movements](Revolutions_of_1986_-_1992 "wikilink").
+movements](Revolutions_of_1986_-_1992.md "wikilink").
 
 ## Background
 

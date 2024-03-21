@@ -4,10 +4,10 @@ permalink: /Socialist_Benin/
 ---
 
 **Socialist Benin**, officially the **People's** or **Popular Republic
-of Benin**, refers to a period of [Benin's](Benin "wikilink") history
+of Benin**, refers to a period of [Benin's](Benin.md "wikilink") history
 where the government was run according to
-[Marxist-Leninist](Marxist-Leninism "wikilink") principles. It was one
-of many [socialist nations in Africa](African_Socialism "wikilink").
+[Marxist-Leninist](Marxist-Leninism.md "wikilink") principles. It was one
+of many [socialist nations in Africa](African_Socialism.md "wikilink").
 
 ## History
 
@@ -23,9 +23,9 @@ Established following a military coup in 1972, the leader of the country
 (Mathieu Kérékou), initially claiming to be a centrist, announced his
 intentions in 1974, nationalising the industrial and financial sectors,
 declaring the country to be Marxist-Leninist and pursuing relations with
-the [USSR](USSR "wikilink"), [Libya](Socialist_Libya "wikilink"),
-[Cuba](Cuba "wikilink"), [East Germany](East_Germany "wikilink") and
-[North Korea](North_Korea "wikilink").
+the [USSR](USSR.md "wikilink"), [Libya](Socialist_Libya.md "wikilink"),
+[Cuba](Cuba.md "wikilink"), [East Germany](East_Germany.md "wikilink") and
+[North Korea](North_Korea.md "wikilink").
 
 ### Trouble
 
@@ -36,7 +36,7 @@ corrupt government.
 ### Collapse
 
 After the introduction of IMF reforms, [an
-uprising](Benin_Uprising_(1989) "wikilink") broke out across the country
+uprising](Benin_Uprising_(1989).md "wikilink") broke out across the country
 over high cost of living and anger at the government. These were
 successful and forced the government to abandon Marxist-Leninism and aim
 to become a liberal democracy.
@@ -51,7 +51,7 @@ to become a liberal democracy.
   period.
 - The government renamed the country from the French colonial name
   Dahomey to Benin, in reference to the African Benin Empire and [Benin
-  Megacommunity](Benin_Megacommunity "wikilink").
+  Megacommunity](Benin_Megacommunity.md "wikilink").
 - Cotton production increased.
 - Roads were expanded across the country.
 
@@ -60,31 +60,31 @@ to become a liberal democracy.
 - The government was an authoritarian dictatorship which tortured
   political prisoners and antagonised unions and the church.
 - In the late 1980s, the government implemented
-  [neoliberal](Neoliberalism "wikilink") reforms with the assistance of
-  the [IMF](International_Monetary_Fund "wikilink").
+  [neoliberal](Neoliberalism.md "wikilink") reforms with the assistance of
+  the [IMF](International_Monetary_Fund.md "wikilink").
 - The government attempted an extreme form of atheism which banned
   practicing of certain religions (whilst allowing the president to
   practice religion in private)
 - Teachers left the country after the government reorganised the
   education system
 - The former president later became an evangelical christian... eerily
-  similar to [Jim Jones](Jim_Jones "wikilink")
+  similar to [Jim Jones](Jim_Jones.md "wikilink")
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [People's Republic of
+[Wikipedia](Wikipedia.md "wikilink") - [People's Republic of
 Benin](https://en.wikipedia.org/wiki/People%27s_Republic_of_Benin)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Benin](Category:Benin "wikilink") [Category:Western
-Africa](Category:Western_Africa "wikilink")
-[Category:Africa](Category:Africa "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Benin](Category:Benin.md "wikilink") [Category:Western
+Africa](Category:Western_Africa.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")
 [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink")
-[Category:Authortarian States](Category:Authortarian_States "wikilink")
-[Category:Past States](Category:Past_States "wikilink")
+Socialism](Category:Authoritarian_Socialism.md "wikilink")
+[Category:Authortarian States](Category:Authortarian_States.md "wikilink")
+[Category:Past States](Category:Past_States.md "wikilink")

@@ -4,10 +4,10 @@ permalink: /Itsa_Forest_Campaign/
 ---
 
 The **Ista Forest Campaign** was a failed
-[indigenist](Timeline_of_Indigenism "wikilink")
-[environmentalist](Timeline_of_Environmentalism "wikilink") campaign in
-[Canada](Canada "wikilink") that lasted from [1995 to
-1998](Timeline_of_Libertarian_Socialism_in_North_America "wikilink"). It
+[indigenist](Timeline_of_Indigenism.md "wikilink")
+[environmentalist](Timeline_of_Environmentalism.md "wikilink") campaign in
+[Canada](Canada.md "wikilink") that lasted from [1995 to
+1998](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink"). It
 aimed to protect a forest in British Columbia from deforestation.
 
 The Nuxalk people live mid-way up the British Columbian coast, in the
@@ -136,18 +136,18 @@ British Columbia.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Nuxalk People
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Nuxalk People
 obstruct logging of Itsa old-growth forest,
 1995-1998](https://nvdatabase.swarthmore.edu/content/nuxalk-people-obstruct-logging-itsa-old-growth-forest-1995-1998)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
-[Category:Canada](Category:Canada "wikilink")
-[Category:1995](Category:1995 "wikilink")
-[Category:1998](Category:1998 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink")
+[Category:1995](Category:1995.md "wikilink")
+[Category:1998](Category:1998.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")

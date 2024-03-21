@@ -4,17 +4,17 @@ permalink: /Estonian_Health_Worker_Strike_(2012)/
 ---
 
 The **Estonian Health Worker Strike of 2012** was a
-[strike](List_of_Strikes "wikilink") of
-[healthcare](healthcare "wikilink") workers in
-[Estonia](Estonia "wikilink") in
-[2012](Timeline_of_Libertarian_Socialism_in_Eastern_Europe "wikilink").
+[strike](List_of_Strikes.md "wikilink") of
+[healthcare](healthcare.md "wikilink") workers in
+[Estonia](Estonia.md "wikilink") in
+[2012](Timeline_of_Libertarian_Socialism_in_Eastern_Europe.md "wikilink").
 
 ## Background
 
-After Estonia joined the [European Union](European_Union "wikilink") in
+After Estonia joined the [European Union](European_Union.md "wikilink") in
 2004, healthcare workers began leaving Estonia for other countries with
 better pay and working conditions, such as
-[Finland](Finland "wikilink"), where doctors wages were as much as four
+[Finland](Finland.md "wikilink"), where doctors wages were as much as four
 times larger. The ageing and shrinking healthcare force had become
 increasingly overburdened with the country’s healthcare demands. In
 2012, a quarter of Estonia’s 4000 specialized doctors were above pension

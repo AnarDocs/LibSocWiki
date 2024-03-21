@@ -4,13 +4,13 @@ permalink: /The_Conquest_of_Bread/
 ---
 
 **The Conquest of Bread** is an 1892
-[book](List_of_Libertarian_Socialist_Media "wikilink") by [Peter
-Kropotkin](Peter_Kropotkin "wikilink") which discusses the flaws of the
-economic systems of [feudalism](feudalism "wikilink") and
-[capitalism](capitalism "wikilink"), alongside the proposal for
-[anarchist-communism](Anarcho-Communism "wikilink"), the decentralised
-system of [mutual aid](Mutual_Aid "wikilink") and [voluntary
-association](Free_Association "wikilink").
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Peter
+Kropotkin](Peter_Kropotkin.md "wikilink") which discusses the flaws of the
+economic systems of [feudalism](feudalism.md "wikilink") and
+[capitalism](capitalism.md "wikilink"), alongside the proposal for
+[anarchist-communism](Anarcho-Communism.md "wikilink"), the decentralised
+system of [mutual aid](Mutual_Aid.md "wikilink") and [voluntary
+association](Free_Association.md "wikilink").
 
 ## Summary
 
@@ -53,10 +53,10 @@ association](Free_Association "wikilink").
 - [The Conquest of
   Bread](https://libcom.org/files/Peter%20Kropotkin%20-%20The%20Conquest%20of%20Bread_0.pdf)
 
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
-[Category:Peter Kropotkin](Category:Peter_Kropotkin "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
+[Category:Peter Kropotkin](Category:Peter_Kropotkin.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")

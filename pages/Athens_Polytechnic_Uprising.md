@@ -4,9 +4,9 @@ permalink: /Athens_Polytechnic_Uprising/
 ---
 
 The **Athens Polytechnic Uprising** was a [student
-uprising](List_of_Student_Uprisings "wikilink") in
-[November](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink")
-[1973](Revolutions_of_1967_-_1975 "wikilink") against the Greek Military
+uprising](List_of_Student_Uprisings.md "wikilink") in
+[November](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink")
+[1973](Revolutions_of_1967_-_1975.md "wikilink") against the Greek Military
 Junta.
 
 ## Background
@@ -144,11 +144,11 @@ for the events.
 - The uprising led to an end to attempted liberasation of Greece and the
   reinstatement of military law. However, this would backfire and lead
   to the[democratisation of Greece in
-  1974](Timeline_of_Representative_Democracy "wikilink").
+  1974](Timeline_of_Representative_Democracy.md "wikilink").
 - Upon democratisation, Greece banned police from entering universities.
 - The uprising became a symbol in Greece of resistance to tyranny.
 - The uprisings dates are a national holiday and often see mass protests
   and riots.
 - The uprising led to the increased popularity of anarchism in Greece.
-- The [17N](17N_(Greece) "wikilink") insurrection group in Greece is
+- The [17N](17N_(Greece).md "wikilink") insurrection group in Greece is
   named after the final day of the uprising.

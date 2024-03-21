@@ -4,8 +4,8 @@ permalink: /The_Homework_Myth/
 ---
 
 **The Homework Myth: Why Our Kids Get Too Much of a Bad Thing** is a
-2006 [book](List_of_Libertarian_Socialist_Media "wikilink") by [Alfie
-Kohn](Alfie_Kohn "wikilink").
+2006 [book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Alfie
+Kohn](Alfie_Kohn.md "wikilink").
 
 ## Summary
 
@@ -38,6 +38,6 @@ Kohn](Alfie_Kohn "wikilink").
   archive.org
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Alfie
-Kohn](Category:Alfie_Kohn "wikilink")
-[Category:Education](Category:Education "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Alfie
+Kohn](Category:Alfie_Kohn.md "wikilink")
+[Category:Education](Category:Education.md "wikilink")

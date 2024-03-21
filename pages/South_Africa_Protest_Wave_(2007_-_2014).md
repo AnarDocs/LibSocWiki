@@ -5,14 +5,14 @@ permalink: /South_Africa_Protest_Wave_(2007_-_2014)/
 
 The **South Africa Protest Wave of 2007 to 2014** was a wave of strikes,
 occupations and protests that hit South Africa from
-[2007](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink")
-to [2014](Revolutions_of_2008_-_2014 "wikilink") over strikes in the
+[2007](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink")
+to [2014](Revolutions_of_2008_-_2014.md "wikilink") over strikes in the
 mining industry, the rights of squatters and protests against government
 corruption.
 
 ## Notable Incidents
 
-- The [N2 Gateway Occupations](N2_Gateway_Occupations_(2008) "wikilink")
+- The [N2 Gateway Occupations](N2_Gateway_Occupations_(2008).md "wikilink")
 
 where over 1,000 families occupied unfinished state built houses to
 protest unfair and corrupt allocation of houses during 2007 and
@@ -68,7 +68,7 @@ January 2013<sup>\[97\]\[98\]</sup>
 - 2011: Limpopo Strike
 - 2012: Impala Platinum Mine Strike
 - 2012: Modikwa Mine strike
-- 2012: [Marikana Mine Strike](Marikana_Mine_Strike_(2012) "wikilink")
+- 2012: [Marikana Mine Strike](Marikana_Mine_Strike_(2012).md "wikilink")
 - 2012: Sit-ins and occupations were also part of these struggles. At
   Goldfields’Kloof Mine, 5,200 workers staged a sit-in,49 and at
   Samancor 400 workersoccupied the mine,50 while in the Northern Cape
@@ -78,10 +78,10 @@ January 2013<sup>\[97\]\[98\]</sup>
   AngloGoldAshanti,Harmony, and Gold One.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Protest
-Waves](Category:Protest_Waves "wikilink") [Category:South
-Africa](Category:South_Africa "wikilink")
-[Category:Africa](Category:Africa "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Protest
+Waves](Category:Protest_Waves.md "wikilink") [Category:South
+Africa](Category:South_Africa.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")

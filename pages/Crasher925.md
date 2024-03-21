@@ -62,4 +62,4 @@ Libertarian Stalin in online libertarian socialist circles.
 1.  <https://twitter.com/crasher925>
 2.  <https://www.reddit.com/user/crasher925>
 
-[Category:Philosophers](Category:Philosophers "wikilink")
+[Category:Philosophers](Category:Philosophers.md "wikilink")

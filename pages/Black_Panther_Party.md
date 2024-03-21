@@ -5,20 +5,20 @@ permalink: /Black_Panther_Party/
 
 The **Black Panther Party** (**BPP**), originally the **Black Panther
 Party for Self-Defense**, was a black nationalist and
-[marxist-leninist](Marxist-Leninism "wikilink") organisation active in
-the [USA](United_States_of_America "wikilink"),
-[UK](United_Kingdom "wikilink") and [Algeria](Algeria "wikilink") from
+[marxist-leninist](Marxist-Leninism.md "wikilink") organisation active in
+the [USA](United_States_of_America.md "wikilink"),
+[UK](United_Kingdom.md "wikilink") and [Algeria](Algeria.md "wikilink") from
 [1966 to
-1982](Timeline_of_Libertarian_Socialism_in_North_America "wikilink").
+1982](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink").
 They organised armed patrols that monitored police officers as well as a
 variety of community social programs, most extensively the Free
 Breakfast for Children Programs, to address issues like food injustice,
 and community health clinics for education and [treatment of
-diseases](Healthcare "wikilink") including sickle cell anemia,
+diseases](Healthcare.md "wikilink") including sickle cell anemia,
 tuberculosis, and later HIV/AIDS. The organisation went into decline as
 members became disillusioned with its marxist-leninst politics,
-repression by the [FBI](Federal_Bureau_of_Investigation "wikilink")
-through [COINTELPRO](COINTELPRO "wikilink") and involvement in the drug
+repression by the [FBI](Federal_Bureau_of_Investigation.md "wikilink")
+through [COINTELPRO](COINTELPRO.md "wikilink") and involvement in the drug
 trade.
 
 ## History
@@ -26,7 +26,7 @@ trade.
 ### Background
 
 The USA had witnessed large migrations of its black population from the
-south into cities during [World War II](World_War_II "wikilink") as
+south into cities during [World War II](World_War_II.md "wikilink") as
 people sought to escape poverty and racism for high-paying factory jobs
 in the 1940s. These jobs weren't really there, and state-enforced
 discrimination pushed many black people into ghettos with bad housing,
@@ -48,7 +48,7 @@ including:
 - 1968: British Black Panthers (UK)
 - 1968: White Panther Party (USA)
 - 1968: Young Lords (USA)
-- 1969: [Red Guard Party](Red_Guard_Party_(USA) "wikilink") (USA)
+- 1969: [Red Guard Party](Red_Guard_Party_(USA).md "wikilink") (USA)
 - 1970: Gray Panthers (USA)
 - 1970: Black Liberation Army (USA)
 - 1971: Black Panthers (Israel)
@@ -63,12 +63,12 @@ including:
 - 2015: Assata's Daughters (USA)
 - 2015: Black Women's Defense League (USA)
 
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Organizations](Category:Organizations "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
-[Category:Black Power](Category:Black_Power "wikilink")
-[Category:1960s](Category:1960s "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1966](Category:1966 "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Organizations](Category:Organizations.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")
+[Category:Black Power](Category:Black_Power.md "wikilink")
+[Category:1960s](Category:1960s.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1966](Category:1966.md "wikilink")

@@ -4,8 +4,8 @@ permalink: /Australian_Constitutional_Crisis_(1975)/
 ---
 
 The **Australian Constitutional Crisis** or **The Dismissal** refers to
-the controversial end of [Gough Whitlam's](Gough_Whitlam "wikilink")
-term as prime minister of [Australia](Australia "wikilink") in 1975.
+the controversial end of [Gough Whitlam's](Gough_Whitlam.md "wikilink")
+term as prime minister of [Australia](Australia.md "wikilink") in 1975.
 Whitlam is largely regarded to be the most left-wing and progressive
 leader in Australian history.
 

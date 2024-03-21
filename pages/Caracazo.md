@@ -4,15 +4,15 @@ permalink: /Caracazo/
 ---
 
 The **Caracazo** or **sacudón**refers to an attempted uprising and
-resulting massacres that shook [Venezuela](Venezuela "wikilink") in
-[1989](Timeline_of_Libertarian_Socialism_in_South_America "wikilink").
+resulting massacres that shook [Venezuela](Venezuela.md "wikilink") in
+[1989](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink").
 
 ## Background
 
 The city of Caracas was split between the rich and the poor, with a very
 expensive cost of living forced upon an impoverish population. The
 left-wing president Carlos Andrés Perez promised to change things and
-condemned the [IMF](International_Monetary_Fund "wikilink"), calling
+condemned the [IMF](International_Monetary_Fund.md "wikilink"), calling
 them “a neutron bomb that killed people, but left buildings standing.”
 
 However, he soon began to implement IMF policies, leading to a 100%
@@ -34,23 +34,23 @@ between 200 and 2,000 people dead.
 
 The Caracazo failed to achieve long lasting reform, but contributed to a
 political climate of increased radicalism and paved the way for [Hugo
-Chávez's](Hugo_Chávez "wikilink") path to becoming Venezuela's leader.
+Chávez's](Hugo_Chávez.md "wikilink") path to becoming Venezuela's leader.
 
 ## See Also
 
-- [Argentinazo](Argentinazo "wikilink")
-- [Bogotazo](Bogotazo "wikilink")
-- [Cordobazo](Cordobazo "wikilink")
-- [Rosariazo](Rosariazo "wikilink")
-- [Revolutions of 1989 - 1992](Revolutions_of_1989_-_1992 "wikilink")
-- [Venezuelan Crisis](Venezuelan_Crisis "wikilink")
-- [23 de Enero Campaign](23_de_Enero_Campaign "wikilink")
+- [Argentinazo](Argentinazo.md "wikilink")
+- [Bogotazo](Bogotazo.md "wikilink")
+- [Cordobazo](Cordobazo.md "wikilink")
+- [Rosariazo](Rosariazo.md "wikilink")
+- [Revolutions of 1989 - 1992](Revolutions_of_1989_-_1992.md "wikilink")
+- [Venezuelan Crisis](Venezuelan_Crisis.md "wikilink")
+- [23 de Enero Campaign](23_de_Enero_Campaign.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink")
-[Category:1989](Category:1989 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Venezuela](Category:Venezuela "wikilink") [Category:South
-America](Category:South_America "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink")
+[Category:1989](Category:1989.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Venezuela](Category:Venezuela.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")

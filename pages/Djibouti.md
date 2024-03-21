@@ -4,11 +4,11 @@ permalink: /Djibouti/
 ---
 
 **Djibouti**, officially the **Republic of Djibouti** is an
-[authoritarian](authoritarianism "wikilink") and
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
-in Northeast Africa near [Ethiopia](Ethiopia "wikilink"),
-[Eritrea](Eritrea "wikilink"), [Somalia](Somalia "wikilink") and
-[Yemen](Yemen "wikilink").
+[authoritarian](authoritarianism.md "wikilink") and
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
+in Northeast Africa near [Ethiopia](Ethiopia.md "wikilink"),
+[Eritrea](Eritrea.md "wikilink"), [Somalia](Somalia.md "wikilink") and
+[Yemen](Yemen.md "wikilink").
 
 ## History
 
@@ -368,12 +368,12 @@ million in revenue for the Djiboutian government.<sup>\[42\]</sup>
 
 - 1998: Gabode Prison Hunger Strike
 - 2011: Djiboutian Protests (part of the [Arab
-  Spring](Arab_Spring "wikilink"))
+  Spring](Arab_Spring.md "wikilink"))
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Eastern
-Africa](Category:Eastern_Africa "wikilink")
-[Category:Africa](Category:Africa "wikilink")
-[Category:Djibouti](Category:Djibouti "wikilink")
-[Category:States](Category:States "wikilink") [Category:Authortarian
-States](Category:Authortarian_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Eastern
+Africa](Category:Eastern_Africa.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink")
+[Category:Djibouti](Category:Djibouti.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Authortarian
+States](Category:Authortarian_States.md "wikilink")

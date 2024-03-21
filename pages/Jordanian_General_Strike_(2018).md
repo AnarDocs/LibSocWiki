@@ -4,11 +4,11 @@ permalink: /Jordanian_General_Strike_(2018)/
 ---
 
 The **Jordanian General Strike of 2018** was a [general
-strike](List_of_General_Strikes "wikilink") in
-[Jordan](Jordan "wikilink") in
-[2018](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink") in
+strike](List_of_General_Strikes.md "wikilink") in
+[Jordan](Jordan.md "wikilink") in
+[2018](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink") in
 against the increase of income tax and raising of fuel and
-[electricity](electricity "wikilink") prices. It was a
+[electricity](electricity.md "wikilink") prices. It was a
 
 ## Background
 
@@ -33,15 +33,15 @@ in just 2 days.
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [2018 Jordanian
+[Wikipedia](Wikipedia.md "wikilink") - [2018 Jordanian
 protests](https://en.wikipedia.org/wiki/2018_Jordanian_protests)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Jordan](Category:Jordan "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:2018](Category:2018 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:Second Arab
-Spring](Category:Second_Arab_Spring "wikilink") [Category:General
-Strikes](Category:General_Strikes "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Jordan](Category:Jordan.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:2018](Category:2018.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:Second Arab
+Spring](Category:Second_Arab_Spring.md "wikilink") [Category:General
+Strikes](Category:General_Strikes.md "wikilink")

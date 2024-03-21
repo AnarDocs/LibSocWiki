@@ -4,16 +4,16 @@ permalink: /Sakhalin_Anti-Oil_Movement/
 ---
 
 The **Sakhalin Anti-Oil Movement** was an
-[indigenous](Indigenism "wikilink") and
-[environmentalists](Environmentalism "wikilink") against the extraction
-of [oil](Fossil_Fuels "wikilink") in Sakhalin,
-[Russia](Russia "wikilink") from [2005 to
-2007](Timeline_of_Libertarian_Socialism_in_Northern_Asia "wikilink").
+[indigenous](Indigenism.md "wikilink") and
+[environmentalists](Environmentalism.md "wikilink") against the extraction
+of [oil](Fossil_Fuels.md "wikilink") in Sakhalin,
+[Russia](Russia.md "wikilink") from [2005 to
+2007](Timeline_of_Libertarian_Socialism_in_Northern_Asia.md "wikilink").
 
 ## Background
 
 Sakhalin is an island of the coast of eastern Russia and northern
-[Japan](Japan "wikilink"). It is home to many indigenous people, and
+[Japan](Japan.md "wikilink"). It is home to many indigenous people, and
 contains large oil and gas reserves, extracting fossil fuels from the
 island since 1997, and work on Sakhalin II (the largest oil and gas
 project in the world) in 1999.
@@ -147,16 +147,16 @@ withdrawn from the amount of delays, making it ambiguous if the campaign
 was effective.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Events](Category:Events "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
-[Category:Indigenism](Category:Indigenism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Russia](Category:Russia "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:2005](Category:2005 "wikilink")
-[Category:2006](Category:2006 "wikilink")
-[Category:2007](Category:2007 "wikilink")
-[Category:2000s](Category:2000s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")
+[Category:Indigenism](Category:Indigenism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:2005](Category:2005.md "wikilink")
+[Category:2006](Category:2006.md "wikilink")
+[Category:2007](Category:2007.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")

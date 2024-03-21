@@ -4,13 +4,13 @@ permalink: /Moshav/
 ---
 
 **Moshavim**are an [intentional
-community](Intentional_Community "wikilink") and
-[cooperative](cooperative "wikilink") in [Israel](Israel "wikilink"),
-they are different to [Kibbutzim](Kibbutzim "wikilink") as they do not
-farm in [common](Commons "wikilink"), but on individually owned land of
+community](Intentional_Community.md "wikilink") and
+[cooperative](cooperative.md "wikilink") in [Israel](Israel.md "wikilink"),
+they are different to [Kibbutzim](Kibbutzim.md "wikilink") as they do not
+farm in [common](Commons.md "wikilink"), but on individually owned land of
 fixed and equal size. The first Moshav, Moshav Nahalal was founded in
 [September
-1921](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink") and
+1921](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink") and
 there are 451 Moshav in Israel.
 
 ## Decision-Making
@@ -46,18 +46,18 @@ basically an Ashkenazi institution.[^1]
 
 <references />
 
-[Category:Israel](Category:Israel "wikilink")
-[Category:Palestine](Category:Palestine "wikilink")
-[Category:Israel-Palestine](Category:Israel-Palestine "wikilink")
+[Category:Israel](Category:Israel.md "wikilink")
+[Category:Palestine](Category:Palestine.md "wikilink")
+[Category:Israel-Palestine](Category:Israel-Palestine.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Current Libertarian Socialist
-Societies](Category:Current_Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Current_Libertarian_Socialist_Societies.md "wikilink")
 [Category:Intentional
-Communities](Category:Intentional_Communities "wikilink")
-[Category:Cooperatives](Category:Cooperatives "wikilink")
+Communities](Category:Intentional_Communities.md "wikilink")
+[Category:Cooperatives](Category:Cooperatives.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Moshav>

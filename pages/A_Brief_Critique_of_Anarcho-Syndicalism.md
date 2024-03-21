@@ -4,8 +4,8 @@ permalink: /A_Brief_Critique_of_Anarcho-Syndicalism/
 ---
 
 **A Brief Critique of Anarcho-Syndicalism** is a 2010 article by [James
-Herod](James_Herod "wikilink") which argues that
-[anarcho-syndicalism](Anarcho-Syndicalism "wikilink") is a terrible
+Herod](James_Herod.md "wikilink") which argues that
+[anarcho-syndicalism](Anarcho-Syndicalism.md "wikilink") is a terrible
 revolutionary strategy.
 
 ## Transcript
@@ -14,29 +14,29 @@ revolutionary strategy.
 expanded, qualified, and rewritten with more nuance. I still hope to do
 that. Maybe I will, but if I don't, here it is as it was read out during
 my <strong>Imagining Anarchy</strong> talk at the [Wooden Shoe Book
-Store](Wooden_Shoe_Book_Store "wikilink") in Philadelphia on October 15,
-2010. That talk is available on [YouTube](YouTube "wikilink"). As I
+Store](Wooden_Shoe_Book_Store.md "wikilink") in Philadelphia on October 15,
+2010. That talk is available on [YouTube](YouTube.md "wikilink"). As I
 declared firmly immediately after reading it, the critique does not mean
 that I am against organizing at the workplace. It is just that I think
 the focus should be on [establishing assemblies at the
-workplace](Workers'_Council "wikilink") and then networking these
+workplace](Workers'_Council.md "wikilink") and then networking these
 assemblies across workplaces, thus bypassing
-[unions](Trade_Union "wikilink"). So this separates my critique from
-[Murray Bookchin's](Murray_Bookchin "wikilink") strident rejections of
+[unions](Trade_Union.md "wikilink"). So this separates my critique from
+[Murray Bookchin's](Murray_Bookchin.md "wikilink") strident rejections of
 anarcho-syndicalism, which practically eliminated any role at all for
-[workplace organizing](Workplace_Organising "wikilink"). My position
+[workplace organizing](Workplace_Organising.md "wikilink"). My position
 also puts me at odds with groups like the [Workers Solidarity Movement
-in Ireland](Workers_Solidarity_Movement_(Ireland) "wikilink"), and with
+in Ireland](Workers_Solidarity_Movement_(Ireland).md "wikilink"), and with
 the strategy of the
-[Wobblies](Industrial_Workers_of_the_World "wikilink"), both of which
+[Wobblies](Industrial_Workers_of_the_World.md "wikilink"), both of which
 concentrate on building revolutionary unions.-- jh\]</em>
 
 1\. Anarcho-Syndicalism locates decision making in the wrong place,
-exclusively with [workers](Working_Class "wikilink"), rather than with
+exclusively with [workers](Working_Class.md "wikilink"), rather than with
 people in general in their autonomous communities
 
-2\. It locks the [revolution](Social_Revolution "wikilink") into the
-[capitalist](Capitalism "wikilink") division of labor. There is no way
+2\. It locks the [revolution](Social_Revolution.md "wikilink") into the
+[capitalist](Capitalism.md "wikilink") division of labor. There is no way
 for workers in a given enterprise to decide to dismantle the operation,
 because their livelihoods are connected to it. They have no way to live
 without that income. Anarcho-syndicalism does not provide a way out of
@@ -45,7 +45,7 @@ workers. This could only be done through community.
 
 3\. It fails to take into account how the content of work has changed
 over the past half-century. Vast millions of people are now engaged in
-[absolutely worthless work](Bullshit_Jobs "wikilink"). This is work that
+[absolutely worthless work](Bullshit_Jobs.md "wikilink"). This is work that
 should be abandoned not seized.
 
 4\. It has no way to deal with a new, massive, change in the capitalist
@@ -68,7 +68,7 @@ managed to turn the entire society into the means of production, into a
 social factory, for the purpose of accumulating more capital. Thus,
 seizing particular workplaces doesn't in fact amount to seizing the
 means of production. (Hence the emergence of a [Wages for Housework
-campaign](Wages_for_Housework_Campaign "wikilink").)
+campaign](Wages_for_Housework_Campaign.md "wikilink").)
 
 7\. It mistakes what needs to be seized, thinking that it is the means
 of production, whereas in fact it is all decision making that must be
@@ -97,7 +97,7 @@ commodified labor and capital, thus blocking the struggle to reestablish
 non-commodified labor, use-value labor as opposed to exchange-value
 labor. The return to useful labor cannot be done within an
 anarcho-syndicalist framework, but only within an
-[anarcho-communist](Anarcho-Communism "wikilink") framework.
+[anarcho-communist](Anarcho-Communism.md "wikilink") framework.
 
 10\. It leaves out huge swaths of people – the unemployed, old people,
 sick people, young people, students, housewives. These people can only
@@ -120,12 +120,12 @@ hierarchical structure or procedure.
 13\. It is often closely linked with unions which are organized outside
 workplaces. These unions can, and often have, betrayed the working class
 when the crunch comes. Two significant cases were the
-[CNT](National_Confederation_of_Labour_(Spain) "wikilink") in the
-[Spanish Revolution](Spanish_Revolution "wikilink"), and [Polish
-Solidarity](Solidarity_(Poland) "wikilink") in the [Polish revolution of
-1980-81](Polish_Revolution_(1980-81) "wikilink").
+[CNT](National_Confederation_of_Labour_(Spain).md "wikilink") in the
+[Spanish Revolution](Spanish_Revolution.md "wikilink"), and [Polish
+Solidarity](Solidarity_(Poland).md "wikilink") in the [Polish revolution of
+1980-81](Polish_Revolution_(1980-81).md "wikilink").
 
-14\. The [dual power](Dual_Power "wikilink") structure which
+14\. The [dual power](Dual_Power.md "wikilink") structure which
 anarcho-syndicalists establish is static with regard to the capitalist
 state. How exactly is it possible to ever move from a dual power
 structure to a single power structure, that is, to the elimination of
@@ -134,12 +134,12 @@ on the question. (And it has never been done.)
 
 15\. It has no way to deal with counter-revolutionary parties that are
 organized outside the structure of the federated workers councils. Thus
-the [Bolsheviks](Bolsheviks "wikilink") were able to destroy the
-[Soviets](Soviets "wikilink"), [Franco](Francisco_Franco "wikilink") was
-able to [destroy collectivized Spain](Revolutionary_Spain "wikilink"),
+the [Bolsheviks](Bolsheviks.md "wikilink") were able to destroy the
+[Soviets](Soviets.md "wikilink"), [Franco](Francisco_Franco.md "wikilink") was
+able to [destroy collectivized Spain](Revolutionary_Spain.md "wikilink"),
 and Social Democrats were able to destroy the workers' and soldiers'
 councils in the [German revolution of
-1918-1919](German_Revolution "wikilink"). It could attempt to organize
+1918-1919](German_Revolution.md "wikilink"). It could attempt to organize
 its own army, but this couldn't be done within the structure of
 federated workers councils.
 
@@ -156,10 +156,10 @@ has failed through over a century of trials.
 
 - [A Brief Critique of
   Anarcho-Syndicalism](https://theanarchistlibrary.org/library/james-herod-critique-of-anarcho-syndicalism)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:James Herod](Category:James_Herod "wikilink")
-[Category:Articles](Category:Articles "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:James Herod](Category:James_Herod.md "wikilink")
+[Category:Articles](Category:Articles.md "wikilink")

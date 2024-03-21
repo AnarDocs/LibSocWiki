@@ -26,4 +26,4 @@ rights without which, not higher rights could be acquired.)
 The websites address is [1](https://libsoc.net) so come by, sign in,
 speak English and be in good company.
 
-[Category:Websites](Category:Websites "wikilink")
+[Category:Websites](Category:Websites.md "wikilink")

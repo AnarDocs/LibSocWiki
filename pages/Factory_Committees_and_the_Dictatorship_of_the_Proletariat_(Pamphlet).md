@@ -4,34 +4,34 @@ permalink: /Factory_Committees_and_the_Dictatorship_of_the_Proletariat_(Pamphlet
 ---
 
 **Factory Committees and the Dictatorship of the Proletariat** is a 1975
-pamphlet written by [Chris Pallis](Chris_Pallis "wikilink") and
-published by [Solidarity](Solidarity_(UK_Magazine) "wikilink"). It is a
-response to [Chris Goodey](Chris_Goodey "wikilink") over the role of the
-[Soviets](Soviet_(Council) "wikilink") and
-[Anarchists](Anarchism "wikilink") in the [Russian
-Revolution](October_Revolution_(Russia) "wikilink") and [Civil
-War](Russian_Civil_War "wikilink").
+pamphlet written by [Chris Pallis](Chris_Pallis.md "wikilink") and
+published by [Solidarity](Solidarity_(UK_Magazine).md "wikilink"). It is a
+response to [Chris Goodey](Chris_Goodey.md "wikilink") over the role of the
+[Soviets](Soviet_(Council).md "wikilink") and
+[Anarchists](Anarchism.md "wikilink") in the [Russian
+Revolution](October_Revolution_(Russia).md "wikilink") and [Civil
+War](Russian_Civil_War.md "wikilink").
 
 ## Transcript
 
 It is a welcome sign of the times that a serious exchange of radical
 opinion is now under way concerning the formative period of the [Russian
-state](USSR "wikilink"), and *Critique* is to be congratulated on having
+state](USSR.md "wikilink"), and *Critique* is to be congratulated on having
 played a part in the initiation of this discussion. How deep the
 confrontation goes will, of course, depend on how open the journal
 remains to those in the revolutionary movement who do not accept the
-label of "[Marxist](Marxism "wikilink")", but who feel they may
+label of "[Marxist](Marxism.md "wikilink")", but who feel they may
 nevertheless have something of relevance to contribute.
 
-In your last issue, [Chris Goodey](Chris_Goodey "wikilink") claims that
+In your last issue, [Chris Goodey](Chris_Goodey.md "wikilink") claims that
 "it is only the current practice and experience of the world movement
 for socialist revolution that is beginning to allow us an overall view
 of the battle-stations which we have unthinkingly maintained for a long
 time". In a very general sense that is, of course, true. But elements of
 a serious critique antedated - and by a considerable period - "[May 1968
-in France](May_1968_Events_(France) "wikilink"), the [Prague
-events](Prague_Spring "wikilink") and the [Chilean
-Revolution](Salvador_Allende "wikilink")". Some of those who initiated
+in France](May_1968_Events_(France).md "wikilink"), the [Prague
+events](Prague_Spring.md "wikilink") and the [Chilean
+Revolution](Salvador_Allende.md "wikilink")". Some of those who initiated
 this critique would moreover shudder to find themselves subsumed under
 the "we" that Goodey refers to. They did not wait until the late sixties
 to express their views. As early as 1918 they had clearly seen the
@@ -42,9 +42,9 @@ Maoists, and the advocates of various theories of "state capitalism",
 i.e. International Socialists, Bordigists, "Marxist Humanists", etc.)
 must carry their full share of responsibility, that we know less today
 about the early weeks of [Russian
-Revolution](October_Revolution_(Russia) "wikilink") than we do, for
+Revolution](October_Revolution_(Russia).md "wikilink") than we do, for
 instance, about the history of the [Paris
-Commune](Paris_Commune "wikilink").
+Commune](Paris_Commune.md "wikilink").
 
 "Unfortunately it is not the workers who write history. It is always
 'the others.' "[^1] "Official" historians seldom have eyes to see or
@@ -57,7 +57,7 @@ deviates from that line".[^2] They seem to lack the categories of
 thought necessary to perceive life as it really is. To them an activity
 which has no leader or programme, no institutions and no statutes, can
 only be conceptualized as "troubles", "disorder", "anarchy". In the
-words of [Cardan](Cornelius_Castoriadis "wikilink") "the spontaneous
+words of [Cardan](Cornelius_Castoriadis.md "wikilink") "the spontaneous
 activity of the masses belongs, by definition, to what history
 suppresses".[^3]
 
@@ -83,8 +83,8 @@ article, however, is the serious attempt to explain what happened in
 between, when it happened, why it happened, and to whom it happened. The
 "submergence" of which Goodey speaks was well advanced, if not virtually
 completed, by May 1918, i.e. *before* the [Civil
-War](Russian_Civil_War "wikilink") and the
-"[Allied](Allied_Intervention_in_the_Russian_Civil_War "wikilink")"
+War](Russian_Civil_War.md "wikilink") and the
+"[Allied](Allied_Intervention_in_the_Russian_Civil_War.md "wikilink")"
 intervention really got under way. The traditional explanations of the
 degeneration of the Russian revolution are just not good enough.
 
@@ -132,7 +132,7 @@ early 1918 the Bolsheviks were actively seeking to merge the Committees
 into the trade union structures. The issue provoked heated discussions
 at the First All-Russian Congress of Trade Unions (January 7-14, 1918)
 which saw desperate attempts, led mainly by
-[anarcho-syndicalists](Anarcho-Syndicalism "wikilink"), to maintain the
+[anarcho-syndicalists](Anarcho-Syndicalism.md "wikilink"), to maintain the
 autonomy of the Committees, against the advice Ryazanov who urged the
 Committees "to commit suicide by becoming an integral element of the
 trade union structure".[^6] During the next two years a sustained
@@ -186,7 +186,7 @@ prepared to take up the challenge on this rather narrow basis.
 
 According to Goodey (and he devotes three pages to the matter) my
 knowledge of the document in question was "fifth hand". I had inherited
-from one [Didier Limon](Didier_Limon "wikilink")[^7] "an amputated
+from one [Didier Limon](Didier_Limon.md "wikilink")[^7] "an amputated
 quotation, bearing the wrong date, the wrong title, and the wrong
 authors". I had then "rewritten the text". Strong stuff. Unfortunately,
 on every single point Goodey is wrong.
@@ -225,10 +225,10 @@ all, on the Editorial Board of *Autogestion*, for which Goodey is the
 "correspondent for Great Britain".)
 
 The "original" source is Chapter 8 ("Les Soviets d'usine à l'oeuvre") of
-[Max Hoschiller's](Max_Hoschiller "wikilink") book *Le Mirage
+[Max Hoschiller's](Max_Hoschiller.md "wikilink") book *Le Mirage
 Sovietique* (Paris: Payot, 1921). Hoschiller was a French revolutionary
 who spoke Russian well. The authenticity of his account is vouched for
-by no less a figure than [André Merrheim](André_Merrheim "wikilink") who
+by no less a figure than [André Merrheim](André_Merrheim.md "wikilink") who
 wrote the Preface to Hoschiller's book.[^10]It was in fact at Merrheim's
 suggestion that Hoschiller went to Russia.
 
@@ -236,7 +236,7 @@ Now what does Hoschiller say as to the authorship, the title, and the
 content of the controversial document?
 
 Hoschiller makes it clear that in the weeks preceding the revolution it
-was the [anarchists](Anarchism "wikilink") who were striking the tune
+was the [anarchists](Anarchism.md "wikilink") who were striking the tune
 ("*donnaient le la*") in the Factory Committees and that the Bolsheviks
 could only trail along after them ("*étaient bien obligés de marcher à
 leur remorque*"). On December 7, 1917, the decree setting up the
@@ -373,16 +373,16 @@ the Factory Committees.
 
 - [Factory Committees and the Dictatorship of the
   Proletariat](https://www.marxists.org/archive/brinton/1975/factory-committees.htm)
-  at [marxists.org](marxists.org "wikilink")
+  at [marxists.org](marxists.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Chris
-Pallis](Category:Chris_Pallis "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Chris
+Pallis](Category:Chris_Pallis.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink")
 
-[^1]: [Paul Cardan](Cornelius_Castoriadis "wikilink"), "Le Rôle de
+[^1]: [Paul Cardan](Cornelius_Castoriadis.md "wikilink"), "Le Rôle de
     l'idéologie bolchevique dans la naissance de la bureaucratie",
-    *[Socialisme ou Barbarie](Socialisme_ou_Barbarie "wikilink")*, no.
+    *[Socialisme ou Barbarie](Socialisme_ou_Barbarie.md "wikilink")*, no.
     35 (January-March 1964). This text was subsequently published in
     English as Solidarity Pamphlet 24, *From Bolshevism to the
     Bureaucracy* (1967).
@@ -391,19 +391,19 @@ Pallis](Category:Chris_Pallis "wikilink")
 
 [^3]: *Ibid.*
 
-[^4]: [Carr's](E.H._Carr "wikilink") *[The Bolshevik Revolution,
-    1917-1923](The_Bolshevik_Revolution,_1917-1923_(Book) "wikilink")*
-    (Macmillan, 1952), [Daniels's](Robert_Vincent_Daniel "wikilink")
+[^4]: [Carr's](E.H._Carr.md "wikilink") *[The Bolshevik Revolution,
+    1917-1923](The_Bolshevik_Revolution,_1917-1923_(Book).md "wikilink")*
+    (Macmillan, 1952), [Daniels's](Robert_Vincent_Daniel.md "wikilink")
     *[The Conscience of the
-    Revolution](The_Conscience_of_the_Revolution_(Book) "wikilink")*
-    (Harvard University Press, 1960), [Avrich's](Paul_Avrich "wikilink")
-    *[The Russian Anarchists](The_Russian_Anarchists_(Book) "wikilink")*
+    Revolution](The_Conscience_of_the_Revolution_(Book).md "wikilink")*
+    (Harvard University Press, 1960), [Avrich's](Paul_Avrich.md "wikilink")
+    *[The Russian Anarchists](The_Russian_Anarchists_(Book).md "wikilink")*
     (Princeton University Press, 1967) and Kaplan's *Bolshevik Ideology*
     (Owen, 1969) provide an excellent starting point for anyone
     interested in the discussion.
 
 [^5]: *[The Bolsheviks and Workers' Control,
-    1917-1921](The_Bolsheviks_and_Workers'_Control_(Book) "wikilink")*
+    1917-1921](The_Bolsheviks_and_Workers'_Control_(Book).md "wikilink")*
     (Solidarity, 1970).
 
 [^6]: D. B. Ryazanov in *Pervy vserossiiskii s'yezd professionalnykh
@@ -420,11 +420,11 @@ Pallis](Category:Chris_Pallis "wikilink")
 [^9]: Personal communication from Didier Limon.
 
 [^10]: Merrheim, one-time secretary of the [French Metalworkers'
-    Federation](French_Metalworkers'_Federation "wikilink") and
+    Federation](French_Metalworkers'_Federation.md "wikilink") and
     co-author of the Charter of Amiens, was one of the important figures
     of the anti-war movement in France during the [First World
-    War](World_War_I "wikilink"). He was an active participant in the
-    [Zimmerwald Conference](Zimmerwald_Conference "wikilink") of
+    War](World_War_I.md "wikilink"). He was an active participant in the
+    [Zimmerwald Conference](Zimmerwald_Conference.md "wikilink") of
     anti-war socialists.
 
 [^11]: Sobraniye uzakonenii 1917-1918, no. 4, art. 58.
@@ -445,10 +445,10 @@ Pallis](Category:Chris_Pallis "wikilink")
 
 [^14]: Brinton, *op. cit.*, p. 62.
 
-[^15]: [Leon Trotsky](Leon_Trotsky "wikilink"), *Stalin* (London: Hollis
+[^15]: [Leon Trotsky](Leon_Trotsky.md "wikilink"), *Stalin* (London: Hollis
     and Carter, 1947), p. 61.
 
-[^16]: [Lenin](Vladimir_Lenin "wikilink"), *Sochineniya*, IV, p. 44.
+[^16]: [Lenin](Vladimir_Lenin.md "wikilink"), *Sochineniya*, IV, p. 44.
 
 [^17]: See *Our Political Tasks*.
 

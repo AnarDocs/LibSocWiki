@@ -4,7 +4,7 @@ permalink: /Saul_Alinsky/
 ---
 
 **Saul David Alinsky** (1909 - 1972) was a [community
-organizer](Community_Organizing "wikilink"), writer and philosopher.
+organizer](Community_Organizing.md "wikilink"), writer and philosopher.
 
 ## Life
 
@@ -19,16 +19,16 @@ moved to Los Angeles in the 1920s and finished high school in 1926.
 He graduated with a bachelor in philosophy from the university of
 Chicago in 1930, and major in archeology. He planned to be a
 professional archeologist, but the [Great
-Depression](Great_Depression "wikilink") put plans away for this. He
+Depression](Great_Depression.md "wikilink") put plans away for this. He
 began to work as a criminologist for the State of Illinois, and began
 organizing with the [Congress of Industrial
-Organizations](Congress_of_Industrial_Organizations "wikilink"). But
+Organizations](Congress_of_Industrial_Organizations.md "wikilink"). But
 slowly became less active in the labor movement and more with general
 community organizing. He successfully organized slum communities, and
 also began organizing in Kansas City, Detroit and Southern California.
 
-He never joined a [political party](Political_Party "wikilink"), but
-identified as a 'small c [communist](Communism "wikilink")' and became a
+He never joined a [political party](Political_Party.md "wikilink"), but
+identified as a 'small c [communist](Communism.md "wikilink")' and became a
 legendary community organizer. But died of a heart attack in California.
 Before his death, he expressed a desire to go to hell, to organize it,
 culminating in an uprising against satan.[^1]
@@ -57,17 +57,17 @@ successfully challenge the wealthy and power. They are:
 
 ## Works
 
-- [Rules for Radicals](Rules_for_Radicals "wikilink")
+- [Rules for Radicals](Rules_for_Radicals.md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Community
-Organizing](Category:Community_Organizing "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Organizing](Category:Community_Organizing.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Saul_Alinsky>

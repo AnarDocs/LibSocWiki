@@ -5,17 +5,17 @@ permalink: /Highland_New_Guinea/
 
 **Highland New Guinea** is a collection of around 200 different groups
 of people with a population of several million which was untouched until
-the 1930s. It was a dense [society](List_of_Societies "wikilink") with
+the 1930s. It was a dense [society](List_of_Societies.md "wikilink") with
 an extremely advanced system of agriculture that was used for over
-[7,000 years](Timeline_of_Libertarian_Socialism "wikilink"), the worlds
-longest experiment in [sustainable](Sustainability "wikilink") food
+[7,000 years](Timeline_of_Libertarian_Socialism.md "wikilink"), the worlds
+longest experiment in [sustainable](Sustainability.md "wikilink") food
 production.
 
 ## Decision-Making
 
 Villages in Highland New Guinea used [village
-assemblies](Democratic_Assembly "wikilink") which strove for
-[consensus](consensus "wikilink"). An anthropologist visiting the are
+assemblies](Democratic_Assembly.md "wikilink") which strove for
+[consensus](consensus.md "wikilink"). An anthropologist visiting the are
 described it as the "ultra-democratic extreme of bottom up
 decision-making".[^1]
 
@@ -37,22 +37,22 @@ heavy rain, droughts, earthquakes, volcano eruptions and a high
 population. Not only that, but their existence for seven thousand years
 meant they dealt with numerous small ice ages, global droughts, volcanic
 fallout, the arrival of Europeans, disease outbreaks, [climate
-change](Climate_Change "wikilink") and the introduction of a population
-explosion due to [modern medicine](Healthcare "wikilink") being
+change](Climate_Change.md "wikilink") and the introduction of a population
+explosion due to [modern medicine](Healthcare.md "wikilink") being
 introduced. Yet still these communities survived.[^3] This proves that a
 decentralized society can sustain itself longer than any
-[state](state "wikilink") in history and exist in complex and rapidly
-changing [systems](systems "wikilink").
+[state](state.md "wikilink") in history and exist in complex and rapidly
+changing [systems](systems.md "wikilink").
 
 ## Economy
 
 Villages in Highland New Guinea had no system of
-[currency](Money "wikilink") nor evidence of a [centrally planned
-economy](Central_Planning "wikilink"), likely making it
-[anarcho-communist](Anarcho-Communism "wikilink") in nature. Using this,
+[currency](Money.md "wikilink") nor evidence of a [centrally planned
+economy](Central_Planning.md "wikilink"), likely making it
+[anarcho-communist](Anarcho-Communism.md "wikilink") in nature. Using this,
 they were able to sustainably exist for seven thousand years and
 construct numerous housing that could fit all people, as well as [common
-ownership](Commons "wikilink") of [land](land "wikilink"). When problems
+ownership](Commons.md "wikilink") of [land](land.md "wikilink"). When problems
 like deforestation and soil loss threatened communities, there was a
 very strong incentive to look for solutions to these problems and
 develop new methods of agriculture to prevent them.[^4]
@@ -61,18 +61,18 @@ develop new methods of agriculture to prevent them.[^4]
 > interior in the 1930s, for the pilots to see below them a landscape
 > transformed by millions of people previously unknown to the outside
 > world. The scene looked like the most densely populated areas of
-> [Holland](Netherlands "wikilink"): broad open valleys with few clumps
+> [Holland](Netherlands.md "wikilink"): broad open valleys with few clumps
 > of trees, divided as far as the eye could see into neatly laid-out
 > gardens separated by ditches for irrigation and drainage, terraced
-> steep hillsides reminiscent of [Java](Indonesia "wikilink") or
-> [Japan](Japan "wikilink").[^5]
+> steep hillsides reminiscent of [Java](Indonesia.md "wikilink") or
+> [Japan](Japan.md "wikilink").[^5]
 
-[Innovation](Innovation "wikilink") was also very strong in Highland New
+[Innovation](Innovation.md "wikilink") was also very strong in Highland New
 Guinea, being one of only ten societies in the world to independently
-discover [agriculture](agriculture "wikilink"). Numerous efforts to stop
-[environmental destruction](Ecocide "wikilink") and agricultural
+discover [agriculture](agriculture.md "wikilink"). Numerous efforts to stop
+[environmental destruction](Ecocide.md "wikilink") and agricultural
 techniques so advanced and efficient that they baffled European
-agronomists and [scientists](Science "wikilink") attempting to learn
+agronomists and [scientists](Science.md "wikilink") attempting to learn
 from them.[^6]
 
 ## Environmental Protection
@@ -108,65 +108,65 @@ foreign anthropologists:
 
 ## Decline
 
-With the arrival of [Nederlander](Kingdom_of_the_Nederlands "wikilink")
-and [Australian](Commonwealth_of_Australia "wikilink") colonialism in
+With the arrival of [Nederlander](Kingdom_of_the_Nederlands.md "wikilink")
+and [Australian](Commonwealth_of_Australia.md "wikilink") colonialism in
 the 1930s as well as the introduction of diseases and theft of communal
 land holdings for colonial use. The creation of the [independent
-Indonesian state](Republic_of_Indonesia "wikilink") also led to
+Indonesian state](Republic_of_Indonesia.md "wikilink") also led to
 genocidal actions carried out against the population, including slavery,
 massacres and the burning of villages. However, many villages still
-remain autonomous from [states](State_(Polity) "wikilink") and the
-[Papua Genocide](Papua_Genocide "wikilink").
+remain autonomous from [states](State_(Polity).md "wikilink") and the
+[Papua Genocide](Papua_Genocide.md "wikilink").
 
 ## See Also
 
 - [Aboriginal Australian
-  Society](Aboriginal_Australian_Society "wikilink")
-- [Tikopia](Tikopia "wikilink")
+  Society](Aboriginal_Australian_Society.md "wikilink")
+- [Tikopia](Tikopia.md "wikilink")
 
 ## References
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
-[Category:Indonesia](Category:Indonesia "wikilink") [Category:Papua New
-Guinea](Category:Papua_New_Guinea "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:Melanesia](Category:Melanesia "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
+[Category:Indonesia](Category:Indonesia.md "wikilink") [Category:Papua New
+Guinea](Category:Papua_New_Guinea.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:Melanesia](Category:Melanesia.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
-[Category:Before Common Era](Category:Before_Common_Era "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
+[Category:Before Common Era](Category:Before_Common_Era.md "wikilink")
 
 [^1]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 294
 
 [^2]:
 
 [^3]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 296
 
 [^4]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 293
 
 [^5]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 290
 
 [^6]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 290 and 291
 
 [^7]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 287 - 293
 
 [^8]: Jared Diamond (2005) [Collapse: How Societies Choose to Fail or
-    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed "wikilink"),
+    Succeed](Collapse:_How_Societies_Choose_to_Fail_or_Succeed.md "wikilink"),
     page 295

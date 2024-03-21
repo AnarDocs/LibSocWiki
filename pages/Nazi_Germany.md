@@ -9,20 +9,20 @@ Germany between 1933 and 1945, when Adolf Hitler and his Nazi Party
 rule, Germany was transformed into a totalitarian state where nearly all
 aspects of life were controlled by the government. Nazi Germany is one
 of the main groups responsible for [World War
-II](World_War_II "wikilink").
+II](World_War_II.md "wikilink").
 
 ## See Also
 
 - [World War II Resistance
-  Movements](World_War_II_Resistance_Movements "wikilink")
+  Movements](World_War_II_Resistance_Movements.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Germany](Category:Germany "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink") [Category:World War
-II](Category:World_War_II "wikilink")
-[Category:Nazis](Category:Nazis "wikilink") [Category:Nazi
-Germany](Category:Nazi_Germany "wikilink")
-[Category:1930s](Category:1930s "wikilink")
-[Category:1940s](Category:1940s "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Germany](Category:Germany.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink") [Category:World War
+II](Category:World_War_II.md "wikilink")
+[Category:Nazis](Category:Nazis.md "wikilink") [Category:Nazi
+Germany](Category:Nazi_Germany.md "wikilink")
+[Category:1930s](Category:1930s.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink")

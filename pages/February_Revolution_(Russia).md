@@ -4,24 +4,24 @@ permalink: /February_Revolution_(Russia)/
 ---
 
 *Not to be confused with the [February
-Uprising](February_Uprising_(Austria) "wikilink") in 1934 in Austria.*
+Uprising](February_Uprising_(Austria).md "wikilink") in 1934 in Austria.*
 
 The **February Revolution** (which actually occurred in March) was one
-of the [two revolutions](October_Revolution_(Russia) "wikilink") that
-happened in [Russia](Russia "wikilink") in
-[1917.](Timeline_of_Libertarian_Socialism_in_Northern_Asia "wikilink")
+of the [two revolutions](October_Revolution_(Russia).md "wikilink") that
+happened in [Russia](Russia.md "wikilink") in
+[1917.](Timeline_of_Libertarian_Socialism_in_Northern_Asia.md "wikilink")
 Food riots, factory strikes and mutinies in the army led to the end of
 the Russian Empire and Tsarist (sometimes spelt Czarist) monarchy and
 the formation of a new progressive republic and the rise of soviets.
 1,443 people were killed during the revolution in gunfights with
-[police](police "wikilink") across Petrograd.[^1]
+[police](police.md "wikilink") across Petrograd.[^1]
 
 ## Background
 
 The Russian Empire had ruled much of Eastern Europe and Northern Asia
 for almost two centuries and was a significant geopolitical force, but
 it had largely been left behind in the [Industrial
-Revolution](Industrial_Revolution "wikilink") and European Colonisation
+Revolution](Industrial_Revolution.md "wikilink") and European Colonisation
 of the Americas, Asia, Africa and Oceania. It was left the poorest
 country in Europe, and was a brutal police state, ruthlessly hunting
 down and suppressing all dissent. Thus, radical ideas spread among urban
@@ -33,7 +33,7 @@ shortages and an increasingly angry population.
 ### Vodka Tax
 
 According to [The Dictator's
-Handbook](The_Dictator's_Handbook_(Book) "wikilink"):
+Handbook](The_Dictator's_Handbook_(Book).md "wikilink"):
 
 > Kerensky’s revolutionaries were able to storm the Winter Palace in
 > February 1917 because the army did not stop them. And the army did not
@@ -57,19 +57,19 @@ Handbook](The_Dictator's_Handbook_(Book) "wikilink"):
 
 <references />
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:Russia](Category:Russia "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink") [Category:Northern
-Asia](Category:Northern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:1910s](Category:1910s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:1917](Category:1917 "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:Russia](Category:Russia.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink") [Category:Northern
+Asia](Category:Northern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:1910s](Category:1910s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:1917](Category:1917.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/February_Revolution>
 
 [^2]: Bruce Bueno de Mesquita and Alastair Smith (2011), The Dictator's

@@ -4,8 +4,8 @@ permalink: /Chemist_Warehouse_Strike_(2019)/
 ---
 
 The **Chemist Warehouse Strike** was a
-[strike](List_of_Strikes "wikilink") by warehouse workers in
-[Australia](Australia "wikilink") in 2019 over sexual harassment by
+[strike](List_of_Strikes.md "wikilink") by warehouse workers in
+[Australia](Australia.md "wikilink") in 2019 over sexual harassment by
 managers, low pay and job insecurity.
 
 ## Results
@@ -25,12 +25,12 @@ The strike, called off after 16 days, won:
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:2019](Category:2019 "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:2019](Category:2019.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
 
 [^1]: <https://redflag.org.au/node/6738>

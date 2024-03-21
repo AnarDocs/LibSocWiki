@@ -3,8 +3,8 @@ title: Zionist Terrorism
 permalink: /Zionist_Terrorism/
 ---
 
-**Zionist Terrorism**refer to acts of [terrorism](terrorism "wikilink")
-committed in the name of [Zionism](Zionism "wikilink").
+**Zionist Terrorism**refer to acts of [terrorism](terrorism.md "wikilink")
+committed in the name of [Zionism](Zionism.md "wikilink").
 
 ## List of Attacks
 
@@ -25,8 +25,8 @@ committed in the name of [Zionism](Zionism "wikilink").
 
 <references />
 
-[^1]: [Wikipedia](Wikipedia "wikilink") - [Cave of the Patriarchs
+[^1]: [Wikipedia](Wikipedia.md "wikilink") - [Cave of the Patriarchs
     massacre](https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs_massacre)
 
-[^2]: [Wikipedia](Wikipedia "wikilink") - [Assassination of Yitzhak
+[^2]: [Wikipedia](Wikipedia.md "wikilink") - [Assassination of Yitzhak
     Rabin](https://en.wikipedia.org/wiki/Assassination_of_Yitzhak_Rabin)

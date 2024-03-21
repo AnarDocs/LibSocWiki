@@ -28,7 +28,7 @@ the enemy, this tendency to think that the US government's policies and
 actions are just mistakes, this seemingly ineradicable belief that the
 US government means well, is the most common outlook. It was certainly
 the majoritarian belief among those who opposed the [Vietnam
-War](Vietnam_War "wikilink"). I helped write a broad sheet once, which
+War](Vietnam_War.md "wikilink"). I helped write a broad sheet once, which
 we distributed at a big anti-war demonstration in Washington DC in
 November 1969, and which was titled "Vietnam is a Stake not a Mistake".
 In this document we spelled out the imperial reasons which explained why
@@ -52,7 +52,7 @@ event (that which didn't actually endorse the bombing that is) argued
 that "this is a mistake".[^1] My favorite quote from that episode, was
 from Robert Hayden, Director of the Center for Russian and East European
 Studies at the University of Pittsburgh, being interviewed by [Amy
-Goodman](Amy_Goodman "wikilink") on <em>Democracy Now</em>, April 19,
+Goodman](Amy_Goodman.md "wikilink") on <em>Democracy Now</em>, April 19,
 1999. He said: "But we have the Clinton administration that developed a
 diplomacy that seems to have been intended to have produced this war,
 and now the Clinton administration's actions seem determined to produce
@@ -781,11 +781,11 @@ Press.
 
 - [A Stake, Not a Mistake: On Not Seeing the
   Enemy](https://theanarchistlibrary.org/library/james-herod-a-stake-not-a-mistake)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [^1]: An excellent book on Yugoslavia which does not suffer from this
     naiveté, the best book so far, that I am aware of, on the bombing,
-    is [Michael Parenti](Michael_Parenti "wikilink"), <em>[To Kill a
+    is [Michael Parenti](Michael_Parenti.md "wikilink"), <em>[To Kill a
     Nation: The Attack on
-    Yugoslavia](To_Kill_a_Nation:_The_Attack_on_Yugoslavia "wikilink")</em>
+    Yugoslavia](To_Kill_a_Nation:_The_Attack_on_Yugoslavia.md "wikilink")</em>
     (Verso, 2000, 246 pages).

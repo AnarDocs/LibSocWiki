@@ -4,18 +4,18 @@ permalink: /Mondragon/
 ---
 
 The **Mondragon Corporation** is a
-[federation](Confederation "wikilink") of [worker
-cooperatives](Worker_Cooperative "wikilink") based in the
-[Basque](Basque_Country "wikilink") region claimed by the
-[states](State_(Polity) "wikilink") of [Spain](Spain "wikilink") and
-[France](France "wikilink"). Founded in 1956 to produce heaters, it
+[federation](Confederation.md "wikilink") of [worker
+cooperatives](Worker_Cooperative.md "wikilink") based in the
+[Basque](Basque_Country.md "wikilink") region claimed by the
+[states](State_(Polity).md "wikilink") of [Spain](Spain.md "wikilink") and
+[France](France.md "wikilink"). Founded in 1956 to produce heaters, it
 became the tenth largest business in Spain and largest in the Basque
 region. As of 2015, it has 74,000 workers.
 
 ## History
 
 In 1941, a young Catholic priest, [José María
-Arizmendiarrieta](Jose_Maria_Arizmendiarrieta "wikilink") settled in
+Arizmendiarrieta](Jose_Maria_Arizmendiarrieta.md "wikilink") settled in
 Mondragón, a town with a population of 7,000 that had not yet recovered
 from the poverty, hunger, exile, and tension of the Spanish Civil
 War.<sup>\[4\]</sup> In 1943, Arizmendiarrieta established a technical
@@ -294,11 +294,11 @@ Inventions, which accounts for 25% patents in the Basque Country,
 participating in more than 30 R&D cooperation projects at the European
 level.<sup>\[33\]</sup>
 
-[Category:Worker Cooperatives](Category:Worker_Cooperatives "wikilink")
-[Category:Spain](Category:Spain "wikilink")
-[Category:France](Category:France "wikilink") [Category:Basque
-Country](Category:Basque_Country "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1956](Category:1956 "wikilink")
-[Category:1950s](Category:1950s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+[Category:Worker Cooperatives](Category:Worker_Cooperatives.md "wikilink")
+[Category:Spain](Category:Spain.md "wikilink")
+[Category:France](Category:France.md "wikilink") [Category:Basque
+Country](Category:Basque_Country.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1956](Category:1956.md "wikilink")
+[Category:1950s](Category:1950s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

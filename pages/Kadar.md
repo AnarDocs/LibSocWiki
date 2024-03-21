@@ -4,7 +4,7 @@ permalink: /Kadar/
 ---
 
 The Kadar are an indigenous community located in Kerala (Southwest
-[India](India "wikilink")) and are known for their lack of coercive
+[India](India.md "wikilink")) and are known for their lack of coercive
 hierarchy, gender equality, environmental sustainability and lack of
 agriculture.
 

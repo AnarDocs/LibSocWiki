@@ -3,14 +3,14 @@ title: ContraPoints
 permalink: /ContraPoints/
 ---
 
-**ContraPoints** is a [YouTube](YouTube "wikilink") channel run by
+**ContraPoints** is a [YouTube](YouTube.md "wikilink") channel run by
 **Natalie Wynn** known for its humour, nuance, socratic dialogues and
 intelligence. She advocates for left-wing positions around
-[gender](gender "wikilink"), [race](Race_(Category) "wikilink") and
-[capitalism](capitalism "wikilink"), while also providing a strong
-intellectual defense against the [Alt-Right](Alt-Right "wikilink"),
-[Jordan Peterson](Jordan_Peterson "wikilink") and [Gender Critical
-Feminists](Gender_Critical_Feminism "wikilink").
+[gender](gender.md "wikilink"), [race](Race_(Category).md "wikilink") and
+[capitalism](capitalism.md "wikilink"), while also providing a strong
+intellectual defense against the [Alt-Right](Alt-Right.md "wikilink"),
+[Jordan Peterson](Jordan_Peterson.md "wikilink") and [Gender Critical
+Feminists](Gender_Critical_Feminism.md "wikilink").
 
 ## List of Videos
 
@@ -70,12 +70,12 @@ Feminists](Gender_Critical_Feminism "wikilink").
 
 - [ContraPoints
   Wiki](https://contrapoints.fandom.com/wiki/Contrapoints_Wiki)
-- [Philosophy Tube](Philosophy_Tube "wikilink")
-- [hbomberguy](hbomberguy "wikilink")
+- [Philosophy Tube](Philosophy_Tube.md "wikilink")
+- [hbomberguy](hbomberguy.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Socialists](Category:Socialists "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
-[Category:Transgender People](Category:Transgender_People "wikilink")
-[Category:Queer Activists](Category:Queer_Activists "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Socialists](Category:Socialists.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
+[Category:Transgender People](Category:Transgender_People.md "wikilink")
+[Category:Queer Activists](Category:Queer_Activists.md "wikilink")

@@ -4,7 +4,7 @@ permalink: /List_of_Israeli_Assassinations_and_Kidnappings/
 ---
 
 This is a list of state-sanctioned assassinations and kidnappings
-committed by [Israel](Israel "wikilink").
+committed by [Israel](Israel.md "wikilink").
 
 ## Confirmed
 

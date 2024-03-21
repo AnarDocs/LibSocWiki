@@ -4,14 +4,14 @@ permalink: /Surplus_Value/
 ---
 
 ![](Surplusvalue.JPG "Surplusvalue.JPG") **Surplus Value** (sometimes
-called [profit](profit "wikilink")) is a key concept in
-[socialist](Socialism "wikilink") (and especially
-[marxist](Marxism "wikilink")) understanding at how
-[capitalism](capitalism "wikilink") operates. It refers to the
+called [profit](profit.md "wikilink")) is a key concept in
+[socialist](Socialism.md "wikilink") (and especially
+[marxist](Marxism.md "wikilink")) understanding at how
+[capitalism](capitalism.md "wikilink") operates. It refers to the
 difference of money generated for a business by its
-[workers](Working_Class "wikilink") and the amount of
-[money](money "wikilink") that is actually paid to workers in the form
-of [wages](Wage_Labour "wikilink").
+[workers](Working_Class.md "wikilink") and the amount of
+[money](money.md "wikilink") that is actually paid to workers in the form
+of [wages](Wage_Labour.md "wikilink").
 
 ## Justifications for Extraction
 
@@ -19,7 +19,7 @@ of [wages](Wage_Labour "wikilink").
 
 The idea that profit is a reward for the amount of risk taken by someone
 in starting a business (willingness to sacrifice their own savings or go
-into [debt](debt "wikilink")). Anti-Capitalists have five
+into [debt](debt.md "wikilink")). Anti-Capitalists have five
 counter-arguments:
 
 1.  The returns on property income are utterly independent on the amount
@@ -38,6 +38,6 @@ counter-arguments:
     apply equally to this rationale. In other words, “risk” is simply
     yet another excuse to reward the rich for being wealthy.
 
-[Category:Concepts](Category:Concepts "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Marxism](Category:Marxism "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Marxism](Category:Marxism.md "wikilink")

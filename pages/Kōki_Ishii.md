@@ -3,15 +3,15 @@ title: Kōki Ishii
 permalink: /Kōki_Ishii/
 ---
 
-**Kōki Ishii/石井 紘基** was a [Japanese](Japan "wikilink") politician,
+**Kōki Ishii/石井 紘基** was a [Japanese](Japan.md "wikilink") politician,
 socialist and victim of a [highly suspicious
-assassination](Conspiracy_Theory "wikilink").
+assassination](Conspiracy_Theory.md "wikilink").
 
 ## Life
 
 Born during World War II and the fall of the Japanese Empire, Kōki
 graduated from university with a law degree and moved to the
-[USSR](USSR "wikilink") for 6 years in the 1960s. Upon returning to
+[USSR](USSR.md "wikilink") for 6 years in the 1960s. Upon returning to
 Japan, he became a socialist politician and moved between various
 political parties.
 
@@ -39,7 +39,7 @@ include:
   something terrible".
 - The day of his death he was due to announce his findings to the
   Japanese government.
-- [Reporters](Propaganda_Model "wikilink") had been informed of the
+- [Reporters](Propaganda_Model.md "wikilink") had been informed of the
   assassinations a full day before it happened.
 - Documents were missing from his briefcase that he had taken with him.
 - The killer claimed he was hired to perform the murder but didn't say
@@ -48,15 +48,15 @@ include:
 - His diary went missing mysteriously after the murder.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2002](Category:2002 "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:Japan](Category:Japan "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Conspiracy
-Theories](Category:Conspiracy_Theories "wikilink")
-[Category:Socialists](Category:Socialists "wikilink") [Category:Japanese
-Socialists](Category:Japanese_Socialists "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2002](Category:2002.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:Japan](Category:Japan.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Conspiracy
+Theories](Category:Conspiracy_Theories.md "wikilink")
+[Category:Socialists](Category:Socialists.md "wikilink") [Category:Japanese
+Socialists](Category:Japanese_Socialists.md "wikilink")
 [Category:Anti-Corruption
-Activists](Category:Anti-Corruption_Activists "wikilink")
+Activists](Category:Anti-Corruption_Activists.md "wikilink")

@@ -5,9 +5,9 @@ permalink: /Indus_River_Valley_Civilization/
 
 The **Indus River Valley Civilization** or **Harappan Civilization** was
 a possibly [libertarian socialist
-society](List_of_Libertarian_Socialist_Societies "wikilink") in ancient
+society](List_of_Libertarian_Socialist_Societies.md "wikilink") in ancient
 times ([3300BCE -
-1300BCE](Timeline_of_Libertarian_Socialism "wikilink")) in what is now
+1300BCE](Timeline_of_Libertarian_Socialism.md "wikilink")) in what is now
 Southern Asia. It was noted for its staunch egalitarianism, large
 population, technological advances, great cities and contributions to
 mathematics. Due to the untranDecision-Making
@@ -19,8 +19,8 @@ compared to hierarchical civilizations of the same time period (eg Egypt
 and Sumer) and the lack of any centralized political buildings such as
 courts, palaces, military barracks or parliaments[^1] it can be safe to
 assume that the most likely method of decision-making was some kind of
-[confederation](confederation "wikilink") rooted in [local
-assemblies](Democratic_Assembly "wikilink"). The entire society was
+[confederation](confederation.md "wikilink") rooted in [local
+assemblies](Democratic_Assembly.md "wikilink"). The entire society was
 composed of more than 1,000 cities and towns, with many more smaller
 villages and hamlets in between.
 
@@ -46,9 +46,9 @@ animal-powered wheeled carts and an extensive maritime network composed
 of docks and ships.[^2]
 
 In terms of modern [libertarian
-socialist](Libertarian_Socialism "wikilink") theory, the economy mainly
-resembled a [mutualist](Mutualism "wikilink") one with elements of
-[anarcho-communism](Anarcho-Communism "wikilink").
+socialist](Libertarian_Socialism.md "wikilink") theory, the economy mainly
+resembled a [mutualist](Mutualism.md "wikilink") one with elements of
+[anarcho-communism](Anarcho-Communism.md "wikilink").
 
 ## Collapse
 
@@ -93,36 +93,36 @@ able to survive.[^6]
 
 <references />
 
-[Category:Societies](Category:Societies "wikilink")
-[Category:India](Category:India "wikilink")
-[Category:Pakistan](Category:Pakistan "wikilink")
-[Category:Afghanistan](Category:Afghanistan "wikilink")
-[Category:Southern Asia](Category:Southern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+[Category:Societies](Category:Societies.md "wikilink")
+[Category:India](Category:India.md "wikilink")
+[Category:Pakistan](Category:Pakistan.md "wikilink")
+[Category:Afghanistan](Category:Afghanistan.md "wikilink")
+[Category:Southern Asia](Category:Southern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Past
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Past
 Libertarian Socialist
-Societies](Category:Past_Libertarian_Socialist_Societies "wikilink")
-[Category:Before Common Era](Category:Before_Common_Era "wikilink")
+Societies](Category:Past_Libertarian_Socialist_Societies.md "wikilink")
+[Category:Before Common Era](Category:Before_Common_Era.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Mature_Harappan>
 
 [^2]:
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#%22Aryan_invasion%22>
 
-[^4]: [Wikipedia](Wikipedia "wikilink") -
+[^4]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Climate_change_and_drought>
 
-[^5]: [Wikipedia](Wikipedia "wikilink") -
+[^5]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Earthquakes>
 
-[^6]: [Wikipedia](Wikipedia "wikilink") -
+[^6]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indus_Valley_Civilisation#Late_Harappan>

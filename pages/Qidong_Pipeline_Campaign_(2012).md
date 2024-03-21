@@ -4,16 +4,16 @@ permalink: /Qidong_Pipeline_Campaign_(2012)/
 ---
 
 The **Qidong Pipeline Campaign of 2012** was a grassroots [environmental
-protest](Timeline_of_Environmentalism "wikilink") that started in the
-city of Qidong, Jiangsu, [China](China "wikilink") on the 28th of July,
-[2012](Timeline_of_Libertarian_Socialism_in_Eastern_Asia "wikilink").
+protest](Timeline_of_Environmentalism.md "wikilink") that started in the
+city of Qidong, Jiangsu, [China](China.md "wikilink") on the 28th of July,
+[2012](Timeline_of_Libertarian_Socialism_in_Eastern_Asia.md "wikilink").
 
 ## Background
 
 The coastal city of Qidong is located at the mouth of the Yangtze River,
 approximately one hour north of Shanghai. The city's economy is centered
 largely on the fishing industry, and is a major source of lobster and
-shrimp exports. In 2007, the [Japan](Japan "wikilink")-based Oji Paper
+shrimp exports. In 2007, the [Japan](Japan.md "wikilink")-based Oji Paper
 Company began construction of a paper mill in the city of Nantong,
 Jiangsu, located approximately 100 km inland from the coast. A
 wastewater pipeline was designed to carry approximately 150,000 tons of
@@ -45,7 +45,7 @@ were very excited after searching out a large number of travel photos,
 travel hats, famous cigarettes, condoms, etc. At the scene, there was a
 scold. The wine was poured all over the place, and the fragrance of the
 wine lasted for a long time." The editors of
-[libsocwiki](Libertarian_Socialist_Wiki "wikilink") are unable to
+[libsocwiki](Libertarian_Socialist_Wiki.md "wikilink") are unable to
 determine the meaning of this.
 
 ## Results
@@ -64,24 +64,24 @@ products.
 ## See Also
 
 - [Chinese Protest Wave (2007 -
-  2014)](Chinese_Protest_Wave_(2007_-_2014) "wikilink")
+  2014)](Chinese_Protest_Wave_(2007_-_2014).md "wikilink")
 - [Shifang Anti-Factory
-  Campaign](Shifang_Anti-Factory_Campaign_(2012) "wikilink")
+  Campaign](Shifang_Anti-Factory_Campaign_(2012).md "wikilink")
 - [Ningbo Anti-Refinery
-  Campaign](Ningbo_Anti-Refinery_Campaign_(2012) "wikilink")
+  Campaign](Ningbo_Anti-Refinery_Campaign_(2012).md "wikilink")
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") (Chinese) - [Qidong
+[Wikipedia](Wikipedia.md "wikilink") (Chinese) - [Qidong
 protest](https://en.wikipedia.org/wiki/Qidong_protest)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:China](Category:China "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Eastern
-Asia](Category:Eastern_Asia "wikilink")
-[Category:2012](Category:2012 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:China](Category:China.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Eastern
+Asia](Category:Eastern_Asia.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")

@@ -4,16 +4,16 @@ permalink: /Encyclopedia_of_Peaceful_Societies/
 ---
 
 The **Encyclopedia of Peaceful Societies** is an online encyclopedia
-created by the [University](University "wikilink") of Alabama at
+created by the [University](University.md "wikilink") of Alabama at
 Birmingham College of Arts and Sciences Department of
-[Anthropology](Anthropology "wikilink") that aims to document examples
-of societies with little to no [violence](violence "wikilink") and
-[war](war "wikilink") as an introduction to scholars,
-[students](Student "wikilink") and activists.
+[Anthropology](Anthropology.md "wikilink") that aims to document examples
+of societies with little to no [violence](violence.md "wikilink") and
+[war](war.md "wikilink") as an introduction to scholars,
+[students](Student.md "wikilink") and activists.
 
 ## Entries
 
-- [Amish](Amish "wikilink")
+- [Amish](Amish.md "wikilink")
 - Batek
 - Birhor
 - Buid
@@ -24,7 +24,7 @@ of societies with little to no [violence](violence "wikilink") and
 - Ifaluk
 - Inuit of Utkuhikhalik and Qipisa Communities
 - Ju/’hoansi
-- [Kadar](Kadar "wikilink")
+- [Kadar](Kadar.md "wikilink")
 - Ladakhi
 - Lepchas
 - Malapandaram
@@ -33,7 +33,7 @@ of societies with little to no [violence](violence "wikilink") and
 - Paliyans
 - Piaroa
 - Rural Thai
-- [Semai](Semai "wikilink")
+- [Semai](Semai.md "wikilink")
 - Tahitians
 - Tristan Islanders
 - Yanadi

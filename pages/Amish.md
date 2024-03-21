@@ -3,16 +3,16 @@ title: Amish
 permalink: /Amish/
 ---
 
-The **Amish** are a [Christian](Christianity "wikilink")
-([Anabaptist](Anabaptism "wikilink")) group active in the
-[USA](United_States_of_America "wikilink"), [Canada](Canada "wikilink")
-and [Argentina](Argentina "wikilink") that live in small,
+The **Amish** are a [Christian](Christianity.md "wikilink")
+([Anabaptist](Anabaptism.md "wikilink")) group active in the
+[USA](United_States_of_America.md "wikilink"), [Canada](Canada.md "wikilink")
+and [Argentina](Argentina.md "wikilink") that live in small,
 self-sufficient rural communities famous for their simple dress, sober
 and hardworking culture and rejection of electricity. There are about
 342,000 Amish in the world and have often been described as resembling
 an [anarchist
-culture](List_of_Libertarian_Socialist_Societies "wikilink"), although
-[anarchists](Anarchism "wikilink") are critical of the group.
+culture](List_of_Libertarian_Socialist_Societies.md "wikilink"), although
+[anarchists](Anarchism.md "wikilink") are critical of the group.
 
 ## Decision-Making
 
@@ -140,7 +140,7 @@ their own community when they feel they can be of assistance.[^8]
 ### Gender and Marriage
 
 Amish culture is fairly patriarchal. The man is the [head of the
-family](Patriarchy "wikilink") and responsible for all the heavier farm
+family](Patriarchy.md "wikilink") and responsible for all the heavier farm
 work; the woman follows his leadership in major decisions and is
 responsible for child-raising, cooking, cleaning, washing, and
 housekeeping. Their relationship is more one of mutual respect than
@@ -175,28 +175,28 @@ their homes.[^11]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink")
-[Category:Canada](Category:Canada "wikilink")
-[Category:Argentina](Category:Argentina "wikilink")
-[Category:Christianity](Category:Christianity "wikilink")
-[Category:North America](Category:North_America "wikilink")
-[Category:South America](Category:South_America "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink")
+[Category:Canada](Category:Canada.md "wikilink")
+[Category:Argentina](Category:Argentina.md "wikilink")
+[Category:Christianity](Category:Christianity.md "wikilink")
+[Category:North America](Category:North_America.md "wikilink")
+[Category:South America](Category:South_America.md "wikilink")
 
 [^1]:
 
 [^2]:
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Amish_life_in_the_modern_world#Crimes_and_discrimination_against_Amish>
 
 [^4]: [Encyclopedia of Peaceful
-    Societies](Encyclopedia_of_Peaceful_Societies "wikilink") -
+    Societies](Encyclopedia_of_Peaceful_Societies.md "wikilink") -
     [Amish](https://cas.uab.edu/peacefulsocieties/societies/amish/)
 
 [^5]:
 
-[^6]: [Wikipedia](Wikipedia "wikilink") -
+[^6]: [Wikipedia](Wikipedia.md "wikilink") -
     [Amish](https://en.wikipedia.org/wiki/Amish)
 
 [^7]:

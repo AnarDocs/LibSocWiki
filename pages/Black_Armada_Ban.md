@@ -4,22 +4,22 @@ permalink: /Black_Armada_Ban/
 ---
 
 The **Black Armada Ban** was a refusal by dockworkers in [Australian
-ports](Australia "wikilink") to not serve Dutch ships as to assist the
+ports](Australia.md "wikilink") to not serve Dutch ships as to assist the
 rebels in the [Indonesian
-Revolution](Indonesian_National_Revolution "wikilink") from [1945 to
-1949](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").
+Revolution](Indonesian_National_Revolution.md "wikilink") from [1945 to
+1949](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").
 
 ## Background
 
-Australia's [trade union](Trade_Union "wikilink") movement had grown
+Australia's [trade union](Trade_Union.md "wikilink") movement had grown
 very largely since the 1890s, with it only getting bigger with the
-[Great Depression](Great_Depression "wikilink"). With the end of World
-War II, [anti-colonial movements](Anti-Colonialism "wikilink") swept
+[Great Depression](Great_Depression.md "wikilink"). With the end of World
+War II, [anti-colonial movements](Anti-Colonialism.md "wikilink") swept
 European colonies in Asia and Africa, and many trade unionists
 sympathised with the desire for the desire for peace and democracy in
 other countries. An independence movement in
-[Indonesia](Indonesia "wikilink") (then a [Dutch
-colony](Dutch_Empire "wikilink")) launched a revolution with the support
+[Indonesia](Indonesia.md "wikilink") (then a [Dutch
+colony](Dutch_Empire.md "wikilink")) launched a revolution with the support
 of Indonesian trade unions, who made an international call for
 solidarity, which Australian trade unionists responded to.
 
@@ -46,21 +46,21 @@ for freedom—let’s give it to the Indonesians.”[^2]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Boycotts](Category:Boycotts "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:1945](Category:1945 "wikilink")
-[Category:1946](Category:1946 "wikilink")
-[Category:1947](Category:1947 "wikilink")
-[Category:1948](Category:1948 "wikilink")
-[Category:1949](Category:1949 "wikilink")
-[Category:1940s](Category:1940s "wikilink")
-[Category:Shipping](Category:Shipping "wikilink") [Category:Indonesian
-National Revolution](Category:Indonesian_National_Revolution "wikilink")
-[Category:Indonesia](Category:Indonesia "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Southeast
-Asia](Category:Southeast_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Boycotts](Category:Boycotts.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:1945](Category:1945.md "wikilink")
+[Category:1946](Category:1946.md "wikilink")
+[Category:1947](Category:1947.md "wikilink")
+[Category:1948](Category:1948.md "wikilink")
+[Category:1949](Category:1949.md "wikilink")
+[Category:1940s](Category:1940s.md "wikilink")
+[Category:Shipping](Category:Shipping.md "wikilink") [Category:Indonesian
+National Revolution](Category:Indonesian_National_Revolution.md "wikilink")
+[Category:Indonesia](Category:Indonesia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Southeast
+Asia](Category:Southeast_Asia.md "wikilink")
 
 [^1]: <http://roughreds.com/rrtwo/healy.html>
 

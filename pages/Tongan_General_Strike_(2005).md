@@ -4,9 +4,9 @@ permalink: /Tongan_General_Strike_(2005)/
 ---
 
 The **Tongan General Strike of 2005** was a general
-[strike](List_of_General_Strikes "wikilink") by public service workers
-in [Tonga](Tonga "wikilink") in
-[2005](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink").
+[strike](List_of_General_Strikes.md "wikilink") by public service workers
+in [Tonga](Tonga.md "wikilink") in
+[2005](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink").
 
 ## Background
 
@@ -70,7 +70,7 @@ settle the strike. They were also demanding the reinstatement of the
 college principal and other senior staff who had been dismissed for
 supporting the strike. Although the vandalism was not sanctioned by the
 PSA, the media jumped on this as an outbreak of violence in the
-campaign. The [New Zealand](New_Zealand "wikilink") government offered
+campaign. The [New Zealand](New_Zealand.md "wikilink") government offered
 to help Tonga resolve the strike in response to the violence, but the
 PSA refused.
 
@@ -80,10 +80,10 @@ The strike saw a 70% wage increase, no disciplinary actions against
 strikers and increased democratisation in Tonga.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Tonga](Category:Tonga "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2005](Category:2005 "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:General
-Strikes](Category:General_Strikes "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Tonga](Category:Tonga.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2005](Category:2005.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:General
+Strikes](Category:General_Strikes.md "wikilink")

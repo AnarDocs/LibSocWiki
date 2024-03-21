@@ -4,16 +4,16 @@ permalink: /Bishnoi_Forest_Campaign/
 ---
 
 The **Bishnoi Forest Campaign** was an early
-[environmentalist](Environmentalism "wikilink") campaign in what is now
-Western Rajistan, [India](India "wikilink") in
-[1730](Timeline_of_Libertarian_Socialism_in_Southern_Asia "wikilink") to
+[environmentalist](Environmentalism.md "wikilink") campaign in what is now
+Western Rajistan, [India](India.md "wikilink") in
+[1730](Timeline_of_Libertarian_Socialism_in_Southern_Asia.md "wikilink") to
 prevent deforestation, this led to a state-supported massacre of 363
 nonviolent protesters.
 
 ## Background
 
-The Bishnoi or Vishnoi faith is a [religious](Religion "wikilink")
-offshoot of [Hinduism](Hinduism "wikilink") founded in 1485 by Guru
+The Bishnoi or Vishnoi faith is a [religious](Religion.md "wikilink")
+offshoot of [Hinduism](Hinduism.md "wikilink") founded in 1485 by Guru
 Maharaj Jambaji, it has 29 principles, they are:
 
 1.  Observe 30 days' state of ritual impurity after child's birth and
@@ -91,7 +91,7 @@ This legislation still exists today in the region. In memory of the 363
 Bishnois, who died protecting their dear trees, a number of khejri trees
 are planted around the area, which is still notably lush and rich with
 animal life. The Bishnoi sacrifices became the inspiration for a much
-larger [Chipko movement](Chipko_(India) "wikilink") that is still
+larger [Chipko movement](Chipko_(India).md "wikilink") that is still
 growing today, in which villagers physically embrace trees to save them
 from logging.[^4]
 
@@ -100,19 +100,19 @@ from logging.[^4]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Southern Asia](Category:Southern_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:India](Category:India "wikilink")
-[Category:Deforestation](Category:Deforestation "wikilink")
-[Category:Social Movements](Category:Social_Movements "wikilink")
-[Category:1700s](Category:1700s "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Southern Asia](Category:Southern_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:India](Category:India.md "wikilink")
+[Category:Deforestation](Category:Deforestation.md "wikilink")
+[Category:Social Movements](Category:Social_Movements.md "wikilink")
+[Category:1700s](Category:1700s.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Bishnoi#29_rules>
 
-[^2]: [Wikipedia](Wikipedia "wikilink") -
+[^2]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Khejarli_massacre>
 
 [^3]: <https://nvdatabase.swarthmore.edu/content/bishnoi-villagers-sacrifice-lives-save-trees-1730>

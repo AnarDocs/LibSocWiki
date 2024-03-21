@@ -5,8 +5,8 @@ permalink: /Socialist_Hungary/
 
 **Socialist Hungary**, officially the **Hungarian People's Republic**,
 refers to the [authoritarian
-socialist](Authoritarian_Socialism "wikilink")/[marxist-leninist](Marxism-Leninism_in_Practice "wikilink")
-era of [Hungary's](Hungary "wikilink") history.
+socialist](Authoritarian_Socialism.md "wikilink")/[marxist-leninist](Marxism-Leninism_in_Practice.md "wikilink")
+era of [Hungary's](Hungary.md "wikilink") history.
 
 ## Analysis
 
@@ -65,21 +65,21 @@ era of [Hungary's](Hungary "wikilink") history.
 
 ## Major Social Struggles
 
-- 1956: [Hungarian Revolution](Hungarian_Revolution_(1956) "wikilink")
+- 1956: [Hungarian Revolution](Hungarian_Revolution_(1956).md "wikilink")
 - 1989: Hungarian Revolution
 
 ## References
 
 <references />
 
-[Category:Former States](Category:Former_States "wikilink")
+[Category:Former States](Category:Former_States.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Hungary](Category:Hungary "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Hungary](Category:Hungary.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Authoritarian
+Socialism](Category:Authoritarian_Socialism.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")
 
 [^1]: [US Federal Research Division \| Hungary: A Country Study (1990)
     (PDF), pages 99 -

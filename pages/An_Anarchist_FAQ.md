@@ -4,8 +4,8 @@ permalink: /An_Anarchist_FAQ/
 ---
 
 **An Anarchist FAQ** is a 4,200 page
-[book](List_of_Libertarian_Socialist_Books "wikilink") that explains
-[anarchist](Anarchism "wikilink") philosophy and strategy in detail.
+[book](List_of_Libertarian_Socialist_Books.md "wikilink") that explains
+[anarchist](Anarchism.md "wikilink") philosophy and strategy in detail.
 
 ## Chapters
 
@@ -24,7 +24,7 @@ Why do anarchists oppose the current system?
 #### **Section C: What are the myths of capitalist economics?**
 
 [What are the myths of capitalist
-economics?](Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist_FAQ) "wikilink")
+economics?](Section_C:_What_are_the_myths_of_capitalist_economics?_(An_Anarchist_FAQ).md "wikilink")
 
 #### **Section D: How do statism and capitalism affect society?**
 
@@ -53,7 +53,7 @@ What would an anarchist society look like?
 #### **Section J: What do anarchists do?**
 
 [What do anarchists
-do?](Section_J:_What_do_anarchists_do?_(An_Anarchist_FAQ) "wikilink")
+do?](Section_J:_What_do_anarchists_do?_(An_Anarchist_FAQ).md "wikilink")
 
 #### **Appendix: Anarchism and “anarcho”-capitalism**
 
@@ -79,9 +79,9 @@ Bibliography for FAQ
 
 An Anarchist FAQ after ten years
 
-[Category:An Anarchist FAQ](Category:An_Anarchist_FAQ "wikilink")
-[Category:Books](Category:Books "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:An Anarchist FAQ](Category:An_Anarchist_FAQ.md "wikilink")
+[Category:Books](Category:Books.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")

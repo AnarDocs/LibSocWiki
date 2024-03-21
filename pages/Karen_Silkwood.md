@@ -4,7 +4,7 @@ permalink: /Karen_Silkwood/
 ---
 
 **Karen Gay Silkwood** was a chemical technician and [trade
-union](Trade_Union "wikilink") activist known for raising concerns about
+union](Trade_Union.md "wikilink") activist known for raising concerns about
 corporate practices related to health and safety in a nuclear facility.
 After testifying to the Atomic Energy Commission about her concerns and
 driving to meet with a *New York Times* journalist and an official of
@@ -84,8 +84,8 @@ international intelligence agencies CIA, MI5, Israeli Mossad, and a
 
 ## See Also
 
-- [Conspiracy Theory](Conspiracy_Theory "wikilink")
-- [Juanita Nielsen](Juanita_Nielsen "wikilink")
+- [Conspiracy Theory](Conspiracy_Theory.md "wikilink")
+- [Juanita Nielsen](Juanita_Nielsen.md "wikilink")
 
 ## References
 
@@ -96,10 +96,10 @@ Behind the Kerr-McGee Plutonium Case by Richard L. Rashke*, (published
 in 2000).
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Trade
-Unionists](Category:Trade_Unionists "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:1974](Category:1974 "wikilink") [Category:Victims of
-Assassination](Category:Victims_of_Assassination "wikilink")
-[Category:Conspiracy Theories](Category:Conspiracy_Theories "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Trade
+Unionists](Category:Trade_Unionists.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:1974](Category:1974.md "wikilink") [Category:Victims of
+Assassination](Category:Victims_of_Assassination.md "wikilink")
+[Category:Conspiracy Theories](Category:Conspiracy_Theories.md "wikilink")

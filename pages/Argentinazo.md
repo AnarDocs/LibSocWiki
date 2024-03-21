@@ -4,9 +4,9 @@ permalink: /Argentinazo/
 ---
 
 The **Argentinazo**was a[failed
-revolution](List_of_Libertarian_Socialist_Revolutions "wikilink") in
-[Argentina](Argentina "wikilink") in the [early
-2000s](Timeline_of_Libertarian_Socialism_in_South_America "wikilink").
+revolution](List_of_Libertarian_Socialist_Revolutions.md "wikilink") in
+[Argentina](Argentina.md "wikilink") in the [early
+2000s](Timeline_of_Libertarian_Socialism_in_South_America.md "wikilink").
 
 ## Background
 
@@ -26,27 +26,27 @@ a libertarian socialist society, did manage to
 
 - It likely led to the end of the Free Trade Agreement of the Americas
   which would've brought greater
-  [neoliberalism](neoliberalism "wikilink") to all of South America.[^1]
+  [neoliberalism](neoliberalism.md "wikilink") to all of South America.[^1]
 
 ## Analysis
 
 The failure of the Argentinazo to create a libertarian socialist
 Argentina largely lied in the fact that the movement did not resist
-[co-optation](co-optation "wikilink") by political parties who claimed
+[co-optation](co-optation.md "wikilink") by political parties who claimed
 they would change the system.
 
-[Category:Events](Category:Events "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Events](Category:Events.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Argentina](Category:Argentina "wikilink")
-[Category:2001](Category:2001 "wikilink")
-[Category:2000s](Category:2000s "wikilink") [Category:South
-America](Category:South_America "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:Uprisings](Category:Uprisings "wikilink") [Category:Worker
-Uprisings](Category:Worker_Uprisings "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Argentina](Category:Argentina.md "wikilink")
+[Category:2001](Category:2001.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:Uprisings](Category:Uprisings.md "wikilink") [Category:Worker
+Uprisings](Category:Worker_Uprisings.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
-[^1]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2015) - [The
-    Failure of Nonviolence](The_Failure_of_Nonviolence "wikilink")
+[^1]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2015) - [The
+    Failure of Nonviolence](The_Failure_of_Nonviolence.md "wikilink")

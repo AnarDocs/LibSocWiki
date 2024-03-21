@@ -4,21 +4,21 @@ permalink: /Rog/
 ---
 
 **Rog** or the **Republic of Rog** is an abandoned bike
-[factory](factory "wikilink") in Ljubljana,
-[Slovenia](Republic_of_Slovenia "wikilink") which during
-[2006](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink")
-was turned into a [squat](Squatting "wikilink") and [social
-center](Social_Center "wikilink").
+[factory](factory.md "wikilink") in Ljubljana,
+[Slovenia](Republic_of_Slovenia.md "wikilink") which during
+[2006](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink")
+was turned into a [squat](Squatting.md "wikilink") and [social
+center](Social_Center.md "wikilink").
 
 ## History
 
 The building had originally been used as a tannery from 1871 to 1945,
 where it changed hands between capitalists as they variously died or
-went bankrupt. But after [World War II](World_War_II "wikilink"), the
-tannery was [nationalized](Nationalization "wikilink") by the [League of
-Communists in Yugoslavia](League_of_Communists_in_Yugoslavia "wikilink")
+went bankrupt. But after [World War II](World_War_II.md "wikilink"), the
+tannery was [nationalized](Nationalization.md "wikilink") by the [League of
+Communists in Yugoslavia](League_of_Communists_in_Yugoslavia.md "wikilink")
 and converted into a bike factory, where it was run as a [self-managed
-factory](Workers'_Self-Management "wikilink") between 1953 and 1991.
+factory](Workers'_Self-Management.md "wikilink") between 1953 and 1991.
 
 The factory lay abandoned and dormant for 15 years, until the squatters
 decided to come in, fix it up and convert it into a social center in
@@ -75,17 +75,17 @@ The area serves many purposes, including:
 
 <references />
 
-[Category:2000s](Category:2000s "wikilink")
-[Category:2006](Category:2006 "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Slovenia](Category:Slovenia "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2006](Category:2006.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:Slovenia](Category:Slovenia.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Autonomism](Category:Autonomism "wikilink")
-[Category:Squatting](Category:Squatting "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Autonomism](Category:Autonomism.md "wikilink")
+[Category:Squatting](Category:Squatting.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Rog_(factory)>

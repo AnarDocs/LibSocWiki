@@ -4,9 +4,9 @@ permalink: /Just_a_day_(GIY2100)/
 ---
 
 **Just a day** is the first chapter of [Ilan
-Shalif's](Ilan_Shalif "wikilink") 2007
-[book](List_of_Libertarian_Socialist_Books "wikilink") [Glimpses into
-the Year 2100](Glimpses_into_the_Year_2100_(Book) "wikilink"), outlining
+Shalif's](Ilan_Shalif.md "wikilink") 2007
+[book](List_of_Libertarian_Socialist_Books.md "wikilink") [Glimpses into
+the Year 2100](Glimpses_into_the_Year_2100_(Book).md "wikilink"), outlining
 the life of a delegate aiming to modify the fictional cities education
 system and take care of their cohousing project.
 
@@ -42,7 +42,7 @@ tasks in the community or the district that could not be put off.
 
 Just before Ri finished his last sip of tea, a noisy group entered. They
 were people destined for a community in the countryside that needed help
-[picking vegetables](Agriculture "wikilink"), as the warm weather had
+[picking vegetables](Agriculture.md "wikilink"), as the warm weather had
 caused a lot of tomatoes to ripen too early.
 
 Ri’s usual work at the facility was to prepare the products for the
@@ -112,7 +112,7 @@ items began. First, the proposals from the various committees that
 no-one in the committees had objected to were put to a formal vote.
 Then, proposals involving some minor disagreements or requests for
 change were put up for discussion and vote — some involved changes in
-the efforts to reach a [consensus](consensus "wikilink"), others were
+the efforts to reach a [consensus](consensus.md "wikilink"), others were
 decided on by an overwhelming majority, and one was decided by a
 marginal majority, at which stage the assembly decided to send it back
 to the specific committee in order to seek consensus in some way.

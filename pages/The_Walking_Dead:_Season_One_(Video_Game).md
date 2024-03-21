@@ -4,9 +4,9 @@ permalink: /The_Walking_Dead:_Season_One_(Video_Game)/
 ---
 
 **The Walking Dead: Season One** is a 2012 [video
-game](List_of_Video_Games "wikilink") that follows Lee Everett, a
+game](List_of_Video_Games.md "wikilink") that follows Lee Everett, a
 37-year old history professor trying to survive a zombie apocalypse in
-Georgia, [USA](United_States_of_America "wikilink").
+Georgia, [USA](United_States_of_America.md "wikilink").
 
 ## Summary
 
@@ -127,6 +127,6 @@ group, it's also revealed that Duck has been bitten.
   One](https://walkingdead.fandom.com/wiki/The_Walking_Dead_(Video_Game))
   at walkingdead.wiki
 
-[Category:Zombies](Category:Zombies "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Video Games](Category:Video_Games "wikilink")
+[Category:Zombies](Category:Zombies.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Video Games](Category:Video_Games.md "wikilink")

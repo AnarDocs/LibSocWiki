@@ -6,10 +6,10 @@ permalink: /Marc_Dutroux/
 *Content Warning: This article contains discussion of violent rape and
 murder of children.*
 
-**Marc Dutroux** is a [serial killer](Serial_Killer "wikilink") and
+**Marc Dutroux** is a [serial killer](Serial_Killer.md "wikilink") and
 child molester who's been alleged to have been involved with a
-[pedophile ring](Pedophile_Ring "wikilink") involving
-[Belgian](Belgium "wikilink") police, politicians and businessmen.
+[pedophile ring](Pedophile_Ring.md "wikilink") involving
+[Belgian](Belgium.md "wikilink") police, politicians and businessmen.
 
 ## Evidence for a Cover-up
 
@@ -38,9 +38,9 @@ child molester who's been alleged to have been involved with a
   with no explanation.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Belgium](Category:Belgium "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Belgium](Category:Belgium.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

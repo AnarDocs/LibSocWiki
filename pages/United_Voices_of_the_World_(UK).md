@@ -4,11 +4,11 @@ permalink: /United_Voices_of_the_World_(UK)/
 ---
 
 The **United Voices of the World**(**UVW**) is a [trade
-union](Trade_Union "wikilink") based in the
-[UK](United_Kingdom "wikilink") that mainly organises among immigrant
+union](Trade_Union.md "wikilink") based in the
+[UK](United_Kingdom.md "wikilink") that mainly organises among immigrant
 workers, particularly from Latin America. It is notable for being highly
 successful despite only being around since
-[2014](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink").
+[2014](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink").
 
 ## Timeline
 
@@ -27,7 +27,7 @@ successful despite only being around since
   gained for workers, leading to workers losing £5,000 per year). A
   strike and blockade of the hotel by workers (which led to two being
   arrested) resulted in 100% of service charges going to workers.[^4]
-- 2017: [University](University "wikilink") cleaners who joined the UVW
+- 2017: [University](University.md "wikilink") cleaners who joined the UVW
   began weekly strikes with supports from students, resulting in the
   workers getting paid annual leave, sick pay, parental leave pay and
   greater pensions after 10 months of the strike[^5]
@@ -37,7 +37,7 @@ successful despite only being around since
   toilet paper, a shower room, and a decent supply of gloves, uniforms
   and hard hats. There was also a wage increase.[^6]
 - 2018: The UVW joins the [International Confederation of
-  Labor](International_Confederation_of_Labor "wikilink") as an observer
+  Labor](International_Confederation_of_Labor.md "wikilink") as an observer
 - 2018: Conservative newspaper office cleaners in the UVW were being
   illegally underpaid and threatened with unemployment if they striked.
   But, they went on strike anyway with sympathy protests outside the
@@ -55,22 +55,22 @@ You can contact the UVW [here](https://www.uvwunion.org.uk/contact)
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:International Confederation of
-Labor](Category:International_Confederation_of_Labor "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Trade Unions](Category:Trade_Unions "wikilink")
+Labor](Category:International_Confederation_of_Labor.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Trade Unions](Category:Trade_Unions.md "wikilink")
 [Category:Anarcho-Syndicalist
-Groups](Category:Anarcho-Syndicalist_Groups "wikilink")
-[Category:2014](Category:2014 "wikilink")
-[Category:2015](Category:2015 "wikilink")
-[Category:2016](Category:2016 "wikilink")
-[Category:2017](Category:2017 "wikilink")
-[Category:2018](Category:2018 "wikilink")
-[Category:2019](Category:2019 "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Groups](Category:Anarcho-Syndicalist_Groups.md "wikilink")
+[Category:2014](Category:2014.md "wikilink")
+[Category:2015](Category:2015.md "wikilink")
+[Category:2016](Category:2016.md "wikilink")
+[Category:2017](Category:2017.md "wikilink")
+[Category:2018](Category:2018.md "wikilink")
+[Category:2019](Category:2019.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:Libertarian
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 
 [^1]: <https://www.nytimes.com/2015/09/14/arts/international/luxury-automobiles-on-the-firing-line.html>
 

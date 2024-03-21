@@ -3,7 +3,7 @@ title: Timeline of Anti-Abortion Actions
 permalink: /Timeline_of_Anti-Abortion_Actions/
 ---
 
-A timeline of actions taken to stop [abortion](abortion "wikilink").
+A timeline of actions taken to stop [abortion](abortion.md "wikilink").
 Usually listed as a form of far-right terrorism.
 
 ## 1900s
@@ -18,7 +18,7 @@ Usually listed as a form of far-right terrorism.
 
 ## 2000s
 
-- 2001: Peter James Knight, an [Australian](Australia "wikilink")
+- 2001: Peter James Knight, an [Australian](Australia.md "wikilink")
   anti-abortion activist, walks into an abortion clinic in East
   Melbourne with a rifle, gags, handcuffs and petrol. He shoots and
   kills the security guard and plans to trap everyone in the clinic and
@@ -31,9 +31,9 @@ Usually listed as a form of far-right terrorism.
   alleyway.[^2]
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") - [Peter Knight (anti-abortion
+[^1]: [Wikipedia](Wikipedia.md "wikilink") - [Peter Knight (anti-abortion
     activist)](https://en.wikipedia.org/wiki/Peter_Knight_(anti-abortion_activist))
 
 [^2]: ABC News (2009) - [Arsonists attack Mosman Park medical

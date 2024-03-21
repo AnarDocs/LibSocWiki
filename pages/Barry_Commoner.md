@@ -4,11 +4,11 @@ permalink: /Barry_Commoner/
 ---
 
 **Barry Commoner** (1917 - 2012) was a [cellular
-biologist](Science "wikilink"), [medical researcher](Health "wikilink"),
-[university](university "wikilink") professor, soldier,
-[economist](Economics "wikilink"), [radical
-ecologist](Environmentalism "wikilink") and [libertarian
-socialist](Libertarian_Socialism "wikilink").
+biologist](Science.md "wikilink"), [medical researcher](Health.md "wikilink"),
+[university](university.md "wikilink") professor, soldier,
+[economist](Economics.md "wikilink"), [radical
+ecologist](Environmentalism.md "wikilink") and [libertarian
+socialist](Libertarian_Socialism.md "wikilink").
 
 ## Ideas
 
@@ -27,7 +27,7 @@ unbending laws of ecology which are as follows:
     there is no "away" to which things can be thrown.
 3.  Nature knows best. Humankind has fashioned technology to improve
     upon nature, but such change in a natural system is likely to be
-    detrimental to that [system](Systems_Theory "wikilink").
+    detrimental to that [system](Systems_Theory.md "wikilink").
 4.  There is no such thing as a free lunch. Exploitation of nature will
     inevitably involve the conversion of resources from useful to
     useless forms.
@@ -38,7 +38,7 @@ In 1976, he argued that the three main ills plaguing our society were
 the environment, energy and the economy. These were all interconnected
 issues, the industries that use the most energy have the most negative
 impact on the environment, and the use of scarce [fossil
-fuels](Fossil_Fuel "wikilink") means that prices will be pushed up as
+fuels](Fossil_Fuel.md "wikilink") means that prices will be pushed up as
 more energy is used, hurting the economy.
 
 ## Quotes
@@ -61,11 +61,11 @@ more energy is used, hurting the economy.
 > fibers, that surrounds us with new chemical creations-at fault?"
 
 > "If you ask what you are going to do about [global
-> warming](Climate_Change "wikilink"), the only rational answer is to
+> warming](Climate_Change.md "wikilink"), the only rational answer is to
 > change the way in which we do
-> [transportation](transportation "wikilink"), [energy
-> production](Electricity "wikilink"),
-> [agriculture](agriculture "wikilink") and a good deal of
+> [transportation](transportation.md "wikilink"), [energy
+> production](Electricity.md "wikilink"),
+> [agriculture](agriculture.md "wikilink") and a good deal of
 > manufacturing. The problem originates in human activity in the form of
 > the production of goods."
 
@@ -85,7 +85,7 @@ more energy is used, hurting the economy.
 > automobile, the jet plane, the power plant, industry in general, and
 > indeed the modern city itself-are, in the environment, failures."
 
-> "The [environmental crisis](Ecocide "wikilink") arises from a
+> "The [environmental crisis](Ecocide.md "wikilink") arises from a
 > fundamental fault: our systems of production - in industry,
 > agriculture, energy and transportation - essential as they are, make
 > people sick and die."
@@ -116,7 +116,7 @@ more energy is used, hurting the economy.
 > intrusion on the natural environment."
 
 > "The modern assault on the environment began about 50 years ago,
-> during and immediately after [World War II](World_War_II "wikilink")."
+> during and immediately after [World War II](World_War_II.md "wikilink")."
 
 > "Because the global ecosystem is a connected whole, in which nothing
 > can be gained or lost and which is not subject to over-all
@@ -144,16 +144,16 @@ more energy is used, hurting the economy.
 > activity grew by the simple expedient of removing lead from gasoline -
 > which prevented it from entering the environment."
 
-[Category:Scientists](Category:Scientists "wikilink")
-[Category:Doctors](Category:Doctors "wikilink")
-[Category:Economists](Category:Economists "wikilink")
-[Category:Environmentalists](Category:Environmentalists "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+[Category:Scientists](Category:Scientists.md "wikilink")
+[Category:Doctors](Category:Doctors.md "wikilink")
+[Category:Economists](Category:Economists.md "wikilink")
+[Category:Environmentalists](Category:Environmentalists.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")

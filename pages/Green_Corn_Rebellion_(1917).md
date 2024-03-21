@@ -5,7 +5,7 @@ permalink: /Green_Corn_Rebellion_(1917)/
 
 The **Green Corn Rebellion** was an attempted anti-conscription uprising
 that occurred in 1917 in Seminole County, Oklahoma,
-[USA](United_States_of_America "wikilink"). Several farmers armed
+[USA](United_States_of_America.md "wikilink"). Several farmers armed
 themselves and began to march, only to be stopped by law enforcement
 (who had an informer with the farmers) that led to a shootout that the
 farmers lost and subsequently led to a massive wave of repression of
@@ -15,11 +15,11 @@ left-wing organisations.
 
 Woodrow Wilson had recently became President of the USA and he had
 campaigned on keeping the US out of [World War
-I](World_War_I "wikilink"), which he went back on very quickly.
+I](World_War_I.md "wikilink"), which he went back on very quickly.
 Conscription angered many, and the opposition was led by the radical
 left, notably the [Socialist Party of
-America](Socialist_Party_of_America "wikilink") and [Industrial Workers
-of the World](Industrial_Workers_of_the_World "wikilink").
+America](Socialist_Party_of_America.md "wikilink") and [Industrial Workers
+of the World](Industrial_Workers_of_the_World.md "wikilink").
 
 On July 20, 1917, a blindfolded Newton D. Baker, the Wilson
 administration's Secretary of War, drew numbers choosing certain

@@ -4,8 +4,8 @@ permalink: /Namibia/
 ---
 
 **Namibia** (officially the **Republic of Namibia**) is a
-[liberal](Liberalism "wikilink") capitalist
-[state](List_of_States "wikilink") located in Southwest Africa, it
-borders [South Africa](South_Africa "wikilink"),
-[Botswana](Botswana "wikilink"), [Zimbabwe](Zimbabwe "wikilink"),
-[Zambia](Zambia "wikilink") and [Angola](Angola "wikilink").
+[liberal](Liberalism.md "wikilink") capitalist
+[state](List_of_States.md "wikilink") located in Southwest Africa, it
+borders [South Africa](South_Africa.md "wikilink"),
+[Botswana](Botswana.md "wikilink"), [Zimbabwe](Zimbabwe.md "wikilink"),
+[Zambia](Zambia.md "wikilink") and [Angola](Angola.md "wikilink").

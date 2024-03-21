@@ -3,16 +3,16 @@ title: Estonia
 permalink: /Estonia/
 ---
 
-**Estonia** is a [liberal](Liberalism "wikilink")
-[capitalist](Capitalism "wikilink") [state](List_of_States "wikilink")
-in Eastern Europe near [Finland](Finland "wikilink"),
-[Russia](Russia "wikilink") and [Latvia](Latvia "wikilink").
+**Estonia** is a [liberal](Liberalism.md "wikilink")
+[capitalist](Capitalism.md "wikilink") [state](List_of_States.md "wikilink")
+in Eastern Europe near [Finland](Finland.md "wikilink"),
+[Russia](Russia.md "wikilink") and [Latvia](Latvia.md "wikilink").
 
 ## History
 
 Estonia has been inhabited for around 11,000 years, with Ancient
 Estonians being some of the last Europeans to adopt
-[Christianity](Christianity "wikilink"). After centuries of successive
+[Christianity](Christianity.md "wikilink"). After centuries of successive
 rule by Germans, Danes, Swedes, Poles and Russians, a distinct Estonian
 national identity began to emerge in the 19th and early 20th centuries.
 This culminated in independence from Russia in 1920 after a brief War of
@@ -26,7 +26,7 @@ diplomatic representatives and the government-in-exile. In 1987 the
 peaceful Singing Revolution began against Soviet rule, resulting in the
 restoration of *de facto* independence on 20 August 1991. Since then,
 Estonia has developed into a technologically advanced, socially
-progressive [social democracy](Social_Democracy "wikilink").
+progressive [social democracy](Social_Democracy.md "wikilink").
 
 ## Positives
 
@@ -70,23 +70,23 @@ progressive [social democracy](Social_Democracy "wikilink").
 ## Major Social Struggles
 
 - 2012: [Estonian Health Worker
-  Strike](Estonian_Health_Worker_Strike_(2012) "wikilink")
+  Strike](Estonian_Health_Worker_Strike_(2012).md "wikilink")
 
 ## References
 
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Estonia](Category:Estonia "wikilink") [Category:Eastern
-Europe](Category:Eastern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:States](Category:States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Estonia](Category:Estonia.md "wikilink") [Category:Eastern
+Europe](Category:Eastern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink")
 
 [^1]: <https://www.jacobinmag.com/2018/08/public-transportation-brussels-free-tickets?fbclid=IwAR0PIf4V3xfb2pBW_WO6ncXMldnyJ6Q7WDTaGM-TX_n9jsnbwrvgCcCwFnM>
 
 [^2]: <https://www.wired.co.uk/article/digital-estonia>
 
-[^3]: [Wikipedia](Wikipedia "wikilink") -
+[^3]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Human_rights_in_Estonia>

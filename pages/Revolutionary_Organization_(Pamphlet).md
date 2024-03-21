@@ -4,12 +4,12 @@ permalink: /Revolutionary_Organization_(Pamphlet)/
 ---
 
 **Revolutionary Organization** is a 1961 leaflet written by [Chris
-Pallis](Chris_Pallis "wikilink") and published by
-[Agitator](Agitator_(UK_Magazine) "wikilink") and
-[Solidarity](Solidarity_(UK_Magazine) "wikilink"). It is a short
+Pallis](Chris_Pallis.md "wikilink") and published by
+[Agitator](Agitator_(UK_Magazine).md "wikilink") and
+[Solidarity](Solidarity_(UK_Magazine).md "wikilink"). It is a short
 critique of lefts authoritarianism and argues for an alternative rooted
 in direct democracy. The first section, 'What is not to be done' is a
-parody of [Lenin's](Vladimir_Lenin "wikilink") pamphlet 'What is to be
+parody of [Lenin's](Vladimir_Lenin.md "wikilink") pamphlet 'What is to be
 done?'
 
 ## Transcript
@@ -28,11 +28,11 @@ their own grandads.
 
 We here wish to examine one of the most fervently adhered to dogmas of
 the "Left": the need for a [tightly centralized socialist
-party](Vanguard_Party "wikilink"), controlled by a carefully selected
-leadership. The [Labour Party](Labour_Party_(UK) "wikilink") describes
+party](Vanguard_Party.md "wikilink"), controlled by a carefully selected
+leadership. The [Labour Party](Labour_Party_(UK).md "wikilink") describes
 this type of organization as an essential feature of British democracy
-in practice. The [Bolsheviks](Bolsheviks "wikilink") describe it as a
-"[democratic centralism](Democratic_Centralism "wikilink")". Let us
+in practice. The [Bolsheviks](Bolsheviks.md "wikilink") describe it as a
+"[democratic centralism](Democratic_Centralism.md "wikilink")". Let us
 forget the names and look below the surface. In both cases we find the
 complete domination of the party in all matters of organization and
 policy by a fairly small group of professional "leaders".
@@ -41,7 +41,7 @@ As none of these parties has ever been successful in achieving a society
 where the great mass of people control and manage their own destinies,
 both their politics and their organizational methods must be considered
 suspect. It is our opinion that the type of organization required to
-assist the [working class](Working_Class "wikilink") in its struggle for
+assist the [working class](Working_Class.md "wikilink") in its struggle for
 socialism is certainly a matter for serious thought.
 
 Post-war capitalism has certainly provided more jobs and better paid
@@ -50,14 +50,14 @@ people to the process of production has intensified at an enormous rate.
 At work, people are reduced more and more to the role of button-pushing
 lever-pressing machines. In the "ideal" capitalist factory human beings
 would perform only the most simple, routine tasks. The [division of
-labour](Division_of_Labour "wikilink") would be carried to its extreme.
-[Managers](Boss "wikilink") would decide. Foremen would supervise. The
+labour](Division_of_Labour.md "wikilink") would be carried to its extreme.
+[Managers](Boss.md "wikilink") would decide. Foremen would supervise. The
 workers only comply.
 
 In the body politic, omnipotent social institutions similarly decide all
 issues: how much production will be "allowed" to increase or decrease,
 how much consumption, what kind of consumption, how many
-[H-bombs](Nuclear_Weapons "wikilink") to produce, whether to have
+[H-bombs](Nuclear_Weapons.md "wikilink") to produce, whether to have
 Polaris bases or not, etc., etc. Between those who rule and those who
 labour there exists a wide and unbridgeable gulf.
 
@@ -90,7 +90,7 @@ elimination of economic anarchy and the full development of the
 productive forces are somehow equated with the millennium.
 
 Labour's nationalized industries are proof of the attitude of the
-[Social Democrats](Social_Democracy "wikilink"). The Bolsheviks would
+[Social Democrats](Social_Democracy.md "wikilink"). The Bolsheviks would
 replace the Robertsons and Robens with people loyal to the Party. The
 Soviet experience makes this quite clear. As early as 1918 Lenin had
 stated "the Revolution demands, in the interests of socialism, that the
@@ -110,7 +110,7 @@ questions of management".[^3]
 
 None of them argued for the [working people themselves managing and
 organizing industry and the affairs of
-society](Workers'_Self-Management "wikilink"), now. That was a carrot to
+society](Workers'_Self-Management.md "wikilink"), now. That was a carrot to
 be nibbled in a distant future.
 
 This conception of socialism spawns the bureaucratic parties that today
@@ -120,9 +120,9 @@ experts. Gaitskell scorns the Scarborough decisions because they were
 made by people whom he considers to be intellectually incapable of
 comprehending matters of international importance. The Communist Party
 and the Socialist Labour League oppose British
-[H-bombs](Nuclear_Weapons "wikilink") but support Russian ones. Their
+[H-bombs](Nuclear_Weapons.md "wikilink") but support Russian ones. Their
 leaders consider the millions of people [who want to end *all*
-H-bombs](Peace_Movement "wikilink") as being sentimental and uninformed.
+H-bombs](Peace_Movement.md "wikilink") as being sentimental and uninformed.
 They have obviously not read the appropriate volumes that would
 "clarify" them and make them see how essential Russian bombs really are.
 
@@ -165,7 +165,7 @@ for its insensitiveness, brutality and other moronic qualities.
 
 The very structure of these organizations ensures that their personnel
 do not think for themselves, but unquestionably carry out the
-instructions of their superiors. [Trotsky](Leon_Trotsky "wikilink"), as
+instructions of their superiors. [Trotsky](Leon_Trotsky.md "wikilink"), as
 far back as 1903, believed that the Marxist movement should have a
 similar structure. He told the Brussels Conference that the statutes of
 the revolutionary organization should express "the leadership's
@@ -182,13 +182,13 @@ unquestioningly the instruction of an all-wise Central Committee will
 find it very difficult or impossible to think and act for themselves.
 The experiences of the German Communist Party confirm this. With their
 usual inconsistency, the Trotskyists even explain the demise of their
-Western European sections during [World War II](World_War_II "wikilink")
+Western European sections during [World War II](World_War_II.md "wikilink")
 by telling people how their leaders were murdered by the Gestapo!
 
 The overthrow of exploiting society is not a military operation to be
 planned by a secretariat of amateur generals, armed with a library of
 Marxist textbooks and an outdated military manual. A [social
-revolution](Social_Revolution "wikilink") can only take place providing
+revolution](Social_Revolution.md "wikilink") can only take place providing
 the working class itself is conscious of the need to change society and
 is prepared to struggle. Its success is dependent on the disintegration
 of the capitalist institutions more than on their military overthrow.
@@ -199,14 +199,14 @@ Because of their basically reactionary ideas and methods of organization
 neither social democracy nor Bolshevism are able to understand or
 express the real needs of people. The dynamic of any socialist movement
 is the desire of people to change the conditions of their lives. The
-[Hungarian Revolution](Second_Hungarian_Revolution "wikilink") was more
+[Hungarian Revolution](Second_Hungarian_Revolution.md "wikilink") was more
 than a struggle for an extra ten bob a week. It was not a struggle for
 an extension of nationalization or for more "efficiency" in Government
 departments. Millions of Hungarian people rose against their oppressors
 because *they* wanted to determine the conditions of their own lives and
 to manage their own affairs. For a brief, heroic period they replaced
 the society of rulers and ruled with [direct
-democracy](Democratic_Assembly "wikilink"), where every representative
+democracy](Democratic_Assembly.md "wikilink"), where every representative
 was not only elected by direct vote but was revocable at any time. The
 ideas of committees appointed from above and of "panels' commissions"
 would have been quite alien to them. Surely political tendencies whose
@@ -219,7 +219,7 @@ their ideas and previously held theories.
 All the ruling groups in modern society encourage the belief that
 decision taking and management are functions beyond the comprehension of
 ordinary people. All means are used to foster this idea. Not only do
-[formal education](Prussian_Education "wikilink"), the press, the radio,
+[formal education](Prussian_Education.md "wikilink"), the press, the radio,
 television and the church perpetuate this myth, but even the parties of
 the so-called opposition accept it and, in so doing, lend it strength.
 All the political parties of the "left" - whether social democratic or
@@ -230,12 +230,12 @@ than those who mismanage the world today.
 All of them, bourgeois and "radicals" alike, distort the history of the
 working class and attempt to draw a discreet veil over the immense
 creative initiative of the masses in struggle. For the bourgeois, the
-[Russian revolution](October_Revolution_(Russia) "wikilink") was the
+[Russian revolution](October_Revolution_(Russia).md "wikilink") was the
 conspiracy of organized fanaticism. To Stalinists and Trotskyists, it is
 the justification for their right to lead. For the bourgeois, the
 Hungarian Revolution of 1956 showed how capitalist rulers were better
 than Stalinist ones. For the Stalinists, it was a
-[fascist](Fascism "wikilink") conspiracy. The Trotskyists wrote
+[fascist](Fascism.md "wikilink") conspiracy. The Trotskyists wrote
 pamphlets showing how badly the Hungarians needed their own services.
 Over every revolution and struggle the parties compete in the squalid
 business of seeking to justify both themselves and their dogmas. They
@@ -247,9 +247,9 @@ interpretations.
 
 It is now almost impossible to learn what actually happened in [Italy
 during the early 1920s when the workers occupied and managed the
-factories](Bienno_Rosso "wikilink"). The [Asturian Commune of
-1934](Asturian_Uprising_(1934) "wikilink"), the [May Days in Barcelona
-in 1937](May_Days_(1937) "wikilink"), the sit-down strikes in France and
+factories](Bienno_Rosso.md "wikilink"). The [Asturian Commune of
+1934](Asturian_Uprising_(1934).md "wikilink"), the [May Days in Barcelona
+in 1937](May_Days_(1937).md "wikilink"), the sit-down strikes in France and
 the U.S.A. during the late thirties and the events of Budapest in 1956
 have become closed books.
 
@@ -339,14 +339,14 @@ professional revolutionaries to *plan* the strategy, *organize* the
 taking of power and take all the decisions for the instituting of the
 "socialist" society. Lenin, the firmest advocate of this reformist and
 reactionary idea which was borrowed from
-[Kautsky](Karl_Kautsky "wikilink")[^6] went so far as to applaud the
+[Kautsky](Karl_Kautsky.md "wikilink")[^6] went so far as to applaud the
 Webbs' ironical and scornful comments about the attempts of the British
 workers to manage their own trade unions.[^7]
 
 We completely reject this idea. First, because it attempts to impose
 upon workers a relationship to "their" leadership which is a replica of
 the relation already existing under capitalism. The effect would only be
-to create apathy and the [alienation](alienation "wikilink") of the
+to create apathy and the [alienation](alienation.md "wikilink") of the
 masses - conditions which powerfully assist the growth of
 decision-taking groups, which rapidly assume increasing managerial
 functions and which however "well-intentioned" originally, rapidly start
@@ -367,14 +367,14 @@ production - which is the basis of all social life - as *they* think
 best.
 
 During the Hungarian Revolution of 1956 the [Workers'
-Councils](Workers'_Council "wikilink") demanded drastic reductions in
+Councils](Workers'_Council.md "wikilink") demanded drastic reductions in
 wage differentials, called for the abolition of piecework and introduced
 workers' management of industry. These organizations of political and
 industrial rule - far more important than the Nagy government - were
 based on elected and immediately revocable delegates.
 
 The Hungarian Revolution followed the tradition first established by the
-[Commune of 1871](Paris_Commune "wikilink"). But the aims of the
+[Commune of 1871](Paris_Commune.md "wikilink"). But the aims of the
 Hungarian workers went further than those of any previous revolution. In
 the anti-bureaucratic nature of their demands the Hungarian workers
 showed that they were fighting for something which will become the
@@ -599,12 +599,12 @@ are dependent on workers agreeing with them.
 
 - [Revolutionary
   Organization](https://www.marxists.org/archive/brinton/1961/05/organization.htm)
-  at [marxists.org](marxists.org "wikilink")
+  at [marxists.org](marxists.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Chris
-Pallis](Category:Chris_Pallis "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Chris
+Pallis](Category:Chris_Pallis.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink")
 
 [^1]: *["The immediate tasks of the Soviet
     government"](https://www.marxists.org/archive/lenin/works/1918/mar/x03.htm)*,
@@ -620,7 +620,7 @@ Pallis](Category:Chris_Pallis "wikilink")
 [^4]: See Isaac Deutscher, *The Prophet Armed*, p. 76.
 
 [^5]: V. I. Lenin, *[What Is To Be
-    Done?](What_Is_To_Be_Done?_(Book) "wikilink")* (London: Lawrence and
+    Done?](What_Is_To_Be_Done?_(Book).md "wikilink")* (London: Lawrence and
     Wishart, 1944), p. 33.
 
 [^6]: In *Neue Zeit*, 1901 -1902, XX, No.3, p. 79, Kautsky wrote: "...

@@ -4,9 +4,9 @@ permalink: /Prussian_Education/
 ---
 
 **Prussian Education** or **Forced Schooling** refers to an ideal of
-[education](education "wikilink") that stands in stark contrast to
+[education](education.md "wikilink") that stands in stark contrast to
 democratic education. Prussian Education developed out of what is now
-[Germany](Germany "wikilink") in the late 18th century and argues that
+[Germany](Germany.md "wikilink") in the late 18th century and argues that
 students should be subject to a strict timetable, curriculum and
 lecture-style classrooms. Students are subjected to constant monitoring
 and their progress is logged mathematically and 'graded', doling out
@@ -15,7 +15,7 @@ rewards to students.
 The strongest critics of Prussian Education argue that it constitutes
 indoctrination towards the worship of authority figures and often
 engages in historical whitewashing (or denialism) to make the
-[state](State_(Polity) "wikilink") look better. Others acknowledge these
+[state](State_(Polity).md "wikilink") look better. Others acknowledge these
 criticisms as valid, but recognise the role these schools have in
 preventing children being forced into harsh working conditions and
 occasionally helping against poverty.
@@ -31,7 +31,7 @@ please edit.*
 
 ### Inefficiency
 
-Compared to [democratic education](Democratic_Education "wikilink"),
+Compared to [democratic education](Democratic_Education.md "wikilink"),
 prussian education also has inferior outcomes in terms of student
 academic achievement, student critical thinking skills and student
 happiness.
@@ -60,15 +60,15 @@ Schools frequently instill feelings of guilt into students.
 
 Forced Schooling played a strong role in wiping out indigenous cultures
 in order to eliminate the ability of these cultures to [socially
-reproduce](Social_Reproduction "wikilink") [reverse dominance
-hierarchies](Reverse_Dominance_Hierarchy "wikilink") in order to aid the
-military objectives of [colonialism](colonialism "wikilink"). This is
+reproduce](Social_Reproduction.md "wikilink") [reverse dominance
+hierarchies](Reverse_Dominance_Hierarchy.md "wikilink") in order to aid the
+military objectives of [colonialism](colonialism.md "wikilink"). This is
 done by wiping out language, kinship, family ties, cultural knowledge,
 history and other traditions. Examples of this include the Stolen
-Generations in [Australia](Stolen_Generation_(Australia) "wikilink") and
-[New Zealand](Stolen_Generation_(New_Zealand) "wikilink") as well as
-Residential Schools in the [USA](Residential_Schools_(USA) "wikilink"),
-Mexico and [Canada](Residential_Schools_(Canada) "wikilink"). In
+Generations in [Australia](Stolen_Generation_(Australia).md "wikilink") and
+[New Zealand](Stolen_Generation_(New_Zealand).md "wikilink") as well as
+Residential Schools in the [USA](Residential_Schools_(USA).md "wikilink"),
+Mexico and [Canada](Residential_Schools_(Canada).md "wikilink"). In
 addition to the rampant verbal, emotional, physical and sexual abuse
 that occurred in these institutions. Many psychologists believe the
 forced assimilation of native cultures has contributed to their high
@@ -76,9 +76,9 @@ suicide rates and poverty.[^1]
 
 ### Statism
 
-According to [Peter Gelderloos](Peter_Gelderloos "wikilink"):
+According to [Peter Gelderloos](Peter_Gelderloos.md "wikilink"):
 
-> [Anticapitalists](Anti-Capitalism "wikilink") will often insist that
+> [Anticapitalists](Anti-Capitalism.md "wikilink") will often insist that
 > the purpose of public education is to prepare workers. This is
 > balderdash, a perfect example of dogma obviating reality. The vast
 > majority of the lesson plan, once a pupil is literate and knows the
@@ -98,14 +98,14 @@ According to [Peter Gelderloos](Peter_Gelderloos "wikilink"):
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Education](Category:Education "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Education](Category:Education.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/Indigenous_education#Criticisms_of_the_Western_educational_model>
 
-[^2]: [Peter Gelderloos](Peter_Gelderloos "wikilink") - [Worshiping
+[^2]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") - [Worshiping
     Power: An Anarchist History of Early State
-    Formation](Worshiping_Power_(Book) "wikilink") (2017): Zomia: A
+    Formation](Worshiping_Power_(Book).md "wikilink") (2017): Zomia: A
     Topography of Positionality

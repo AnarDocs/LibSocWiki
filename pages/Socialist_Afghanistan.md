@@ -5,23 +5,23 @@ permalink: /Socialist_Afghanistan/
 
 **Socialist Afghanistan**, officially the **Democratic Republic of
 Afghanistan** refers to a period of the history of
-[Afghanistan](Afghanistan "wikilink") (1978 - 1992) in which the country
+[Afghanistan](Afghanistan.md "wikilink") (1978 - 1992) in which the country
 was run in an [authoritarian
-socialist](Authoritarian_Socialism "wikilink") manner (specifically
-[Marxist-Leninist](Marxist-Leninism "wikilink")). The government
+socialist](Authoritarian_Socialism.md "wikilink") manner (specifically
+[Marxist-Leninist](Marxist-Leninism.md "wikilink")). The government
 struggled massively with a civil war against
-[US-backed](Timeline_of_US_Hegemony "wikilink")
-[far-right](Right-Wing_Politics "wikilink")
-[Islamist](Islamism "wikilink") groups and [Maoists](Maoism "wikilink").
+[US-backed](Timeline_of_US_Hegemony.md "wikilink")
+[far-right](Right-Wing_Politics.md "wikilink")
+[Islamist](Islamism.md "wikilink") groups and [Maoists](Maoism.md "wikilink").
 
 ## Analysis
 
 ### Positives
 
 - The major positive action of socialist Afghanistan was the [expansion
-  of women's rights](Feminism "wikilink"). Forced marriages were banned,
+  of women's rights](Feminism.md "wikilink"). Forced marriages were banned,
   women and girls were encouraged to work and get an education and legal
-  equality between the [sexes](Sex_(Biology) "wikilink") was introduced.
+  equality between the [sexes](Sex_(Biology).md "wikilink") was introduced.
   Numerous women also held high positions in the Afghani government.
 
 ### Negatives
@@ -39,7 +39,7 @@ struggled massively with a civil war against
 - Despite widespread literacy campaigns, the government failed to reduce
   illiteracy by much, in contrast to most other socialist societies.
 - The government created a new climate of repression that even alarmed
-  the [USSR](USSR "wikilink").
+  the [USSR](USSR.md "wikilink").
 - The government suffered a massive amount of infighting and debate
   between moderates and radicals.
 
@@ -50,31 +50,31 @@ struggled massively with a civil war against
   counter-revolutionaries and imperialist aggression. Even with the help
   of the USSR, the government failed to stop the counter-revolution,
   [with disastrous results for the people of
-  Afghanistan](Afghani_Civil_War_(1978_-_Present) "wikilink").
+  Afghanistan](Afghani_Civil_War_(1978_-_Present).md "wikilink").
 - Central planning is not necessarily good at managing a wartime
   economy, [especially in contrast to other wartime experiments of
   libertarian socialism which even saw living standards
-  improve](Revolutionary_Spain "wikilink").
+  improve](Revolutionary_Spain.md "wikilink").
 - Land reform done by authoritarian socialists is a disaster.
 
 ## Major Social Struggles
 
-- 1979: [Herat Uprising](Herat_Uprising_(1979) "wikilink")
-- 1979: [Bala Hissar Uprising](Bala_Hissar_Uprising_(1979) "wikilink")
+- 1979: [Herat Uprising](Herat_Uprising_(1979).md "wikilink")
+- 1979: [Bala Hissar Uprising](Bala_Hissar_Uprising_(1979).md "wikilink")
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Democratic Republic of
+[Wikipedia](Wikipedia.md "wikilink") - [Democratic Republic of
 Afghanistan](https://en.wikipedia.org/wiki/Democratic_Republic_of_Afghanistan)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Authoritarian
-Socialism](Category:Authoritarian_Socialism "wikilink")
-[Category:Western Asia](Category:Western_Asia "wikilink")
-[Category:Asia](Category:Asia "wikilink")
-[Category:1980s](Category:1980s "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
-[Category:Marxist-Leninism](Category:Marxist-Leninism "wikilink")
+Socialism](Category:Authoritarian_Socialism.md "wikilink")
+[Category:Western Asia](Category:Western_Asia.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")
+[Category:Marxist-Leninism](Category:Marxist-Leninism.md "wikilink")

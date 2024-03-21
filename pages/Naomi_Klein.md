@@ -5,29 +5,29 @@ permalink: /Naomi_Klein/
 
 **Naomi Klein** is a professor, journalist, filmmaker and author known
 for her roles in the [Global Justice
-Movement](Global_Justice_Movement "wikilink") and [Occupy
-Movement](Occupy_Movement "wikilink"). Her works focus on criticism of
-[corporations](Corporation "wikilink"),
-[neoliberalism](neoliberalism "wikilink"),
-[advertising](advertising "wikilink") as well as discussions around
-[environmentalism](environmentalism "wikilink") and [workplace
-democracy](Workers'_Self-Management "wikilink").
+Movement](Global_Justice_Movement.md "wikilink") and [Occupy
+Movement](Occupy_Movement.md "wikilink"). Her works focus on criticism of
+[corporations](Corporation.md "wikilink"),
+[neoliberalism](neoliberalism.md "wikilink"),
+[advertising](advertising.md "wikilink") as well as discussions around
+[environmentalism](environmentalism.md "wikilink") and [workplace
+democracy](Workers'_Self-Management.md "wikilink").
 
 ## Life
 
 ### Family
 
-Naomi's family is of [German](Federal_Republic_of_Germany "wikilink")
+Naomi's family is of [German](Federal_Republic_of_Germany.md "wikilink")
 Jewish heritage, and her grandparents were outspoken
-[communists](Communism "wikilink") with a strong interest in [racial
-equality](Anti-Racism "wikilink"). Her mother was a documentary
-filmmaker with a strong focus on [feminism](feminism "wikilink"), and
+[communists](Communism.md "wikilink") with a strong interest in [racial
+equality](Anti-Racism.md "wikilink"). Her mother was a documentary
+filmmaker with a strong focus on [feminism](feminism.md "wikilink"), and
 her father was a doctor, both of whom described themselves as
-[hippies](Hippy_Movement "wikilink"). They both grew up in the
-[USA](United_States_of_America "wikilink") (In Newark and Philadelphia)
-but moved to Montreal, [Canada](Canada "wikilink") in 1967 to avoid the
-[draft](Conscription "wikilink") for the [Vietnam
-War](Vietnam_War "wikilink").
+[hippies](Hippy_Movement.md "wikilink"). They both grew up in the
+[USA](United_States_of_America.md "wikilink") (In Newark and Philadelphia)
+but moved to Montreal, [Canada](Canada.md "wikilink") in 1967 to avoid the
+[draft](Conscription.md "wikilink") for the [Vietnam
+War](Vietnam_War.md "wikilink").
 
 ### Early Life
 
@@ -68,10 +68,10 @@ Naomi developed an interested in politics for two reasons:
 - The Battle for Paradise: Puerto Rico Takes on the Disaster Capitalists
   (2018)
 
-[Category:Canada](Category:Canada "wikilink") [Category:North
-America](Category:North_America "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
-[Category:Feminism](Category:Feminism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Environmentalists](Category:Environmentalists "wikilink")
+[Category:Canada](Category:Canada.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Environmentalists](Category:Environmentalists.md "wikilink")

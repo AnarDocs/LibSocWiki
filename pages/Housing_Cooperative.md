@@ -4,22 +4,22 @@ permalink: /Housing_Cooperative/
 ---
 
 **Housing Cooperatives** are buildings and real estate owned and
-collectively managed by its [tenants](Tenant "wikilink") without a
-[landlord](landlord "wikilink"), often within the context of a
-[capitalist](Capitalism "wikilink") economy.
+collectively managed by its [tenants](Tenant.md "wikilink") without a
+[landlord](landlord.md "wikilink"), often within the context of a
+[capitalist](Capitalism.md "wikilink") economy.
 
 ## Research on Housing Cooperatives
 
-Research from Toronto, [Canada](Canada "wikilink") found that housing
+Research from Toronto, [Canada](Canada.md "wikilink") found that housing
 cooperatives had residents rate themselves as having the highest quality
 of life and housing satisfaction of any housing organisation in the
 city.[^1] Other research among older residents from rural
-[USA](United_States_of_America "wikilink") found that those living in
+[USA](United_States_of_America.md "wikilink") found that those living in
 housing cooperatives felt much safer, independent, satisfied with life,
 had more friends, had more privacy, were healthier and had things
 repaired faster.[^2]
 
-[Australian](Australia "wikilink") researchers found that cooperative
+[Australian](Australia.md "wikilink") researchers found that cooperative
 housing built stronger social networks and support, as well as better
 relationships with neighbours compared to other forms of housing. They
 cost 14% less for residents and had lower rates of debt and vacancy.
@@ -33,9 +33,9 @@ lower costs compared to conventional housing.[^3]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Cooperatives](Category:Cooperatives "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Cooperatives](Category:Cooperatives.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
 
 [^1]: ~ Matthew Cooper and Margaret C. Rodman (1994) - [Accessibility
     and Quality of Life in Housing

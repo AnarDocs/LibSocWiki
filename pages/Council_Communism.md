@@ -4,13 +4,13 @@ permalink: /Council_Communism/
 ---
 
 **Council Communism**or **Councilism**is a [libertarian
-marxist](Libertarian_Marxism "wikilink") philosophy that developed after
-the [Russian Revolution](October_Revolution_(Russia) "wikilink") and the
-[German Revolution](German_Revolution "wikilink"). It believes that
+marxist](Libertarian_Marxism.md "wikilink") philosophy that developed after
+the [Russian Revolution](October_Revolution_(Russia).md "wikilink") and the
+[German Revolution](German_Revolution.md "wikilink"). It believes that
 workers' councils are the only effective way to establish a communist
 society. Council Communism frequently overlaps with
-[anarcho-syndicalism](Anarcho-Syndicalism "wikilink"), but retains a
-strong connection to [marxism](marxism "wikilink").
+[anarcho-syndicalism](Anarcho-Syndicalism.md "wikilink"), but retains a
+strong connection to [marxism](marxism.md "wikilink").
 
 ## Steps
 
@@ -43,7 +43,7 @@ council communism:
 
 ## Notable Council Communists
 
-- [Anton Pannekoek](Anton_Pannekoek "wikilink")
+- [Anton Pannekoek](Anton_Pannekoek.md "wikilink")
 - Bernhard Reichenbach
 - Ernst Schwarz
 - Gerd Arntz
@@ -53,16 +53,16 @@ council communism:
 - Jan Appel
 - Karl Schröder
 - Marinus van der Lubbe
-- [Ngô Văn Xuyet](Ngô_Văn_Xuyet "wikilink")
+- [Ngô Văn Xuyet](Ngô_Văn_Xuyet.md "wikilink")
 - Otto Rühle
-- [Paul Mattick](Paul_Mattick "wikilink")
+- [Paul Mattick](Paul_Mattick.md "wikilink")
 - Paul Mattick Jr.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Libertarian Marxism](Category:Libertarian_Marxism "wikilink")
-[Category:Council Communism](Category:Council_Communism "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Libertarian Marxism](Category:Libertarian_Marxism.md "wikilink")
+[Category:Council Communism](Category:Council_Communism.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink")

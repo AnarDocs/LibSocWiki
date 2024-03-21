@@ -4,12 +4,12 @@ permalink: /Noam_Chomsky/
 ---
 
 **Avram Noam Chomsky** (1928) is a linguist, [cognitive
-scientist](Science "wikilink"), historian, philosopher and
-[anarcho-syndicalist](Anarcho-Syndicalism "wikilink") activist who has
+scientist](Science.md "wikilink"), historian, philosopher and
+[anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink") activist who has
 focused on criticism of [US foreign
-policy](US_Foreign_Policy "wikilink"), the [mass
-media](Mass_Media "wikilink") and
-[corporations](corporations "wikilink").
+policy](US_Foreign_Policy.md "wikilink"), the [mass
+media](Mass_Media.md "wikilink") and
+[corporations](corporations.md "wikilink").
 
 ## Life
 
@@ -18,14 +18,14 @@ media](Mass_Media "wikilink") and
 Noam's parents were immigrants to the USA from Eastern Europe, his
 mother, Elsie Simonofsky, came from Belarus in 1906. Whilst his father,
 William Chomsky, left Ukraine for the USA in 1913 and became an
-[IWW](Industrial_Workers_of_the_World "wikilink") member at some
+[IWW](Industrial_Workers_of_the_World.md "wikilink") member at some
 point.[^1]
 
 ### Early Life
 
 Chomsky has been described as very competitive and educated as a child.
 He was raised Jewish, being taught Hebrew and regulary discussing
-[Zionism](Zionism "wikilink"), influenced by the Left Zionist Ahad
+[Zionism](Zionism.md "wikilink"), influenced by the Left Zionist Ahad
 Ha'am. As a Jew, Chomsky faced anti-semitism as a child, particularly
 from the Irish and German communities living in Philadelphia.
 
@@ -35,10 +35,10 @@ from the Irish and German communities living in Philadelphia.
 
 ### Propaganda Model
 
-*See Also: [Propaganda Model](Propaganda_Model "wikilink")*
+*See Also: [Propaganda Model](Propaganda_Model.md "wikilink")*
 
-Noam Chomsky and [Edward Herman](Edward_Herman "wikilink") analyzed
-western [media](media "wikilink") output throughout the 1980s and came
+Noam Chomsky and [Edward Herman](Edward_Herman.md "wikilink") analyzed
+western [media](media.md "wikilink") output throughout the 1980s and came
 to the conclusion that five main factors were behind media biases
 towards a pro-corporate, pro-state outlook on the world.
 
@@ -69,19 +69,19 @@ alternative to them.ist.
 
 <references />
 
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism "wikilink")
-[Category:Anarcho-Syndicalists](Category:Anarcho-Syndicalists "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarcho-Syndicalism](Category:Anarcho-Syndicalism.md "wikilink")
+[Category:Anarcho-Syndicalists](Category:Anarcho-Syndicalists.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:Philosophers](Category:Philosophers "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:Philosophers](Category:Philosophers.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/William_Chomsky>

@@ -4,15 +4,15 @@ permalink: /British_Miners'_Strike_(1972)/
 ---
 
 The **British Miners' Strike of 1972** was a nationwide (although not
-[general](General_Strike "wikilink"))
-[strike](List_of_Strikes "wikilink") by coal miners across the [United
-Kingdom](United_Kingdom "wikilink") in protest of low wages.
+[general](General_Strike.md "wikilink"))
+[strike](List_of_Strikes.md "wikilink") by coal miners across the [United
+Kingdom](United_Kingdom.md "wikilink") in protest of low wages.
 
 ## Background
 
 The strike occurred after wage negotiations between the unions and coal
 industry had broken down. It was the first time since
-[1926](British_General_Strike_(1926) "wikilink") that British miners had
+[1926](British_General_Strike_(1926).md "wikilink") that British miners had
 officially gone on strike (although there had been unofficial strikes,
 as recently as 1969). Additionally, job security had been undermined as
 coal mines were shut down throughout the 1960s.
@@ -20,7 +20,7 @@ coal mines were shut down throughout the 1960s.
 ## Events
 
 The strike began in early January, with miners sending
-[pickets](Picketing "wikilink") across their mines and asking for
+[pickets](Picketing.md "wikilink") across their mines and asking for
 solidarity strikes (which railworkers and power station workers agreed
 to). Power shortages emerged, and a state of emergency was declared on 9
 February, after the weather had turned cold unexpectedly and voltage had

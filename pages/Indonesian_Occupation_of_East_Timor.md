@@ -49,7 +49,7 @@ shocks, beatings, forced ingestion of urine and feces,
 ### Australia
 
 Starting under the most [left-wing
-government](Whitlam_Government "wikilink") in Australian history,
+government](Whitlam_Government.md "wikilink") in Australian history,
 Australia became the most enthusiastic supporter of Indonesia's
 occupation internationally. Australia signed a deal with Indonesia to be
 allowed to exploit East Timor's oil reserves and ignored Indonesia's
@@ -59,8 +59,8 @@ Australia were arrested and the radios destroyed. Every single
 government in Australia, both Labor and Liberal, enthusiastically
 supported the occupation in the name of 'stability' and 'security',
 despite mass protests by Australians, including Australian [World War
-II](World_War_II "wikilink") veterans who fought alongside East Timorese
-against the [Japanese Empire](Japanese_Empire "wikilink"). To this day,
+II](World_War_II.md "wikilink") veterans who fought alongside East Timorese
+against the [Japanese Empire](Japanese_Empire.md "wikilink"). To this day,
 the Australian government has refused to investigate the death of
 Australian journalists (despite saying they would) and has not issued
 any kind of apology to the people of East Timor, nor arrested any of
@@ -103,17 +103,17 @@ took part in UN-brokered mediations with Indonesia.<sup>\[220\]</sup>
 
 [Indonesian Occupation of East
 Timor](https://en.wikipedia.org/wiki/Indonesian_occupation_of_East_Timor) -
-[Wikipedia](Wikipedia "wikilink")
+[Wikipedia](Wikipedia.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:East
-Timor](Category:East_Timor "wikilink") [Category:Crimes Against
-Humanity](Category:Crimes_Against_Humanity "wikilink")
-[Category:Indonesia](Category:Indonesia "wikilink") [Category:New Order
-(Indonesia)](Category:New_Order_(Indonesia) "wikilink")
-[Category:1975](Category:1975 "wikilink")
-[Category:1970s](Category:1970s "wikilink")
-[Category:1980s](Category:1980s "wikilink")
-[Category:1999](Category:1999 "wikilink")
-[Category:1990s](Category:1990s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:East
+Timor](Category:East_Timor.md "wikilink") [Category:Crimes Against
+Humanity](Category:Crimes_Against_Humanity.md "wikilink")
+[Category:Indonesia](Category:Indonesia.md "wikilink") [Category:New Order
+(Indonesia)](Category:New_Order_(Indonesia).md "wikilink")
+[Category:1975](Category:1975.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink")
+[Category:1999](Category:1999.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

@@ -4,20 +4,20 @@ permalink: /Evergreen_Cooperatives/
 ---
 
 The **Evergreen Cooperatives**are a
-[network](Network_(Organisation) "wikilink") of [worker
-cooperatives](Worker_Cooperative "wikilink") in Cleveland, Ohio,
-[USA](United_States_of_America "wikilink").
+[network](Network_(Organisation).md "wikilink") of [worker
+cooperatives](Worker_Cooperative.md "wikilink") in Cleveland, Ohio,
+[USA](United_States_of_America.md "wikilink").
 
 ## History
 
 In 1967, the [Congress of Racial
-Equality](Congress_of_Racial_Equality_(USA) "wikilink") started to
+Equality](Congress_of_Racial_Equality_(USA).md "wikilink") started to
 organise worker cooperatives and community owned businesses. Later, in
 the nearby town of Youngstown in 1977, workers and the city attempted to
 buy a steel mill after it shut down to stop job losses, but failed,
 although it gave rise to the idea of [workers'
-control](Workers'_Self-Management "wikilink") in the area. In
-[2008](Timeline_of_Libertarian_Socialism_in_North_America "wikilink"),
+control](Workers'_Self-Management.md "wikilink") in the area. In
+[2008](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink"),
 the 'Evergreen Initiative was created by the local government, charities
 and student groups at local universities to start worker cooperatives.
 The cooperative laundry was the first in 2008, cooperative solar was
@@ -69,23 +69,23 @@ Glenville, Hough, Little Ital, and University Circle neighborhoods.
 
 ## See Also
 
-- [Earthworker Cooperatives](Earthworker_Cooperatives "wikilink") - a
-  similar initiative Melbourne, [Australia](Australia "wikilink")
-- [Libertarian Municipalism](Libertarian_Municipalism "wikilink")
+- [Earthworker Cooperatives](Earthworker_Cooperatives.md "wikilink") - a
+  similar initiative Melbourne, [Australia](Australia.md "wikilink")
+- [Libertarian Municipalism](Libertarian_Municipalism.md "wikilink")
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") -
+[Wikipedia](Wikipedia.md "wikilink") -
 <https://en.wikipedia.org/wiki/Evergreen_Cooperatives>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:Civil
-Rights Movement](Category:Civil_Rights_Movement "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:2008](Category:2008 "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink") [Category:Worker
-Cooperatives](Category:Worker_Cooperatives "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:Civil
+Rights Movement](Category:Civil_Rights_Movement.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:2008](Category:2008.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink") [Category:Worker
+Cooperatives](Category:Worker_Cooperatives.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")

@@ -4,12 +4,12 @@ permalink: /Fascists_are_Tools_of_the_State/
 ---
 
 **Fascists are Tools of the State** is a 2007 article by [Peter
-Gelderloos](Peter_Gelderloos "wikilink") that points out the flaws in
-[fascist](Fascism "wikilink") ideology, the danger in fascism, the
-support of fascism by [capitalists](Capitalism "wikilink") and the need
+Gelderloos](Peter_Gelderloos.md "wikilink") that points out the flaws in
+[fascist](Fascism.md "wikilink") ideology, the danger in fascism, the
+support of fascism by [capitalists](Capitalism.md "wikilink") and the need
 for an [anti-authoritarian,
-anti-capitalist](Libertarian_Socialism "wikilink") and
-[anti-fascist](Anti-Fascism "wikilink") movement.
+anti-capitalist](Libertarian_Socialism.md "wikilink") and
+[anti-fascist](Anti-Fascism.md "wikilink") movement.
 
 ## Transcript
 
@@ -19,13 +19,13 @@ anti-capitalist](Libertarian_Socialism "wikilink") and
     fascist movements tend to be dispossessed members of a privileged
     group in society (e.g. poor whites). In pre-WWII Germany, most
     working-class Germans were impoverished by the
-    [Depression](Great_Depression "wikilink"), in contrast to their
+    [Depression](Great_Depression.md "wikilink"), in contrast to their
     self-image as a wealthy, powerful nation. In modern Germany,
     neo-Nazi political parties win the most votes, often more than 10%
     of the total, in states where unemployment is highest. In the US,
     poor southern whites who do not enjoy the wealth promised to white
     people of the richest nation on earth often join the [Ku Klux
-    Klan](Ku_Klux_Klan "wikilink"). In Rwanda the Hutus, impoverished
+    Klan](Ku_Klux_Klan.md "wikilink"). In Rwanda the Hutus, impoverished
     and in great need of land, expressed their desire for more wealth
     and power by identifying with the majority ethnicity, joining the
     fascist Hutu parties responsible for the genocide. There has been a
@@ -53,9 +53,9 @@ anti-capitalist](Libertarian_Socialism "wikilink") and
     nationalism, e: the social Darwinist ideas of “survival of the
     fittest,” f: anti-Semitism) are all empty and incorrect. A:
     Anti-immigration is hypocrisy. The anti-immigration political
-    parties in the US and [European Union](European_Union "wikilink")
+    parties in the US and [European Union](European_Union.md "wikilink")
     usually supported the same free trade deals and wars (e.g. NAFTA,
-    the [civil war in El Salvador](Salvadoran_Civil_War "wikilink"))
+    the [civil war in El Salvador](Salvadoran_Civil_War.md "wikilink"))
     that are the cause of much of the immigration, and their economies
     depend on immigrant labor (US agriculture and the construction
     industry would collapse overnight without immigrant labor). European
@@ -193,12 +193,12 @@ anti-capitalist](Libertarian_Socialism "wikilink") and
     organize a fundraising concert, because of the certainty of attack
     by fascists. In this way, the fascists work as a paramilitary force
     for the state. In the US, the
-    [FBI](Federal_Bureau_of_Investigation "wikilink") (federal police)
+    [FBI](Federal_Bureau_of_Investigation.md "wikilink") (federal police)
     has long infiltrated the KKK and other white supremacist groups,
     using them for attacks against black radicals, such as the
-    [Greensboro Massacre](Greensboro_Massacre "wikilink"); in Italy
+    [Greensboro Massacre](Greensboro_Massacre.md "wikilink"); in Italy
     during the [“Strategy of Tension” in the
-    70s](Years_of_Lead_(Italy) "wikilink"), the intelligence services
+    70s](Years_of_Lead_(Italy).md "wikilink"), the intelligence services
     used fascist groups for murdering Leftists, or bombing crowded areas
     and blaming it on the Red Brigades; in Moscow in 2006, neo-Nazis
     fought alongside the police to attack the Gay Pride parade.
@@ -326,10 +326,10 @@ anti-capitalist](Libertarian_Socialism "wikilink") and
 
 - [Fascists are Tools of the
   State](https://theanarchistlibrary.org/library/peter-gelderloos-fascists-are-the-tools-of-the-state)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anti-Fascism](Category:Anti-Fascism "wikilink")
-[Category:Pamphlets](Category:Pamphlets "wikilink") [Category:Peter
-Gelderloos](Category:Peter_Gelderloos "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anti-Fascism](Category:Anti-Fascism.md "wikilink")
+[Category:Pamphlets](Category:Pamphlets.md "wikilink") [Category:Peter
+Gelderloos](Category:Peter_Gelderloos.md "wikilink")

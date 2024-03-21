@@ -3,17 +3,17 @@ title: Binefar
 permalink: /Binefar/
 ---
 
-**Binefar** is a small town in Aragon, [Spain](Spain "wikilink"), with
+**Binefar** is a small town in Aragon, [Spain](Spain.md "wikilink"), with
 around 9,288 residents. It was a part of [Revolutionary
-Spain](Revolutionary_Spain "wikilink") during the [Spanish Civil
-War](Spanish_Civil_War "wikilink").
+Spain](Revolutionary_Spain.md "wikilink") during the [Spanish Civil
+War](Spanish_Civil_War.md "wikilink").
 
 ## Revolution
 
 On the 20th of July, fascists barricaded themselves into military
-barracks, and [anarcho-syndicalist](Anarcho-Syndicalism "wikilink")
+barracks, and [anarcho-syndicalist](Anarcho-Syndicalism.md "wikilink")
 workers battled them, defeating them in just an hour. [Popular
-assemblies](Democratic_Assembly "wikilink") were set up and a month
+assemblies](Democratic_Assembly.md "wikilink") were set up and a month
 later agreed to abolish private ownership of land. Twelve hundred
 hectares of land were collectivised. The land was divided into parcels.
 Seven work groups cultivate the collectivised land. The group delegates
@@ -33,10 +33,10 @@ population despite the war.
 
 ## References
 
-[Augustin Souchy](Augustin_Souchy "wikilink") - [With The Peasants of
+[Augustin Souchy](Augustin_Souchy.md "wikilink") - [With The Peasants of
 Aragon](https://libcom.org/history/peasants-aragon)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Spain](Category:Spain "wikilink") [Category:Revolutionary
-Spain](Category:Revolutionary_Spain "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Spain](Category:Spain.md "wikilink") [Category:Revolutionary
+Spain](Category:Revolutionary_Spain.md "wikilink")

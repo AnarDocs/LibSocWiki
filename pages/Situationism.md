@@ -4,11 +4,11 @@ permalink: /Situationism/
 ---
 
 **Situationism** refers to the ideas developed by the [Situationist
-International](Situationist_International "wikilink"), a group of
+International](Situationist_International.md "wikilink"), a group of
 intellectuals, artists and revolutionaries active in Western Europe from
 1957 to 1972. It developed several [libertarian
-socialist](Libertarian_Socialism "wikilink") and [libertarian
-marxist](Libertarian_Marxism "wikilink") ideas that have influenced the
+socialist](Libertarian_Socialism.md "wikilink") and [libertarian
+marxist](Libertarian_Marxism.md "wikilink") ideas that have influenced the
 left to this day.
 
 ## Key Concepts
@@ -17,17 +17,17 @@ left to this day.
 
 ### Détournement
 
-[Détournement](Hijacking_(Situationism) "wikilink") or Hijacking is the
-process by which [radicals](Radical_(Person) "wikilink") distort
+[Détournement](Hijacking_(Situationism).md "wikilink") or Hijacking is the
+process by which [radicals](Radical_(Person).md "wikilink") distort
 non-radical art to give a radical message.
 
 ### Psychogeography
 
 ### Recuperation
 
-[Recuperation](Co-optation "wikilink") is the process by which power
+[Recuperation](Co-optation.md "wikilink") is the process by which power
 structures distort and manipulate [social
-movements](Social_Movement "wikilink") in order to strengthen the system
+movements](Social_Movement.md "wikilink") in order to strengthen the system
 they are protesting.
 
 ### Situationist prank
@@ -37,7 +37,7 @@ structures.
 
 ### Spectacle
 
-[Spectacle](Spectacle_(Situationism) "wikilink") is the way power
+[Spectacle](Spectacle_(Situationism).md "wikilink") is the way power
 structures tend to 'distract' the people their ruling over into
 submission.
 
@@ -122,5 +122,5 @@ submission.
 - Walter Olmo
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Situationism](Category:Situationism "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Situationism](Category:Situationism.md "wikilink")

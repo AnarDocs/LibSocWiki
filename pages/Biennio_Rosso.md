@@ -5,20 +5,20 @@ permalink: /Biennio_Rosso/
 
 The **Biennio Rosso** (English: "Two Red Years") was a period of intense
 social conflict and strikes in Italy during 1919 and 1920. It arguably
-led to the emergence of [fascism in Italy](fascism_in_Italy "wikilink").
+led to the emergence of [fascism in Italy](fascism_in_Italy.md "wikilink").
 
 ## Background
 
-The socialist and [anarchist](Anarchism "wikilink") movement had been
+The socialist and [anarchist](Anarchism.md "wikilink") movement had been
 growing in Italy since the 1890s, and following [World War
-I](World_War_I "wikilink") Italy entered an economic crisis with high
+I](World_War_I.md "wikilink") Italy entered an economic crisis with high
 unemployment and political instability.
 
 ## Events
 
 The Biennio Rosso was characterised by by factory and land occupations,
 mass strikes and [workers'
-control](Workers'_Control_in_Italy "wikilink"). Socialist organisations
+control](Workers'_Control_in_Italy.md "wikilink"). Socialist organisations
 also massively increased in membership
 
 The population was confronted with rising inflation and a significant
@@ -88,15 +88,15 @@ news in the period<sup>\[11\]</sup> (see figure) clearly demonstrates
 the evolution of violence acts between the social groups involved.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink") [Category:Strike
-Wave](Category:Strike_Wave "wikilink") [Category:Revolutions of 1916 -
-1923](Category:Revolutions_of_1916_-_1923 "wikilink")
-[Category:Italy](Category:Italy "wikilink")
-[Category:Europe](Category:Europe "wikilink") [Category:Western
-Europe](Category:Western_Europe "wikilink")
-[Category:1919](Category:1919 "wikilink")
-[Category:1910s](Category:1910s "wikilink")
-[Category:1920s](Category:1920s "wikilink")
-[Category:1920](Category:1920 "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink") [Category:Strike
+Wave](Category:Strike_Wave.md "wikilink") [Category:Revolutions of 1916 -
+1923](Category:Revolutions_of_1916_-_1923.md "wikilink")
+[Category:Italy](Category:Italy.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink") [Category:Western
+Europe](Category:Western_Europe.md "wikilink")
+[Category:1919](Category:1919.md "wikilink")
+[Category:1910s](Category:1910s.md "wikilink")
+[Category:1920s](Category:1920s.md "wikilink")
+[Category:1920](Category:1920.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

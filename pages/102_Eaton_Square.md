@@ -4,11 +4,11 @@ permalink: /102_Eaton_Square/
 ---
 
 **102 Eaton Square** or **Belgravia** was an unused mansion in London,
-UK that had occupied by [squatters](List_of_Squats "wikilink")
+UK that had occupied by [squatters](List_of_Squats.md "wikilink")
 (belonging to [Autonomous Nation of Anarchist
-Libertarians](Autonomous_Nation_of_Anarchist_Libertarians "wikilink"))
+Libertarians](Autonomous_Nation_of_Anarchist_Libertarians.md "wikilink"))
 and turned into a homeless shelter in
-[2017](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink").
+[2017](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink").
 
 ## History
 
@@ -23,18 +23,18 @@ defeated by police.[^2]
 
 <references />
 
-[Category:Squatting](Category:Squatting "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink") [Category:Direct
-Action](Category:Direct_Action "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+[Category:Squatting](Category:Squatting.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink") [Category:Direct
+Action](Category:Direct_Action.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink") [Category:United
-Kingdom](Category:United_Kingdom "wikilink")
-[Category:2017](Category:2017 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink") [Category:United
+Kingdom](Category:United_Kingdom.md "wikilink")
+[Category:2017](Category:2017.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
 
 [^1]: <https://en.squat.net/2017/01/28/london-anal-belgravia-squatters-fight-off-fascist-thugs/>
 

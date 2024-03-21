@@ -4,13 +4,13 @@ permalink: /Contradictions_of_Social_Democracy/
 ---
 
 This article outlines the **contradictions of social democracy**, or the
-ways in which [socially democratic](Social_Democracy "wikilink")
+ways in which [socially democratic](Social_Democracy.md "wikilink")
 governments contradict their own values. As such, this article takes
 representative democracy, regulated capitalism, the welfare state,
 police, trade unions and reformism as justified. Even if as libertarian
 socialists we have our own critiques of these concepts. This page will
 overlap significantly with the [contradictions of
-liberalism](contradictions_of_Liberalism "wikilink").
+liberalism](contradictions_of_Liberalism.md "wikilink").
 
 ## Australia
 

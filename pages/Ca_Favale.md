@@ -3,15 +3,15 @@ title: Ca Favale
 permalink: /Ca_Favale/
 ---
 
-[**Anarres**](The_Dispossessed:_An_Ambiguous_Utopia "wikilink")**- Ca
-Favale**was an [anarcho-communist](Anarcho-Communism "wikilink")
-[ecovillage](Intentional_Community "wikilink") that existed in rural
+[**Anarres**](The_Dispossessed:_An_Ambiguous_Utopia.md "wikilink")**- Ca
+Favale**was an [anarcho-communist](Anarcho-Communism.md "wikilink")
+[ecovillage](Intentional_Community.md "wikilink") that existed in rural
 Italy from [2000 to
-2012](Timeline_of_Libertarian_Socialism_in_Southern_Europe "wikilink").
+2012](Timeline_of_Libertarian_Socialism_in_Southern_Europe.md "wikilink").
 
 ## Description
 
-According to [Peter Gelderloos](Peter_Gelderloos "wikilink"), who stayed
+According to [Peter Gelderloos](Peter_Gelderloos.md "wikilink"), who stayed
 there for several nights in 2005, Ca Favale was:
 
 > Ca Favale was a little village in the mountains east of Genova. It was
@@ -125,23 +125,23 @@ community. In their own words:
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
-[Category:Anarcho-Communism](Category:Anarcho-Communism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
+[Category:Anarcho-Communism](Category:Anarcho-Communism.md "wikilink")
 [Category:Intentional
-Communities](Category:Intentional_Communities "wikilink")
-[Category:Italy](Category:Italy "wikilink") [Category:Southern
-Europe](Category:Southern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:2000s](Category:2000s "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:2000](Category:2000 "wikilink")
-[Category:2012](Category:2012 "wikilink")
+Communities](Category:Intentional_Communities.md "wikilink")
+[Category:Italy](Category:Italy.md "wikilink") [Category:Southern
+Europe](Category:Southern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:2000s](Category:2000s.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:2000](Category:2000.md "wikilink")
+[Category:2012](Category:2012.md "wikilink")
 
-[^1]: [Peter Gelderloos](Peter_Gelderloos "wikilink") (2010) [To Get to
+[^1]: [Peter Gelderloos](Peter_Gelderloos.md "wikilink") (2010) [To Get to
     the Other Side: a journey through Europe and its anarchist
-    movements](To_Get_to_the_Other_Side "wikilink")
+    movements](To_Get_to_the_Other_Side.md "wikilink")
 
 [^2]: <https://ecovillage.org/project/anarres-ca-favale/>

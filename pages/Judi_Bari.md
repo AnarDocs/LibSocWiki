@@ -3,16 +3,16 @@ title: Judi Bari
 permalink: /Judi_Bari/
 ---
 
-**Judi Bari** (1949 - 1997) was an [anarchist](Anarchism "wikilink"),
-[environmentalist](Environmentalism "wikilink") and
-[feminist](Feminism "wikilink") involved
-[IWW](Industrial_Workers_of_the_World "wikilink") and [Earth
-First!](Earth_First! "wikilink") [organizer](organizer "wikilink"),
+**Judi Bari** (1949 - 1997) was an [anarchist](Anarchism.md "wikilink"),
+[environmentalist](Environmentalism.md "wikilink") and
+[feminist](Feminism.md "wikilink") involved
+[IWW](Industrial_Workers_of_the_World.md "wikilink") and [Earth
+First!](Earth_First!.md "wikilink") [organizer](organizer.md "wikilink"),
 activist notable for her efforts to organize [Redwood
-Summer](Redwood_Summer "wikilink"), an effort to unite timber workers
+Summer](Redwood_Summer.md "wikilink"), an effort to unite timber workers
 and environmentalists to protect forests in Northern California, and her
 ideas became the precursor of [Green
-Syndicalism](Green_Syndicalism "wikilink").
+Syndicalism](Green_Syndicalism.md "wikilink").
 
 ## Life
 
@@ -27,7 +27,7 @@ States of America.
 On the 24th of May, 1990, a car she was driving around Oakland,
 California had a pipe bomb explode under her seat, seriously injuring
 her and placing her in critical condition.
-[FBI](Federal_Bureau_of_Investigation "wikilink") bomb squads and
+[FBI](Federal_Bureau_of_Investigation.md "wikilink") bomb squads and
 Oakland police rapidly descended on the scene and she was accused of
 carrying explosives, which was dismissed by the district attorney and
 herself for insufficient evidence. This led to multiple conspiracy
@@ -72,8 +72,8 @@ divert attention to Staley.<sup>\[3\]\[16\]</sup>
 ### Theory 4: The FBI
 
 Several people have speculated that the bombing was planted by the
-[FBI](Federal_Bureau_of_Investigation "wikilink") as a continuation of
-[COINTELPRO](COINTELPRO "wikilink"). The evidence includes:
+[FBI](Federal_Bureau_of_Investigation.md "wikilink") as a continuation of
+[COINTELPRO](COINTELPRO.md "wikilink"). The evidence includes:
 
 - The FBI's claim that the bombing was an accidental detonation was
   shown to be completely implausible in the face of physical evidence.
@@ -99,19 +99,19 @@ Judi died of breast cancer on the 2nd of March, 1997 at her home in
 Willits, California, USA.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
 [Category:Libertarian
-Socialists](Category:Libertarian_Socialists "wikilink") [Category:Earth
-First!](Category:Earth_First! "wikilink")
-[Category:IWW](Category:IWW "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:USA](Category:USA "wikilink")
-[Category:Environmentalists](Category:Environmentalists "wikilink")
-[Category:Feminism](Category:Feminism "wikilink")
-[Category:Environmentalism](Category:Environmentalism "wikilink")
-[Category:Feminists](Category:Feminists "wikilink")
-[Category:Anarchists](Category:Anarchists "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink") [Category:Green
-Syndicalism](Category:Green_Syndicalism "wikilink")
+Socialists](Category:Libertarian_Socialists.md "wikilink") [Category:Earth
+First!](Category:Earth_First!.md "wikilink")
+[Category:IWW](Category:IWW.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:USA](Category:USA.md "wikilink")
+[Category:Environmentalists](Category:Environmentalists.md "wikilink")
+[Category:Feminism](Category:Feminism.md "wikilink")
+[Category:Environmentalism](Category:Environmentalism.md "wikilink")
+[Category:Feminists](Category:Feminists.md "wikilink")
+[Category:Anarchists](Category:Anarchists.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink") [Category:Green
+Syndicalism](Category:Green_Syndicalism.md "wikilink")

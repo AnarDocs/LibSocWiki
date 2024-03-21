@@ -4,9 +4,9 @@ permalink: /Victorian_Nurses'_Strike_(1986)/
 ---
 
 The **Victorian Nurses' Strike** was a
-[strike](List_of_Strikes "wikilink") in Melbourne,
-[Australia](Australia "wikilink") in
-[1986](Timeline_of_Libertarian_Socialism_in_Oceania "wikilink") by
+[strike](List_of_Strikes.md "wikilink") in Melbourne,
+[Australia](Australia.md "wikilink") in
+[1986](Timeline_of_Libertarian_Socialism_in_Oceania.md "wikilink") by
 nurses who protested funding cuts and a government that ignored their
 needs.
 
@@ -14,7 +14,7 @@ needs.
 
 Hospital waiting lists had reached 27,000 people and the state
 government (then run by the [Labour
-Party](Labour_Party_(Australia) "wikilink")) decided to cut the health
+Party](Labour_Party_(Australia).md "wikilink")) decided to cut the health
 budget significantly. The nurses' union had attempted to meet and
 negotiate with the government, and it got them nowhere, and even then
 the union demanded less than what the nurses wanted. Inspired by
@@ -149,11 +149,11 @@ solidarity
 `         Like many other rebel women, their story offers an `
 `         inspiring alternative to conventional women’s history.`
 
-[Category:Events](Category:Events "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Australia](Category:Australia "wikilink")
-[Category:Oceania](Category:Oceania "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:1986](Category:1986 "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+[Category:Events](Category:Events.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Australia](Category:Australia.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:1986](Category:1986.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

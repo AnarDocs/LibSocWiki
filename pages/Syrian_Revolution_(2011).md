@@ -4,21 +4,21 @@ permalink: /Syrian_Revolution_(2011)/
 ---
 
 The **Syrian Revolution** was a
-[revolution](List_of_Libertarian_Socialist_Revolutions "wikilink") in
-[Syria](Syria "wikilink") in
-[2011](Timeline_of_Libertarian_Socialism_in_Western_Asia "wikilink").
+[revolution](List_of_Libertarian_Socialist_Revolutions.md "wikilink") in
+[Syria](Syria.md "wikilink") in
+[2011](Timeline_of_Libertarian_Socialism_in_Western_Asia.md "wikilink").
 Although intially optimistic about the potential for social change, it
 catalysed into the most tragic conflict of the 21st century - the
-[Syrian Civil War](Syrian_Civil_War "wikilink").
+[Syrian Civil War](Syrian_Civil_War.md "wikilink").
 
 ## Background
 
-Following Syria's [decolonisation](decolonisation "wikilink") by the
-[French Empire](French_Empire "wikilink") in 1946, it enjoyed a brief
+Following Syria's [decolonisation](decolonisation.md "wikilink") by the
+[French Empire](French_Empire.md "wikilink") in 1946, it enjoyed a brief
 period of [representative
-democracy](Representative_Democracy "wikilink") before the military took
+democracy](Representative_Democracy.md "wikilink") before the military took
 over in a controversial coup in 1949 (with [alleged CIA
-help](Timeline_of_US_Imperialism "wikilink")). Frequent coups, military
+help](Timeline_of_US_Imperialism.md "wikilink")). Frequent coups, military
 revolts, civil disorders and bloody riots dominated the country until
 the Ba'ath party took power in a military coup in 1963 and ruled as a
 secular one-party state until the revolution. This led to a rise in
@@ -31,8 +31,8 @@ climate change) led to mass migration into cities from rural areas.
 These factors combined with the governments restriction of civil
 liberties and lack of political democracy led to the perfect ingredients
 for a revolution. Once the Arab Spring was triggered by revolutions in
-[Tunisia](Tunisian_Revolution "wikilink") and
-[Egypt](Egyptian_Revolution_(2011) "wikilink"), it soon followed in
+[Tunisia](Tunisian_Revolution.md "wikilink") and
+[Egypt](Egyptian_Revolution_(2011).md "wikilink"), it soon followed in
 Syria.
 
 ## Events
@@ -69,7 +69,7 @@ in order to attack political activists. Many of those detained
 experienced ill-treatment. Many detainees were cramped in tight rooms
 and were given limited resources, and some were beaten, electrically
 jolted, or debilitated. Checkpoints were installed and large amounts of
-police were deployed to destroy [protest camps](Protest_Camp "wikilink")
+police were deployed to destroy [protest camps](Protest_Camp.md "wikilink")
 while at the same time offering political reforms such as shorter
 conscription time, firing corrupt officials, releasing political
 prisoners, cutting taxes, creating jobs, lifting restrictions on the
@@ -97,46 +97,46 @@ took control of a police station, seizing weapons. Clashes between
 protesters and the army continued in the following days. Soldiers began
 defecting after the secret police executed soldiers who refused to kill
 civilians. 10,000 people soon fled into Turkey, an [eery foreshadowing
-of what was to come](Syrian_Refugee_Crisis "wikilink"). The next few
+of what was to come](Syrian_Refugee_Crisis.md "wikilink"). The next few
 weeks were filled with small skirmishes between opposition fighters and
 defected soldiers against the government.
 
 On the 29th of July, a group of defected officers announced the
-formation of the [Free Syrian Army](Free_Syrian_Army "wikilink").
+formation of the [Free Syrian Army](Free_Syrian_Army.md "wikilink").
 Composed of defected Syrian Armed Forces personnel, the rebel army seeks
 to remove dictator Bashar al-Assad and his government from power. With
 such a significant defection from the state, a [civil
-war](Civil_War "wikilink") had begun.
+war](Civil_War.md "wikilink") had begun.
 
 ## Results
 
-The revolution saw a [mutiny](List_of_Mutinies "wikilink") by much of
+The revolution saw a [mutiny](List_of_Mutinies.md "wikilink") by much of
 the army into a democratic opposition (although this soon became a mix
 of all anti-government sentiments including
-[leftists](Leftism "wikilink"), [Islamists](Islamism "wikilink"),
-[capitalists](Capitalism "wikilink"), [liberals](Liberalism "wikilink")
-and [fascists](Fascism "wikilink")) that led to the conflict becoming
-the [Syrian Civil War](Syrian_Civil_War "wikilink"), of which the main
+[leftists](Leftism.md "wikilink"), [Islamists](Islamism.md "wikilink"),
+[capitalists](Capitalism.md "wikilink"), [liberals](Liberalism.md "wikilink")
+and [fascists](Fascism.md "wikilink")) that led to the conflict becoming
+the [Syrian Civil War](Syrian_Civil_War.md "wikilink"), of which the main
 positive developments are the [Rojava
-Revolution](Rojava_Revolution "wikilink") and the negative developments
+Revolution](Rojava_Revolution.md "wikilink") and the negative developments
 are half a million dead, 12 million refugees and a complex proxy war
-between [Russia](Timeline_of_Russian_Imperialism "wikilink") and the
-[USA](Timeline_of_US_Imperialism "wikilink").
+between [Russia](Timeline_of_Russian_Imperialism.md "wikilink") and the
+[USA](Timeline_of_US_Imperialism.md "wikilink").
 
 ## References
 
-[Wikipedia](Wikipedia "wikilink") - [Civil uprising phase of the Syrian
+[Wikipedia](Wikipedia.md "wikilink") - [Civil uprising phase of the Syrian
 Civil
 War](https://en.wikipedia.org/wiki/Civil_uprising_phase_of_the_Syrian_Civil_War)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:2011](Category:2011 "wikilink")
-[Category:2010s](Category:2010s "wikilink") [Category:Arab
-Spring](Category:Arab_Spring "wikilink") [Category:Revolutions of 2010 -
-2014](Category:Revolutions_of_2010_-_2014 "wikilink") [Category:21st
-Century](Category:21st_Century "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
-[Category:Syria](Category:Syria "wikilink")
-[Category:Asia](Category:Asia "wikilink") [Category:Western
-Asia](Category:Western_Asia "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:2011](Category:2011.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink") [Category:Arab
+Spring](Category:Arab_Spring.md "wikilink") [Category:Revolutions of 2010 -
+2014](Category:Revolutions_of_2010_-_2014.md "wikilink") [Category:21st
+Century](Category:21st_Century.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")
+[Category:Syria](Category:Syria.md "wikilink")
+[Category:Asia](Category:Asia.md "wikilink") [Category:Western
+Asia](Category:Western_Asia.md "wikilink")

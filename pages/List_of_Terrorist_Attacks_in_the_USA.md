@@ -5,7 +5,7 @@ permalink: /List_of_Terrorist_Attacks_in_the_USA/
 
 ## 1700s
 
-- 1782: [Gnadenhutten Massacre](Gnadenhutten_Massacre "wikilink") –
+- 1782: [Gnadenhutten Massacre](Gnadenhutten_Massacre.md "wikilink") –
   Pennsylvania militia round up and executed 96 unarmed pacifist
   Christian Delaware (Lenape) Indians, including 69 women and children,
   as revenge for raids against settlers (carried out by other Indians)
@@ -15,7 +15,7 @@ permalink: /List_of_Terrorist_Attacks_in_the_USA/
 ## 1900s
 
 - 1901: President William McKinley was assassinated by Michigan-born
-  anarchist [Leon Czolgosz](Leon_Czolgosz "wikilink"), in Buffalo, New
+  anarchist [Leon Czolgosz](Leon_Czolgosz.md "wikilink"), in Buffalo, New
   York.
 - 1910: The *Los Angeles Times* building in Los Angeles was destroyed by
   dynamite, killing 21 workers. The bomb was apparently placed due to

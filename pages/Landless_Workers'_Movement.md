@@ -5,7 +5,7 @@ permalink: /Landless_Workers'_Movement/
 
 The **Landless Workers' Movement** (Portuguese: *Movimento dos
 Trabalhadores Sem Terra*, **MST**) is a left-wing social movement in
-[Brazil](Brazil "wikilink") and is generally considered on of the
+[Brazil](Brazil.md "wikilink") and is generally considered on of the
 largest in the world.
 
 ## Land reform before the 1988 constitution
@@ -1031,7 +1031,7 @@ January<sup>\[*when?*\]</sup> during the fifth World Social
 Forum.<sup>\[245\]</sup>
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Brazil](Category:Brazil "wikilink") [Category:South
-America](Category:South_America "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Brazil](Category:Brazil.md "wikilink") [Category:South
+America](Category:South_America.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")

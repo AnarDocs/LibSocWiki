@@ -5,23 +5,23 @@ permalink: /Madagascan_Democracy_Movement/
 
 The **Madagascan Democracy Movement** was a social movement which aimed
 to overthrow Madagascar's authoritarian government and create a
-[liberal](Liberalism "wikilink") democracy that began in
-[1989](Revolutions_of_1989_-_1992 "wikilink") and [succeeded in
-1991](Timeline_of_Libertarian_Socialism_in_Southern_Africa "wikilink").
+[liberal](Liberalism.md "wikilink") democracy that began in
+[1989](Revolutions_of_1989_-_1992.md "wikilink") and [succeeded in
+1991](Timeline_of_Libertarian_Socialism_in_Southern_Africa.md "wikilink").
 
 ## Background
 
-Madagascar [became independent](Decolonisation "wikilink") from the
-[French Empire](French_Empire "wikilink") in 1960 after [nearly 70 years
-under French rule](Timeline_of_French_Imperialism "wikilink"). The
+Madagascar [became independent](Decolonisation.md "wikilink") from the
+[French Empire](French_Empire.md "wikilink") in 1960 after [nearly 70 years
+under French rule](Timeline_of_French_Imperialism.md "wikilink"). The
 government quickly became an authoritarian socialist state that
-[nationalised](Nationalisation "wikilink") banks, mines, insurance
+[nationalised](Nationalisation.md "wikilink") banks, mines, insurance
 companies in addition to carrying out repression and media censorship.
 By the 1980s the government reversed and carried out neoliberal reforms
 outlined by the IMF leading to even greater poverty and disease
 outbreaks (one malaria outbreak caused by a loss of funding for mosqutio
 nets in beds killed 10,000 people), with the government more or less
-[abandoning entire towns](Arivonimamo "wikilink").
+[abandoning entire towns](Arivonimamo.md "wikilink").
 
 ## Events
 
@@ -34,12 +34,12 @@ mass strikes and protests to force the president out of office and usher
 in a new regime.
 
 In May 1991, the Forces Vives orchestrated their first mass [general
-strike](List_of_General_Strikes "wikilink") against the government,
+strike](List_of_General_Strikes.md "wikilink") against the government,
 temporarily crippling the economy, and in July mass demonstrations shook
 the nation. The year 1991 was dotted with civil service strikes and
 protests organized by the Forces Vives that involved indignant citizens
 from all over the country. The unrest was widespread and apparent,
-taking hold among the [working class](Working_Class "wikilink") citizens
+taking hold among the [working class](Working_Class.md "wikilink") citizens
 of Madagascar, the politicians, and soon the military.
 
 ### Massacre
@@ -64,7 +64,7 @@ their attempts to mediate the situation failed.
 ## Results
 
 In 1991 it was announced by the government that Madagascar would
-democratise, with [elections](Representative_Democracy "wikilink") in
+democratise, with [elections](Representative_Democracy.md "wikilink") in
 1992 which were multi-party and judged to be fair. Since then,
 Madagascar has been a stable democracy. However, it is one of the
 poorest countries in the world and still sees issues with child labor,
@@ -73,20 +73,20 @@ human trafficking and violence against women.
 ## References
 
 [Global Nonviolent Action
-Database](Global_Nonviolent_Action_Database "wikilink") - [Madagascar
+Database](Global_Nonviolent_Action_Database.md "wikilink") - [Madagascar
 citizens force free elections,
 1990-1992](https://nvdatabase.swarthmore.edu/content/madagascar-citizens-force-free-elections-1990-1992)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Africa](Category:Africa "wikilink") [Category:Southern
-Africa](Category:Southern_Africa "wikilink")
-[Category:1989](Category:1989 "wikilink")
-[Category:1991](Category:1991 "wikilink")
-[Category:1990](Category:1990 "wikilink")
-[Category:1990s](Category:1990s "wikilink")
-[Category:1980s](Category:1980s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink") [Category:Revolutions of
-1986 - 1992](Category:Revolutions_of_1986_-_1992 "wikilink")
-[Category:Madagascar](Category:Madagascar "wikilink") [Category:Social
-Movements](Category:Social_Movements "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Africa](Category:Africa.md "wikilink") [Category:Southern
+Africa](Category:Southern_Africa.md "wikilink")
+[Category:1989](Category:1989.md "wikilink")
+[Category:1991](Category:1991.md "wikilink")
+[Category:1990](Category:1990.md "wikilink")
+[Category:1990s](Category:1990s.md "wikilink")
+[Category:1980s](Category:1980s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink") [Category:Revolutions of
+1986 - 1992](Category:Revolutions_of_1986_-_1992.md "wikilink")
+[Category:Madagascar](Category:Madagascar.md "wikilink") [Category:Social
+Movements](Category:Social_Movements.md "wikilink")

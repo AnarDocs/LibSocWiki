@@ -4,10 +4,10 @@ permalink: /Anarchy_Works/
 ---
 
 **Anarchy Works** is a
-[book](List_of_Libertarian_Socialist_Media "wikilink") by [Peter
-Gelderloos](Peter_Gelderloos "wikilink") aiming to provide a picture at
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Peter
+Gelderloos](Peter_Gelderloos.md "wikilink") aiming to provide a picture at
 how an [anarchist
-society](List_of_Libertarian_Socialist_Societies "wikilink") might
+society](List_of_Libertarian_Socialist_Societies.md "wikilink") might
 function, deal with certain problems and fulfill the needs of the
 people.
 
@@ -18,78 +18,78 @@ people.
 #### Aren't people naturally selfish?
 
 The notion of selfishness and [sharing and
-generosity](Mutual_Aid "wikilink") are explored. Even in societies which
-have endured [capitalism](capitalism "wikilink") for hundreds of years,
+generosity](Mutual_Aid.md "wikilink") are explored. Even in societies which
+have endured [capitalism](capitalism.md "wikilink") for hundreds of years,
 people still frequently engage in altruistic behavior like sharing
 dinner or helping strangers. The notion of a [gift
-economy](Gift_Economy "wikilink") is explored through the economic
-practices of the [Semai](Semai "wikilink") in what is now
-[Malaysia](Malaysia "wikilink") and [Really Really Free
-Markets](Really_Really_Free_Market "wikilink"), a protest movement in
+economy](Gift_Economy.md "wikilink") is explored through the economic
+practices of the [Semai](Semai.md "wikilink") in what is now
+[Malaysia](Malaysia.md "wikilink") and [Really Really Free
+Markets](Really_Really_Free_Market.md "wikilink"), a protest movement in
 much of the western world.
 
 #### Aren't people naturally competitive?
 
-The concept of [competition](competition "wikilink") has been largely a
+The concept of [competition](competition.md "wikilink") has been largely a
 product of socialization in the west. But non-capitalist societies often
 had very strong concepts of cooperation and even hostility towards
-competition. The [Mbuti](Mbuti "wikilink") is what is now Central Africa
+competition. The [Mbuti](Mbuti.md "wikilink") is what is now Central Africa
 are explored in generous detail showing various aspects of how
 cooperation runs in all parts of their society, from
-[childrearing](childrearing "wikilink") to economic activities to
-[gender equality](Gender_Equality "wikilink") as well as the destruction
+[childrearing](childrearing.md "wikilink") to economic activities to
+[gender equality](Gender_Equality.md "wikilink") as well as the destruction
 of Mbuti communities from war backed by capitalists. The activities of
-people after [Hurricane Katrina](Hurricane_Katrina "wikilink") are also
+people after [Hurricane Katrina](Hurricane_Katrina.md "wikilink") are also
 explored, how complete strangers were suddenly helping to save the lives
-of others whilst the [police](police "wikilink") left them to die and
-the [media](Mass_Media "wikilink") spread lies.
+of others whilst the [police](police.md "wikilink") left them to die and
+the [media](Mass_Media.md "wikilink") spread lies.
 
 #### Haven't humans always been patriarchal?
 
 Numerous societies have existed without
-[patriarchy](patriarchy "wikilink") and fluid concepts of
-[gender](gender "wikilink") and within patriarchy there has been strong
-resistance to it, such as [FIERCE!](FIERCE! "wikilink") - who organize
-against [gentrification](gentrification "wikilink"), privatized
-[healthcare](healthcare "wikilink") and
-[discrimination](discrimination "wikilink"). Another resistance was
-[Pocasset](Pocasset "wikilink"), a [colony of
-England](Colonialism "wikilink") in what is now the
-[US](United_States_of_America "wikilink") during the 1600s, which fought
-for [direct democracy](Democratic_Assembly "wikilink"), gender equality,
-[indigenous rights](Indigenism "wikilink"), religious freedom, freedom
-from [debt](debt "wikilink") and abolition of [punitive justice
-systems](Punitive_Justice "wikilink"). Societies outside the west have
+[patriarchy](patriarchy.md "wikilink") and fluid concepts of
+[gender](gender.md "wikilink") and within patriarchy there has been strong
+resistance to it, such as [FIERCE!](FIERCE!.md "wikilink") - who organize
+against [gentrification](gentrification.md "wikilink"), privatized
+[healthcare](healthcare.md "wikilink") and
+[discrimination](discrimination.md "wikilink"). Another resistance was
+[Pocasset](Pocasset.md "wikilink"), a [colony of
+England](Colonialism.md "wikilink") in what is now the
+[US](United_States_of_America.md "wikilink") during the 1600s, which fought
+for [direct democracy](Democratic_Assembly.md "wikilink"), gender equality,
+[indigenous rights](Indigenism.md "wikilink"), religious freedom, freedom
+from [debt](debt.md "wikilink") and abolition of [punitive justice
+systems](Punitive_Justice.md "wikilink"). Societies outside the west have
 also had gender equality and fluid concepts of gender, such as the
-pre-colonial [Igbo](Igbo "wikilink") in what is now
-[Nigeria](Federal_Republic_of_Nigeria "wikilink"), where women practice
+pre-colonial [Igbo](Igbo.md "wikilink") in what is now
+[Nigeria](Federal_Republic_of_Nigeria.md "wikilink"), where women practice
 collective self-defense against gender violence and abusive men. The
-[Haudenosaunee](Haudenosaunee_Confederacy "wikilink") in what is now the
-US and [Canada](Canada "wikilink") are also explored, with women
+[Haudenosaunee](Haudenosaunee_Confederacy.md "wikilink") in what is now the
+US and [Canada](Canada.md "wikilink") are also explored, with women
 organizing and leading councils for decision-making and economic
 distribution.
 
 #### Aren't people naturally warlike?
 
-The institutions of [power](power "wikilink") - media,
-[academics](University "wikilink"),
-[government](State_(Polity) "wikilink"),
-[religion](Organized_Religion "wikilink") - frequently exaggerate levels
-of [warfare](War "wikilink") and [violence](violence "wikilink")
+The institutions of [power](power.md "wikilink") - media,
+[academics](University.md "wikilink"),
+[government](State_(Polity).md "wikilink"),
+[religion](Organized_Religion.md "wikilink") - frequently exaggerate levels
+of [warfare](War.md "wikilink") and [violence](violence.md "wikilink")
 throughout history, especially in areas without the state. Frequently
 using heavily biased or outright fabricated research to support their
 worldview. But even within the state, people frequently are horrified by
 the actual consequences of violence, setting up [protest
-camps](Protest_Camp "wikilink") and movements like the [Falsane Peace
-Camp](Falsane_Peace_Camp "wikilink") and [Greenham Commons Women's Peace
-Camp](Greenham_Commons_Women's_Peace_Camp "wikilink") in the
-[UK](United_Kingdom "wikilink"), the [Life and Labor
-Commune](Life_and_Labor_Commune "wikilink") in the
-[USSR](Union_of_Soviet_Socialist_Republics "wikilink") and the [Catholic
-Worker Movement](Catholic_Worker_Movement "wikilink"). Anarchistic
+camps](Protest_Camp.md "wikilink") and movements like the [Falsane Peace
+Camp](Falsane_Peace_Camp.md "wikilink") and [Greenham Commons Women's Peace
+Camp](Greenham_Commons_Women's_Peace_Camp.md "wikilink") in the
+[UK](United_Kingdom.md "wikilink"), the [Life and Labor
+Commune](Life_and_Labor_Commune.md "wikilink") in the
+[USSR](Union_of_Soviet_Socialist_Republics.md "wikilink") and the [Catholic
+Worker Movement](Catholic_Worker_Movement.md "wikilink"). Anarchistic
 societies like the Semai have some of the lowest murder rates in the
-world due to their low levels of [alienation](alienation "wikilink") and
-[poverty](poverty "wikilink"), stemming from a policy of gift economics.
+world due to their low levels of [alienation](alienation.md "wikilink") and
+[poverty](poverty.md "wikilink"), stemming from a policy of gift economics.
 War is not a natural fact of human nature, but the consequence of the
 structure of society.
 
@@ -112,22 +112,22 @@ privileges of the ruling class, notably in the German Peasants Uprising
 in 1524 and 1525, where 300,000 slaughtered knights and lords. The
 anti-globalization movement across the world has resisted the
 establishment of capitalism, notably with the
-[Zapatistas](Rebel_Zapatista_Autonomous_Municipalities "wikilink").
+[Zapatistas](Rebel_Zapatista_Autonomous_Municipalities.md "wikilink").
 Plenty of people have also fled the state, such as those in South
 America researched by Pierre Clastres,
-[Haudenosaunee](Haudenosaunee_Confederacy "wikilink") in North America,
+[Haudenosaunee](Haudenosaunee_Confederacy.md "wikilink") in North America,
 Cossacks in Russia and Zomia in Southeast Asia.
 
 #### A broader sense of self
 
-[Peter Kropotkin](Peter_Kropotkin "wikilink") famously wrote in his work
-on [Mutual Aid](Mutual_Aid:_A_Factor_of_Evolution "wikilink") that
+[Peter Kropotkin](Peter_Kropotkin.md "wikilink") famously wrote in his work
+on [Mutual Aid](Mutual_Aid:_A_Factor_of_Evolution.md "wikilink") that
 people are more likely to work together than against each-other. The
 assumption in the west that small-scale
-[forager](Forager_Economy "wikilink") societies are 'primitive' and
+[forager](Forager_Economy.md "wikilink") societies are 'primitive' and
 large post-industrial societies are 'advanced' and have nothing to learn
 from 'primitive people' is at best ignorant and at worst openly
-[racist](Racism "wikilink"). All human societies are tremendously
+[racist](Racism.md "wikilink"). All human societies are tremendously
 complicated and we can learn a lot from studying them, and in current
 social struggles the seeds of a new society are being built.
 
@@ -145,7 +145,7 @@ Hierarchy is simply not capable of making the best responsible decisions
 for millions of people. The MST shows that millions can make decisions
 at a grassroots level, the Oaxaca Uprising shows us that anarchists can
 organize in modern cities and against militaries. Infoshops and
-[Kibbutz](Kibbutzim "wikilink") show us that groups can survive even
+[Kibbutz](Kibbutzim.md "wikilink") show us that groups can survive even
 under capitalism and the Nuer show us how this kind of decision-making
 can survive the most brutal forms of colonialism. Most societies in
 history have been egalitarian, and we still have the capability to
@@ -250,12 +250,12 @@ build a freer world.
 
 - [Anarchy
   Works](https://theanarchistlibrary.org/library/peter-gelderloos-anarchy-works)
-  at [theanarchistlibrary.org](theanarchistlibrary.org "wikilink")
+  at [theanarchistlibrary.org](theanarchistlibrary.org.md "wikilink")
 - [Anarchy
   Works](https://libcom.org/files/Gelderloos%20-%20Anarchy%20Works.pdf)
-  at [libcom.org](libcom.org "wikilink")
+  at [libcom.org](libcom.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink") [Category:Peter
-Gelderloos](Category:Peter_Gelderloos "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink") [Category:Peter
+Gelderloos](Category:Peter_Gelderloos.md "wikilink")

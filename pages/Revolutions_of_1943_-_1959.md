@@ -4,7 +4,7 @@ permalink: /Revolutions_of_1943_-_1959/
 ---
 
 The **Revolutions of 1943 - 1959** were a [revolutionary
-wave](Revolutionary_Wave "wikilink") consisting off mass political
+wave](Revolutionary_Wave.md "wikilink") consisting off mass political
 unrest and revolts around the world in the mid-20th century. The
 uprisings were mainly socialist or anti-colonial in nature and were
 mostly short-lived, failing to have a long-term impact.

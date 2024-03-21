@@ -4,9 +4,9 @@ permalink: /Dublin_McDonald's_Strike_(1979)/
 ---
 
 The **Dublin McDonald's Strike of 1979** was a
-[strike](List_of_Strikes "wikilink") in two McDonald's in
-[Ireland](Ireland "wikilink") in
-[1979](Timeline_of_Libertarian_Socialism_in_Northern_Europe "wikilink")
+[strike](List_of_Strikes.md "wikilink") in two McDonald's in
+[Ireland](Ireland.md "wikilink") in
+[1979](Timeline_of_Libertarian_Socialism_in_Northern_Europe.md "wikilink")
 with two demands: union recognition and an end to low pay.
 
 ## Background
@@ -14,7 +14,7 @@ with two demands: union recognition and an end to low pay.
 McDonald's had just opened up two shops in Dublin, Ireland and had paid
 people 85p an hour, a very low rate even for the catering industry.
 After the workers there joined the [Irish Transport and General Workers'
-Union](Irish_Transport_and_General_Workers'_Union "wikilink") (ITGWU)
+Union](Irish_Transport_and_General_Workers'_Union.md "wikilink") (ITGWU)
 management refused to recognise the union or even to talk over the phone
 to the union officials. Eventually, the enraged workers launched a
 strike on the 16th of March.
@@ -39,7 +39,7 @@ food was being stored in the Superdine warehouse outside Naas but
 wouldn’t even put a picket on the place. In short they made no real
 attempt to stop the scab supplies getting in. The union officials even
 went so far as to give a list of ‘approved’ picketers to the Gardai
-[\[police]([police "wikilink")\] and to the boss. Leading to police
+[\[police]([police.md "wikilink")\] and to the boss. Leading to police
 harassing strikers by visiting them at their home. Luckily, other ITGWU
 members joined the picket, raised awareness and donated money as did
 socialist organisations, other unions and student groups.
@@ -56,14 +56,14 @@ McDonald's.
 
 [The Dublin McDonald's strike,
 1979](https://libcom.org/history/dublin-mcdonalds-strike-1979) at
-[libcom.org](libcom.org "wikilink")
+[libcom.org](libcom.org.md "wikilink")
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Ireland](Category:Ireland "wikilink") [Category:Northern
-Europe](Category:Northern_Europe "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:1979](Category:1979 "wikilink")
-[Category:1970s](Category:1970s "wikilink") [Category:20th
-Century](Category:20th_Century "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Ireland](Category:Ireland.md "wikilink") [Category:Northern
+Europe](Category:Northern_Europe.md "wikilink")
+[Category:Europe](Category:Europe.md "wikilink")
+[Category:1979](Category:1979.md "wikilink")
+[Category:1970s](Category:1970s.md "wikilink") [Category:20th
+Century](Category:20th_Century.md "wikilink")

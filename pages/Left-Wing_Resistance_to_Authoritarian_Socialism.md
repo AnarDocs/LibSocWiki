@@ -4,12 +4,12 @@ permalink: /Left-Wing_Resistance_to_Authoritarian_Socialism/
 ---
 
 This page lists episodes of left-wing resistance to [authoritarian
-socialism](Authoritarian_Socialism "wikilink"), not all of these
+socialism](Authoritarian_Socialism.md "wikilink"), not all of these
 movements were necessarily [libertarian
-socialist](Libertarian_Socialism "wikilink"), and this is not a
+socialist](Libertarian_Socialism.md "wikilink"), and this is not a
 comprehensive list of episodes of dissent (for example, we will not
 include racist movements (most commonly
-[Russophobic](Russophobia "wikilink") ones) or movements aimed at
+[Russophobic](Russophobia.md "wikilink") ones) or movements aimed at
 reestablishing capitalism (like the White Army in Russia or Kuomingtang
 in China)).
 
@@ -17,7 +17,7 @@ in China)).
 
 ### 1920s
 
-- 1921: [Kronstadt Rebellion](Kronstadt_Rebellion "wikilink") (Russia)
+- 1921: [Kronstadt Rebellion](Kronstadt_Rebellion.md "wikilink") (Russia)
 
 ### 1930s
 
@@ -50,7 +50,7 @@ in China)).
 ### 1960s
 
 - 1962: [Novocherkassk
-  Massacre](Novocherkassk_Massacre_(1962) "wikilink") (USSR)
+  Massacre](Novocherkassk_Massacre_(1962).md "wikilink") (USSR)
 - 1963: Red Square Protests (USSR)
 - 1964: Moroccan Embassy Protests (USSR)
 - 1965: Glasnost Meeting (USSR)
@@ -58,10 +58,10 @@ in China)).
 - 1965: Freedom Flights (Cuba)
 - 1967: Unknown Protests (USSR)
 - 1968: Egyptian Uprising (Egypt)
-- 1968: [Prague Spring](Prague_Spring "wikilink") (Czechoslovakia)
-- 1968: [March Events](March_Events_in_Poland_(1968) "wikilink")
+- 1968: [Prague Spring](Prague_Spring.md "wikilink") (Czechoslovakia)
+- 1968: [March Events](March_Events_in_Poland_(1968).md "wikilink")
   (Poland)
-- 1968: [Red Square Protests](Red_Square_Protests_(1968) "wikilink")
+- 1968: [Red Square Protests](Red_Square_Protests_(1968).md "wikilink")
   (USSR)
 
 ### 1970s
@@ -70,16 +70,16 @@ in China)).
 - 1971: Polish Strikes
 - 1972: Kaunas' Spring (USSR)
 - 1976: Polish Strikes
-- 1977: [Market Women's Revolt](Market_Women's_Revolt_(1977) "wikilink")
+- 1977: [Market Women's Revolt](Market_Women's_Revolt_(1977).md "wikilink")
   (Guinea)
-- 1979: [Herat Uprising](Herat_Uprising_(1979) "wikilink")
-  ([Afghanistan](Socialist_Afghanistan "wikilink"))
-- 1979: [Bala Hissar Uprising](Bala_Hissar_Uprising_(1979) "wikilink")
+- 1979: [Herat Uprising](Herat_Uprising_(1979).md "wikilink")
+  ([Afghanistan](Socialist_Afghanistan.md "wikilink"))
+- 1979: [Bala Hissar Uprising](Bala_Hissar_Uprising_(1979).md "wikilink")
   (Afghanistan)
 
 ### 1980s
 
-- 1980: [3 Hoot Uprising](3_Hoot_Uprising_(1979) "wikilink")
+- 1980: [3 Hoot Uprising](3_Hoot_Uprising_(1979).md "wikilink")
   (Afghanistan)
 - 1980: Mariel Boatlift (Cuba)
 - 1980: Polish Strike Wave (Poland)
@@ -88,8 +88,8 @@ in China)).
 - 1987: Hirvepark Meeting (USSR)
 - 1988: Polish Strike Wave
 - 1989: Velvet Revolution (Czechoslovakia)
-- 1989: [Benin Uprising](Benin_Uprising_(1989) "wikilink")
-  ([Benin](Socialist_Benin "wikilink"))
+- 1989: [Benin Uprising](Benin_Uprising_(1989).md "wikilink")
+  ([Benin](Socialist_Benin.md "wikilink"))
 - 1989: Moldovan Riots
 - 1989: Romanian Revolution
 - 1989: Hungarian Revolution
@@ -99,7 +99,7 @@ in China)).
 ### 1990s
 
 - 1990: Bridge of Flowers (Romania and USSR)
-- 1994: [Maleconazo](Maleconazo_(1994) "wikilink") (Cuba)
+- 1994: [Maleconazo](Maleconazo_(1994).md "wikilink") (Cuba)
 - 1994: Balsero Crisis (Cuba)
 
 ## 2000s
@@ -112,7 +112,7 @@ in China)).
 - 2011: North Korean Protests (North Korea)
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Timelines](Category:Timelines "wikilink") [Category:Left-Wing
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Timelines](Category:Timelines.md "wikilink") [Category:Left-Wing
 Resistance to Authoritarian
-Socialism](Category:Left-Wing_Resistance_to_Authoritarian_Socialism "wikilink")
+Socialism](Category:Left-Wing_Resistance_to_Authoritarian_Socialism.md "wikilink")

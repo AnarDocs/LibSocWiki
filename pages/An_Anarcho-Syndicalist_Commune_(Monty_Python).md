@@ -4,9 +4,9 @@ permalink: /An_Anarcho-Syndicalist_Commune_(Monty_Python)/
 ---
 
 **An Anarcho-Syndicalist Commune** is a [fictional libertarian socialist
-community](List_of_Libertarian_Socialist_Societies#Fictional "wikilink")
+community](List_of_Libertarian_Socialist_Societies#Fictional.md "wikilink")
 in medieval Britain in the film *[Monty Python and the Holy
-Grail](Monty_Python_and_the_Holy_Grail_(Film) "wikilink")*.
+Grail](Monty_Python_and_the_Holy_Grail_(Film).md "wikilink")*.
 
 ## Decision-Making
 
@@ -23,9 +23,9 @@ uninhabited). Dennis describes their decision-making process as follows:
 ## Economics
 
 The community seems to mainly centered around
-[farming](Agriculture "wikilink"), presumbly run according to the
+[farming](Agriculture.md "wikilink"), presumbly run according to the
 principles of [workers'
-self-management](Workers'_Self-Management "wikilink"). Living standards
+self-management](Workers'_Self-Management.md "wikilink"). Living standards
 are notably better than some of the surrounding communities, that are
 often filled with poo running through the streets.
 
@@ -33,12 +33,12 @@ often filled with poo running through the streets.
 
 The community is strongly skeptical of the authoritarian desires of King
 Arthur, and is not subject to the [tyranny of the
-majority](Tyranny_of_the_Majority "wikilink") through witch hunts or
+majority](Tyranny_of_the_Majority.md "wikilink") through witch hunts or
 constant lying in other communities.
 
 ## Notable Residents
 
-- [Dennis](Dennis_(Monty_Python) "wikilink")
+- [Dennis](Dennis_(Monty_Python).md "wikilink")
 - Woman
 
 ## References
@@ -46,11 +46,11 @@ constant lying in other communities.
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian Socialist
-Societies](Category:Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Libertarian_Socialist_Societies.md "wikilink")
 [Category:Fictional Libertarian Socialist
-Societies](Category:Fictional_Libertarian_Socialist_Societies "wikilink")
+Societies](Category:Fictional_Libertarian_Socialist_Societies.md "wikilink")
 
-[^1]: [YouTube](YouTube "wikilink") - [Monty Python "Anarcho-Syndicalist
+[^1]: [YouTube](YouTube.md "wikilink") - [Monty Python "Anarcho-Syndicalist
     Commune"](https://www.youtube.com/watch?v=R7qT-C-0ajI)

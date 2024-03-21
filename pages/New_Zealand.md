@@ -3,10 +3,10 @@ title: New Zealand
 permalink: /New_Zealand/
 ---
 
-**New Zealand** or **Aotearoa**is a [liberal](Liberalism "wikilink")
-[colonial](Colonialism "wikilink") [capitalist](Capitalism "wikilink")
-[state](List_of_States "wikilink") located in Oceania near
-[Australia](Australia "wikilink").
+**New Zealand** or **Aotearoa**is a [liberal](Liberalism.md "wikilink")
+[colonial](Colonialism.md "wikilink") [capitalist](Capitalism.md "wikilink")
+[state](List_of_States.md "wikilink") located in Oceania near
+[Australia](Australia.md "wikilink").
 
 ## Positives
 
@@ -35,7 +35,7 @@ permalink: /New_Zealand/
 - 1991: General Strikes
 - 1995: Pakaitore Occupation
 - 2005 - 2011: [New Zealand Strike
-  Wave](New_Zealand_Strike_Wave_(2005_-_2011) "wikilink")
+  Wave](New_Zealand_Strike_Wave_(2005_-_2011).md "wikilink")
 - 2005: Super Size My Pay
 - 2005: Starbucks Strike
 - 2006: Student Protests
@@ -67,9 +67,9 @@ permalink: /New_Zealand/
 - Tom Barker
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:New
-Zealand](Category:New_Zealand "wikilink")
-[Category:Oceania](Category:Oceania "wikilink")
-[Category:States](Category:States "wikilink") [Category:Liberal
-States](Category:Liberal_States "wikilink") [Category:Colonial
-States](Category:Colonial_States "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:New
+Zealand](Category:New_Zealand.md "wikilink")
+[Category:Oceania](Category:Oceania.md "wikilink")
+[Category:States](Category:States.md "wikilink") [Category:Liberal
+States](Category:Liberal_States.md "wikilink") [Category:Colonial
+States](Category:Colonial_States.md "wikilink")

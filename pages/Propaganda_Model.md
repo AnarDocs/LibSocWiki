@@ -4,9 +4,9 @@ permalink: /Propaganda_Model/
 ---
 
 The **Propaganda Model** is a concept in economics developed by [Noam
-Chomsky](Noam_Chomsky "wikilink") and [Edward S.
-Herman](Edward_S._Herman "wikilink") about how corporate organisation of
-the media creates systematic [biases](Media_Bias "wikilink").
+Chomsky](Noam_Chomsky.md "wikilink") and [Edward S.
+Herman](Edward_S._Herman.md "wikilink") about how corporate organisation of
+the media creates systematic [biases](Media_Bias.md "wikilink").
 
 ## Filters
 
@@ -32,5 +32,5 @@ censorship.
 ### 5. Fear
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")

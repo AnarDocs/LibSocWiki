@@ -4,15 +4,15 @@ permalink: /How_Nonviolence_Protects_the_State/
 ---
 
 **How Nonviolence Protects the State** is a 2005
-[book](List_of_Libertarian_Socialist_Media "wikilink") by [Peter
-Gelderloos](Peter_Gelderloos "wikilink") which challenges the perception
-that [strict nonviolence](Pacifism "wikilink") is the best way to
-[change the world](Revolution "wikilink"), as opposed to a [diversity of
-tactics](Diversity_of_Tactics "wikilink"). The book is also heavily
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") by [Peter
+Gelderloos](Peter_Gelderloos.md "wikilink") which challenges the perception
+that [strict nonviolence](Pacifism.md "wikilink") is the best way to
+[change the world](Revolution.md "wikilink"), as opposed to a [diversity of
+tactics](Diversity_of_Tactics.md "wikilink"). The book is also heavily
 critical of nonviolence for being "wrapped in authoritarian dynamics,
 and its results are harnessed to meet government objectives over popular
 objectives. It masks and even encourages
-[patriarchal](Patriarchy "wikilink") assumptions and power dynamics. Its
+[patriarchal](Patriarchy.md "wikilink") assumptions and power dynamics. Its
 strategic options invariably lead to dead ends. And its practitioners
 delude themselves on a number of key points."
 
@@ -29,32 +29,32 @@ these successes to be overstated and whitewashed by nonviolent
 activists.
 
 Indian independence only really occurred following the [Second World
-War](World_War_II "wikilink") and armed resistance by Jewish and Arab
+War](World_War_II.md "wikilink") and armed resistance by Jewish and Arab
 militants in Palestine. Furthermore, Indian revolutionaries such as
-[Bhagat Singh](Bhagat_Singh "wikilink") and [Chandra Shekhar
-Azad](Chandra_Shekhar_Azad "wikilink") frequently endorsed
+[Bhagat Singh](Bhagat_Singh.md "wikilink") and [Chandra Shekhar
+Azad](Chandra_Shekhar_Azad.md "wikilink") frequently endorsed
 assassinations and bombings while being hugely popular. Furthermore,
 India was never really granted independence, quickly being taken over by
-[multinational corporations](Corporation "wikilink") run by much of the
+[multinational corporations](Corporation.md "wikilink") run by much of the
 Global North, and Britain hand-picked the new government, whilst fanning
 the flames of ethnic hatred to destabilize the country.
 
-The [anti-nuclear movement](Anti-Nuclear_Movement "wikilink") was again
+The [anti-nuclear movement](Anti-Nuclear_Movement.md "wikilink") was again
 not exclusively nonviolent, with groups like [Direct
-Action](Direct_Action_(Canada) "wikilink") in
-[Canada](Canada "wikilink") and guerillas like [Marco
-Camenisch](Marco_Camenisch "wikilink") in Switzerland, and several major
+Action](Direct_Action_(Canada).md "wikilink") in
+[Canada](Canada.md "wikilink") and guerillas like [Marco
+Camenisch](Marco_Camenisch.md "wikilink") in Switzerland, and several major
 nuclear accidents forced governments to reconsider its use. The US
-[civil rights movement](Civil_Rights_Movement "wikilink") did not
+[civil rights movement](Civil_Rights_Movement.md "wikilink") did not
 entirely succeed, as people of colour still have to deal with lower
 wages, worse housing and healthcare in a form of de facto segregation.
 During the 1960s and 1970s, armed groups like the [Black
-Panthers](Black_Panthers "wikilink") and people like [Malcolm
-X](Malcolm_X "wikilink") had greater support than pacifists, a fact
+Panthers](Black_Panthers.md "wikilink") and people like [Malcolm
+X](Malcolm_X.md "wikilink") had greater support than pacifists, a fact
 which has been covered up by governments, schools and charities.
-Nonviolent movements by [MLK](Martin_Luther_King_Jr. "wikilink") had
+Nonviolent movements by [MLK](Martin_Luther_King_Jr..md "wikilink") had
 largely failed, and it was only during violent moments like the
-[Birmingham Uprising](1963_Birmingham_Uprising "wikilink"), when
+[Birmingham Uprising](1963_Birmingham_Uprising.md "wikilink"), when
 revolution looked like an imminent possibility, that the government
 began to legislate legal equality for African Americans.
 
@@ -69,13 +69,13 @@ of the 2004 Madrid Train Station bombings in Spain (although this was
 committed by a far-right group which must be fought).
 
 Pacifism's failure also flares up in [World War
-II](World_War_II "wikilink"), where the Jewish community in Germany and
+II](World_War_II.md "wikilink"), where the Jewish community in Germany and
 Poland pursued a strategy of nonviolent resistance to the Nazis from
 1933 and 1942 which completely failed to prevent the
-[Holocaust](Holocaust "wikilink"), which only began to slow down with
+[Holocaust](Holocaust.md "wikilink"), which only began to slow down with
 armed resistance (assassinations, bombing and arsons) like the
-[Auschwitz](Auschwitz#Uprising "wikilink") and [Warsaw
-Uprisings](1944_Warsaw_Uprising "wikilink"), which saved tens of
+[Auschwitz](Auschwitz#Uprising.md "wikilink") and [Warsaw
+Uprisings](1944_Warsaw_Uprising.md "wikilink"), which saved tens of
 thousands of people from their death.
 
 ### Nonviolence is Racist
@@ -93,9 +93,9 @@ their own path to liberation upholds white supremacist power structures.
 
 ### Nonviolence is Statist
 
-Nonviolence ensures a [state](State_(Polity) "wikilink") monopoly on
+Nonviolence ensures a [state](State_(Polity).md "wikilink") monopoly on
 violence. States - the centralized bureaucracies that protect
-[capitalism](capitalism "wikilink"); preserve a white supremacist,
+[capitalism](capitalism.md "wikilink"); preserve a white supremacist,
 patriarchal order; and implement imperialist expansion - survive by
 assuming the role of the sole legitimate purveyor of violent force
 within their territory. Any struggle against oppression necessitates a
@@ -115,32 +115,32 @@ history.
 Various examples of explicitly feminist groups, uprisings or groups with
 large female or queer membership which have rejected nonviolence and
 embraced armed struggle include the [Nigerian Oil Platform
-Occupations](Nigerian_Oil_Platform_Occupations "wikilink"),
-[First](First_Intifada "wikilink") and [Second
-Intifadas](Second_Intifada "wikilink") in Palestine, [Stonewall
-Rebellion](Stonewall_Uprising "wikilink"),
-[Vietcong](Vietcong "wikilink"), [Black Panther
-Party](Black_Panther_Party "wikilink"), [Mujeres
-Creando](Mujeres_Creando "wikilink"), the
-[Zapatistas](Zapatista_Army_of_National_Liberation "wikilink"),
-[Suffragettes](Suffragettes "wikilink"), [Weather
-Underground](Weather_Underground "wikilink"), [Direct
-Action](Direct_Action_(Canada) "wikilink"), [Wimmin’s Fire
-Brigade](Wimmin’s_Fire_Brigade "wikilink") and [Rote
-Zora](Rote_Zora "wikilink").
+Occupations](Nigerian_Oil_Platform_Occupations.md "wikilink"),
+[First](First_Intifada.md "wikilink") and [Second
+Intifadas](Second_Intifada.md "wikilink") in Palestine, [Stonewall
+Rebellion](Stonewall_Uprising.md "wikilink"),
+[Vietcong](Vietcong.md "wikilink"), [Black Panther
+Party](Black_Panther_Party.md "wikilink"), [Mujeres
+Creando](Mujeres_Creando.md "wikilink"), the
+[Zapatistas](Zapatista_Army_of_National_Liberation.md "wikilink"),
+[Suffragettes](Suffragettes.md "wikilink"), [Weather
+Underground](Weather_Underground.md "wikilink"), [Direct
+Action](Direct_Action_(Canada).md "wikilink"), [Wimmin’s Fire
+Brigade](Wimmin’s_Fire_Brigade.md "wikilink") and [Rote
+Zora](Rote_Zora.md "wikilink").
 
 Women and queer people who supported violent struggle include, [Laina
-Tanglewood](Laina_Tanglewood "wikilink"), [Sue
-Daniels](Sue_Daniels "wikilink"), [Elaine
-Brown](Elaine_Brown "wikilink"), [Kathleen
-Cleaver](Kathleen_Cleaver "wikilink"), [Frankye Malika
-Adams](Frankye_Malika_Adams "wikilink"), [Sylvia
-Rivera](Sylvia_Rivera "wikilink"), [Ann Hansen](Ann_Hansen "wikilink"),
-[Emma Goldman](Emma_Goldman "wikilink"), [Mollie
-Steimer](Mollie_Steimer "wikilink") and [Anna Mae
-Pictou-Aquash](Anna_Mae_Pictou-Aquash "wikilink"), one of 60 indigenous
+Tanglewood](Laina_Tanglewood.md "wikilink"), [Sue
+Daniels](Sue_Daniels.md "wikilink"), [Elaine
+Brown](Elaine_Brown.md "wikilink"), [Kathleen
+Cleaver](Kathleen_Cleaver.md "wikilink"), [Frankye Malika
+Adams](Frankye_Malika_Adams.md "wikilink"), [Sylvia
+Rivera](Sylvia_Rivera.md "wikilink"), [Ann Hansen](Ann_Hansen.md "wikilink"),
+[Emma Goldman](Emma_Goldman.md "wikilink"), [Mollie
+Steimer](Mollie_Steimer.md "wikilink") and [Anna Mae
+Pictou-Aquash](Anna_Mae_Pictou-Aquash.md "wikilink"), one of 60 indigenous
 american activists murdered by the
-[FBI's](Federal_Bureau_of_Investigation "wikilink") paramilitaries in
+[FBI's](Federal_Bureau_of_Investigation.md "wikilink") paramilitaries in
 the 1970s.
 
 ### Nonviolence is Tactically and Strategically Inferior
@@ -166,13 +166,13 @@ theories in the pacifist community.
 
 ## See Also
 
-- [The Failure of Nonviolence](The_Failure_of_Nonviolence "wikilink")
-- [Pacifism as Pathology](Pacifism_as_Pathology "wikilink")
+- [The Failure of Nonviolence](The_Failure_of_Nonviolence.md "wikilink")
+- [Pacifism as Pathology](Pacifism_as_Pathology.md "wikilink")
 
-[Category:Anarchism](Category:Anarchism "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink") [Category:Peter
-Gelderloos](Category:Peter_Gelderloos "wikilink")
-[Category:Pacifisim](Category:Pacifisim "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink") [Category:Peter
+Gelderloos](Category:Peter_Gelderloos.md "wikilink")
+[Category:Pacifisim](Category:Pacifisim.md "wikilink")

@@ -3,10 +3,10 @@ title: Red for Ed (Strike Wave)
 permalink: /Red_for_Ed_(Strike_Wave)/
 ---
 
-**Red for Ed** refers to a wave of [strikes](List_of_Strikes "wikilink")
+**Red for Ed** refers to a wave of [strikes](List_of_Strikes.md "wikilink")
 by educational workers, notably high school teachers, across the
-[US](United_States_of_America "wikilink") in [2018 and
-2019](Timeline_of_Libertarian_Socialism_in_North_America "wikilink").
+[US](United_States_of_America.md "wikilink") in [2018 and
+2019](Timeline_of_Libertarian_Socialism_in_North_America.md "wikilink").
 
 ## Background
 
@@ -151,19 +151,19 @@ On the 21st of May, 2018 a one-day strike was held by teachers.[^10]
 <references />
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Strikes](Category:Strikes "wikilink")
-[Category:Schools](Category:Schools "wikilink")
-[Category:USA](Category:USA "wikilink") [Category:North
-America](Category:North_America "wikilink")
-[Category:2010s](Category:2010s "wikilink")
-[Category:2018](Category:2018 "wikilink")
-[Category:2019](Category:2019 "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Strikes](Category:Strikes.md "wikilink")
+[Category:Schools](Category:Schools.md "wikilink")
+[Category:USA](Category:USA.md "wikilink") [Category:North
+America](Category:North_America.md "wikilink")
+[Category:2010s](Category:2010s.md "wikilink")
+[Category:2018](Category:2018.md "wikilink")
+[Category:2019](Category:2019.md "wikilink")
 
-[^1]: [Wikipedia](Wikipedia "wikilink") -
+[^1]: [Wikipedia](Wikipedia.md "wikilink") -
     <https://en.wikipedia.org/wiki/2018–19_education_workers'_strikes_in_the_United_States>
 
-[^2]: [www.wsws.org/en/articles/2018/02/28/stat-f28.html](www.wsws.org/en/articles/2018/02/28/stat-f28.html "wikilink")
+[^2]: [www.wsws.org/en/articles/2018/02/28/stat-f28.html](www.wsws.org/en/articles/2018/02/28/stat-f28.html.md "wikilink")
 
 [^3]:
 

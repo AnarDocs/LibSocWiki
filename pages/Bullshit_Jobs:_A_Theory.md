@@ -4,9 +4,9 @@ permalink: /Bullshit_Jobs:_A_Theory/
 ---
 
 **Bullshit Jobs: A Theory** is a
-[book](List_of_Libertarian_Socialist_Media "wikilink") written by [David
-Graeber](David_Graeber "wikilink") that outlines how between 30-40% of
-jobs within modern [capitalist](Capitalism "wikilink") economies are
+[book](List_of_Libertarian_Socialist_Media.md "wikilink") written by [David
+Graeber](David_Graeber.md "wikilink") that outlines how between 30-40% of
+jobs within modern [capitalist](Capitalism.md "wikilink") economies are
 'bullshit'. The book explores the causes, effects and solutions to this
 problem, with some interesting historical notes and philosophical
 questions thrown in.
@@ -51,8 +51,8 @@ work being performed.
   at theanarchistlibrary
 
 [Category:Libertarian
-Socialism](Category:Libertarian_Socialism "wikilink")
-[Category:Anarchism](Category:Anarchism "wikilink")
+Socialism](Category:Libertarian_Socialism.md "wikilink")
+[Category:Anarchism](Category:Anarchism.md "wikilink")
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink") [Category:David
-Graeber](Category:David_Graeber "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink") [Category:David
+Graeber](Category:David_Graeber.md "wikilink")

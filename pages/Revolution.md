@@ -8,10 +8,10 @@ functions, for better or for worse.
 
 ## See Also
 
-- [Revolutionary Wave](Revolutionary_Wave "wikilink")
+- [Revolutionary Wave](Revolutionary_Wave.md "wikilink")
 - [List of Libertarian Socialist
-  Revolutions](List_of_Libertarian_Socialist_Revolutions "wikilink")
+  Revolutions](List_of_Libertarian_Socialist_Revolutions.md "wikilink")
 
-[Category:Concepts](Category:Concepts "wikilink") [Category:Libertarian
-Socialist Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Revolutions](Category:Revolutions "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink") [Category:Libertarian
+Socialist Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Revolutions](Category:Revolutions.md "wikilink")

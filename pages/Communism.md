@@ -9,7 +9,7 @@ economy without money. It also refers to various movements aimed at
 establishing this society, most of which have failed.
 
 [Category:Libertarian Socialist
-Wiki](Category:Libertarian_Socialist_Wiki "wikilink")
-[Category:Communism](Category:Communism "wikilink")
-[Category:Ideologies](Category:Ideologies "wikilink")
-[Category:Concepts](Category:Concepts "wikilink")
+Wiki](Category:Libertarian_Socialist_Wiki.md "wikilink")
+[Category:Communism](Category:Communism.md "wikilink")
+[Category:Ideologies](Category:Ideologies.md "wikilink")
+[Category:Concepts](Category:Concepts.md "wikilink")
